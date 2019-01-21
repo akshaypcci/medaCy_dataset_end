@@ -8,7 +8,7 @@ This repository contains a versioned, medaCy compatible instance of the [Enginee
 
 # Information
 The Engineered Nanomedicine Database (END) contains 28 unique annotated entities associated with nano-particles. END is open-source and free to use to use provided appropriate citation
-is given to [Engineered Nanomedicine Database](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5644562/).
+is given to [Engineered Nanomedicine Database](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5644562/). No evaluation set is provided.
 
 | Dataset | Source | Annotations | Unique Documents |
 | :-------: | :----------------: |:-------------:| :----:

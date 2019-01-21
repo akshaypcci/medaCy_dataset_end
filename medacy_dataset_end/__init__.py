@@ -1,3 +1,3 @@
 from .medacy_dataset_end import load
-__version__ = '1.0.2'
+__version__ = '1.0.3'
 __authors__ = "Andriy Mulyar and Bridget T. McInnes"
