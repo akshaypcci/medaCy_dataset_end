@@ -1,4 +1,4 @@
-from pkg_resources import resource_listdir, resource_string, resource_filename, resource_listdir
+from pkg_resources import resource_listdir, resource_string, resource_filename, resource_listdir, resource_isdir
 from medacy.data import Dataset
 from os.path import join
 
@@ -34,7 +34,7 @@ def get_evaluation_dataset():
     :return: a medaCy Dataset object containing this Dataset's designated evaluation data.
     """
     # if evaluation is empty return None.
-    if not resource_listdir(package_name, join('data', 'evaluation')):
+    if not resource_isdir(package_name, join('data', 'evaluation')) or not resource_listdir(package_name, join('data', 'evaluation')):
         return None
 
     return Dataset(resource_filename(package_name, join('data', 'evaluation')))
