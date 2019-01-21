@@ -1,4 +1,4 @@
-from pkg_resources import resource_listdir, resource_string, resource_filename
+from pkg_resources import resource_listdir, resource_string, resource_filename, resource_listdir
 from medacy.data import Dataset
 from os.path import join
 
@@ -12,7 +12,7 @@ def load():
     :return: a medaCy Dataset object and a list of entities.
     """
 
-    entities = resource_string(package_name, join('data', 'END.types')).decode('utf-8').split("\n")
+    entities = resource_string(package_name, join('data','training','END.types')).decode('utf-8').split("\n")
 
     meta_data = {
         'entities': entities,
@@ -25,7 +25,7 @@ def get_training_dataset():
     """
     :return: a medaCy Dataset object containing this Dataset's designated training data.
     """
-    return Dataset(resource_filename(package_name, 'data/training'))
+    return Dataset(resource_filename(package_name, join('data', 'training')))
 
 def get_evaluation_dataset():
     """
@@ -33,4 +33,8 @@ def get_evaluation_dataset():
 
     :return: a medaCy Dataset object containing this Dataset's designated evaluation data.
     """
-    return Dataset(resource_filename(package_name, 'data/evaluation'))
+    # if evaluation is empty return None.
+    if not resource_listdir(package_name, join('data', 'evaluation')):
+        return None
+
+    return Dataset(resource_filename(package_name, join('data', 'evaluation')))
