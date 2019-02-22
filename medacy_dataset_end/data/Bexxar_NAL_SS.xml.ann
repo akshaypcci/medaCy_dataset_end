@@ -34,424 +34,424 @@ T65	tradename 2942 2942
 T67	nanoparticle 2942 2966	Iodine I 131 tositumomab
 T69	activeingredient 2999 3009	Iodine-131
 T71	activeingredient 3078 3089	tositumomab
-T73	tradename 3510 3516	BEXXAR
-T75	adversereaction 4141 4152	neutropenia
-T77	adversereaction 4154 4170	thrombocytopenia
-T79	adversereaction 4172 4178	anemia
-T81	adversereaction 4180 4190	infections
-T83	adversereaction 4192 4210	infusion reactions
-T85	adversereaction 4212 4220	asthenia
-T87	adversereaction 4222 4227	fever
-T89	adversereaction 4233 4240	nausea.
-T91	tradename 4294 4294	
-T93	company 4294 4309	GlaxoSmithKline
-T95	tradename 6638 6644	BEXXAR
-T97	tradename 6781 6787	BEXXAR
-T99	tradename 6960 6966	BEXXAR
-T101	tradename 7112 7118	BEXXAR
-T103	tradename 7406 7412	BEXXAR
-T105	tradename 7542 7548	BEXXAR
-T107	tradename 7840 7846	BEXXAR
-T109	indication 7976 7998	Non-Hodgkin's Lymphoma
-T111	tradename 8004 8010	BEXXAR
-T113	nanoparticle 8033 8044	tositumomab
-T115	activeingredient 8049 8061	iodine I 131
-T117	nanoparticle 8062 8074	tositumomab)
-T119	indication 8199 8221	non-Hodgkin's lymphoma
-T121	indication 8322 8345	non-Hodgkin's lymphoma.
-T123	tradename 8390 8396	BEXXAR
-T125	tradename 8543 8549	BEXXAR
-T127	tradename 8638 8644	BEXXAR
-T129	tradename 8771 8777	BEXXAR
-T131	tradename 8830 8836	BEXXAR
-T133	indication 8933 8956	non-Hodgkin's lymphoma.
-T135	tradename 8992 8998	BEXXAR
-T137	nanoparticle 9054 9065	tositumomab
-T139	activeingredient 9073 9085	iodine I 131
-T141	nanoparticle 9086 9098	tositumomab)
-T143	nanoparticle 9464 9475	Tositumomab
-T145	dose 9476 9482	450 mg
-T147	routeofadministration 9486 9497	intravenous
-T149	nanoparticle 9514 9531	I-131 tositumomab
-T151	dose 9533 9544	5 mCi I-131
-T153	routeofadministration 9567 9578	intravenous
-T155	nanoparticle 9665 9676	Tositumomab
-T157	dose 9677 9683	450 mg
-T159	routeofadministration 9687 9698	intravenous
-T161	nanoparticle 9716 9733	I-131 tositumomab
-T163	dose 9735 9741	35 mg)
-T165	routeofadministration 9745 9756	intravenous
-T167	activeingredient 9771 9781	iodine-131
-T169	activeingredient 10077 10087	Iodine-131
-T171	activeingredient 10247 10257	Iodine-131
-T173	nanoparticle 10357 10368	Tositumomab
-T175	nanoparticle 10555 10566	tositumomab
-T177	dose 10588 10594	450 mg
-T179	nanoparticle 10595 10606	tositumomab
-T181	nanoparticle 10808 10819	tositumomab
-T183	nanoparticle 10937 10948	tositumomab
-T185	nanoparticle 11077 11094	I-131 Tositumomab
-T187	nanoparticle 11349 11366	I-131 tositumomab
-T189	nanoparticle 11457 11474	I-131 tositumomab
-T191	nanoparticle 11598 11615	I-131 tositumomab
-T193	nanoparticle 11816 11833	I-131 tositumomab
-T195	activeingredient 12094 12105	Iodine-131.
-T197	nanoparticle 12315 12332	I-131 tositumomab
-T199	nanoparticle 12438 12455	I-131 tositumomab
-T201	nanoparticle 12589 12600	tositumomab
-T203	nanoparticle 12696 12713	I-131 tositumomab
-T205	nanoparticle 12831 12842	tositumomab
-T207	nanoparticle 12920 12931	tositumomab
-T209	tradename 13943 13944	 
-T211	nanoparticle 13944 13955	Tositumomab
-T213	dose 14106 14112	450 mg
-T215	nanoparticle 14113 14124	tositumomab
-T217	routeofadministration 14158 14169	intravenous
-T219	tradename 14622 14623	 
-T221	nanoparticle 14623 14634	Tositumomab
-T223	activeingredient 14684 14689	I-131
-T225	nanoparticle 14690 14701	tositumomab
-T227	activeingredient 14859 14864	I-131
-T229	nanoparticle 14865 14876	tositumomab
-T231	activeingredient 14935 14940	I-131
-T233	nanoparticle 14941 14952	tositumomab
-T235	nanoparticle 15010 15021	tositumomab
-T237	activeingredient 15346 15351	I-131
-T239	nanoparticle 15352 15363	tositumomab
-T241	activeingredient 15928 15933	I-131
-T243	nanoparticle 15934 15945	tositumomab
-T245	activeingredient 16012 16024	Iodine I-131
-T247	nanoparticle 16025 16036	tositumomab
-T249	activeingredient 16276 16281	I-131
-T251	nanoparticle 16283 16294	tositumomab
-T253	compan 16367 16382	GlaxoSmithKline
-T255	nanoparticle 16581 16592	tositumomab
-T257	company 18501 18516	GlaxoSmithKline
-T259	tradename 18517 18523	BEXXAR
-T261	company 18688 18703	GlaxoSmithKline
-T263	activeingredient 18807 18817	Iodine-131
-T265	tradename 18928 18928	
-T267	nanoparticle 18928 18939	Tositumomab
-T269	dose 18943 18949	450-mg
-T271	nanoparticle 18958 18969	tositumomab
-T273	tradename 19053 19054	 
-T275	nanoparticle 19055 19072	I-131 tositumomab
-T277	nanoparticle 19290 19307	I-131 tositumomab
-T279	nanoparticle 19397 19414	I-131 tositumomab
-T281	activeingredient 19536 19541	I-131
-T283	nanoparticle 19542 19553	tositumomab
-T285	activeingredient 19721 19726	I-131
-T287	nanoparticle 19727 19738	tositumomab
-T289	activeingredient 19906 19911	I-131
-T291	nanoparticle 19912 19923	tositumomab
-T293	activeingredient 20181 20192	Iodine-131.
-T295	activeingredient 20436 20441	I-131
-T297	nanoparticle 20442 20453	tositumomab
-T299	activeingredient 20566 20571	I-131
-T301	nanoparticle 20572 20583	tositumomab
-T303	activeingredient 20632 20637	I-131
-T305	nanoparticle 20642 20653	tositumomab
-T307	nanoparticle 20745 20756	tositumomab
-T309	activeingredient 20840 20845	I-131
-T311	nanoparticle 20846 20857	tositumomab
-T313	nanoparticle 20955 20966	tositumomab
-T315	nanoparticle 21026 21037	tositumomab
-T317	nanoparticle 21133 21144	tositumomab
-T319	tradename 21691 21691	
-T321	nanoparticle 21691 21702	Tositumomab
-T323	dose 21841 21847	450 mg
-T325	nanoparticle 21848 21859	tositumomab
-T327	routeofadministration 21893 21904	intravenous
-T329	tradename 22344 22345	 
-T331	activeingredient 22345 22350	I-131
-T333	nanoparticle 22351 22362	Tositumomab
-T335	activeingredient 22409 22414	I-131
-T337	nanoparticle 22415 22426	tositumomab
-T339	activeingredient 22578 22583	I-131
-T341	nanoparticle 22584 22595	tositumomab
-T343	activeingredient 22650 22655	I-131
-T345	nanoparticle 22656 22667	tositumomab
-T347	nanoparticle 22725 22736	tositumomab
-T349	activeingredient 23054 23059	I-131
-T351	nanoparticle 23060 23071	tositumomab
-T353	activeingredient 23636 23641	I-131
-T355	nanoparticle 23642 23653	tositumomab
-T357	activeingredient 23723 23735	Iodine I-131
-T359	nanoparticle 23736 23747	tositumomab
-T361	activeingredient 23934 23939	I-131
-T363	nanoparticle 23940 23951	tositumomab
-T365	tradename 24228 24234	BEXXAR
-T367	tradename 24338 24344	BEXXAR
-T369	tradename 24385 24391	BEXXAR
-T371	tradename 25185 25186	 
-T373	nanoparticle 25186 25197	Tositumomab
-T375	nanoparticle 25247 25258	Tositumomab
-T377	nanoparticl 25313 25324	tositumomab
-T379	activeingredient 25355 25365	Iodine-131
-T381	nanoparticle 25468 25479	tositumomab
-T383	nanoparticle 25568 25579	tositumomab
-T385	activeingredient 25612 25622	Iodine-131
-T387	nanoparticle 25722 25733	tositumomab
-T389	tradename 25933 25939	BEXXAR
-T391	tradename 26479 26485	BEXXAR
-T393	tradename 26609 26615	BEXXAR
-T395	tradename 26750 26756	BEXXAR
-T397	tradename 27151 27157	BEXXAR
-T399	tradename 27372 27378	BEXXAR
-T401	activeingredient 27408 27419	Iodine-131.
-T403	tradename 27582 27588	BEXXAR
-T405	tradename 27778 27784	BEXXAR
-T407	tradename 27932 27938	BEXXAR
-T409	tradename 27994 28000	BEXXAR
-T411	tradename 28194 28200	BEXXAR
-T413	tradename 28555 28561	BEXXAR
-T415	tradename 28787 28793	BEXXAR
-T417	tradename 28891 28897	BEXXAR
-T419	tradename 29463 29469	BEXXAR
-T421	tradename 29682 29688	BEXXAR
-T423	tradename 29799 29805	BEXXAR
-T425	tradename 30060 30066	BEXXAR
-T427	tradename 30314 30320	BEXXAR
-T429	tradename 30394 30400	BEXXAR
-T431	activeingredient 30488 30507	radiolabeled iodine
-T433	nanoparticle 30656 30674	I-131 tositumomab.
-T435	tradename 30851 30857	BEXXAR
-T437	tradename 30928 30934	BEXXAR
-T439	tradename 31118 31128	BEXXAR.  
-T441	tradename 31255 31255	
-T443	adversereaction 31255 31281	Serious Allergic Reactions
-T445	adversereaction 31293 31304	Anaphylaxis
-T447	tradename 31357 31357	
-T449	adversereaction 31357 31388	Prolonged and Severe Cytopenias
-T451	tradename 31488 31488	
-T453	adversereaction 31488 31502	Hypothyroidism
-T455	tradename 31602 31608	BEXXAR
-T457	adversereaction 31675 31686	neutropenia
-T459	adversereaction 31688 31704	thrombocytopenia
-T461	adversereaction 31706 31712	anemia
-T463	adversereaction 31715 31725	infections
-T465	adversereaction 31737 31746	pneumonia
-T467	adversereaction 31748 31758	bacteremia
-T469	adversereaction 31760 31770	septicemia
-T471	adversereaction 31772 31782	bronchitis
-T473	adversereaction 31788 31804	skin infections)
-T475	adversereaction 31807 31825	infusion reactions
-T477	adversereaction 31827 31835	asthenia
-T479	adversereaction 31837 31842	fever
-T481	adversereaction 31848 31854	nausea
-T483	tradename 31982 31988	BEXXAR
-T485	adversereaction 32014 32045	severe and prolonged cytopenias
-T487	adversereaction 32047 32057	infections
-T489	adversereaction 32069 32078	pneumonia
-T491	adversereaction 32080 32090	bacteremia
-T493	adversereaction 32092 32102	septicemia
-T495	adversereaction 32104 32114	bronchitis
-T497	adversereaction 32120 32136	skin infections)
-T499	adversereaction 32138 32164	serious allergic reactions
-T501	adversereaction 32176 32188	bronchospasm
-T503	adversereaction 32193 32204	angioedema)
-T505	adversereaction 32206 32224	infusion reactions
-T507	adversereaction 32230 32248	secondary leukemia
-T509	adversereaction 32254 32278	myelodysplastic syndrome
-T511	tradename 32700 32706	BEXXAR
-T513	indication 32748 32770	non-Hodgkin's lymphoma
-T515	tradename 33989 33995	BEXXAR
-T517	tradename 34115 34115	
-T519	adversereaction 34115 34123	Asthenia
-T521	tradename 34131 34131	
-T523	adversereaction 34131 34136	Fever
-T525	tradename 34146 34146	
-T527	adversereaction 34146 34155	Infection
-T529	tradename 34168 34168	
-T531	adversereaction 34168 34172	Pain
-T533	tradename 34181 34181	
-T535	adversereaction 34181 34187	Chills
-T537	tradename 34196 34196	
-T539	adversereaction 34196 34204	Headache
-T541	tradename 34214 34214	
-T543	adversereaction 34214 34228	Abdominal pain
-T545	tradename 34238 34238	
-T547	adversereaction 34238 34247	Back pain
-T549	tradename 34256 34256	
-T551	adversereaction 34256 34266	Chest pain
-T553	tradename 34275 34275	
-T555	adversereaction 34275 34284	Neck pain
-T557	tradename 34323 34323	
-T559	adversereaction 34323 34334	Hypotension
-T561	tradename 34342 34342	
-T563	adversereaction 34342 34356	Vasodilatation
-T565	tradename 34390 34390	
-T567	adversereaction 34390 34396	Nausea
-T569	tradename 34406 34406	
-T571	adversereaction 34406 34414	Vomiting
-T573	tradename 34423 34423	
-T575	adversereaction 34423 34431	Anorexia
-T577	tradename 34440 34440	
-T579	adversereaction 34440 34448	Diarrhea
-T581	tradename 34457 34457	
-T583	adversereaction 34457 34469	Constipation
-T585	tradename 34477 34477	
-T587	adversereaction 34477 34486	Dyspepsia
-T589	tradename 34523 34523	
-T591	adversereaction 34523 34537	Hypothyroidism
-T593	tradename 34545 34546	 
-T595	adversereaction 34546 34581	Metabolic and Nutritional Disorders
-T597	tradename 34590 34590	
-T599	adversereaction 34590 34606	Peripheral edema
-T601	tradename 34615 34615	
-T603	adversereaction 34615 34626	Weight loss
-T605	tradename 34670 34670	
-T607	adversereaction 34670 34677	Myalgia
-T609	tradename 34691 34691	
-T611	adversereaction 34691 34704	Arthralgia 10
-T613	tradename 34734 34734	
-T615	adversereaction 34734 34743	Dizziness
-T617	tradename 34752 34752	
-T619	adversereaction 34752 34762	Somnolence
-T621	tradename 34799 34799	
-T623	adversereaction 34799 34814	Cough increased
-T625	tradename 34823 34823	
-T627	adversereaction 34823 34834	Pharyngitis
-T629	tradename 34843 34843	
-T631	adversereaction 34843 34850	Dyspnea
-T633	tradename 34859 34859	
-T635	adversereaction 34859 34867	Rhinitis
-T637	tradename 34877 34877	
-T639	adversereaction 34877 34886	Pneumonia
-T641	tradename 34923 34923	
-T643	adversereaction 34923 34927	Rash
-T645	tradename 34940 34940	
-T647	adversereaction 34940 34948	Pruritus
-T649	tradename 34957 34957	
-T651	adversereaction 34957 34965	Sweating
-T653	tradename 36480 36481	 
-T655	adversereaction 36481 36513	Prolonged and Severe Cytopenias:
-T657	tradename 36874 36875	 
-T659	adversereaction 36875 36886	Infections:
-T661	adversereaction 37022 37031	pneumonia
-T663	adversereaction 37033 37043	bacteremia
-T665	adversereaction 37046 37056	septicemia
-T667	adversereaction 37058 37068	bronchitis
-T669	adversereaction 37074 37130	skin infections. Allergic (Hypersensitivity) Reactions:
-T671	adversereaction 37218 37235	allergic reaction
-T673	adversereaction 37237 37249	facial edema
-T675	adversereaction 37251 37282	injection site hypersensitivity
-T677	adversereaction 37285 37306	anaphylactic reaction
-T679	adversereaction 37308 37319	laryngismus
-T681	adversereaction 37325 37340	serum sickness.
-T683	adversereaction 37378 37396	Infusion reactions
-T685	adversereaction 37407 37412	fever
-T687	adversereaction 37414 37420	rigors
-T689	adversereaction 37424 37430	chills
-T691	adversereaction 37433 37441	sweating
-T693	adversereaction 37443 37454	hypotension
-T695	adversereaction 37456 37463	dyspnea
-T697	adversereaction 37465 37477	bronchospasm
-T699	adversereaction 37483 37489	nausea
-T701	tradename 37760 37761	 
-T703	adversereaction 37761 37785	Myelodysplastic Syndrome
-T705	adversereaction 37792 37811	Secondary Leukemia:
-T707	nanoparticle 39693 39705	tositumomab.
-T709	indication 40248 40270	Non-Hodgkin's Lymphoma
-T711	tradename 40285 40291	BEXXAR
-T713	indication 40612 40634	non-Hodgkin's lymphoma
-T715	tradenam 40652 40658	BEXXAR
-T717	tradename 41090 41096	BEXXAR
-T719	tradename 41285 41291	BEXXAR
-T721	nanoparticle 41758 41769	tositumomab
-T723	nanoparticle 41773 41795	I-131 499 tositumomab.
-T725	tradename 41933 41939	BEXXAR
-T727	tradename 42060 42066	BEXXAR
-T729	activeingredient 42274 42279	I-131
-T731	tradename 42354 42360	BEXXAR
-T733	tradename 42471 42477	BEXXAR
-T735	nanoparticle 42672 42683	tositumomab
-T737	tradename 42934 42940	BEXXAR
-T739	tradename 43078 43084	BEXXAR
-T741	tradename 43177 43183	BEXXAR
-T743	tradename 43291 43297	BEXXAR
-T745	tradename 43493 43499	BEXXAR
-T747	tradename 43809 43815	BEXXAR
-T749	tradename 44001 44007	BEXXAR
-T751	tradename 44255 44261	BEXXAR
-T753	tradename 44341 44347	BEXXAR
-T755	activeingredient 44488 44493	I-131
-T757	tradename 44499 44505	BEXXAR
-T759	activeingredient 44715 44720	I-131
-T761	tradename 44738 44744	BEXXAR
-T763	tradename 45027 45033	BEXXAR
-T765	tradename 45078 45084	BEXXAR
-T767	nanoparticle 45144 45155	tositumomab
-T769	nanoparticle 45199 45217	I-131 tositumomab.
-T771	tradename 45219 45219	
-T773	nanoparticle 45219 45230	Tositumomab
-T775	nanoparticle 45377 45388	tositumomab
-T777	molecularweight 45392 45399	150 kD.
-T779	tradename 45402 45402	
-T781	nanoparticle 45402 45413	Tositumomab
-T783	routeofadministration 45560 45571	intravenous
-T785	inactiveingredient 45623 45630	maltose
-T787	inactiveingredient 45642 45657	sodium chloride
-T789	inactiveingredient 45667 45676	phosphate
-T791	inactiveingredient 45686 45705	potassium hydroxide
-T793	inactiveingredient 45711 45716	Water
-T795	nanopartile 45768 45785	I-131 tositumomab
-T797	nanoparticle 45789 45800	tositumomab
-T799	activeingredient 45822 45833	Iodine-131.
-T801	nanoparticle 45834 45851	I-131 tositumomab
-T803	nanoparticle 45932 45949	I-131 tositumomab
-T805	inactiveingredient 45976 45989	ascorbic acid
-T807	inactiveingredient 46004 46011	maltose
-T809	inactiveingredient 46047 46054	maltose
-T811	inactiveingredient 46094 46102	povidone
-T813	inactiveingredient 46125 46145	sodium 568 chloride.
-T815	activeingredient 46225 46247	Iodine-131: Iodine-131
-T817	activeingredient 46502 46512	Iodine-131
-T819	activeingredient 46713 46723	Iodine-131
-T821	activeingredient 46889 46900	Iodine-131:
-T823	tradename 47146 47146	
-T825	activeingredient 47146 47157	Tositumomab
-T827	indication 47363 47387	non-Hodgkin's lymphomas.
-T829	tradename 47498 47504	BEXXAR
-T831	tradename 47976 47982	BEXXAR
-T833	tradename 48653 48659	BEXXAR
-T835	nanoparticle 48780 48797	I-131 tositumomab
-T837	dose 48816 48822	475-mg
-T839	dose 49003 49009	485 mg
-T841	nanoparticle 49013 49024	tositumomab
-T843	indication 49046 49069	non-Hodgkin's lymphomas
-T845	clearance 49074 49084	68.2 mg/hr
-T847	clearance 49093 49117	30.2 to 611 260.8 mg/hr)
-T849	indication 49772 49794	non-Hodgkin's lymphoma
-T851	eliminationhalflife 49799 49807	67 hours
-T853	eliminationhalflife 49816 49832	28 to 115 hours)
-T855	activeingredient 49851 49861	Iodine-131
-T857	tradename 50278 50284	BEXXAR
-T859	activeingredient 50377 50389	Iodine I-131
-T861	tradename 50453 50459	BEXXAR
-T863	tradename 50619 50625	BEXXAR
-T865	tradename 51945 51951	BEXXAR
-T867	indication 52601 52623	non-Hodgkin's lymphoma
-T869	tradename 52900 52906	BEXXAR
-T871	nanoparticle 53512 53523	tositumomab
-T873	nanoparticl 53651 53669	I-131 tositumomab
-T875	nanoparticle 53952 53963	tositumomab
-T877	nanoparticle 54111 54130	677 131 tositumomab
-T879	tradename 54258 54258	
-T881	nanoparticle 54258 54270	Tositumomab:
-T883	nanoparticle 54312 54323	tositumomab
-T885	nanopartil 54444 54455	tositumomab
-T887	tradename 54594 54594	
-T889	nanoparticle 54594 54612	I-131 tositumomab:
-T891	nanoparticle 54628 54645	I-131 tositumomab
-T893	nanoparticle 54795 54812	I-131 tositumomab
-T895	tradename 54921 54921	
-T897	nanoparticle 54921 54938	I-131 tositumomab
-T899	tradename 55938 55944	BEXXAR
-T901	tradename 56181 56187	BEXXAR
-T903	tradename 56569 56575	BEXXAR
-T905	tradename 56681 56687	BEXXAR
-T907	tradename 56756 56762	BEXXAR
-T909	company 56792 56808	GlaxoSmithKline.
-T911	company 56884 56899	GlaxoSmithKline
-T913	company 56971 56987	GlaxoSmithKline.
+T73	tradename 3496 3502	BEXXAR
+T75	adversereaction 4127 4138	neutropenia
+T77	adversereaction 4140 4156	thrombocytopenia
+T79	adversereaction 4158 4164	anemia
+T81	adversereaction 4166 4176	infections
+T83	adversereaction 4178 4196	infusion reactions
+T85	adversereaction 4198 4206	asthenia
+T87	adversereaction 4208 4213	fever
+T89	adversereaction 4219 4226	nausea.
+T91	tradename 4280 4280	
+T93	company 4280 4295	GlaxoSmithKline
+T95	tradename 6623 6629	BEXXAR
+T97	tradename 6766 6772	BEXXAR
+T99	tradename 6945 6951	BEXXAR
+T101	tradename 7097 7103	BEXXAR
+T103	tradename 7391 7397	BEXXAR
+T105	tradename 7527 7533	BEXXAR
+T107	tradename 7825 7831	BEXXAR
+T109	indication 7961 7983	Non-Hodgkin's Lymphoma
+T111	tradename 7989 7995	BEXXAR
+T113	nanoparticle 8018 8029	tositumomab
+T115	activeingredient 8034 8046	iodine I 131
+T117	nanoparticle 8047 8059	tositumomab)
+T119	indication 8184 8206	non-Hodgkin's lymphoma
+T121	indication 8307 8330	non-Hodgkin's lymphoma.
+T123	tradename 8375 8381	BEXXAR
+T125	tradename 8528 8534	BEXXAR
+T127	tradename 8623 8629	BEXXAR
+T129	tradename 8756 8762	BEXXAR
+T131	tradename 8815 8821	BEXXAR
+T133	indication 8918 8941	non-Hodgkin's lymphoma.
+T135	tradename 8977 8983	BEXXAR
+T137	nanoparticle 9039 9050	tositumomab
+T139	activeingredient 9058 9070	iodine I 131
+T141	nanoparticle 9071 9083	tositumomab)
+T143	nanoparticle 9449 9460	Tositumomab
+T145	dose 9461 9467	450 mg
+T147	routeofadministration 9471 9482	intravenous
+T149	nanoparticle 9499 9516	I-131 tositumomab
+T151	dose 9518 9529	5 mCi I-131
+T153	routeofadministration 9552 9563	intravenous
+T155	nanoparticle 9650 9661	Tositumomab
+T157	dose 9662 9668	450 mg
+T159	routeofadministration 9672 9683	intravenous
+T161	nanoparticle 9701 9718	I-131 tositumomab
+T163	dose 9720 9726	35 mg)
+T165	routeofadministration 9730 9741	intravenous
+T167	activeingredient 9756 9766	iodine-131
+T169	activeingredient 10062 10072	Iodine-131
+T171	activeingredient 10232 10242	Iodine-131
+T173	nanoparticle 10342 10353	Tositumomab
+T175	nanoparticle 10540 10551	tositumomab
+T177	dose 10573 10579	450 mg
+T179	nanoparticle 10580 10591	tositumomab
+T181	nanoparticle 10793 10804	tositumomab
+T183	nanoparticle 10922 10933	tositumomab
+T185	nanoparticle 11062 11079	I-131 Tositumomab
+T187	nanoparticle 11334 11351	I-131 tositumomab
+T189	nanoparticle 11442 11459	I-131 tositumomab
+T191	nanoparticle 11583 11600	I-131 tositumomab
+T193	nanoparticle 11801 11818	I-131 tositumomab
+T195	activeingredient 12079 12090	Iodine-131.
+T197	nanoparticle 12300 12317	I-131 tositumomab
+T199	nanoparticle 12423 12440	I-131 tositumomab
+T201	nanoparticle 12566 12577	tositumomab
+T203	nanoparticle 12673 12690	I-131 tositumomab
+T205	nanoparticle 12808 12819	tositumomab
+T207	nanoparticle 12897 12908	tositumomab
+T209	tradename 13920 13921	 
+T211	nanoparticle 13921 13932	Tositumomab
+T213	dose 14083 14089	450 mg
+T215	nanoparticle 14090 14101	tositumomab
+T217	routeofadministration 14135 14146	intravenous
+T219	tradename 14599 14600	 
+T221	nanoparticle 14600 14611	Tositumomab
+T223	activeingredient 14661 14666	I-131
+T225	nanoparticle 14667 14678	tositumomab
+T227	activeingredient 14836 14841	I-131
+T229	nanoparticle 14842 14853	tositumomab
+T231	activeingredient 14912 14917	I-131
+T233	nanoparticle 14918 14929	tositumomab
+T235	nanoparticle 14987 14998	tositumomab
+T237	activeingredient 15323 15328	I-131
+T239	nanoparticle 15329 15340	tositumomab
+T241	activeingredient 15905 15910	I-131
+T243	nanoparticle 15911 15922	tositumomab
+T245	activeingredient 15989 16001	Iodine I-131
+T247	nanoparticle 16002 16013	tositumomab
+T249	activeingredient 16253 16258	I-131
+T251	nanoparticle 16260 16271	tositumomab
+T253	company 16344 16359	GlaxoSmithKline
+T255	nanoparticle 16558 16569	tositumomab
+T257	company 18471 18486	GlaxoSmithKline
+T259	tradename 18487 18493	BEXXAR
+T261	company 18658 18673	GlaxoSmithKline
+T263	activeingredient 18777 18787	Iodine-131
+T265	tradename 18898 18898	
+T267	nanoparticle 18898 18909	Tositumomab
+T269	dose 18913 18919	450-mg
+T271	nanoparticle 18928 18939	tositumomab
+T273	tradename 19023 19024	 
+T275	nanoparticle 19025 19042	I-131 tositumomab
+T277	nanoparticle 19260 19277	I-131 tositumomab
+T279	nanoparticle 19367 19384	I-131 tositumomab
+T281	activeingredient 19506 19511	I-131
+T283	nanoparticle 19512 19523	tositumomab
+T285	activeingredient 19691 19696	I-131
+T287	nanoparticle 19697 19708	tositumomab
+T289	activeingredient 19876 19881	I-131
+T291	nanoparticle 19882 19893	tositumomab
+T293	activeingredient 20151 20162	Iodine-131.
+T295	activeingredient 20406 20411	I-131
+T297	nanoparticle 20412 20423	tositumomab
+T299	activeingredient 20536 20541	I-131
+T301	nanoparticle 20542 20553	tositumomab
+T303	activeingredient 20602 20607	I-131
+T305	nanoparticle 20612 20623	tositumomab
+T307	nanoparticle 20715 20726	tositumomab
+T309	activeingredient 20810 20815	I-131
+T311	nanoparticle 20816 20827	tositumomab
+T313	nanoparticle 20925 20936	tositumomab
+T315	nanoparticle 20996 21007	tositumomab
+T317	nanoparticle 21103 21114	tositumomab
+T319	tradename 21661 21661	
+T321	nanoparticle 21661 21672	Tositumomab
+T323	dose 21811 21817	450 mg
+T325	nanoparticle 21818 21829	tositumomab
+T327	routeofadministration 21863 21874	intravenous
+T329	tradename 22314 22315	 
+T331	activeingredient 22315 22320	I-131
+T333	nanoparticle 22321 22332	Tositumomab
+T335	activeingredient 22379 22384	I-131
+T337	nanoparticle 22385 22396	tositumomab
+T339	activeingredient 22548 22553	I-131
+T341	nanoparticle 22554 22565	tositumomab
+T343	activeingredient 22620 22625	I-131
+T345	nanoparticle 22626 22637	tositumomab
+T347	nanoparticle 22695 22706	tositumomab
+T349	activeingredient 23024 23029	I-131
+T351	nanoparticle 23030 23041	tositumomab
+T353	activeingredient 23606 23611	I-131
+T355	nanoparticle 23612 23623	tositumomab
+T357	activeingredient 23693 23705	Iodine I-131
+T359	nanoparticle 23706 23717	tositumomab
+T361	activeingredient 23904 23909	I-131
+T363	nanoparticle 23910 23921	tositumomab
+T365	tradename 24198 24204	BEXXAR
+T367	tradename 24308 24314	BEXXAR
+T369	tradename 24355 24361	BEXXAR
+T371	tradename 25155 25156	 
+T373	nanoparticle 25156 25167	Tositumomab
+T375	nanoparticle 25217 25228	Tositumomab
+T377	nanoparticle 25283 25294	tositumomab
+T379	activeingredient 25325 25335	Iodine-131
+T381	nanoparticle 25438 25449	tositumomab
+T383	nanoparticle 25538 25549	tositumomab
+T385	activeingredient 25582 25592	Iodine-131
+T387	nanoparticle 25692 25703	tositumomab
+T389	tradename 25903 25909	BEXXAR
+T391	tradename 26449 26455	BEXXAR
+T393	tradename 26579 26585	BEXXAR
+T395	tradename 26720 26726	BEXXAR
+T397	tradename 27121 27127	BEXXAR
+T399	tradename 27342 27348	BEXXAR
+T401	activeingredient 27378 27389	Iodine-131.
+T403	tradename 27552 27558	BEXXAR
+T405	tradename 27748 27754	BEXXAR
+T407	tradename 27902 27908	BEXXAR
+T409	tradename 27964 27970	BEXXAR
+T411	tradename 28164 28170	BEXXAR
+T413	tradename 28525 28531	BEXXAR
+T415	tradename 28757 28763	BEXXAR
+T417	tradename 28861 28867	BEXXAR
+T419	tradename 29433 29439	BEXXAR
+T421	tradename 29652 29658	BEXXAR
+T423	tradename 29769 29775	BEXXAR
+T425	tradename 30030 30036	BEXXAR
+T427	tradename 30284 30290	BEXXAR
+T429	tradename 30364 30370	BEXXAR
+T431	activeingredient 30458 30477	radiolabeled iodine
+T433	nanoparticle 30626 30644	I-131 tositumomab.
+T435	tradename 30821 30827	BEXXAR
+T437	tradename 30898 30904	BEXXAR
+T439	tradename 31088 31098	BEXXAR.  
+T441	tradename 31225 31225	
+T443	adversereaction 31225 31251	Serious Allergic Reactions
+T445	adversereaction 31263 31274	Anaphylaxis
+T447	tradename 31327 31327	
+T449	adversereaction 31327 31358	Prolonged and Severe Cytopenias
+T451	tradename 31458 31458	
+T453	adversereaction 31458 31472	Hypothyroidism
+T455	tradename 31572 31578	BEXXAR
+T457	adversereaction 31645 31656	neutropenia
+T459	adversereaction 31658 31674	thrombocytopenia
+T461	adversereaction 31676 31682	anemia
+T463	adversereaction 31685 31695	infections
+T465	adversereaction 31707 31716	pneumonia
+T467	adversereaction 31718 31728	bacteremia
+T469	adversereaction 31730 31740	septicemia
+T471	adversereaction 31742 31752	bronchitis
+T473	adversereaction 31758 31774	skin infections)
+T475	adversereaction 31777 31795	infusion reactions
+T477	adversereaction 31797 31805	asthenia
+T479	adversereaction 31807 31812	fever
+T481	adversereaction 31818 31824	nausea
+T483	tradename 31952 31958	BEXXAR
+T485	adversereaction 31984 32015	severe and prolonged cytopenias
+T487	adversereaction 32017 32027	infections
+T489	adversereaction 32039 32048	pneumonia
+T491	adversereaction 32050 32060	bacteremia
+T493	adversereaction 32062 32072	septicemia
+T495	adversereaction 32074 32084	bronchitis
+T497	adversereaction 32090 32106	skin infections)
+T499	adversereaction 32108 32134	serious allergic reactions
+T501	adversereaction 32146 32158	bronchospasm
+T503	adversereaction 32163 32174	angioedema)
+T505	adversereaction 32176 32194	infusion reactions
+T507	adversereaction 32200 32218	secondary leukemia
+T509	adversereaction 32224 32248	myelodysplastic syndrome
+T511	tradename 32670 32676	BEXXAR
+T513	indication 32718 32740	non-Hodgkin's lymphoma
+T515	tradename 33959 33965	BEXXAR
+T517	tradename 34085 34085	
+T519	adversereaction 34085 34093	Asthenia
+T521	tradename 34101 34101	
+T523	adversereaction 34101 34106	Fever
+T525	tradename 34116 34116	
+T527	adversereaction 34116 34125	Infection
+T529	tradename 34138 34138	
+T531	adversereaction 34138 34142	Pain
+T533	tradename 34151 34151	
+T535	adversereaction 34151 34157	Chills
+T537	tradename 34166 34166	
+T539	adversereaction 34166 34174	Headache
+T541	tradename 34184 34184	
+T543	adversereaction 34184 34198	Abdominal pain
+T545	tradename 34208 34208	
+T547	adversereaction 34208 34217	Back pain
+T549	tradename 34226 34226	
+T551	adversereaction 34226 34236	Chest pain
+T553	tradename 34245 34245	
+T555	adversereaction 34245 34254	Neck pain
+T557	tradename 34293 34293	
+T559	adversereaction 34293 34304	Hypotension
+T561	tradename 34312 34312	
+T563	adversereaction 34312 34326	Vasodilatation
+T565	tradename 34360 34360	
+T567	adversereaction 34360 34366	Nausea
+T569	tradename 34376 34376	
+T571	adversereaction 34376 34384	Vomiting
+T573	tradename 34393 34393	
+T575	adversereaction 34393 34401	Anorexia
+T577	tradename 34410 34410	
+T579	adversereaction 34410 34418	Diarrhea
+T581	tradename 34427 34427	
+T583	adversereaction 34427 34439	Constipation
+T585	tradename 34447 34447	
+T587	adversereaction 34447 34456	Dyspepsia
+T589	tradename 34493 34493	
+T591	adversereaction 34493 34507	Hypothyroidism
+T593	tradename 34515 34516	 
+T595	adversereaction 34516 34551	Metabolic and Nutritional Disorders
+T597	tradename 34560 34560	
+T599	adversereaction 34560 34576	Peripheral edema
+T601	tradename 34585 34585	
+T603	adversereaction 34585 34596	Weight loss
+T605	tradename 34640 34640	
+T607	adversereaction 34640 34647	Myalgia
+T609	tradename 34661 34661	
+T611	adversereaction 34661 34674	Arthralgia 10
+T613	tradename 34704 34704	
+T615	adversereaction 34704 34713	Dizziness
+T617	tradename 34722 34722	
+T619	adversereaction 34722 34732	Somnolence
+T621	tradename 34769 34769	
+T623	adversereaction 34769 34784	Cough increased
+T625	tradename 34793 34793	
+T627	adversereaction 34793 34804	Pharyngitis
+T629	tradename 34813 34813	
+T631	adversereaction 34813 34820	Dyspnea
+T633	tradename 34829 34829	
+T635	adversereaction 34829 34837	Rhinitis
+T637	tradename 34847 34847	
+T639	adversereaction 34847 34856	Pneumonia
+T641	tradename 34893 34893	
+T643	adversereaction 34893 34897	Rash
+T645	tradename 34910 34910	
+T647	adversereaction 34910 34918	Pruritus
+T649	tradename 34927 34927	
+T651	adversereaction 34927 34935	Sweating
+T653	tradename 36450 36451	 
+T655	adversereaction 36451 36483	Prolonged and Severe Cytopenias:
+T657	tradename 36838 36839	 
+T659	adversereaction 36839 36850	Infections:
+T661	adversereaction 36986 36995	pneumonia
+T663	adversereaction 36997 37007	bacteremia
+T665	adversereaction 37010 37020	septicemia
+T667	adversereaction 37022 37032	bronchitis
+T669	adversereaction 37038 37094	skin infections. Allergic (Hypersensitivity) Reactions:
+T671	adversereaction 37182 37199	allergic reaction
+T673	adversereaction 37201 37213	facial edema
+T675	adversereaction 37215 37246	injection site hypersensitivity
+T677	adversereaction 37249 37270	anaphylactic reaction
+T679	adversereaction 37272 37283	laryngismus
+T681	adversereaction 37289 37304	serum sickness.
+T683	adversereaction 37342 37360	Infusion reactions
+T685	adversereaction 37371 37376	fever
+T687	adversereaction 37378 37384	rigors
+T689	adversereaction 37388 37394	chills
+T691	adversereaction 37397 37405	sweating
+T693	adversereaction 37407 37418	hypotension
+T695	adversereaction 37420 37427	dyspnea
+T697	adversereaction 37429 37441	bronchospasm
+T699	adversereaction 37447 37453	nausea
+T701	tradename 37724 37725	 
+T703	adversereaction 37725 37749	Myelodysplastic Syndrome
+T705	adversereaction 37756 37775	Secondary Leukemia:
+T707	nanoparticle 39643 39655	tositumomab.
+T709	indication 40198 40220	Non-Hodgkin's Lymphoma
+T711	tradename 40235 40241	BEXXAR
+T713	indication 40562 40584	non-Hodgkin's lymphoma
+T715	tradename 40602 40608	BEXXAR
+T717	tradename 41026 41032	BEXXAR
+T719	tradename 41221 41227	BEXXAR
+T721	nanoparticle 41694 41705	tositumomab
+T723	nanoparticle 41709 41731	I-131 499 tositumomab.
+T725	tradename 41869 41875	BEXXAR
+T727	tradename 41996 42002	BEXXAR
+T729	activeingredient 42210 42215	I-131
+T731	tradename 42290 42296	BEXXAR
+T733	tradename 42407 42413	BEXXAR
+T735	nanoparticle 42608 42619	tositumomab
+T737	tradename 42870 42876	BEXXAR
+T739	tradename 43014 43020	BEXXAR
+T741	tradename 43113 43119	BEXXAR
+T743	tradename 43227 43233	BEXXAR
+T745	tradename 43429 43435	BEXXAR
+T747	tradename 43745 43751	BEXXAR
+T749	tradename 43937 43943	BEXXAR
+T751	tradename 44191 44197	BEXXAR
+T753	tradename 44277 44283	BEXXAR
+T755	activeingredient 44424 44429	I-131
+T757	tradename 44435 44441	BEXXAR
+T759	activeingredient 44648 44653	I-131
+T761	tradename 44671 44677	BEXXAR
+T763	tradename 44960 44966	BEXXAR
+T765	tradename 45011 45017	BEXXAR
+T767	nanoparticle 45077 45088	tositumomab
+T769	nanoparticle 45132 45150	I-131 tositumomab.
+T771	tradename 45152 45152	
+T773	nanoparticle 45152 45163	Tositumomab
+T775	nanoparticle 45310 45321	tositumomab
+T777	molecularweight 45325 45332	150 kD.
+T779	tradename 45335 45335	
+T781	nanoparticle 45335 45346	Tositumomab
+T783	routeofadministration 45493 45504	intravenous
+T785	inactiveingredient 45556 45563	maltose
+T787	inactiveingredient 45575 45590	sodium chloride
+T789	inactiveingredient 45600 45609	phosphate
+T791	inactiveingredient 45619 45638	potassium hydroxide
+T793	inactiveingredient 45644 45649	Water
+T795	nanoparticle 45701 45718	I-131 tositumomab
+T797	nanoparticle 45722 45733	tositumomab
+T799	activeingredient 45755 45766	Iodine-131.
+T801	nanoparticle 45767 45784	I-131 tositumomab
+T803	nanoparticle 45865 45882	I-131 tositumomab
+T805	inactiveingredient 45909 45922	ascorbic acid
+T807	inactiveingredient 45937 45944	maltose
+T809	inactiveingredient 45980 45987	maltose
+T811	inactiveingredient 46027 46035	povidone
+T813	inactiveingredient 46058 46078	sodium 568 chloride.
+T815	activeingredient 46158 46180	Iodine-131: Iodine-131
+T817	activeingredient 46435 46445	Iodine-131
+T819	activeingredient 46646 46656	Iodine-131
+T821	activeingredient 46822 46833	Iodine-131:
+T823	tradename 47079 47079	
+T825	activeingredient 47079 47090	Tositumomab
+T827	indication 47296 47320	non-Hodgkin's lymphomas.
+T829	tradename 47431 47437	BEXXAR
+T831	tradename 47900 47906	BEXXAR
+T833	tradename 48577 48583	BEXXAR
+T835	nanoparticle 48695 48712	I-131 tositumomab
+T837	dose 48731 48737	475-mg
+T839	dose 48918 48924	485 mg
+T841	nanoparticle 48928 48939	tositumomab
+T843	indication 48961 48984	non-Hodgkin's lymphomas
+T845	clearance 48989 48999	68.2 mg/hr
+T847	clearance 49008 49032	30.2 to 611 260.8 mg/hr)
+T849	indication 49687 49709	non-Hodgkin's lymphoma
+T851	eliminationhalflife 49714 49722	67 hours
+T853	eliminationhalflife 49731 49747	28 to 115 hours)
+T855	activeingredient 49766 49776	Iodine-131
+T857	tradename 50193 50199	BEXXAR
+T859	activeingredient 50292 50304	Iodine I-131
+T861	tradename 50368 50374	BEXXAR
+T863	tradename 50534 50540	BEXXAR
+T865	tradename 51856 51862	BEXXAR
+T867	indication 52512 52534	non-Hodgkin's lymphoma
+T869	tradename 52811 52817	BEXXAR
+T871	nanoparticle 53423 53434	tositumomab
+T873	nanoparticle 53562 53580	I-131 tositumomab
+T875	nanoparticle 53863 53874	tositumomab
+T877	nanoparticle 54022 54041	677 131 tositumomab
+T879	tradename 54169 54169	
+T881	nanoparticle 54169 54181	Tositumomab:
+T883	nanoparticle 54223 54234	tositumomab
+T885	nanoparticle 54355 54366	tositumomab
+T887	tradename 54505 54505	
+T889	nanoparticle 54505 54523	I-131 tositumomab:
+T891	nanoparticle 54539 54556	I-131 tositumomab
+T893	nanoparticle 54706 54723	I-131 tositumomab
+T895	tradename 54832 54832	
+T897	nanoparticle 54832 54849	I-131 tositumomab
+T899	tradename 55849 55855	BEXXAR
+T901	tradename 56092 56098	BEXXAR
+T903	tradename 56477 56483	BEXXAR
+T905	tradename 56589 56595	BEXXAR
+T907	tradename 56664 56670	BEXXAR
+T909	company 56700 56716	GlaxoSmithKline.
+T911	company 56792 56807	GlaxoSmithKline
+T913	company 56879 56895	GlaxoSmithKline.

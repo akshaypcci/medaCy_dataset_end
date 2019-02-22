@@ -1327,578 +1327,578 @@ T2651	dose 88734 88742	75 mg/m2
 T2653	routeofadministration 88755 88766	intravenous
 T2655	activeingredient 88880 88889	Docetaxel
 T2657	clearance 88904 88920	17.9 8.75 L/h/m2
-T2659	 88950 88965	4.20  2.57   g.h/mL. 
-T2661	activeingredient 89032 89041	docetaxel
-T2663	indication 89452 89478	Non-Small Cell Lung Cancer
-T2665	indication 89536 89541	NSCLC
-T2667	tradename 89578 89587	TAXOTERE+
-T2669	co-administereddrug 89587 89596	cisplatin
-T2671	tradename 89747 89756	TAXOTERE+
-T2673	co-administereddrug 89756 89765	cisplatin
-T2675	tradename 90043 90052	TAXOTERE+
-T2677	co-administereddrug 90052 90061	cisplatin
-T2679	adversereaction 90063 90071	diarrhea
-T2681	adversereaction 90079 90095	peripheral edema
-T2683	adversereaction 90106 90116	stomatitis
-T2685	tradename 90280 90289	TAXOTERE+
-T2687	co-administereddrug 90289 90298	cisplatin
-T2689	adversereaction 90366 90374	diarrhea
-T2691	adversereaction 90382 90392	infections
-T2693	adversereaction 90400 90416	peripheral edema
-T2695	adversereaction 90427 90437	stomatitis
-T2697	tradename 90587 90595	TAXOTERE
-T2699	co-administereddrug 90614 90625	carboplatin
-T2701	indication 90667 90705	advanced non-small cell lung carcinoma
-T2703	tradename 90833 90842	TAXOTERE+
-T2705	co-administereddrug 90842 90851	cisplatin
-T2707	adversereaction 90879 90887	diarrhea
-T2709	adversereaction 90889 90898	infection
-T2711	adversereaction 90903 90919	peripheral edema
-T2713	indication 91000 91015	Prostate Cancer
-T2715	tradename 91049 91057	TAXOTERE
-T2717	frequency 91058 91075	every three weeks
-T2719	co-administereddrug 91081 91091	prednisone
-T2721	indication 91099 91114	prostate cancer
-T2723	tradename 91254 91262	TAXOTERE
-T2725	frequency 91263 91280	every three weeks
-T2727	adversereaction 91441 91447	anemia
-T2729	adversereaction 91463 91472	infection
-T2731	adversereaction 91488 91500	nail changes
-T2733	adversereaction 91516 91524	anorexia
-T2735	adversereaction 91540 91551	weight loss
-T2737	indication 91601 91614	Breast Cancer
-T2739	indication 91631 91644	breast cancer
-T2741	tradename 91661 91669	TAXOTERE
-T2743	co-administereddrug 91690 91701	doxorubicin
-T2745	co-administereddrug 91706 91722	cyclophosphamide
-T2747	indication 92019 92033	Gastric Cancer
-T2749	tradename 92070 92078	TAXOTERE
-T2751	co-administereddrug 92099 92108	cisplatin
-T2753	co-administereddrug 92113 92125	fluorouracil
-T2755	indication 92133 92147	gastric cancer
-T2757	adversereaction 92617 92625	lethargy
-T2759	adversereaction 92627 92637	stomatitis
-T2761	adversereaction 92639 92647	diarrhea
-T2763	adversereaction 92649 92658	dizziness
-T2765	adversereaction 92660 92665	edema
-T2767	adversereaction 92667 92708	febrile neutropenia/neutropenic infection
-T2769	indication 92910 92930	Head and Neck Cancer
-T2771	tradename 93004 93012	TAXOTERE
-T2773	co-administereddrug 93033 93042	cisplatin
-T2775	co-administereddrug 93047 93059	fluorouracil
-T2777	indication 93070 93075	SCCHN
-T2779	tradename 93241 93249	TAXOTERE
-T2781	co-administereddrug 93270 93279	cisplatin
-T2783	co-administereddrug 93284 93296	fluorouracil
-T2785	indication 93314 93319	SCCHN
-T2787	tradename 93716 93725	TAXOTERE.
-T2789	tradename 93857 93865	TAXOTERE
-T2791	tradename 93994 94002	TAXOTERE
-T2793	tradename 94206 94214	TAXOTERE
-T2795	adversereaction 94418 94441	bone marrow suppression
-T2797	adversereaction 94443 94467	peripheral neurotoxicity
-T2799	adversereaction 94473 94483	mucositis.
-T2801	dose 94735 94744	150 mg/m2
-T2803	dose 94768 94777	200 mg/m2
-T2805	adversereaction 94836 94854	severe neutropenia
-T2807	adversereaction 94856 94869	mild asthenia
-T2809	adversereaction 94871 94890	cutaneous reactions
-T2811	adversereaction 94896 94912	mild paresthesia
-T2813	routeofadministration 95017 95028	intravenous
-T2815	dose 95055 95064	154 mg/kg
-T2817	dose 95100 95109	100 mg/m2
-T2819	dose 95247 95255	48 mg/kg
-T2821	dose 95291 95300	100 mg/m2
-T2823	dose 95381 95389	20 mg/kg
-T2825	dose 95423 95432	100 mg/m2
-T2827	activeingredient 95573 95582	Docetaxel
-T2829	activeingredient 95804 95813	docetaxel
-T2831	activeingredient 95983 95992	Docetaxel
-T2833	activeingredient 96042 96051	Docetaxel
-T2835	molecularweight 96169 96175	861.9.
-T2837	tradename 96278 96286	TAXOTERE
-T2839	tradename 96310 96318	TAXOTERE
-T2841	activeingredient 96320 96330	docetaxel)
-T2843	activeingredient 96494 96503	docetaxel
-T2845	inactiveingredient 96530 96544	polysorbate 80
-T2847	inactiveingredient 96572 96590	dehydrated alcohol
-T2849	tradename 96623 96631	TAXOTERE
-T2851	activeingredient 96705 96714	docetaxel
-T2853	tradename 96761 96769	TAXOTERE
-T2855	activeingredient 96996 97005	Docetaxel
-T2857	activeingredient 97167 97176	Docetaxel
-T2859	activeingredient 97505 97516	Docetaxel's
-T2861	activeingredient 97786 97795	docetaxel
-T2863	dose 97859 97867	20 mg/m2
-T2865	dose 97871 97880	115 mg/m2
-T2867	dose 97984 97992	70 mg/m2
-T2869	dose 97996 98005	115 mg/m2
-T2871	activeingredient 98043 98054	Docetaxel's
-T2873	clearance 98256 98265	21 L/h/m2
-T2875	activeingredient 98464 98473	docetaxel
-T2877	volumeofdistribution 98563 98569	113 L.
-T2879	activeingredient 98610 98619	docetaxel
-T2881	activeingredient 98882 98892	docetaxel.
-T2883	activeingredient 98976 98985	docetaxel
-T2885	activeingredient 99252 99261	docetaxel
-T2887	activeingredient 99302 99311	Docetaxel
-T2889	tradename 99901 99909	TAXOTERE
-T2891	dose 99945 99955	100 mg/m2.
-T2893	activeingredient 100102 100111	docetaxel
-T2895	activeingredient 100306 100316	docetaxel.
-T2897	tradename 101001 101010	TAXOTERE.
-T2899	dose 101269 101277	10 mg/m2
-T2901	dose 101281 101289	90 mg/m2
-T2903	dose 101352 101361	100 mg/m2
-T2905	activeingredient 101422 101431	docetaxel
-T2907	activeingredient 101585 101594	docetaxel
-T2909	activeingredient 101688 101697	docetaxel
-T2911	dose 101699 101707	100 mg/m
-T2913	routeofadministration 101708 101720	intravenous)
-T2915	activeingredient 101730 101739	docetaxel
-T2917	dose 101741 101748	10 mg/m
-T2919	routeofadministration 101749 101761	intravenous)
-T2921	dose 101796 101802	200 mg
-T2923	routeofadministration 101803 101809	orally
-T2925	frequency 101810 101832	once daily for 3 days)
-T2927	activeingredient 101968 101977	docetaxel
-T2929	activeingredient 102043 102052	docetaxel
-T2931	activeingredient 102250 102259	Docetaxel
-T2933	activeingredient 102385 102394	docetaxel
-T2935	activeingredient 102500 102510	docetaxel.
-T2937	activeingredient 102591 102600	docetaxel
-T2939	activeingredient 102739 102748	docetaxel
-T2941	activeingredient 103052 103061	docetaxel
-T2943	activeingredient 103168 103177	docetaxel
-T2945	indication 103299 103312	breast cancer
-T2947	activeingredient 103375 103384	docetaxel
-T2949	dose 103386 103394	75 mg/m)
-T2951	dose 103409 103417	50 mg/m)
-T2953	dose 103441 103450	500 mg/m)
-T2955	activeingredient 103520 103529	docetaxel
-T2957	activeingredient 103796 103805	docetaxel
-T2959	activeingredient 103902 103911	docetaxel
-T2961	activeingredient 104070 104079	docetaxel
-T2963	activeingredient 104127 104136	Docetaxel
-T2965	dose 104279 104297	0.39 to 1.56 mg/kg
-T2967	activeingredient 104379 104388	Docetaxel
-T2969	activeingredient 104474 104483	Docetaxel
-T2971	routeofadministration 104547 104558	intravenous
-T2973	dose 104574 104583	0.3 mg/kg
-T2975	routeofadministration 104880 104891	intravenous
-T2977	dose 104901 104908	5 mg/kg
-T2979	dose 104921 104932	0.375 mg/kg
-T2981	indication 105213 105226	Breast Cancer
-T2983	tradename 105265 105273	TAXOTERE
-T2985	indication 105297 105341	locally advanced or metastatic breast cancer
-T2987	tradename 105628 105636	TAXOTERE
-T2989	dose 105638 105647	100 mg/m2
-T2991	frequency 105648 105662	every 3 weeks)
-T2993	dose 105696 105704	12 mg/m2
-T2995	frequency 105705 105719	every 6 weeks)
-T2997	dose 105737 105744	6 mg/m2
-T2999	frequency 105745 105759	every 3 weeks)
-T3001	tradename 105818 105826	TAXOTERE
-T3003	tradename 105963 105971	TAXOTERE
-T3005	tradename 106305 106313	TAXOTERE
-T3007	indication 106334 106347	Breast Cancer
-T3009	activeingredient 106474 106483	Docetaxel
-T3011	activeingredient 106687 106697	Docetaxel:
-T3013	activeingredient 106899 106909	Docetaxel:
-T3015	activeingredient 107171 107181	docetaxel.
-T3017	tradename 107332 107340	TAXOTERE
-T3019	dose 107342 107352	100 mg/m2)
-T3021	dose 107369 107378	75 mg/m2)
-T3023	frequency 107379 107393	every 3 weeks.
-T3025	tradename 107455 107463	TAXOTERE
-T3027	tradename 107904 107912	TAXOTERE
-T3029	indication 107933 107946	Breast Cancer
-T3031	activeingredient 108070 108079	Docetaxel
-T3033	activeingredient 108251 108261	Docetaxel:
-T3035	activeingredient 108452 108462	Docetaxel:
-T3037	activeingredient 108721 108731	docetaxel.
-T3039	indication 108859 108872	breast cancer
-T3041	tradename 108978 108986	TAXOTERE
-T3043	dose 108999 109007	60 mg/m2
-T3045	dose 109017 109025	75 mg/m2
-T3047	dose 109037 109046	100 mg/m2
-T3049	tradename 109253 109261	TAXOTERE
-T3051	dose 109323 109331	75 mg/m2
-T3053	dose 109350 109359	100 mg/m2
-T3055	dose 109400 109408	60 mg/m2
-T3057	dose 109413 109422	100 mg/m2
-T3059	tradename 109512 109520	TAXOTERE
-T3061	dose 109534 109543	100 mg/m2
-T3063	indication 109621 109645	metastatic breast cancer
-T3065	indication 109753 109766	breast cancer
-T3067	tradename 110101 110109	TAXOTERE
-T3069	dose 110177 110185	60 mg/m2
-T3071	indication 110244 110289	locally advanced or metastatic breast cancer.
-T3073	dose 110486 110495	100 mg/m2
-T3075	indication 110547 110560	Breast Cancer
-T3077	tradename 110662 110670	TAXOTERE
-T3079	indication 110738 110751	breast cancer
-T3081	tradename 110938 110946	TAXOTERE
-T3083	dose 110947 110955	75 mg/m2
-T3085	co-administereddrug 110982 110993	doxorubicin
-T3087	dose 110994 111002	50 mg/m2
-T3089	co-administereddrug 111007 111023	cyclophosphamide
-T3091	dose 111024 111033	500 mg/m2
-T3093	dose 111060 111068	50 mg/m2
-T3095	dose 111094 111103	500 mg/m2
-T3097	dose 111126 111135	500 mg/m2
-T3099	frequency 111179 111206	every 3 weeks for 6 cycles.
-T3101	tradename 111208 111216	TAXOTERE
-T3103	routeofadministration 111286 111297	intravenous
-T3105	co-administereddrug 111448 111457	tamoxifen
-T3107	dose 111458 111463	20 mg
-T3109	frequency 111464 111488	daily for up to 5 years.
-T3111	activeingredient 111810 111830	docetaxel-containing
-T3113	indication 113384 113397	Breast Cancer
-T3115	indication 114163 114197	Non-Small Cell Lung Cancer (NSCLC)
-T3117	tradename 114236 114244	TAXOTERE
-T3119	indication 114326 114352	non-small cell lung cancer
-T3121	tradename 114494 114502	TAXOTERE
-T3123	tradename 114618 114626	TAXOTERE
-T3125	dose 114635 114643	75 mg/m2
-T3127	tradename 114778 114786	TAXOTERE
-T3129	dose 114800 114809	100 mg/m2
-T3131	adversereaction 114853 114873	hematologic toxicity
-T3133	adversereaction 114875 114885	infections
-T3135	adversereaction 114909 114918	mortality
-T3137	indication 115136 115162	non-small cell lung cancer
-T3139	tradename 115289 115297	TAXOTERE
-T3141	tradename 115431 115439	TAXOTERE
-T3143	dose 115440 115449	100 mg/m2
-T3145	adversereaction 115485 115497	toxic deaths
-T3147	tradename 115538 115546	TAXOTERE
-T3149	dose 115547 115556	75 mg/m2.
-T3151	tradename 115640 115648	TAXOTERE
-T3153	dose 115649 115657	75 mg/m2
-T3155	indication 115793 115819	non-small cell lung cancer
-T3157	tradename 115931 115939	TAXOTERE
-T3159	dose 115940 115948	75 mg/m2
-T3161	tradename 115951 115959	TAXOTERE
-T3163	dose 115960 115969	100 mg/m2
-T3165	dose 116037 116045	30 mg/m2
-T3167	frequency 116073 116086	every 3 weeks
-T3169	dose 116101 116107	2 g/m2
-T3171	frequency 116126 116140	every 3 weeks.
-T3173	tradename 116338 116346	TAXOTERE
-T3175	dose 116347 116355	75 mg/m2
-T3177	tradename 116525 116533	TAXOTERE
-T3179	indication 116554 116580	Non-Small Cell Lung Cancer
-T3181	activeingredient 116748 116757	Docetaxel
-T3183	dose 116758 116766	75 mg/m2
-T3185	activeingredient 116842 116851	Docetaxel
-T3187	dose 116852 116860	75 mg/m2
-T3189	activeingredient 117015 117025	Docetaxel:
-T3191	activeingredient 117935 117944	docetaxel
-T3193	tradename 118185 118193	TAXOTERE
-T3195	dose 118194 118202	75 mg/m2
-T3197	tradename 118267 118275	TAXOTERE
-T3199	dose 118276 118284	75 mg/m2
-T3201	tradename 118372 118380	TAXOTERE
-T3203	dose 118381 118389	75 mg/m2
-T3205	tradename 118472 118480	TAXOTERE
-T3207	dose 118494 118502	75 mg/m2
-T3209	tradename 118660 118668	TAXOTERE
-T3211	indication 118692 118697	NSCLC
-T3213	indication 118790 118795	NSCLC
-T3215	tradename 118885 118893	TAXOTERE
-T3217	dose 118894 118902	75 mg/m2
-T3219	co-administereddrug 118948 118957	cisplatin
-T3221	dose 118958 118966	75 mg/m2
-T3223	frequency 118989 119002	every 3 weeks
-T3225	dose 119016 119024	25 mg/m2
-T3227	dose 119099 119108	100 mg/m2
-T3229	frequency 119150 119163	every 4 weeks
-T3231	tradename 119185 119193	TAXOTERE
-T3233	co-administereddrug 119198 119210	carboplatin.
-T3235	tradename 119311 119320	TAXOTERE+
-T3237	co-administereddrug 119320 119329	cisplatin
-T3239	tradename 119592 119600	TAXOTERE
-T3241	co-administereddrug 119604 119613	cisplatin
-T3243	tradename 120068 120077	TAXOTERE+
-T3245	co-administereddrug 120077 120086	cisplatin
-T3247	tradename 120196 120204	TAXOTERE
-T3249	indication 120262 120267	NSCLC
-T3251	tradename 120301 120310	Taxotere+
-T3253	co-administereddrug 120310 120319	Cisplatin
-T3255	tradename 120586 120595	TAXOTERE+
-T3257	co-administereddrug 120595 120604	cisplatin
-T3259	tradename 120647 120656	TAXOTERE+
-T3261	co-administereddrug 120656 120665	cisplatin
-T3263	tradename 120749 120758	TAXOTERE+
-T3265	co-administereddrug 120758 120767	cisplatin
-T3267	tradename 120985 120994	TAXOTERE+
-T3269	co-administereddrug 120994 121005	carboplatin
-T3271	tradename 121065 121073	TAXOTERE
-T3273	tradename 121139 121148	TAXOTERE+
-T3275	co-administereddrug 121148 121159	carboplatin
-T3277	tradename 121226 121235	TAXOTERE+
-T3279	co-administereddrug 121235 121246	carboplatin
-T3281	tradename 121523 121532	TAXOTERE+
-T3283	co-administereddrug 121532 121541	cisplatin
-T3285	tradename 121694 121702	TAXOTERE
-T3287	tradename 121786 121795	TAXOTERE+
-T3289	co-administereddrug 121795 121804	Cisplatin
-T3291	indication 122205 122239	Hormone Refractory Prostate Cancer
-T3293	tradename 122278 122286	TAXOTERE
-T3295	co-administereddrug 122307 122317	prednisone
-T3297	indication 122335 122403	androgen independent (hormone refractory) metastatic prostate cancer
-T3299	tradename 122620 122628	TAXOTERE
-T3301	dose 122629 122637	75 mg/m2
-T3303	frequency 122638 122651	every 3 weeks
-T3305	tradename 122678 122686	TAXOTERE
-T3307	dose 122687 122695	30 mg/m2
-T3309	frequency 122709 122715	weekly
-T3311	dose 122794 122802	12 mg/m2
-T3313	frequency 122803 122816	every 3 weeks
-T3315	dose 122907 122911	5 mg
-T3317	frequency 122912 122923	twice daily
-T3319	tradename 122957 122965	TAXOTERE
-T3321	frequency 122966 122982	every three week
-T3323	tradename 123104 123112	TAXOTERE
-T3325	tradename 123250 123258	TAXOTERE
-T3327	frequency 123259 123271	every 3 week
-T3329	tradename 123385 123393	TAXOTERE
-T3331	indication 123428 123496	Androgen Independent (Hormone Refractory) Metastatic Prostate Cancer
-T3333	tradename 123535 123544	TAXOTERE+
-T3335	co-administereddrug 123545 123555	Prednisone
-T3337	frequency 123556 123569	every 3 weeks
-T3339	frequency 123606 123619	every 3 weeks
-T3341	indication 124354 124376	Gastric Adenocarcinoma
-T3343	tradename 124485 124493	TAXOTERE
-T3345	indication 124538 124560	gastric adenocarcinoma
-T3347	indication 124572 124619	adenocarcinoma of the gastroesophageal junction
-T3349	tradename 124760 124768	TAXOTERE
-T3351	dose 124774 124782	75 mg/m2
-T3353	co-administereddrug 124813 124822	cisplatin
-T3355	dose 124828 124836	75 mg/m2
-T3357	co-administereddrug 124851 124863	fluorouracil
-T3359	dose 124869 124878	750 mg/m2
-T3361	frequency 124879 124898	per day for 5 days)
-T3363	dose 124913 124922	100 mg/m2
-T3365	dose 124951 124961	1000 mg/m2
-T3367	frequency 124962 124981	per day for 5 days)
-T3369	tradename 126274 126282	TAXOTERE
-T3371	indication 126317 126339	gastric adenocarcinoma
-T3373	tradename 126927 126935	TAXOTERE
-T3375	indication 127063 127077	Gastric Cancer
-T3377	indication 127447 127461	Gastric Cancer
-T3379	indication 127866 127886	Head and Neck Cancer
-T3381	tradename 127982 127990	TAXOTERE
-T3383	indication 128035 128087	squamous cell carcinoma of the head and neck (SCCHN)
-T3385	indication 128232 128237	SCCHN
-T3387	tradename 128336 128344	TAXOTERE
-T3389	tradename 128358 128366	TAXOTERE
-T3391	dose 128371 128379	75 mg/m2
-T3393	co-administereddrug 128392 128401	cisplatin
-T3395	dose 128406 128414	75 mg/m2
-T3397	co-administereddrug 128437 128449	fluorouracil
-T3399	dose 128454 128463	750 mg/m2
-T3401	frequency 128535 128566	every three weeks for 4 cycles.
-T3403	dose 128748 128757	100 mg/m2
-T3405	dose 128797 128808	1000 mg/m2/
-T3407	frequency 128885 128916	every three weeks for 4 cycles.
-T3409	dose 129351 129364	1.8 Gy-2.0 Gy
-T3411	frequency 129365 129375	once a day
-T3413	frequency 129377 129392	5 days per week
-T3415	dose 129413 129425	66 to 70 Gy)
-T3417	frequency 129476 129487	twice a day
-T3419	dose 129576 129587	70 to 74 Gy
-T3421	tradename 130286 130294	TAXOTERE
-T3423	indication 130367 130372	SCCHN
-T3425	tradename 130420 130429	TAXOTERE+
-T3427	co-administereddrug 130430 130440	Cisplatin+
-T3429	co-administereddrug 130452 130464	Fluorouracil
-T3431	tradename 131237 131246	TAXOTERE+
-T3433	co-administereddrug 131246 131268	Cisplatin+Fluorouracil
-T3435	tradename 132291 132299	TAXOTERE
-T3437	indication 132418 132423	SCCHN
-T3439	indication 132557 132562	SCCHN
-T3441	tradename 132678 132686	TAXOTERE
-T3443	tradename 132700 132708	TAXOTERE
-T3445	dose 132713 132720	75 mg/m
-T3447	routeofadministration 132724 132735	intravenous
-T3449	dose 132780 132788	100 mg/m
-T3451	routeofadministration 132831 132842	intravenous
-T3453	routeofadministration 132880 132891	intravenous
-T3455	dose 132921 132930	1000 mg/m
-T3457	frequency 132930 132934	/day
-T3459	frequency 132992 133019	every 3 weeks for 3 cycles.
-T3461	dose 133086 133094	100 mg/m
-T3463	routeofadministration 133124 133135	intravenous
-T3465	routeofadministration 133181 133192	intravenous
-T3467	dose 133222 133231	1000 mg/m
-T3469	frequency 133231 133235	/day
-T3471	frequency 133293 133320	every 3 weeks for 3 cycles.
-T3473	routeofadministration 133622 133633	intravenous
-T3475	dose 133763 133767	2 Gy
-T3477	frequency 133768 133775	per day
-T3479	frequency 133777 133804	5 days per week for 7 weeks
-T3481	dose 133825 133834	70-72 Gy)
-T3483	tradename 134073 134092	TAXOTERE-containing
-T3485	tradename 134357 134365	TAXOTERE
-T3487	tradename 134513 134522	TAXOTERE+
-T3489	co-administereddrug 134523 134546	Cisplatin+ Fluorouracil
-T3491	tradename 134838 134847	TAXOTERE+
-T3493	co-administereddrug 134847 134869	cisplatin+fluorouracil
-T3495	tradename 136457 136465	TAXOTERE
-T3497	tradename 136501 136509	TAXOTERE
-T3499	tradename 136626 136634	TAXOTERE
-T3501	tradename 136662 136670	TAXOTERE
-T3503	activeingredient 136672 136682	docetaxel)
-T3505	activeingredient 136723 136732	docetaxel
-T3507	inactiveingredient 136773 136807	polysorbate 80/dehydrated alcohol.
-T3509	tradename 136885 136893	TAXOTERE
-T3511	tradename 136924 136932	TAXOTERE
-T3513	activeingredient 136934 136944	docetaxel)
-T3515	activeingredient 136985 136994	docetaxel
-T3517	inactiveingredient 137032 137066	polysorbate 80/dehydrated alcohol.
-T3519	tradename 137659 137667	TAXOTERE
-T3521	tradename 137854 137862	TAXOTERE
-T3523	tradename 138034 138042	TAXOTERE
-T3525	routeofadministration 138110 138114	oral
-T3527	adversereaction 138376 138402	hypersensitivity reaction.
-T3529	adversereaction 138461 138476	fluid retention
-T3531	adversereaction 138485 138501	peripheral edema
-T3533	adversereaction 138528 138539	weight gain
-T3535	adversereaction 138544 138552	dyspnea.
-T3537	adversereaction 138805 138812	myalgia
-T3539	tradename 138939 138947	TAXOTERE
-T3541	tradename 139112 139120	TAXOTERE
-T3543	adversereaction 139299 139305	nausea
-T3545	adversereaction 139307 139315	vomiting
-T3547	adversereaction 139317 139325	diarrhea
-T3549	adversereaction 139327 139339	constipation
-T3551	adversereaction 139341 139348	fatigue
-T3553	adversereaction 139350 139367	excessive tearing
-T3555	adversereaction 139369 139392	infusion site reactions
-T3557	adversereaction 139398 139407	hair loss
-T3559	activeingredient 139428 139437	docetaxel
-T3561	tradename 139507 139515	TAXOTERE
-T3563	activeingredient 139530 139540	docetaxel)
-T3565	routeofadministration 139574 139585	Intravenous
-T3567	tradename 139681 139689	TAXOTERE
-T3569	tradename 139968 139977	TAXOTERE?
-T3571	tradename 139989 139997	TAXOTERE
-T3573	adversereaction 140040 140046	death.
-T3575	adversereaction 140086 140091	death
-T3577	tradename 140114 140122	TAXOTERE
-T3579	tradename 140205 140213	TAXOTERE
-T3581	indication 140230 140256	non-small cell lung cancer
-T3583	tradename 140364 140372	TAXOTERE
-T3585	tradename 140466 140475	TAXOTERE.
-T3587	tradename 140640 140648	TAXOTERE
-T3589	tradename 140932 140941	TAXOTERE.
-T3591	adversereaction 140996 141002	fever.
-T3593	adversereaction 141036 141054	allergic reactions
-T3595	tradename 141085 141094	TAXOTERE.
-T3597	adversereaction 141115 141133	allergic reactions
-T3599	adversereaction 141566 141582	fluid retention)
-T3601	tradename 141605 141614	TAXOTERE.
-T3603	co-administereddrug 141745 141759	corticosteroid
-T3605	tradename 141773 141781	TAXOTERE
-T3607	co-administereddrug 141823 141837	corticosteroid
-T3609	tradename 141922 141930	TAXOTERE
-T3611	co-administereddrug 141967 141981	corticosteroid
-T3613	tradename 142050 142059	TAXOTERE?
-T3615	tradename 142071 142079	TAXOTERE
-T3617	indication 142165 142178	breast cancer
-T3619	indication 142190 142216	non-small cell lung cancer
-T3621	indication 142228 142243	prostate cancer
-T3623	indication 142256 142270	stomach cancer
-T3625	indication 142282 142302	head and neck cancer
-T3627	tradename 142333 142341	TAXOTERE
-T3629	tradename 142402 142411	TAXOTERE?
-T3631	tradename 142438 142446	TAXOTERE
-T3633	tradename 142555 142563	TAXOTERE
-T3635	inactiveingredient 142601 142616	polysorbate 80.
-T3637	tradename 142766 142775	TAXOTERE?
-T3639	tradename 142949 142958	TAXOTERE?
-T3641	tradename 142989 142997	TAXOTERE
-T3643	tradename 143095 143104	TAXOTERE?
-T3645	tradename 143182 143191	TAXOTERE.
-T3647	tradename 143310 143318	TAXOTERE
-T3649	tradename 143429 143437	TAXOTERE
-T3651	tradename 143534 143542	TAXOTERE
-T3653	tradename 143720 143728	TAXOTERE
-T3655	tradename 143831 143839	TAXOTERE
-T3657	tradename 144013 144022	TAXOTERE?
-T3659	tradename 144035 144043	TAXOTERE
-T3661	routeofadministration 144071 144087	intravenous (IV)
-T3663	tradename 144146 144154	TAXOTERE
-T3665	frequency 144172 144186	every 3 weeks.
-T3667	tradename 144263 144272	TAXOTERE.
-T3669	tradename 144379 144387	TAXOTERE
-T3671	tradename 144417 144426	TAXOTERE.
-T3673	tradename 144598 144607	TAXOTERE.
-T3675	tradename 144657 144666	TAXOTERE?
-T3677	tradename 144678 144686	TAXOTERE
-T3679	tradename 144810 144819	TAXOTERE?
-T3681	adversereaction 144832 144860	Acute Myeloid Leukemia (AML)
-T3683	tradename 144916 144924	TAXOTERE
-T3685	tradename 145109 145118	TAXOTERE.
-T3687	adversereaction 145155 145197	redness and swelling of your arms and legs
-T3689	adversereaction 145203 145224	peeling of your skin.
-T3691	adversereaction 145266 145274	numbness
-T3693	adversereaction 145276 145284	tingling
-T3695	adversereaction 145286 145320	or burning in your hands and feet.
-T3697	adversereaction 145358 145372	blurred vision
-T3699	adversereaction 145376 145391	loss of vision.
-T3701	tradename 145404 145412	TAXOTERE
-T3703	tradename 145464 145472	TAXOTERE
-T3705	tradename 145555 145563	TAXOTERE
-T3707	tradename 145696 145704	TAXOTERE
-T3709	tradename 145769 145777	TAXOTERE
-T3711	adversereaction 145798 145828	changes in your sense of taste
-T3713	adversereaction 145848 145863	short of breath
-T3715	adversereaction 145875 145887	constipation
-T3717	adversereaction 145899 145917	decreased appetite
-T3719	adversereaction 145929 145968	changes in your fingernails or toenails
-T3721	adversereaction 145980 146002	swelling of your hands
-T3723	adversereaction 146004 146016	face or feet
-T3725	adversereaction 146029 146050	feeling weak or tired
-T3727	adversereaction 146063 146084	joint and muscle pain
-T3729	adversereaction 146097 146103	nausea
-T3731	adversereaction 146108 146116	vomiting
-T3733	adversereaction 146129 146137	diarrhea
-T3735	adversereaction 146149 146168	mouth or lips sores
-T3737	adversereaction 146180 146189	hair loss
-T3739	adversereaction 146202 146206	rash
-T3741	adversereaction 146219 146237	redness of the eye
-T3743	adversereaction 146239 146253	excess tearing
-T3745	adversereaction 146266 146280	skin reactions
-T3747	tradename 146296 146304	TAXOTERE
-T3749	tradename 146447 146455	TAXOTERE
-T3751	tradename 146647 146656	TAXOTERE.
-T3753	tradename 146891 146899	TAXOTERE
-T3755	tradename 147109 147118	TAXOTERE.
-T3757	tradename 147261 147269	TAXOTERE
-T3759	tradename 147416 147425	TAXOTERE?
-T3761	activeingredient 147467 147476	docetaxel
-T3763	inactiveingredient 147507 147514	ethanol
-T3765	inactiveingredient 147519 147533	polysorbate 80
-T3767	frequency 147545 147561	Every three-week
-T3769	tradename 147575 147583	TAXOTERE
-T3771	indication 147588 147594	breast
-T3773	indication 147596 147627	non-small cell lung and stomach
-T3775	indication 147629 147654	and head and neck cancers
-T3777	routeofadministration 147665 147669	oral
-T3779	co-administereddrug 147670 147684	corticosteroid
-T3781	routeofadministration 147731 147735	Oral
-T3783	co-administereddrug 147736 147750	corticosteroid
-T3785	tradename 147862 147870	TAXOTERE
-T3787	frequency 147948 147964	Every three-week
-T3789	tradename 147978 147986	TAXOTERE
-T3791	indication 147991 148006	prostate cancer
-T3793	routeofadministration 148017 148021	oral
-T3795	co-administereddrug 148022 148036	corticosteroid
-T3797	routeofadministration 148094 148098	Oral
-T3799	co-administereddrug 148099 148113	corticosteroid
-T3801	tradename 148199 148207	TAXOTERE
-T3803	company 148354 148377	sanofi-aventis U.S. LLC
-T3805	company 148402 148416	SANOFI COMPANY
-T3807	company 148461 148484	sanofi-aventis U.S. LLC
+T2659	auc 88950 88968	4.20 2.57 g.h/mL.
+T2661	activeingredient 89036 89045	docetaxel
+T2663	indication 89456 89482	Non-Small Cell Lung Cancer
+T2665	indication 89540 89545	NSCLC
+T2667	tradename 89582 89591	TAXOTERE+
+T2669	co-administereddrug 89591 89600	cisplatin
+T2671	tradename 89751 89760	TAXOTERE+
+T2673	co-administereddrug 89760 89769	cisplatin
+T2675	tradename 90047 90056	TAXOTERE+
+T2677	co-administereddrug 90056 90065	cisplatin
+T2679	adversereaction 90067 90075	diarrhea
+T2681	adversereaction 90083 90099	peripheral edema
+T2683	adversereaction 90110 90120	stomatitis
+T2685	tradename 90284 90293	TAXOTERE+
+T2687	co-administereddrug 90293 90302	cisplatin
+T2689	adversereaction 90370 90378	diarrhea
+T2691	adversereaction 90386 90396	infections
+T2693	adversereaction 90404 90420	peripheral edema
+T2695	adversereaction 90431 90441	stomatitis
+T2697	tradename 90591 90599	TAXOTERE
+T2699	co-administereddrug 90618 90629	carboplatin
+T2701	indication 90671 90709	advanced non-small cell lung carcinoma
+T2703	tradename 90837 90846	TAXOTERE+
+T2705	co-administereddrug 90846 90855	cisplatin
+T2707	adversereaction 90883 90891	diarrhea
+T2709	adversereaction 90893 90902	infection
+T2711	adversereaction 90907 90923	peripheral edema
+T2713	indication 91004 91019	Prostate Cancer
+T2715	tradename 91053 91061	TAXOTERE
+T2717	frequency 91062 91079	every three weeks
+T2719	co-administereddrug 91085 91095	prednisone
+T2721	indication 91103 91118	prostate cancer
+T2723	tradename 91258 91266	TAXOTERE
+T2725	frequency 91267 91284	every three weeks
+T2727	adversereaction 91445 91451	anemia
+T2729	adversereaction 91467 91476	infection
+T2731	adversereaction 91492 91504	nail changes
+T2733	adversereaction 91520 91528	anorexia
+T2735	adversereaction 91544 91555	weight loss
+T2737	indication 91605 91618	Breast Cancer
+T2739	indication 91635 91648	breast cancer
+T2741	tradename 91665 91673	TAXOTERE
+T2743	co-administereddrug 91694 91705	doxorubicin
+T2745	co-administereddrug 91710 91726	cyclophosphamide
+T2747	indication 92023 92037	Gastric Cancer
+T2749	tradename 92074 92082	TAXOTERE
+T2751	co-administereddrug 92103 92112	cisplatin
+T2753	co-administereddrug 92117 92129	fluorouracil
+T2755	indication 92137 92151	gastric cancer
+T2757	adversereaction 92621 92629	lethargy
+T2759	adversereaction 92631 92641	stomatitis
+T2761	adversereaction 92643 92651	diarrhea
+T2763	adversereaction 92653 92662	dizziness
+T2765	adversereaction 92664 92669	edema
+T2767	adversereaction 92671 92712	febrile neutropenia/neutropenic infection
+T2769	indication 92914 92934	Head and Neck Cancer
+T2771	tradename 93008 93016	TAXOTERE
+T2773	co-administereddrug 93037 93046	cisplatin
+T2775	co-administereddrug 93051 93063	fluorouracil
+T2777	indication 93074 93079	SCCHN
+T2779	tradename 93245 93253	TAXOTERE
+T2781	co-administereddrug 93274 93283	cisplatin
+T2783	co-administereddrug 93288 93300	fluorouracil
+T2785	indication 93318 93323	SCCHN
+T2787	tradename 93720 93729	TAXOTERE.
+T2789	tradename 93861 93869	TAXOTERE
+T2791	tradename 93998 94006	TAXOTERE
+T2793	tradename 94210 94218	TAXOTERE
+T2795	adversereaction 94422 94445	bone marrow suppression
+T2797	adversereaction 94447 94471	peripheral neurotoxicity
+T2799	adversereaction 94477 94487	mucositis.
+T2801	dose 94739 94748	150 mg/m2
+T2803	dose 94772 94781	200 mg/m2
+T2805	adversereaction 94840 94858	severe neutropenia
+T2807	adversereaction 94860 94873	mild asthenia
+T2809	adversereaction 94875 94894	cutaneous reactions
+T2811	adversereaction 94900 94916	mild paresthesia
+T2813	routeofadministration 95021 95032	intravenous
+T2815	dose 95059 95068	154 mg/kg
+T2817	dose 95104 95113	100 mg/m2
+T2819	dose 95251 95259	48 mg/kg
+T2821	dose 95295 95304	100 mg/m2
+T2823	dose 95385 95393	20 mg/kg
+T2825	dose 95427 95436	100 mg/m2
+T2827	activeingredient 95577 95586	Docetaxel
+T2829	activeingredient 95808 95817	docetaxel
+T2831	activeingredient 95987 95996	Docetaxel
+T2833	activeingredient 96046 96055	Docetaxel
+T2835	molecularweight 96173 96179	861.9.
+T2837	tradename 96282 96290	TAXOTERE
+T2839	tradename 96314 96322	TAXOTERE
+T2841	activeingredient 96324 96334	docetaxel)
+T2843	activeingredient 96498 96507	docetaxel
+T2845	inactiveingredient 96534 96548	polysorbate 80
+T2847	inactiveingredient 96576 96594	dehydrated alcohol
+T2849	tradename 96627 96635	TAXOTERE
+T2851	activeingredient 96709 96718	docetaxel
+T2853	tradename 96765 96773	TAXOTERE
+T2855	activeingredient 97000 97009	Docetaxel
+T2857	activeingredient 97171 97180	Docetaxel
+T2859	activeingredient 97509 97520	Docetaxel's
+T2861	activeingredient 97790 97799	docetaxel
+T2863	dose 97863 97871	20 mg/m2
+T2865	dose 97875 97884	115 mg/m2
+T2867	dose 97988 97996	70 mg/m2
+T2869	dose 98000 98009	115 mg/m2
+T2871	activeingredient 98047 98058	Docetaxel's
+T2873	clearance 98260 98269	21 L/h/m2
+T2875	activeingredient 98468 98477	docetaxel
+T2877	volumeofdistribution 98567 98573	113 L.
+T2879	activeingredient 98614 98623	docetaxel
+T2881	activeingredient 98886 98896	docetaxel.
+T2883	activeingredient 98980 98989	docetaxel
+T2885	activeingredient 99256 99265	docetaxel
+T2887	activeingredient 99306 99315	Docetaxel
+T2889	tradename 99905 99913	TAXOTERE
+T2891	dose 99949 99959	100 mg/m2.
+T2893	activeingredient 100106 100115	docetaxel
+T2895	activeingredient 100310 100320	docetaxel.
+T2897	tradename 101005 101014	TAXOTERE.
+T2899	dose 101273 101281	10 mg/m2
+T2901	dose 101285 101293	90 mg/m2
+T2903	dose 101356 101365	100 mg/m2
+T2905	activeingredient 101426 101435	docetaxel
+T2907	activeingredient 101589 101598	docetaxel
+T2909	activeingredient 101692 101701	docetaxel
+T2911	dose 101703 101711	100 mg/m
+T2913	routeofadministration 101712 101724	intravenous)
+T2915	activeingredient 101734 101743	docetaxel
+T2917	dose 101745 101752	10 mg/m
+T2919	routeofadministration 101753 101765	intravenous)
+T2921	dose 101800 101806	200 mg
+T2923	routeofadministration 101807 101813	orally
+T2925	frequency 101814 101836	once daily for 3 days)
+T2927	activeingredient 101972 101981	docetaxel
+T2929	activeingredient 102047 102056	docetaxel
+T2931	activeingredient 102254 102263	Docetaxel
+T2933	activeingredient 102389 102398	docetaxel
+T2935	activeingredient 102504 102514	docetaxel.
+T2937	activeingredient 102595 102604	docetaxel
+T2939	activeingredient 102743 102752	docetaxel
+T2941	activeingredient 103056 103065	docetaxel
+T2943	activeingredient 103172 103181	docetaxel
+T2945	indication 103303 103316	breast cancer
+T2947	activeingredient 103379 103388	docetaxel
+T2949	dose 103390 103398	75 mg/m)
+T2951	dose 103413 103421	50 mg/m)
+T2953	dose 103445 103454	500 mg/m)
+T2955	activeingredient 103524 103533	docetaxel
+T2957	activeingredient 103800 103809	docetaxel
+T2959	activeingredient 103906 103915	docetaxel
+T2961	activeingredient 104074 104083	docetaxel
+T2963	activeingredient 104131 104140	Docetaxel
+T2965	dose 104283 104301	0.39 to 1.56 mg/kg
+T2967	activeingredient 104383 104392	Docetaxel
+T2969	activeingredient 104478 104487	Docetaxel
+T2971	routeofadministration 104551 104562	intravenous
+T2973	dose 104578 104587	0.3 mg/kg
+T2975	routeofadministration 104884 104895	intravenous
+T2977	dose 104905 104912	5 mg/kg
+T2979	dose 104925 104936	0.375 mg/kg
+T2981	indication 105217 105230	Breast Cancer
+T2983	tradename 105269 105277	TAXOTERE
+T2985	indication 105301 105345	locally advanced or metastatic breast cancer
+T2987	tradename 105632 105640	TAXOTERE
+T2989	dose 105642 105651	100 mg/m2
+T2991	frequency 105652 105666	every 3 weeks)
+T2993	dose 105700 105708	12 mg/m2
+T2995	frequency 105709 105723	every 6 weeks)
+T2997	dose 105741 105748	6 mg/m2
+T2999	frequency 105749 105763	every 3 weeks)
+T3001	tradename 105822 105830	TAXOTERE
+T3003	tradename 105967 105975	TAXOTERE
+T3005	tradename 106309 106317	TAXOTERE
+T3007	indication 106338 106351	Breast Cancer
+T3009	activeingredient 106478 106487	Docetaxel
+T3011	activeingredient 106691 106701	Docetaxel:
+T3013	activeingredient 106903 106913	Docetaxel:
+T3015	activeingredient 107175 107185	docetaxel.
+T3017	tradename 107336 107344	TAXOTERE
+T3019	dose 107346 107356	100 mg/m2)
+T3021	dose 107373 107382	75 mg/m2)
+T3023	frequency 107383 107397	every 3 weeks.
+T3025	tradename 107459 107467	TAXOTERE
+T3027	tradename 107908 107916	TAXOTERE
+T3029	indication 107937 107950	Breast Cancer
+T3031	activeingredient 108074 108083	Docetaxel
+T3033	activeingredient 108255 108265	Docetaxel:
+T3035	activeingredient 108456 108466	Docetaxel:
+T3037	activeingredient 108725 108735	docetaxel.
+T3039	indication 108863 108876	breast cancer
+T3041	tradename 108982 108990	TAXOTERE
+T3043	dose 109003 109011	60 mg/m2
+T3045	dose 109021 109029	75 mg/m2
+T3047	dose 109041 109050	100 mg/m2
+T3049	tradename 109257 109265	TAXOTERE
+T3051	dose 109327 109335	75 mg/m2
+T3053	dose 109354 109363	100 mg/m2
+T3055	dose 109404 109412	60 mg/m2
+T3057	dose 109417 109426	100 mg/m2
+T3059	tradename 109516 109524	TAXOTERE
+T3061	dose 109538 109547	100 mg/m2
+T3063	indication 109625 109649	metastatic breast cancer
+T3065	indication 109757 109770	breast cancer
+T3067	tradename 110105 110113	TAXOTERE
+T3069	dose 110181 110189	60 mg/m2
+T3071	indication 110248 110293	locally advanced or metastatic breast cancer.
+T3073	dose 110490 110499	100 mg/m2
+T3075	indication 110551 110564	Breast Cancer
+T3077	tradename 110666 110674	TAXOTERE
+T3079	indication 110742 110755	breast cancer
+T3081	tradename 110942 110950	TAXOTERE
+T3083	dose 110951 110959	75 mg/m2
+T3085	co-administereddrug 110986 110997	doxorubicin
+T3087	dose 110998 111006	50 mg/m2
+T3089	co-administereddrug 111011 111027	cyclophosphamide
+T3091	dose 111028 111037	500 mg/m2
+T3093	dose 111064 111072	50 mg/m2
+T3095	dose 111098 111107	500 mg/m2
+T3097	dose 111130 111139	500 mg/m2
+T3099	frequency 111183 111210	every 3 weeks for 6 cycles.
+T3101	tradename 111212 111220	TAXOTERE
+T3103	routeofadministration 111290 111301	intravenous
+T3105	co-administereddrug 111452 111461	tamoxifen
+T3107	dose 111462 111467	20 mg
+T3109	frequency 111468 111492	daily for up to 5 years.
+T3111	activeingredient 111814 111834	docetaxel-containing
+T3113	indication 113388 113401	Breast Cancer
+T3115	indication 114167 114201	Non-Small Cell Lung Cancer (NSCLC)
+T3117	tradename 114240 114248	TAXOTERE
+T3119	indication 114330 114356	non-small cell lung cancer
+T3121	tradename 114498 114506	TAXOTERE
+T3123	tradename 114622 114630	TAXOTERE
+T3125	dose 114639 114647	75 mg/m2
+T3127	tradename 114782 114790	TAXOTERE
+T3129	dose 114804 114813	100 mg/m2
+T3131	adversereaction 114857 114877	hematologic toxicity
+T3133	adversereaction 114879 114889	infections
+T3135	adversereaction 114913 114922	mortality
+T3137	indication 115140 115166	non-small cell lung cancer
+T3139	tradename 115293 115301	TAXOTERE
+T3141	tradename 115435 115443	TAXOTERE
+T3143	dose 115444 115453	100 mg/m2
+T3145	adversereaction 115489 115501	toxic deaths
+T3147	tradename 115542 115550	TAXOTERE
+T3149	dose 115551 115560	75 mg/m2.
+T3151	tradename 115644 115652	TAXOTERE
+T3153	dose 115653 115661	75 mg/m2
+T3155	indication 115797 115823	non-small cell lung cancer
+T3157	tradename 115935 115943	TAXOTERE
+T3159	dose 115944 115952	75 mg/m2
+T3161	tradename 115955 115963	TAXOTERE
+T3163	dose 115964 115973	100 mg/m2
+T3165	dose 116041 116049	30 mg/m2
+T3167	frequency 116077 116090	every 3 weeks
+T3169	dose 116105 116111	2 g/m2
+T3171	frequency 116130 116144	every 3 weeks.
+T3173	tradename 116342 116350	TAXOTERE
+T3175	dose 116351 116359	75 mg/m2
+T3177	tradename 116529 116537	TAXOTERE
+T3179	indication 116558 116584	Non-Small Cell Lung Cancer
+T3181	activeingredient 116752 116761	Docetaxel
+T3183	dose 116762 116770	75 mg/m2
+T3185	activeingredient 116846 116855	Docetaxel
+T3187	dose 116856 116864	75 mg/m2
+T3189	activeingredient 117019 117029	Docetaxel:
+T3191	activeingredient 117939 117948	docetaxel
+T3193	tradename 118189 118197	TAXOTERE
+T3195	dose 118198 118206	75 mg/m2
+T3197	tradename 118271 118279	TAXOTERE
+T3199	dose 118280 118288	75 mg/m2
+T3201	tradename 118376 118384	TAXOTERE
+T3203	dose 118385 118393	75 mg/m2
+T3205	tradename 118476 118484	TAXOTERE
+T3207	dose 118498 118506	75 mg/m2
+T3209	tradename 118664 118672	TAXOTERE
+T3211	indication 118696 118701	NSCLC
+T3213	indication 118794 118799	NSCLC
+T3215	tradename 118889 118897	TAXOTERE
+T3217	dose 118898 118906	75 mg/m2
+T3219	co-administereddrug 118952 118961	cisplatin
+T3221	dose 118962 118970	75 mg/m2
+T3223	frequency 118993 119006	every 3 weeks
+T3225	dose 119020 119028	25 mg/m2
+T3227	dose 119103 119112	100 mg/m2
+T3229	frequency 119154 119167	every 4 weeks
+T3231	tradename 119189 119197	TAXOTERE
+T3233	co-administereddrug 119202 119214	carboplatin.
+T3235	tradename 119315 119324	TAXOTERE+
+T3237	co-administereddrug 119324 119333	cisplatin
+T3239	tradename 119596 119604	TAXOTERE
+T3241	co-administereddrug 119608 119617	cisplatin
+T3243	tradename 120072 120081	TAXOTERE+
+T3245	co-administereddrug 120081 120090	cisplatin
+T3247	tradename 120200 120208	TAXOTERE
+T3249	indication 120266 120271	NSCLC
+T3251	tradename 120305 120314	Taxotere+
+T3253	co-administereddrug 120314 120323	Cisplatin
+T3255	tradename 120590 120599	TAXOTERE+
+T3257	co-administereddrug 120599 120608	cisplatin
+T3259	tradename 120651 120660	TAXOTERE+
+T3261	co-administereddrug 120660 120669	cisplatin
+T3263	tradename 120753 120762	TAXOTERE+
+T3265	co-administereddrug 120762 120771	cisplatin
+T3267	tradename 120989 120998	TAXOTERE+
+T3269	co-administereddrug 120998 121009	carboplatin
+T3271	tradename 121069 121077	TAXOTERE
+T3273	tradename 121143 121152	TAXOTERE+
+T3275	co-administereddrug 121152 121163	carboplatin
+T3277	tradename 121230 121239	TAXOTERE+
+T3279	co-administereddrug 121239 121250	carboplatin
+T3281	tradename 121527 121536	TAXOTERE+
+T3283	co-administereddrug 121536 121545	cisplatin
+T3285	tradename 121698 121706	TAXOTERE
+T3287	tradename 121790 121799	TAXOTERE+
+T3289	co-administereddrug 121799 121808	Cisplatin
+T3291	indication 122209 122243	Hormone Refractory Prostate Cancer
+T3293	tradename 122282 122290	TAXOTERE
+T3295	co-administereddrug 122311 122321	prednisone
+T3297	indication 122339 122407	androgen independent (hormone refractory) metastatic prostate cancer
+T3299	tradename 122624 122632	TAXOTERE
+T3301	dose 122633 122641	75 mg/m2
+T3303	frequency 122642 122655	every 3 weeks
+T3305	tradename 122682 122690	TAXOTERE
+T3307	dose 122691 122699	30 mg/m2
+T3309	frequency 122713 122719	weekly
+T3311	dose 122798 122806	12 mg/m2
+T3313	frequency 122807 122820	every 3 weeks
+T3315	dose 122911 122915	5 mg
+T3317	frequency 122916 122927	twice daily
+T3319	tradename 122961 122969	TAXOTERE
+T3321	frequency 122970 122986	every three week
+T3323	tradename 123108 123116	TAXOTERE
+T3325	tradename 123254 123262	TAXOTERE
+T3327	frequency 123263 123275	every 3 week
+T3329	tradename 123389 123397	TAXOTERE
+T3331	indication 123432 123500	Androgen Independent (Hormone Refractory) Metastatic Prostate Cancer
+T3333	tradename 123539 123548	TAXOTERE+
+T3335	co-administereddrug 123549 123559	Prednisone
+T3337	frequency 123560 123573	every 3 weeks
+T3339	frequency 123610 123623	every 3 weeks
+T3341	indication 124358 124380	Gastric Adenocarcinoma
+T3343	tradename 124489 124497	TAXOTERE
+T3345	indication 124542 124564	gastric adenocarcinoma
+T3347	indication 124576 124623	adenocarcinoma of the gastroesophageal junction
+T3349	tradename 124764 124772	TAXOTERE
+T3351	dose 124778 124786	75 mg/m2
+T3353	co-administereddrug 124817 124826	cisplatin
+T3355	dose 124832 124840	75 mg/m2
+T3357	co-administereddrug 124855 124867	fluorouracil
+T3359	dose 124873 124882	750 mg/m2
+T3361	frequency 124883 124902	per day for 5 days)
+T3363	dose 124917 124926	100 mg/m2
+T3365	dose 124955 124965	1000 mg/m2
+T3367	frequency 124966 124985	per day for 5 days)
+T3369	tradename 126278 126286	TAXOTERE
+T3371	indication 126321 126343	gastric adenocarcinoma
+T3373	tradename 126931 126939	TAXOTERE
+T3375	indication 127067 127081	Gastric Cancer
+T3377	indication 127451 127465	Gastric Cancer
+T3379	indication 127870 127890	Head and Neck Cancer
+T3381	tradename 127986 127994	TAXOTERE
+T3383	indication 128039 128091	squamous cell carcinoma of the head and neck (SCCHN)
+T3385	indication 128236 128241	SCCHN
+T3387	tradename 128340 128348	TAXOTERE
+T3389	tradename 128362 128370	TAXOTERE
+T3391	dose 128375 128383	75 mg/m2
+T3393	co-administereddrug 128396 128405	cisplatin
+T3395	dose 128410 128418	75 mg/m2
+T3397	co-administereddrug 128441 128453	fluorouracil
+T3399	dose 128458 128467	750 mg/m2
+T3401	frequency 128539 128570	every three weeks for 4 cycles.
+T3403	dose 128752 128761	100 mg/m2
+T3405	dose 128801 128812	1000 mg/m2/
+T3407	frequency 128889 128920	every three weeks for 4 cycles.
+T3409	dose 129355 129368	1.8 Gy-2.0 Gy
+T3411	frequency 129369 129379	once a day
+T3413	frequency 129381 129396	5 days per week
+T3415	dose 129417 129429	66 to 70 Gy)
+T3417	frequency 129480 129491	twice a day
+T3419	dose 129580 129591	70 to 74 Gy
+T3421	tradename 130290 130298	TAXOTERE
+T3423	indication 130371 130376	SCCHN
+T3425	tradename 130424 130433	TAXOTERE+
+T3427	co-administereddrug 130434 130444	Cisplatin+
+T3429	co-administereddrug 130456 130468	Fluorouracil
+T3431	tradename 131241 131250	TAXOTERE+
+T3433	co-administereddrug 131250 131272	Cisplatin+Fluorouracil
+T3435	tradename 132295 132303	TAXOTERE
+T3437	indication 132422 132427	SCCHN
+T3439	indication 132561 132566	SCCHN
+T3441	tradename 132682 132690	TAXOTERE
+T3443	tradename 132704 132712	TAXOTERE
+T3445	dose 132717 132724	75 mg/m
+T3447	routeofadministration 132728 132739	intravenous
+T3449	dose 132784 132792	100 mg/m
+T3451	routeofadministration 132835 132846	intravenous
+T3453	routeofadministration 132884 132895	intravenous
+T3455	dose 132925 132934	1000 mg/m
+T3457	frequency 132934 132938	/day
+T3459	frequency 132996 133023	every 3 weeks for 3 cycles.
+T3461	dose 133090 133098	100 mg/m
+T3463	routeofadministration 133128 133139	intravenous
+T3465	routeofadministration 133185 133196	intravenous
+T3467	dose 133226 133235	1000 mg/m
+T3469	frequency 133235 133239	/day
+T3471	frequency 133297 133324	every 3 weeks for 3 cycles.
+T3473	routeofadministration 133626 133637	intravenous
+T3475	dose 133767 133771	2 Gy
+T3477	frequency 133772 133779	per day
+T3479	frequency 133781 133808	5 days per week for 7 weeks
+T3481	dose 133829 133838	70-72 Gy)
+T3483	tradename 134077 134096	TAXOTERE-containing
+T3485	tradename 134361 134369	TAXOTERE
+T3487	tradename 134517 134526	TAXOTERE+
+T3489	co-administereddrug 134527 134550	Cisplatin+ Fluorouracil
+T3491	tradename 134842 134851	TAXOTERE+
+T3493	co-administereddrug 134851 134873	cisplatin+fluorouracil
+T3495	tradename 136461 136469	TAXOTERE
+T3497	tradename 136505 136513	TAXOTERE
+T3499	tradename 136630 136638	TAXOTERE
+T3501	tradename 136666 136674	TAXOTERE
+T3503	activeingredient 136676 136686	docetaxel)
+T3505	activeingredient 136727 136736	docetaxel
+T3507	inactiveingredient 136777 136811	polysorbate 80/dehydrated alcohol.
+T3509	tradename 136889 136897	TAXOTERE
+T3511	tradename 136928 136936	TAXOTERE
+T3513	activeingredient 136938 136948	docetaxel)
+T3515	activeingredient 136989 136998	docetaxel
+T3517	inactiveingredient 137036 137070	polysorbate 80/dehydrated alcohol.
+T3519	tradename 137663 137671	TAXOTERE
+T3521	tradename 137858 137866	TAXOTERE
+T3523	tradename 138038 138046	TAXOTERE
+T3525	routeofadministration 138114 138118	oral
+T3527	adversereaction 138380 138406	hypersensitivity reaction.
+T3529	adversereaction 138465 138480	fluid retention
+T3531	adversereaction 138489 138505	peripheral edema
+T3533	adversereaction 138532 138543	weight gain
+T3535	adversereaction 138548 138556	dyspnea.
+T3537	adversereaction 138809 138816	myalgia
+T3539	tradename 138943 138951	TAXOTERE
+T3541	tradename 139116 139124	TAXOTERE
+T3543	adversereaction 139303 139309	nausea
+T3545	adversereaction 139311 139319	vomiting
+T3547	adversereaction 139321 139329	diarrhea
+T3549	adversereaction 139331 139343	constipation
+T3551	adversereaction 139345 139352	fatigue
+T3553	adversereaction 139354 139371	excessive tearing
+T3555	adversereaction 139373 139396	infusion site reactions
+T3557	adversereaction 139402 139411	hair loss
+T3559	activeingredient 139432 139441	docetaxel
+T3561	tradename 139511 139519	TAXOTERE
+T3563	activeingredient 139534 139544	docetaxel)
+T3565	routeofadministration 139578 139589	Intravenous
+T3567	tradename 139685 139693	TAXOTERE
+T3569	tradename 139972 139981	TAXOTERE?
+T3571	tradename 139993 140001	TAXOTERE
+T3573	adversereaction 140044 140050	death.
+T3575	adversereaction 140090 140095	death
+T3577	tradename 140118 140126	TAXOTERE
+T3579	tradename 140209 140217	TAXOTERE
+T3581	indication 140234 140260	non-small cell lung cancer
+T3583	tradename 140368 140376	TAXOTERE
+T3585	tradename 140470 140479	TAXOTERE.
+T3587	tradename 140644 140652	TAXOTERE
+T3589	tradename 140936 140945	TAXOTERE.
+T3591	adversereaction 141000 141006	fever.
+T3593	adversereaction 141040 141058	allergic reactions
+T3595	tradename 141089 141098	TAXOTERE.
+T3597	adversereaction 141119 141137	allergic reactions
+T3599	adversereaction 141570 141586	fluid retention)
+T3601	tradename 141609 141618	TAXOTERE.
+T3603	co-administereddrug 141749 141763	corticosteroid
+T3605	tradename 141777 141785	TAXOTERE
+T3607	co-administereddrug 141827 141841	corticosteroid
+T3609	tradename 141926 141934	TAXOTERE
+T3611	co-administereddrug 141971 141985	corticosteroid
+T3613	tradename 142054 142063	TAXOTERE?
+T3615	tradename 142075 142083	TAXOTERE
+T3617	indication 142169 142182	breast cancer
+T3619	indication 142194 142220	non-small cell lung cancer
+T3621	indication 142232 142247	prostate cancer
+T3623	indication 142260 142274	stomach cancer
+T3625	indication 142286 142306	head and neck cancer
+T3627	tradename 142337 142345	TAXOTERE
+T3629	tradename 142406 142415	TAXOTERE?
+T3631	tradename 142442 142450	TAXOTERE
+T3633	tradename 142559 142567	TAXOTERE
+T3635	inactiveingredient 142605 142620	polysorbate 80.
+T3637	tradename 142770 142779	TAXOTERE?
+T3639	tradename 142953 142962	TAXOTERE?
+T3641	tradename 142993 143001	TAXOTERE
+T3643	tradename 143099 143108	TAXOTERE?
+T3645	tradename 143186 143195	TAXOTERE.
+T3647	tradename 143314 143322	TAXOTERE
+T3649	tradename 143433 143441	TAXOTERE
+T3651	tradename 143538 143546	TAXOTERE
+T3653	tradename 143724 143732	TAXOTERE
+T3655	tradename 143835 143843	TAXOTERE
+T3657	tradename 144017 144026	TAXOTERE?
+T3659	tradename 144039 144047	TAXOTERE
+T3661	routeofadministration 144075 144091	intravenous (IV)
+T3663	tradename 144150 144158	TAXOTERE
+T3665	frequency 144176 144190	every 3 weeks.
+T3667	tradename 144267 144276	TAXOTERE.
+T3669	tradename 144383 144391	TAXOTERE
+T3671	tradename 144421 144430	TAXOTERE.
+T3673	tradename 144602 144611	TAXOTERE.
+T3675	tradename 144661 144670	TAXOTERE?
+T3677	tradename 144682 144690	TAXOTERE
+T3679	tradename 144814 144823	TAXOTERE?
+T3681	adversereaction 144836 144864	Acute Myeloid Leukemia (AML)
+T3683	tradename 144920 144928	TAXOTERE
+T3685	tradename 145113 145122	TAXOTERE.
+T3687	adversereaction 145159 145201	redness and swelling of your arms and legs
+T3689	adversereaction 145207 145228	peeling of your skin.
+T3691	adversereaction 145270 145278	numbness
+T3693	adversereaction 145280 145288	tingling
+T3695	adversereaction 145290 145324	or burning in your hands and feet.
+T3697	adversereaction 145362 145376	blurred vision
+T3699	adversereaction 145380 145395	loss of vision.
+T3701	tradename 145408 145416	TAXOTERE
+T3703	tradename 145468 145476	TAXOTERE
+T3705	tradename 145559 145567	TAXOTERE
+T3707	tradename 145700 145708	TAXOTERE
+T3709	tradename 145773 145781	TAXOTERE
+T3711	adversereaction 145802 145832	changes in your sense of taste
+T3713	adversereaction 145852 145867	short of breath
+T3715	adversereaction 145879 145891	constipation
+T3717	adversereaction 145903 145921	decreased appetite
+T3719	adversereaction 145933 145972	changes in your fingernails or toenails
+T3721	adversereaction 145984 146006	swelling of your hands
+T3723	adversereaction 146008 146020	face or feet
+T3725	adversereaction 146033 146054	feeling weak or tired
+T3727	adversereaction 146067 146088	joint and muscle pain
+T3729	adversereaction 146101 146107	nausea
+T3731	adversereaction 146112 146120	vomiting
+T3733	adversereaction 146133 146141	diarrhea
+T3735	adversereaction 146153 146172	mouth or lips sores
+T3737	adversereaction 146184 146193	hair loss
+T3739	adversereaction 146206 146210	rash
+T3741	adversereaction 146223 146241	redness of the eye
+T3743	adversereaction 146243 146257	excess tearing
+T3745	adversereaction 146270 146284	skin reactions
+T3747	tradename 146300 146308	TAXOTERE
+T3749	tradename 146451 146459	TAXOTERE
+T3751	tradename 146651 146660	TAXOTERE.
+T3753	tradename 146895 146903	TAXOTERE
+T3755	tradename 147113 147122	TAXOTERE.
+T3757	tradename 147265 147273	TAXOTERE
+T3759	tradename 147420 147429	TAXOTERE?
+T3761	activeingredient 147471 147480	docetaxel
+T3763	inactiveingredient 147511 147518	ethanol
+T3765	inactiveingredient 147523 147537	polysorbate 80
+T3767	frequency 147549 147565	Every three-week
+T3769	tradename 147579 147587	TAXOTERE
+T3771	indication 147592 147598	breast
+T3773	indication 147600 147631	non-small cell lung and stomach
+T3775	indication 147633 147658	and head and neck cancers
+T3777	routeofadministration 147669 147673	oral
+T3779	co-administereddrug 147674 147688	corticosteroid
+T3781	routeofadministration 147735 147739	Oral
+T3783	co-administereddrug 147740 147754	corticosteroid
+T3785	tradename 147866 147874	TAXOTERE
+T3787	frequency 147952 147968	Every three-week
+T3789	tradename 147982 147990	TAXOTERE
+T3791	indication 147995 148010	prostate cancer
+T3793	routeofadministration 148021 148025	oral
+T3795	co-administereddrug 148026 148040	corticosteroid
+T3797	routeofadministration 148098 148102	Oral
+T3799	co-administereddrug 148103 148117	corticosteroid
+T3801	tradename 148203 148211	TAXOTERE
+T3803	company 148358 148381	sanofi-aventis U.S. LLC
+T3805	company 148406 148420	SANOFI COMPANY
+T3807	company 148465 148488	sanofi-aventis U.S. LLC

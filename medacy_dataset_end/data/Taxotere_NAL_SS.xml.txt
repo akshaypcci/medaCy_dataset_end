@@ -970,8 +970,8 @@ HIGHLIGHTS Following docetaxel administration at 55 mg/m2 to 235 mg/m2 in a 1-ho
 HIGHLIGHTS every 3 weeks in 25 patients aged 1 to 20 years (median 11 years), docetaxel clearance was
 HIGHLIGHTS 17.3 10.9 L/h/m2 .
 HIGHLIGHTS  HIGHLIGHTSDocetaxel was administered in combination with cisplatin and 5-fluorouracil (TCF), at dose levels of 75 mg/m2 in a 1-hour intravenous infusion day 1 in 28 patients aged 10 to 21 years (median 16 years, 17 patients were older than 16).
-HIGHLIGHTS  Docetaxel clearance was 17.9 8.75 L/h/m2 , corresponding to an AUC of 4.202.57g.h/mL.
-HIGHLIGHTSIn summary, the body surface area adjusted clearance of docetaxel monotherapy and TCF combination in children were comparable to those in adults [see Clinical Pharmacology (12.3)].
+HIGHLIGHTS  Docetaxel clearance was 17.9 8.75 L/h/m2 , corresponding to an AUC of 4.20 2.57  g.h/mL.
+ HIGHLIGHTSIn summary, the body surface area adjusted clearance of docetaxel monotherapy and TCF combination in children were comparable to those in adults [see Clinical Pharmacology (12.3)].
  HIGHLIGHTS HIGHLIGHTS8.5 Geriatric Use
  HIGHLIGHTSIn general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy in elderly patients.
  HIGHLIGHTS HIGHLIGHTSNon-Small Cell Lung Cancer In a study conducted in chemotherapy-naive patients with NSCLC (TAX326), 148 patients (36%) in the TAXOTERE+cisplatin group were 65 years of age or greater.

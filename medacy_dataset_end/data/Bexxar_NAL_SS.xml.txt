@@ -7,16 +7,14 @@ BEXXAR (tositumomab and iodine I 131 tositumomab)
  PROLONGED AND SEVERE CYTOPENIAS, AND
  RADIATION EXPOSURE
  See full prescribing information for complete boxed warning.
- Serious Allergic Reactions: Immediately interrupt infusion and
-permanently discontinue the BEXXAR therapeutic regimen for serious allergic reactions (5.1)
+ Serious Allergic Reactions: Immediately interrupt infusion and permanently discontinue the BEXXAR therapeutic regimen for serious allergic reactions (5.1)
   Prolonged and severe cytopenias occur in most patients.
 BEXXAR should not be administered to patients with &gt;25% lymphoma marrow involvement, platelet count &lt;100,000 cells/mm3, or neutrophil count &lt;1,500 cells/mm3 (5.2, 6.1)
  Radiation Exposure: The BEXXAR therapeutic regimen is supplied only to certified healthcare professionals.
 Follow institutional radiation safety practices and applicable federal guidelines to minimize radiation exposure to household contacts and medical staff.
 (5.3)
   ---------------------------RECENT MAJOR CHANGES --------------------
-Indications and Usage: Rituximab-naive Patients (1) Removed
-08/2012 Contraindications : Known hypersensitivity to murine Removed proteins; Pregnant women (4) 02/2012 Warnings and Precautions, Embryo-fetal Toxicity (5.6) 02/2012
+Indications and Usage: Rituximab-naive Patients (1) Removed 08/2012 Contraindications : Known hypersensitivity to murine Removed proteins; Pregnant women (4) 02/2012 Warnings and Precautions, Embryo-fetal Toxicity (5.6) 02/2012
   ----------------------------INDICATIONS AND USAGE---------------------
 BEXXAR (tositumomab and Iodine I 131 tositumomab) is a CD20-directed radiotherapeutic antibody indicated for the treatment of patients with CD20 positive, relapsed or refractory, low-grade, follicular, or transformed  Hodgkin's lymphoma who have progressed during or after rituximab therapy, including patients with rituximab-refractory non-Hodgkin's lymphoma.
 (1.1)
@@ -31,8 +29,7 @@ The BEXXAR therapeutic regimen consists of a 2-part dosimetric step, followed 7 
   --------------------- DOSAGE FORMS AND STRENGTHS --------------
 Tositumomab 225 mg solution (14 mg per mL), single use vial (3)
  Tositumomab 35 mg solution (14 mg per mL), single use vial (3)
- Iodine I 131 tositumomab solution containing 12-18 mCi Iodine-131 per
-vial (not less than 0.61 mCi per mL at calibration) and 2.0-6.1 mg tositumomab per vial (not less than 0.1 mg per mL), single use vial (3)
+ Iodine I 131 tositumomab solution containing 12-18 mCi Iodine-131 per vial (not less than 0.61 mCi per mL at calibration) and 2.0-6.1 mg tositumomab per vial (not less than 0.1 mg per mL), single use vial (3)
  Iodine I 131 tositumomab solution containing 112-168 mCi Iodine-131 per vial (not less than 5.6 mCi per mL at calibration) and 22-61 mg tositumomab per vial (not less than 1.1 mg per mL), single use vial (3)
   -------------------------------CONTRAINDICATIONS------------------------
 None
@@ -40,8 +37,7 @@ None
 Secondary Malignancies: Hematological and non-hematological
  secondary malignancies have been reported.
 (5.4)
- HypothyroidismHypothyroidism: Thyroid-blocking medication is required prior to
-administration of the BEXXAR therapeutic regimen.
+ Hypothyroidism: Thyroid-blocking medication is required prior to administration of the BEXXAR therapeutic regimen.
 Evaluate for clinical evidence of hypothyroidism and thyroid-stimulating hormone (TSH) level before treatment and annually thereafter.
 (5.5)
  Embryo-fetal Toxicity: Administration to a pregnant woman can cause embryo-fetal harm including severe, and possibly irreversible, neonatal hypothyroidism.
@@ -69,8 +65,8 @@ Lymphoma 8.1 Pregnancy
   8.7 Females and Males of Reproductive Potential
  2.4 Administration of Dosimetric Dose
    10 OVERDOSAGE
- 2.5 Assessment of Dosimetry and Biodistribution  1
- 1 DESCRIPTION
+ 2.5 Assessment of Dosimetry and Biodistribution
+   1 DESCRIPTION
  2.6 Calculation of I-131 Therapeutic Dose
    12 CLINICAL PHARMACOLOGY
  2.7 Preparation of Therapeutic Dose
@@ -109,15 +105,12 @@ Permanently discontinue the BEXXAR therapeutic regimen for serious allergic reac
  The effects of the BEXXAR therapeutic regimen on survival are not known.
    1.2 Important Limitations of Use
  The BEXXAR therapeutic regimen is only indicated for a single course of treatment.
- The safety and efficacy of additional courses of the BEXXAR therapeutic regimen have
-not been established.
+ The safety and efficacy of additional courses of the BEXXAR therapeutic regimen have not been established.
  The BEXXAR therapeutic regimen is not indicated for first-line treatment of patients 38 with CD20-positive non-Hodgkin's lymphoma.
   2 DOSAGE AND ADMINISTRATION
  The BEXXAR therapeutic regimen consists of 2 separate components (tositumomab and 41 iodine I 131 tositumomab) administered in 2 separate steps (dosimetric dose and therapeutic 42 dose) separated by 7 to 14 days.
  43 Parenteral drug products should be inspected for particulate matter prior to 44 administration, whenever solution and container permit [see Description (11)].
-45 46 2.1 Overview of Dosing Schedule 47
-48 49
-50
+45 46 2.1 Overview of Dosing Schedule 47 48 49 50
   2.2 Recommended Dose
  51 Dosimetric dose 52 (1) Tositumomab 450 mg by intravenous infusion 53 (2) I-131 tositumomab (5 mCi I-131 and 35 mg protein) by intravenous infusion 54 55 Therapeutic dose (administered 7-14 days after dosimetric dose) 56 (1) Tositumomab 450 mg by intravenous infusion.
 57 (2) I-131 tositumomab (35 mg) by intravenous infusion.
@@ -139,50 +132,29 @@ The iodine-131 dose is calculated 58 based on 1) assessment of dosimetry and bio
  Two lead pots at room temperature 85 86 Method 87
  (1) Thaw contents (approximately 60 minutes) of I-131 tositumomab dosimetric vial at room 88 temperature with appropriate lead shielding.
  Thawed undiluted I-131 tositumomab may 89 be stored up to 8 hours at 36 F to 46 F (2 C to 8 C) or at room temperature.
- (2) Calculate the volume required for I-131 tositumomab activity of 5.0 mCi, based on the
-activity concentration of dosimetric vial (refer to product specification sheet provided in
-dosimetric carton).
- (3) Withdraw and transfer the calculated volume from I-131 tositumomab vial to the shielded
-preparation vial.
- (4) Assay preparation vial to confirm activity is 5.0 mCi ( 10%) using a suitable
-radioactivity calibration system operated in accordance with the manufacturer's
-specifications and quality control for the measurement of Iodine-131.
+ (2) Calculate the volume required for I-131 tositumomab activity of 5.0 mCi, based on the activity concentration of dosimetric vial (refer to product specification sheet provided in dosimetric carton).
+ (3) Withdraw and transfer the calculated volume from I-131 tositumomab vial to the shielded preparation vial.
+ (4) Assay preparation vial to confirm activity is 5.0 mCi ( 10%) using a suitable radioactivity calibration system operated in accordance with the manufacturer's specifications and quality control for the measurement of Iodine-131.
  If the preparation vial contains the calculated activity ( 10%), proceed to step 5.
- If the preparation vial does not contain the calculated activity (5 mCi  10%),
-determine the activity concentration of the I-131 tositumomab based on the
-volume and the activity in the preparation vial.
- Add or subtract the appropriate
-volume of I-131 tositumomab to the preparation vial to achieve the desired
-activityactivity of 5.0 mCi ( 10%).
+ If the preparation vial does not contain the calculated activity (5 mCi  10%), determine the activity concentration of the I-131 tositumomab based on the volume and the activity in the preparation vial.
+ Add or subtract the appropriate volume of I-131 tositumomab to the preparation vial to achieve the desired activity of 5.0 mCi ( 10%).
 Re-assay to confirm.
- (5) Calculate the amount of tositumomab in the shielded preparation vial, based on the
-volume and labeled protein concentration of the I-131 tositumomab dosimetric vial (see
-product specification sheet provided in dosimetric carton).
- If less than 35 mg, add
-additional tositumomab from the non-radioactive vial to the shielded vial to yield a total
-of 35 mg tositumomab in the shielded vial.
- (6) Add a sufficient quantity of 0.9% Sodium Chloride for Injection, USP to the shielded
-preparation vial to yield a final volume of 30 mL.
+ (5) Calculate the amount of tositumomab in the shielded preparation vial, based on the volume and labeled protein concentration of the I-131 tositumomab dosimetric vial (see product specification sheet provided in dosimetric carton).
+ If less than 35 mg, add additional tositumomab from the non-radioactive vial to the shielded vial to yield a total of 35 mg tositumomab in the shielded vial.
+ (6) Add a sufficient quantity of 0.9% Sodium Chloride for Injection, USP to the shielded preparation vial to yield a final volume of 30 mL.
 Gently mix contents.
- (7) Withdraw the entire contents from the preparation vial into a 60-mL syringe using a large
-bore needle (18-gauge) and shield contents of syringe and syringe pump.
+ (7) Withdraw the entire contents from the preparation vial into a 60-mL syringe using a large bore needle (18-gauge) and shield contents of syringe and syringe pump.
  (8) Assay and record the activity.
    2.4 Administration of Dosimetric Dose
- Thyroid Protective Pre-medication: Initiate thyroid protective drugs 24 hours prior to the
-dosimetric dose and continue daily dosing for a minimum of 14 days following the therapeutic
-dose.
+ Thyroid Protective Pre-medication: Initiate thyroid protective drugs 24 hours prior to the dosimetric dose and continue daily dosing for a minimum of 14 days following the therapeutic dose.
  The following regimens are recommended:
 Saturated solution of potassium iodide (SSKI) 4 drops orally 3 times daily or
 Lugol's solution 20 drops orally 3 times daily or
 Potassium iodide tablets 130 mg orally once daily
-  Do not administer the dosimetric dose unless the patient has received at least 3 doses of
-SSKI, 3 doses of Lugol's solution, or 1 dose of 130-mg potassium iodide tablet.
+  Do not administer the dosimetric dose unless the patient has received at least 3 doses of SSKI, 3 doses of Lugol's solution, or 1 dose of 130-mg potassium iodide tablet.
   Tositumomab
-(1) Premedicate with oral diphenhydramine 50 mg and oral acetaminophen 650 mg, 30
-minutes prior to initiation of the dosimetric dose.
- (2) Administer 450 mg tositumomab in 50 mL 0.9% sodium chloride by intravenous infusion
-through a 0.22 micron in-line filter over 60 minutes (refer to Site Training Manual for
-diagram showing assembly of the infusion set components).
+(1) Premedicate with oral diphenhydramine 50 mg and oral acetaminophen 650 mg, 30 minutes prior to initiation of the dosimetric dose.
+ (2) Administer 450 mg tositumomab in 50 mL 0.9% sodium chloride by intravenous infusion through a 0.22 micron in-line filter over 60 minutes (refer to Site Training Manual for diagram showing assembly of the infusion set components).
   Decrease the rate of infusion 131 by 50% for mild to moderate infusion reactions.
  Discontinue for serious allergic 132 reactions; interrupt for severe infusion reactions.
  If severe infusion reaction completely 133 resolves, the infusion may be continued at 50% of the previous infusion rate.
@@ -225,7 +197,7 @@ Discontinue for serious allergic reactions; interrupt for severe infusion reacti
  Total body residence time is more than 150 hours.
   2.6 Calculation of I-131 Therapeutic Dose
  The therapeutic dose may be calculated manually using the total body residence time and 196 activity hours (refer to the Site Training Manual).
- The therapeutic dose may also be derivedderived by using the GlaxoSmithKline BEXXAR therapeutic regimen Patient Management Templates (refer 198 to the Site Training Manual).
+ The therapeutic dose may also be derived by using the GlaxoSmithKline BEXXAR therapeutic regimen Patient Management Templates (refer 198 to the Site Training Manual).
  For assistance with either manual or automated calculations call 199 the GlaxoSmithKline Pharma Service Center at 1-877-423-9927.
   The following equation is used to calculate the activity of Iodine-131 required for 201 delivery of the desired total body dose of radiation:
   2.7 Preparation of Therapeutic Dose
@@ -273,16 +245,12 @@ Add or subtract the appropriate 232 volume of I-131 tositumomab to the preparati
  (4) Discard unused portion of Iodine I-131 tositumomab and infusion set components 279 according to federal and state laws regarding radioactive and biohazardous waste.
    2.9 Radiation Dosimetry
  Estimations of radiation-absorbed doses for I-131 tositumomab were performed using sequential whole body images and the MIRDOSE 3 software program.
- Patients with apparent
-thyroid, stomach, or intestinal imaging were selected for organ dosimetry analyses.
+ Patients with apparent thyroid, stomach, or intestinal imaging were selected for organ dosimetry analyses.
  The estimated radiation-absorbed doses to organs and marrow from a course of the BEXXAR therapeutic regimen are presented in Table 1.
   Table 1.
 Estimated Radiation-Absorbed Organ Doses
- The BEXXAR therapeutic
-regimen mGy/MBq
-Median
- The BEXXAR therapeutic
-regimen mGy/MBq
+ The BEXXAR therapeutic regimen mGy/MBq Median
+ The BEXXAR therapeutic regimen mGy/MBq
  Range Organ Regions of Interest (ROIs)
  Thyroid 2.71 1.4 - 6.2
  Kidneys 1.96 1.5 - 2.5
@@ -333,28 +301,23 @@ regimen mGy/MBq
   The BEXXAR therapeutic regimen should be administered only by physicians enrolled in the certification program for dose calculation and administration of the BEXXAR therapeutic regimen.
 Further information regarding the BEXXAR therapeutic regimen certification program is available by phone at 1-877-423-9927.
   5.4 Secondary Malignancies
-  Myelodysplastic syndrome (MDS) or acute leukemia may occur with the use of the
-BEXXAR therapeutic regimen and were reported in 10% of patients enrolled in clinical trials and 3% of patients enrolled in the expanded access program (median follow-up of 39 and 27 months, respectively).
+  Myelodysplastic syndrome (MDS) or acute leukemia may occur with the use of the BEXXAR therapeutic regimen and were reported in 10% of patients enrolled in clinical trials and 3% of patients enrolled in the expanded access program (median follow-up of 39 and 27 months, respectively).
  The median time to development of MDS or leukemia was 31 months [see Adverse Reactions (6.1)].
  Non-hematologic malignancies may occur with the use of the BEXXAR therapeutic regimen and were reported in 5% of patients enrolled in clinical trials or the expanded access program.
- In the absence of controlled studies, the relative risk of secondary malignancies in patients receiving the BEXXAR therapeutic regimen cannot be determined [see Adverse Reactions (6.1)]. 
-5.5 Hypothyroidism
- The BEXXAR therapeutic regimen can cause hypothyroidism [see Adverse Reactions
-(6.1)].
+ In the absence of controlled studies, the relative risk of secondary malignancies in patients receiving the BEXXAR therapeutic regimen cannot be determined [see Adverse Reactions (6.1)].
+ 5.5 Hypothyroidism
+ The BEXXAR therapeutic regimen can cause hypothyroidism [see Adverse Reactions (6.1)].
  Initiate thyroid-blocking medications at least 24 hours before administering the dosimetric dose and continue until 14 days after the therapeutic dose [see Dosage and Administration (2.4)].
  The risk of hypothyroidism is likely to be increased in patients who do not complete the recommended thyroid-protective regimen.
 Evaluate for clinical evidence of hypothyroidism and thyroid-stimulating hormone (TSH) level before treatment and annually thereafter.
   5.6 Embryo-fetal Toxicity
- The BEXXAR therapeutic regimen can cause fetal harm when administered to a pregnant
-woman including severe, and possibly irreversible, neonatal hypothyroidism.
+ The BEXXAR therapeutic regimen can cause fetal harm when administered to a pregnant woman including severe, and possibly irreversible, neonatal hypothyroidism.
  Inform patients who are pregnant or become pregnant after the BEXXAR therapeutic regimen about the potential hazard to a fetus.
  Evaluate infants born to mothers treated with the BEXXAR therapeutic regimen during pregnancy for hypothyroidism at time of delivery and during the neonatal period [see Use in Specific Populations (8.1)].
  Males and females of reproductive potential should use effective contraception during treatment with the BEXXAR therapeutic regimen and for 12 months after the therapeutic dose [see Use in Specific Populations (8.7)].
   5.7 Excessive Radiation Exposure in Patients With Impaired Renal Function
- There are no data regarding the safety of administration of the BEXXAR therapeutic
-regimen in patients with impaired renal function.
- Since the BEXXAR therapeutic regimen is primarily cleared through the kidneys, the rate of excretion of radiolabeled iodine is expected to
-be decreased in patients with impaired renal function or obstructive uropathy, which may result 370 in increased patient exposure to I-131 tositumomab.
+ There are no data regarding the safety of administration of the BEXXAR therapeutic regimen in patients with impaired renal function.
+ Since the BEXXAR therapeutic regimen is primarily cleared through the kidneys, the rate of excretion of radiolabeled iodine is expected to be decreased in patients with impaired renal function or obstructive uropathy, which may result 370 in increased patient exposure to I-131 tositumomab.
  [See Use in Specific Populations (8.6), Clinical Pharmacology (12.3).]
   5.8 Immunization
  The safety of immunization with live viral vaccines following administration of the BEXXAR therapeutic regimen and the ability of patients who have received the BEXXAR therapeutic regimen to generate a primary or anamnestic humoral response to any vaccine have not been studied.
@@ -372,8 +335,7 @@ Do not administer live viral vaccines to patients recently treated with BEXXAR.
  The reported safety data reflects exposure to the BEXXAR therapeutic regimen in 230 patients with non-Hodgkin's lymphoma enrolled in 5 clinical trials using the recommended dose and schedule.
  Patients were followed for a median of 39 months; 79% were followed for at least 12 months for survival and selected adverse reactions.
 Patients had a median of 3 prior chemotherapy regimens, a median age of 55 years, and 60% were male.
- Twenty-seven percent (27%) had transformation to a higher grade histology; 29% had intermediate-grade histology,
-and 2% had high-grade histology (IWF); 68% had Ann Arbor stage IV disease.
+ Twenty-seven percent (27%) had transformation to a higher grade histology; 29% had intermediate-grade histology, and 2% had high-grade histology (IWF); 68% had Ann Arbor stage IV disease.
  Patients enrolled in these studies were not permitted to have prior hematopoietic stem cell transplantation or irradiation to more than 25% of the marrow space.
  Data on serious adverse reactions and human anti-mouse antibodies (HAMA) and TSH levels were obtained from an additional 765 patients enrolled in the expanded access program and used to supplement the characterization of delayed adverse reactions.
  Patients in the expanded access program had fewer prior chemotherapy regimens (2 versus 3) and a higher proportion had low-grade histology (77% versus 70%) compared to patients in clinical trials.
@@ -440,13 +402,12 @@ Hematologic Toxicitya (N = 230) Parameter Values Platelets
  b Duration of Grade 3/4 of 1,000+ days (censored) was assumed for those patients with undocumented Grade 3/4 and no hematologic data on or after Week 9.
  c Grade 4 toxicity was assumed if patient had documented Grade 3 toxicity and was missing 2 or more weeks of hematology data between Week 5 and Week 9.
   Prolonged and Severe Cytopenias: The incidence and duration of severe cytopenias are shown in Table 3.
- Sixty-three (27%) patients received one or more hematologic supportive care measures following the therapeutic dose including G-CSF, epoetin alfa, platelet transfusions, and lackedpacked red blood cell transfusions.
+ Sixty-three (27%) patients received one or more hematologic supportive care measures following the therapeutic dose including G-CSF, epoetin alfa, platelet transfusions, and lacked red blood cell transfusions.
  Twenty-eight (12%) patients experienced hemorrhagic adverse reactions.
   Infections: One hundred and four patients (45%) patients experienced one or more infections.
  Twenty (9%) experienced serious infections including pneumonia, bacteremia,  septicemia, bronchitis, and skin infections.
  Allergic (Hypersensitivity) Reactions: Fourteen patients (6%) experienced one or more of 440 the following adverse reactions: allergic reaction, facial edema, injection site hypersensitivity,  anaphylactic reaction, laryngismus, and serum sickness.
- Infusion-related Adverse Reactions: Infusion reactions including fever, rigors or chills,  sweating, hypotension, dyspnea, bronchospasm, and nausea occurred during or within 48 hours
-of infusion.
+ Infusion-related Adverse Reactions: Infusion reactions including fever, rigors or chills,  sweating, hypotension, dyspnea, bronchospasm, and nausea occurred during or within 48 hours of infusion.
  Sixty-seven patients (29%) experienced fever, rigors/chills, or sweating within 14 days following the dosimetric dose.
  All patients in the clinical studies received pretreatment with acetaminophen and an antihistamine.
   Myelodysplastic Syndrome (MDS)/Secondary Leukemia: The incidence of MDS/secondary leukemia among the 230 patients included in the clinical studies was 10%  (24/230), with a median follow-up of 39 months and a median time to development of 34 months.
@@ -455,7 +416,7 @@ The incidence of MDS/secondary leukemia among the 765 patients in the expanded a
  The cumulative incidence of MDS/secondary leukemia in this patient population was 1.6% at 2 years and 6% at 5 years.
   Secondary Malignancies: Of the 995 patients in clinical studies and the expanded access programs, there were 65 secondary malignancies reported in 54 patients (5%) in clinical studies and the expanded access program.
  These included non-melanoma skin cancers (26), colorectal  cancer (7), head and neck cancer (6), breast cancer (5), lung cancer (4), bladder cancer (4), melanoma (3), and gastric cancer (2).
-   HypothyroidismHypothyroidism: Of the 230 patients in the clinical studies, 203 patients did not have elevated TSH at study entry.
+   Hypothyroidism: Of the 230 patients in the clinical studies, 203 patients did not have elevated TSH at study entry.
  Of these, 137 patients had at least one post-treatment TSH value available and were not taking thyroid hormonal treatment at study entry.
  With a median  463 up period of 46 months, the incidence of hypothyroidism (elevated TSH or initiation of thyroid replacement therapy) was 18% with a median time to development of 16 months.
  The cumulative incidences of hypothyroidism at 2 and 5 years in these 137 patients were 11% and 19%, respectively.
@@ -471,7 +432,7 @@ Incidence of HAMA Seropositivity Among Patients With Chemotherapy- refractory or
  HAMA positive 6 months 12 months 18 months
  In clinical trials 23/219 (11%) 6% 17% 21%
  In expanded-access program 57/569 (10%) 7% 12% 13%
-  In a study of 76 previously untreated patients with low-grade non-Hodgkin's lymphoma who received the BEXXAR therapeutic regimen, the incidence of conversion to HAMA zeropositivityseropositivity was 70%, with a median time to development of 27 days.
+  In a study of 76 previously untreated patients with low-grade non-Hodgkin's lymphoma who received the BEXXAR therapeutic regimen, the incidence of conversion to HAMA zeropositivity was 70%, with a median time to development of 27 days.
  Immunogenicity assay results are highly dependent on several factors including assay sensitivity and specificity, assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
  For these reasons, comparison of incidence of antibodies to BEXXAR with the incidence of antibodies to other products may be misleading.
   6.3 Postmarketing Experience
@@ -485,7 +446,8 @@ Incidence of HAMA Seropositivity Among Patients With Chemotherapy- refractory or
   8.1 Pregnancy
  Pregnancy: Category D [see Warnings and Precautions (5.6)]: There are no studies of the BEXXAR therapeutic regimen in pregnant women or animals.
  Based on the transplacental  passage of I-131, administration of the BEXXAR therapeutic regimen to a pregnant woman can cause fetal harm including severe and possibly irreversible neonatal hypothyroidism.
- Limited data suggest an increased risk of miscarriage up to a year following I-131 treatment.  Inform patients who are pregnant or become pregnant after the BEXXAR therapeutic regimen about the potential hazard to a fetus.
+ Limited data suggest an increased risk of miscarriage up to a year following I-131 treatment.
+ Inform patients who are pregnant or become pregnant after the BEXXAR therapeutic regimen about the potential hazard to a fetus.
  Evaluate infants born to mothers treated with the BEXXAR therapeutic regimen for hypothyroidism at the time of delivery and during the 510 neonatal period.
   8.3 Nursing Mothers
  Because immunoglobulins are secreted in human milk, it is expected that tositumomab would be present in human milk.
@@ -504,13 +466,14 @@ Incidence of HAMA Seropositivity Among Patients With Chemotherapy- refractory or
 Based on published studies examining patients treated with I-131, the BEXXAR 546 therapeutic regimen may cause transient ovarian or testicular dysfunction.
 Radiation effects may persist for up to 12 months following treatment.
   10 OVERDOSAGE
-  TheThe maximum radiation activity of the I-131 component of the BEXXAR therapeutic regimen, administered to 4 patients, were doses calculated to deliver between 85 cGy and 88 cGy total body irradiation.
+  The maximum radiation activity of the I-131 component of the BEXXAR therapeutic regimen, administered to 4 patients, were doses calculated to deliver between 85 cGy and 88 cGy total body irradiation.
  The incidence of NCI Grade 4 cytopenias was increased in these 4 patients compared to patients who received the recommended therapeutic dose for the BEXXAR therapeutic regimen.
   11 DESCRIPTION
   The BEXXAR therapeutic regimen is composed of the monoclonal antibody tositumomab, and the radiolabeled monoclonal antibody, I-131 tositumomab.
  Tositumomab is a murine IgG2a lambda monoclonal antibody directed against the CD20 antigen, produced in mammalian cells.
  The approximate molecular weight of tositumomab is 150 kD.
-  Tositumomab is supplied as a sterile, pyrogen-free, clear to opalescent, colorless to slightly yellow, preservative-free solution that must be diluted before intravenous administration. The formulation contains 100 mg/mL maltose, 8.5 mg/mL sodium chloride, 1 mg/mL phosphate, 1 mg/mL potassium hydroxide, and Water for Injection, USP.
+  Tositumomab is supplied as a sterile, pyrogen-free, clear to opalescent, colorless to slightly yellow, preservative-free solution that must be diluted before intravenous administration.
+The formulation contains 100 mg/mL maltose, 8.5 mg/mL sodium chloride, 1 mg/mL phosphate, 1 mg/mL potassium hydroxide, and Water for Injection, USP.
  The pH is approximately 7.2.
  I-131 tositumomab is tositumomab covalently linked to Iodine-131.
 I-131 tositumomab is supplied as a sterile, clear, preservative-free liquid.
@@ -524,22 +487,21 @@ Use a 2.55 cm thickness of Pb (to attenuate the radiation emitted by a factor of
    Physical decay is presented in Table 5.
 Table 5.
 Physical Decay Chart: Iodine-131: Half-Life 8.04 Days
- Days Fraction Remaining 0a 1.000 1 0.917 2 0.842 3 0.772 4 0.708 5 0.650 6 0.596 7 0.547 8 0.502 9 0.460 10 0.422 11 0.387 12 0.355 13 0.326 14 0.299
-a Calibration day.
+ Days Fraction Remaining 0a 1.000 1 0.917 2 0.842 3 0.772 4 0.708 5 0.650 6 0.596 7 0.547 8 0.502 9 0.460 10 0.422 11 0.387 12 0.355 13 0.326 14 0.299 a Calibration day.
   12 CLINICAL PHARMACOLOGY
   12.1 Mechanism of Action
  Tositumomab binds specifically to an epitope within the extracellular domain of the CD20 molecule.
  The CD20 molecule is expressed on normal B lymphocytes (pre-B lymphocytes 587 to mature B lymphocytes) and on B-cell non-Hodgkin's lymphomas.
  The CD20 molecule is not shed from the cell surface and is not internalized following antibody binding.
  The BEXXAR therapeutic regimen induces cell death by emitting ionizing radiation to CD20-expressing lymphocytes or neighboring cells.
-In addition to cell death mediated by the radioisotope, other possible mechanisms of action include antibody-dependent cellular cytotoxicity,  dependent cytotoxicity, and CD20-mediated apoptosis.
+In addition to cell death mediated by the radioisotope, other possible mechanisms of action include antibody-dependent cellular cytotoxicity,   cytotoxicity, and CD20-mediated apoptosis.
   12.2 Pharmacodynamics
  In two clinical studies (one in chemotherapy-naive patients and one in heavily pretreated patients), the administration of the BEXXAR therapeutic regimen resulted in sustained depletion of circulating CD20-positive cells.
  The assessment of circulating lymphocytes in these patients did not distinguish normal from malignant cells; consequently, recovery of normal B cell numbers was not directly assessed.
  At 7 weeks following treatment, the median number of circulating CD20-positive cells was zero (range: 0 to 490 cells/mm3) with recovery beginning at approximately 12 weeks.
  At 6 months following treatment, 8 (14%) of 58 chemotherapy-naive
    602 patients and 6 (32%) of 19 heavily pretreated patients had CD20-positive cell counts below 603 normal limits.
- There was no consistent effect of the BEXXAR therapeutic regimen on  treatment serum IgG, IgA, or IgM levels.
+ There was no consistent effect of the BEXXAR therapeutic regimen on   serum IgG, IgA, or IgM levels.
   12.3 Pharmacokinetics 607 A pharmacokinetic study of I-131 tositumomab determined that a 475-mg predose of unlabeled antibody decreased splenic targeting and increased the terminal half-life of the radiolabeled antibody.
 The median blood clearance following administration of 485 mg of tositumomab in 110 patients with non-Hodgkin's lymphomas was 68.2 mg/hr (range: 30.2 to 611 260.8 mg/hr).
   Patients with high tumor burden, splenomegaly, or bone marrow involvement were noted to have a larger volume of distribution, faster clearance, and shorter terminal half-life.
@@ -555,45 +517,28 @@ Ninety-eight percent 621 (98%) of the clearance was accounted for in the urine.
  However, Iodine I-131 is a potential carcinogen and mutagen.
   Administration of the BEXXAR therapeutic regimen exposes the testes and ovaries to radiation [see Dosage and Administration (2.9)].
   629 14 CLINICAL STUDIES
-  The clinical benefit of the BEXXAR therapeutic regimen was established in a single-arm clinical trial conducted in 40 patients with low-grade, transformed low-grade, or follicular  cell lymphoma.
+  The clinical benefit of the BEXXAR therapeutic regimen was established in a single-arm clinical trial conducted in 40 patients with low-grade, transformed low-grade, or follicular   lymphoma.
  Patients had a Karnofsky performance status of at least 60%, a granulocyte count of 1500 cells/mm3, a platelet count greater than or equal to 100,000/mm3, less than or equal to 25% of the intra-trabecular marrow space involved by lymphoma, and no evidence of progressive disease arising in a field irradiated with &gt;3500 cGy within one year of completion of irradiation.
  This study enrolled 40 patients with low-grade or transformed low-grade or follicular large-cell lymphoma whose disease had not responded to, or had progressed following, at least 4 doses of rituximab therapy.
-The median age was 57 years (range: 35 to 78 years); the median 640 time from diagnosis to protocol entry was 50 months (range: 12 to 170 months); and the median
-number of prior chemotherapy regimens was 4 (range: 1 to 11).
+The median age was 57 years (range: 35 to 78 years); the median 640 time from diagnosis to protocol entry was 50 months (range: 12 to 170 months); and the median number of prior chemotherapy regimens was 4 (range: 1 to 11).
  Overall, 35 of the 40 patients were rituximab-refractory (defined as no response or a response of less than 6 months' duration following rituximab therapy).
  The main outcome measure was overall response rate as determined by an independent panel that reviewed patient records and radiologic studies (Table 6).
   Table 6.
 Efficacy Outcomes for the BEXXAR Therapeutic Regimen
-  Response n = 40 Overall Response
-Rate  95%
- CIa
-68% (51%, 81%)
- Response Duration (months) Median
-95% CIa
-Range
-16 (10, NRb) 1+ to 38+
- Complete Response Rate  95% CIa
-33% (19%, 49%)
- Complete Response Response Duration (months) Median
-95% CIa
-Range
-NR (15, NR) 4 to 38+
+  Response n = 40 Overall Response Rate  95%
+ CIa 68% (51%, 81%)
+ Response Duration (months) Median 95% CIa Range 16 (10, NRb) 1+ to 38+
+ Complete Response Rate  95% CIa 33% (19%, 49%)
+ Complete Response Response Duration (months) Median 95% CIa Range NR (15, NR) 4 to 38+
   a CI = confidence interval
  b NR = not reached, median duration of follow-up = 26 months
  c Complete response rate = pathologic and clinical complete responses
-  The results of this study were supported by demonstration of durable objective responses
-in 4 single-arm studies enrolling 190 patients evaluable for efficacy with rituximab-naive, follicular non-Hodgkin's lymphoma with or without transformation, who had relapsed following
-or were refractory to chemotherapy.
-  In these studies, the overall response rates ranged from 47%
-to 64% and the median durations of response ranged from 12 to 18 months.
+  The results of this study were supported by demonstration of durable objective responses in 4 single-arm studies enrolling 190 patients evaluable for efficacy with rituximab-naive, follicular non-Hodgkin's lymphoma with or without transformation, who had relapsed following or were refractory to chemotherapy.
+  In these studies, the overall response rates ranged from 47% to 64% and the median durations of response ranged from 12 to 18 months.
   16 HOW SUPPLIED/STORAGE AND HANDLING
-  The BEXXAR therapeutic regimen is supplied as 2 separate units: dosimetric step
-components and therapeutic step components.
- The components of the dosimetric step are
-shipped from separate sites; when ordering, ensure that the components are scheduled to arrive
-on the same day.
- Similarly, the components of the therapeutic step are shipped from separate
-sites; when ordering, ensure that the components are scheduled to arrive on the same day.
+  The BEXXAR therapeutic regimen is supplied as 2 separate units: dosimetric step components and therapeutic step components.
+ The components of the dosimetric step are shipped from separate sites; when ordering, ensure that the components are scheduled to arrive on the same day.
+ Similarly, the components of the therapeutic step are shipped from separate sites; when ordering, ensure that the components are scheduled to arrive on the same day.
   16.1 Dosimetric Dose Components
   A carton (NDC 0007-3260-31) containing 2 single-use 225-mg vials (NDC 0007-3260 01) and 1 single-use 35-mg vial (NDC 0007-3260-21) of tositumomab solution each at a nominal concentration of 14 mg/mL
  One single-use vial (NDC 0007-3261-01) containing not less than 20 mL of I-131  tositumomab solution at not less than protein and activity concentrations of 0.1 mg/mL and 0.61 mCi/mL (at calibration)
@@ -605,8 +550,10 @@ sites; when ordering, ensure that the components are scheduled to arrive on the 
 Protect from strong light.
  Do not shake; do not freeze.
  Diluted  tositumomab solutions are stable for up to 24 hours when stored refrigerated and for up to 8 684 hours at room temperature.
- Discard unused portions. I-131 tositumomab: Store vials of I-131 tositumomab in the original lead pot at a temperature of -4oF (-20 C) or below until thawed prior to administration.
- Thawed dosimetric and therapeutic doses of I-131 tositumomab (including diluted vials) are stable for up to 8 hours at 36 F to 46 F (2 C to 8 C) or at room temperature. I-131 tositumomab does not contain a preservative.
+ Discard unused portions.
+I-131 tositumomab: Store vials of I-131 tositumomab in the original lead pot at a temperature of -4oF (-20 C) or below until thawed prior to administration.
+ Thawed dosimetric and therapeutic doses of I-131 tositumomab (including diluted vials) are stable for up to 8 hours at 36 F to 46 F (2 C to 8 C) or at room temperature.
+I-131 tositumomab does not contain a preservative.
  Do not shake; do not freeze.
 Discard unused portions according to federal and state laws regarding radioactive and biohazardous waste.
   17 PATIENT COUNSELING INFORMATION
@@ -619,7 +566,7 @@ Discard unused portions according to federal and state laws regarding radioactiv
  Provide patient-specific advice orally and in writing [see Warnings and Precautions (5.3)].
  Of the need for life-long monitoring for hypothyroidism [see Warnings and Precautions (5.5)].
  Who are pregnant that the BEXXAR therapeutic regimen can cause hypothyroidism in the infant [see Warnings and Precautions (5.6), Use in Special Populations (8.7)].
- To check with their physicians before receiving live virus vaccinations [see Warnings andand Precautions (5.8)].
+ To check with their physicians before receiving live virus vaccinations [see Warnings and Precautions (5.8)].
  Who are of reproductive potential to use effective contraceptive methods during treatment and for a minimum of 12 months following the BEXXAR therapeutic regimen [see Use in Special Populations (8.7)].
  To discontinue nursing during and after the BEXXAR therapeutic regimen [see Use in Special Populations (8.3)].
 717 718 BEXXAR is a registered trademark of GlaxoSmithKline.
