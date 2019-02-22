@@ -1,0 +1,349 @@
+T1	tradename 105 111	MEGACE
+T3	tradename 176 182	MEGACE
+T5	tradename 189 195	MEGACE
+T7	activeingredient 200 217	megestrol acetate
+T9	routeofadministration 224 228	Oral
+T11	fdaapprovaldate 263 267	1993
+T13	tradename 335 341	Megace
+T15	routeofadministration 345 349	oral
+T17	chemoclass 366 375	progestin
+T19	indication 406 414	anorexia
+T21	indication 416 424	cachexia
+T23	indication 432 467	unexplained significant weight loss
+T25	tradename 647 653	Megace
+T27	routeofadministration 657 661	oral
+T29	dose 676 682	625 mg
+T31	frequency 682 686	/day
+T33	frequency 692 696	/day
+T35	frequency 713 719	daily)
+T37	routeofadministration 819 823	Oral
+T39	activeingredient 856 873	megestrol acetate
+T41	activeingredient 985 1002	megestrol acetate
+T43	activeingredient 1416 1434	megestrol acetate.
+T45	activeingredient 1562 1579	megestrol acetate
+T47	activeingredient 1867 1884	megestrol acetate
+T49	routeofadministration 1885 1889	oral
+T51	adversereaction 1942 1948	nausea
+T53	adversereaction 1950 1958	diarrhea
+T55	adversereaction 1960 1969	impotence
+T57	adversereaction 1971 1975	rash
+T59	adversereaction 1977 1987	flatulence
+T61	adversereaction 1989 2001	hypertension
+T63	adversereaction 2007 2015	asthenia
+T65	company 2071 2089	Par Pharmaceutical
+T67	company 2091 2095	Inc.
+T69	co-administereddrug 2277 2286	indinavir
+T71	co-administereddrug 2332 2341	indinavir
+T73	activeingredient 2389 2406	megestrol acetate
+T75	tradename 2866 2872	Megace
+T77	routeofadministration 2876 2880	oral
+T79	co-administereddrug 3435 3444	Indinavir
+T81	co-administereddrug 3450 3460	Zidovudine
+T83	co-administereddrug 3465 3474	Rifabutin
+T85	tradename 4126 4132	Megace
+T87	routeofadministration 4136 4140	oral
+T89	indication 4186 4194	anorexia
+T91	indication 4196 4204	cachexia
+T93	indication 4212 4247	unexplained significant weight loss
+T95	activeingredient 4387 4404	megestrol acetate
+T97	indication 4409 4420	weight loss
+T99	indication 4473 4484	weight loss
+T101	activeingredient 4713 4730	Megestrol acetate
+T103	indication 4777 4789	weight loss.
+T105	tradename 4863 4869	Megace
+T107	routeofadministration 4873 4877	oral
+T109	dose 4892 4898	625 mg
+T111	frequency 4898 4902	/day
+T113	frequency 4908 4912	/day
+T115	frequency 4929 4935	daily)
+T117	tradename 5213 5219	Megace
+T119	routeofadministration 5261 5265	oral
+T121	activeingredient 5298 5315	megestrol acetate
+T123	tradename 5325 5331	Megace
+T125	activeingredient 5371 5388	megestrol acetate
+T127	tradename 5392 5398	Megace
+T129	routeofadministration 5399 5403	oral
+T131	activeingredient 5435 5452	megestrol acetate
+T133	routeofadministration 5453 5457	oral
+T135	activeingredient 5560 5577	megestrol acetate
+T137	activeingredient 5859 5876	Megestrol acetate
+T139	activeingredient 6422 6439	megestrol acetate
+T141	routeofadministration 6440 6444	oral
+T143	activeingredient 6588 6606	megestrol acetate.
+T145	activeingredient 6734 6751	megestrol acetate
+T147	activeingredient 6977 6994	megestrol acetate
+T149	tradename 7135 7141	Megace
+T151	tradename 7674 7680	Megace
+T153	activeingredient 8051 8069	megestrol acetate.
+T155	tradename 8872 8878	Megace
+T157	activeingredient 8883 8900	megestrol acetate
+T159	routeofadministration 8901 8905	oral
+T161	activeingredient 8959 8976	megestrol acetate
+T163	routeofadministration 8977 8981	oral
+T165	activeingredient 9204 9221	megestrol acetate
+T167	routeofadministration 9222 9226	oral
+T169	activeingredient 9500 9517	Megestrol Acetate
+T171	adversereaction 9604 9612	Diarrhea
+T173	adversereaction 9632 9641	Impotence
+T175	adversereaction 9658 9662	Rash
+T177	adversereaction 9679 9689	Flatulence
+T179	adversereaction 9706 9718	Hypertension
+T181	adversereaction 9734 9742	Asthenia
+T183	adversereaction 9758 9766	Insomnia
+T185	adversereaction 9782 9788	Nausea
+T187	adversereaction 9804 9810	Anemia
+T189	adversereaction 9847 9863	Libido Decreased
+T191	adversereaction 9879 9888	Dyspepsia
+T193	adversereaction 9904 9917	Hyperglycemia
+T195	adversereaction 9933 9941	Headache
+T197	adversereaction 9958 9962	Pain
+T199	adversereaction 9978 9986	Vomiting
+T201	adversereaction 10002 10011	Pneumonia
+T203	adversereaction 10027 10044	Urinary Frequency
+T205	activeingredient 10427 10444	megestrol acetate
+T207	adversereaction 10500 10514	abdominal pain
+T209	adversereaction 10516 10526	chest pain
+T211	adversereaction 10528 10537	infection
+T213	adversereaction 10539 10549	moniliasis
+T215	adversereaction 10554 10561	sarcoma
+T217	adversereaction 10587 10601	cardiomyopathy
+T219	adversereaction 10606 10617	palpitation
+T221	adversereaction 10638 10653	c onsti pa tion
+T223	adversereaction 10655 10665	dr y mouth
+T225	adversereaction 10667 10682	hepatome ga l y
+T227	adversereaction 10684 10704	increased salivation
+T229	adversereaction 10709 10724	oral moniliasis
+T231	adversereaction 10795 10808	LDH increased
+T233	adversereaction 10810 10815	edema
+T235	adversereaction 10820 10836	peripheral edema
+T237	adversereaction 10856 10867	paresthesia
+T239	adversereaction 10869 10878	confusion
+T241	adversereaction 10880 10890	convulsion
+T243	adversereaction 10892 10902	depression
+T245	adversereaction 10904 10914	neuropathy
+T247	adversereaction 10916 10927	hypesthesia
+T249	adversereaction 10932 10949	abnormal thinking
+T251	adversereaction 10972 10979	dyspnea
+T253	adversereaction 10981 10986	cough
+T255	adversereaction 10988 10999	pharyngitis
+T257	adversereaction 11004 11017	lung disorder
+T259	adversereaction 11041 11049	alopecia
+T261	adversereaction 11051 11057	herpes
+T263	adversereaction 11059 11067	pruritus
+T265	adversereaction 11069 11089	vesiculobullous rash
+T267	adversereaction 11091 11099	sweating
+T269	adversereaction 11104 11117	skin disorder
+T271	adversereaction 11135 11144	amblyopia
+T273	adversereaction 11166 11177	albuminuria
+T275	adversereaction 11179 11199	urinary incontinence
+T277	adversereaction 11201 11224	urinary tract infection
+T279	adversereaction 11229 11242	gynecomastia.
+T281	activeingredient 11313 11330	megestrol acetate
+T283	routeofadministration 11331 11335	oral
+T285	adversereaction 11355 11379	thromboembolic phenomena
+T287	adversereaction 11390 11406	thrombophlebitis
+T289	adversereaction 11408 11428	deep vein thrombosis
+T291	adversereaction 11434 11452	pulmonary embolism
+T293	adversereaction 11458 11477	glucose intolerance
+T295	co-administereddrug 11547 11556	Indinavir
+T297	co-administereddrug 11609 11618	indinavir
+T299	activeingredient 11622 11639	megestrol acetate
+T301	co-administereddrug 11676 11685	indinavir
+T303	activeingredient 11733 11750	megestrol acetate
+T305	co-administereddrug 11792 11802	Zidovudine
+T307	co-administereddrug 11807 11816	Rifabutin
+T309	co-administereddrug 11843 11853	zidovudine
+T311	co-administereddrug 11858 11867	rifabutin
+T313	activeingredient 11883 11900	megestrol acetate
+T315	activeingredient 12206 12223	megestrol acetate
+T317	tradename 12485 12491	Megace
+T319	routeofadministration 12498 12502	oral
+T321	activeingredient 12663 12680	megestrol acetate
+T323	routeofadministration 12681 12685	oral
+T325	indication 12717 12725	anorexia
+T327	indication 12727 12735	cachexia
+T329	indication 12743 12778	unexplained significant weight loss
+T331	activeingredient 13317 13334	Megestrol acetate
+T333	activeingredient 13672 13689	Megestrol acetate
+T335	tradename 13802 13808	Megace
+T337	chemoclass 13817 13829	progesterone
+T339	activeingredient 13975 13992	megestrol acetate
+T341	routeofadministration 13993 13997	oral
+T343	dose 14044 14051	1200 mg
+T345	frequency 14051 14056	/day.
+T347	adversereaction 14201 14209	diarrhea
+T349	adversereaction 14211 14217	nausea
+T351	adversereaction 14219 14233	abdominal pain
+T353	adversereaction 14235 14254	shortness of breath
+T355	adversereaction 14256 14261	cough
+T357	adversereaction 14263 14276	unsteady gait
+T359	adversereaction 14278 14290	listlessness
+T361	adversereaction 14296 14307	chest pain.
+T363	tradename 14358 14364	Megace
+T365	routeofadministration 14371 14375	oral
+T367	activeingredient 14462 14479	Megestrol acetate
+T369	tradename 14657 14663	Megace
+T371	routeofadministration 14667 14671	oral
+T373	activeingredient 14692 14709	megestrol acetate
+T375	chemoclass 14778 14791	progesterone.
+T377	activeingredient 14793 14810	Megestrol acetate
+T379	molecularweight 15034 15041	384.52.
+T381	tradename 15043 15049	Megace
+T383	routeofadministration 15059 15063	oral
+T385	activeingredient 15096 15113	megestrol acetate
+T387	tradename 15122 15128	Megace
+T389	routeofadministration 15132 15136	oral
+T391	inactiveingredient 15193 15200	alcohol
+T393	inactiveingredient 15229 15251	artificial lime flavor
+T395	inactiveingredient 15253 15276	citric acid monohydrate
+T397	inactiveingredient 15278 15293	docusate sodium
+T399	inactiveingredient 15295 15339	hydroxypropyl methylcellulose (hypromellose)
+T401	inactiveingredient 15341 15376	natural and artificial lemon flavor
+T403	inactiveingredient 15378 15392	purified water
+T405	inactiveingredient 15394 15409	sodium benzoate
+T407	inactiveingredient 15411 15435	sodium citrate dihydrate
+T409	inactiveingredient 15441 15449	sucrose.
+T411	activeingredient 15578 15595	megestrol acetate
+T413	indication 15619 15628	cachexia.
+T415	activeingredient 15661 15678	megestrol acetate
+T417	indication 15711 15719	cachexia
+T419	activeingredient 15836 15853	megestrol acetate
+T421	dose 15878 15884	625 mg
+T423	tradename 15900 15906	Megace
+T425	routeofadministration 15910 15914	oral
+T427	dose 15965 15971	800 mg
+T429	activeingredient 15986 16003	megestrol acetate
+T431	routeofadministration 16004 16008	oral
+T433	tradename 16097 16103	Megace
+T435	activeingredient 16244 16261	megestrol acetate
+T437	dose 16301 16307	150 mg
+T439	dose 16312 16318	675 mg
+T441	tradename 16325 16331	Megace
+T443	dose 16601 16607	625 mg
+T445	tradename 16608 16614	Megace
+T447	activeingredient 16704 16721	megestrol acetate
+T449	activeingredient 16798 16815	megestrol acetate
+T451	tradename 16986 16992	Megace
+T453	activeingredient 17077 17094	megestrol acetate
+T455	indication 17218 17229	weight loss
+T457	routeofadministration 17279 17283	oral
+T459	dose 17293 17299	800 mg
+T461	frequency 17299 17303	/day
+T463	activeingredient 17307 17324	megestrol acetate
+T465	routeofadministration 17325 17329	oral
+T467	activeingredient 17378 17395	megestrol acetate
+T469	cmax 17400 17416	753 (539) ng/mL.
+T471	auc 17435 17462	10476 ( 7788) ng x hr/mL.
+T473	tmax 17485 17496	five hours.
+T475	dose 17596 17602	750 mg
+T477	activeingredient 17606 17623	megestrol acetate
+T479	routeofadministration 17624 17628	oral
+T481	cmax 17684 17699	490 (238) ng/mL
+T483	auc 17704 17726	6779 (3048) hr x ng/mL
+T485	tmax 17769 17781	three hours.
+T487	activeingredient 17972 17989	megestrol acetate
+T489	dose 18029 18039	4 to 90 mg
+T491	activeingredient 18259 18276	Megestrol acetate
+T493	eliminationhalflife 18577 18591	20 to 50 hours
+T495	activeingredient 18661 18678	megestrol acetate
+T497	co-administereddrug 18825 18834	indinavir
+T499	co-administereddrug 18836 18846	zidovudine
+T501	co-administereddrug 18850 18859	rifabutin
+T503	activeingredient 18887 18904	megestrol acetate
+T505	co-administereddrug 18925 18935	Zidovudine
+T507	co-administereddrug 19023 19033	zidovudine
+T509	activeingredient 19039 19056	megestrol acetate
+T511	co-administereddrug 19091 19100	Rifabutin
+T513	co-administereddrug 19188 19197	rifabutin
+T515	activeingredient 19203 19220	megestrol acetate
+T517	co-administereddrug 19255 19264	Indinavir
+T519	activeingredient 19353 19370	megestrol acetate
+T521	dose 19372 19378	675 mg
+T523	co-administereddrug 19396 19405	indinavir
+T525	dose 19419 19426	800 mg)
+T527	co-administereddrug 19531 19541	indinavir.
+T529	activeingredient 19729 19746	megestrol acetate
+T531	dose 19810 19820	13.3 mg/kg
+T533	frequency 19820 19825	/day)
+T535	activeingredient 19917 19934	megestrol acetate
+T537	dose 19936 19940	0.01
+T539	dose 19942 19959	0.1 or 0.25 mg/kg
+T541	frequency 19959 19964	/day)
+T543	dose 20130 20134	0.01
+T545	dose 20136 20152	0.1 or 0.5 mg/kg
+T547	frequency 20152 20156	/day
+T549	activeingredient 20157 20175	megestrol acetate.
+T551	dose 20236 20251	3.9 or 10 mg/kg
+T553	frequency 20251 20255	/day
+T555	activeingredient 20259 20276	megestrol acetate
+T557	tradename 20443 20449	Megace
+T559	routeofadministration 20453 20457	oral
+T561	activeingredient 20514 20531	Megestrol acetate
+T563	dose 20808 20830	16.25 and 32.50 mg/kg.
+T565	dose 20963 20973	13.3 mg/kg
+T567	frequency 20973 20978	/day)
+T569	activeingredient 21076 21101	megestrol acetate-treated
+T571	tradename 21353 21359	Megace
+T573	activeingredient 21604 21621	megestrol acetate
+T575	tradename 21680 21686	Megace
+T577	activeingredient 21694 21711	megestrol acetate
+T579	routeofadministration 21712 21716	oral
+T581	activeingredient 21767 21784	megestrol acetate
+T583	routeofadministration 21785 21789	oral
+T585	activeingredient 21947 21964	megestrol acetate
+T587	dose 21982 21988	100 mg
+T589	dose 21990 21996	400 mg
+T591	dose 22002 22008	800 mg
+T593	frequency 22009 22016	per day
+T595	indication 22054 22071	anorexia/cachexia
+T597	indication 22076 22100	significant weight loss.
+T599	dose 22488 22494	800 mg
+T601	dose 22505 22511	400 mg
+T603	dose 22651 22657	800 mg
+T605	dose 22690 22696	400 mg
+T607	dose 22720 22726	100 mg
+T609	dose 23203 23209	800 mg
+T611	dose 23227 23233	400 mg
+T613	dose 23254 23260	100 mg
+T615	dose 23452 23458	800 mg
+T617	dose 23742 23748	800 mg
+T619	activeingredient 24116 24133	megestrol acetate
+T621	dose 24134 24140	800 mg
+T623	frequency 24140 24144	/day
+T625	indication 24182 24199	anorexia/cachexia
+T627	indication 24204 24228	significant weight loss.
+T629	dose 24495 24501	800 mg
+T631	activeingredient 25981 25998	Megestrol Acetate
+T633	routeofadministration 25999 26003	Oral
+T635	activeingredient 26127 26144	Megestrol Acetate
+T637	tradename 26978 26984	Megace
+T639	routeofadministration 26988 26992	oral
+T641	routeofadministration 27042 27046	oral
+T643	activeingredient 27079 27096	megestrol acetate
+T645	tradename 27187 27193	Megace
+T647	routeofadministration 27197 27201	oral
+T649	activeingredient 27807 27825	megestrol acetate.
+T651	tradename 27859 27865	Megace
+T653	tradename 27965 27971	Megace
+T655	tradename 28080 28086	Megace
+T657	activeingredient 28143 28160	megestrol acetate
+T659	tradename 28164 28170	Megace
+T661	routeofadministration 28171 28175	oral
+T663	activeingredient 28207 28224	megestrol acetate
+T665	routeofadministration 28225 28229	oral
+T667	tradename 28244 28250	Megace
+T669	activeingredient 28273 28290	megestrol acetate
+T671	tradename 28319 28330	Megace oral
+T673	activeingredient 28352 28369	megestrol acetate
+T675	routeofadministration 28370 28374	oral
+T677	company 28686 28714	PAR PHARMACEUTICAL COMPANIES
+T679	company 28716 28720	INC.
+T681	u.s.patent 28770 28771	6
+T683	u.s.patent 28772 28775	592
+T685	u.s.patent 28776 28781	903 7
+T687	u.s.patent 28782 28785	101
+T689	u.s.patent 28786 28789	576
+T691	tradename 28822 28828	Megace
+T693	company 28858 28886	Bristol-Myers Squibb Company
+T695	company 28899 28917	Par Pharmaceutical
+T697	company 28919 28923	Inc.

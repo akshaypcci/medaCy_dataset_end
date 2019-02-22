@@ -1,0 +1,613 @@
+T1	tradename 0 8	ADCETRIS
+T3	nanoparticle 11 31	brentuximab vedotin)
+T5	tradename 139 147	ADCETRIS
+T7	tradename 211 229	ADCETRIS. ADCETRIS
+T9	nanoparticle 232 252	brentuximab vedotin)
+T11	routeofadministration 272 283	intravenous
+T13	fdaapprovaldate 311 315	2011
+T15	adversereaction 325 373	PROGRESSIVE MULTIFOCAL LEUKOENCEPHALOPATHY (PML)
+T17	tradename 515 523	ADCETRIS
+T19	tradename 811 819	ADCETRIS
+T21	chemoclass 825 838	CD30-directed
+T23	nanoparticle 839 862	antibody-drug conjugate
+T25	indication 905 921	Hodgkin lymphoma
+T27	tradename 1099 1099	
+T29	indication 1099 1138	Systemic anaplastic large cell lymphoma
+T31	routeofadministration 1649 1660	intravenous
+T33	frequency 1686 1700	every 3 weeks.
+T35	dose 1726 1735	1.8 mg/kg
+T37	tradename 2213 2213	
+T39	adversereaction 2213 2235	Peripheral neuropathy:
+T41	tradename 2321 2321	
+T43	adversereaction 2321 2356	Anaphylaxis and infusion reactions:
+T45	adversereaction 2363 2380	infusion reaction
+T47	adversereaction 2418 2429	anaphylaxis
+T49	tradename 2483 2483	
+T51	adversereaction 2483 2506	Hematologic toxicities:
+T53	tradename 2559 2571	ADCETRIS. 
+T55	adversereaction 2611 2635	Grade 3 or 4 neutropenia
+T57	tradename 2748 2748	
+T59	adversereaction 2748 2796	Serious infections and opportunistic infections:
+T61	adversereaction 2843 2852	bacterial
+T63	adversereaction 2854 2880	fungal or viral infections
+T65	tradename 2889 2889	
+T67	adversereaction 2889 2910	Tumor lysis syndrome:
+T69	tradename 2998 2998	
+T71	adversereaction 2998 3013	Hepatotoxicity:
+T73	tradename 3058 3058	
+T75	adversereaction 3058 3089	Serious dermatologic reactions:
+T77	tradename 3176 3176	
+T79	adversereaction 3176 3198	Embryo-fetal toxicity:
+T81	adversereaction 3432 3443	neutropenia
+T83	adversereaction 3445 3474	peripheral sensory neuropathy
+T85	adversereaction 3476 3483	fatigue
+T87	adversereaction 3485 3491	nausea
+T89	adversereaction 3493 3499	anemia
+T91	adversereaction 3501 3534	upper respiratory tract infection
+T93	adversereaction 3536 3544	diarrhea
+T95	adversereaction 3546 3553	pyrexia
+T97	adversereaction 3555 3559	rash
+T99	adversereaction 3561 3577	thrombocytopenia
+T101	adversereaction 3579 3584	cough
+T103	adversereaction 3590 3598	vomiting
+T105	company 3654 3670	Seattle Genetics
+T107	company 3672 3676	Inc.
+T109	activeingredient 3958 3988	monomethyl auristatin E (MMAE)
+T111	activeingredient 4142 4146	MMAE
+T113	adversereaction 4387 4435	PROGRESSIVE MULTIFOCAL LEUKOENCEPHALOPATHY (PML)
+T115	indication 4468 4484	Hodgkin Lymphoma
+T117	indication 4490 4529	Systemic Anaplastic Large Cell Lymphoma
+T119	adversereaction 4753 4774	Peripheral Neuropathy
+T121	adversereaction 4781 4815	Anaphylaxis and Infusion Reactions
+T123	adversereaction 4822 4844	Hematologic Toxicities
+T125	adversereaction 4851 4898	Serious Infections and Opportunistic Infections
+T127	adversereaction 4905 4925	Tumor Lysis Syndrome
+T129	adversereaction 4932 4993	Increased Toxicity in the Presence of Severe Renal Impairment
+T131	adversereaction 5000 5075	Increased Toxicity in the Presence of Moderate or Severe Hepatic Impairment
+T133	adversereaction 5082 5096	Hepatotoxicity
+T135	adversereaction 5103 5145	Progressive Multifocal Leukoencephalopathy
+T137	adversereaction 5153 5183	Serious Dermatologic Reactions
+T139	adversereaction 5191 5212	Embryo-Fetal Toxicity
+T141	tradename 5350 5359	ADCETRIS 
+T143	tradename 5374 5382	ADCETRIS
+T145	indication 5800 5816	Hodgkin Lymphoma
+T147	indication 5823 5862	Systemic Anaplastic Large Cell Lymphoma
+T149	tradename 6272 6280	ADCETRIS
+T151	indication 6378 6394	Hodgkin Lymphoma
+T153	tradename 6396 6404	ADCETRIS
+T155	nanoparticle 6406 6426	brentuximab vedotin)
+T157	indication 6471 6492	Hodgkin lymphoma (HL)
+T159	indication 7006 7045	Systemic Anaplastic Large Cell Lymphoma
+T161	tradename 7047 7055	ADCETRIS
+T163	indication 7100 7147	systemic anaplastic large cell lymphoma (sALCL)
+T165	tradename 7627 7635	ADCETRIS
+T167	routeofadministration 7642 7653	intravenous
+T169	frequency 7679 7692	every 3 weeks
+T171	tradename 7817 7825	ADCETRIS
+T173	dose 7896 7918	1.8 mg/kg up to 180 mg
+T175	dose 8043 8065	1.8 mg/kg up to 180 mg
+T177	dose 8203 8225	1.2 mg/kg up to 120 mg
+T179	dose 8512 8522	1.2 mg/kg.
+T181	tradename 8559 8567	ADCETRIS
+T183	tradename 8620 8628	ADCETRIS
+T185	tradename 8981 8989	ADCETRIS
+T187	dose 8993 9003	1.2 mg/kg.
+T189	tradename 9085 9093	ADCETRIS
+T191	routeofadministration 9100 9111	intravenous
+T193	tradename 9139 9147	ADCETRIS
+T195	indication 9286 9296	anticancer
+T197	tradename 9595 9603	ADCETRIS
+T199	nanoparticle 9704 9724	brentuximab vedotin.
+T201	tradename 10382 10390	ADCETRIS
+T203	nanoparticle 10671 10691	brentuximab vedotin.
+T205	tradename 10770 10778	ADCETRIS
+T207	dose 10987 10992	50 mg
+T209	nanoparticle 10996 11015	brentuximab vedotin
+T211	tradename 11159 11168	 ADCETRIS
+T213	adversereaction 11361 11382	Peripheral Neuropathy
+T215	tradename 11384 11392	ADCETRIS
+T217	adversereaction 11412 11433	peripheral neuropathy
+T219	adversereaction 11476 11503	peripheral motor neuropathy
+T221	tradename 11531 11547	ADCETRIS-induced
+T223	adversereaction 11548 11569	peripheral neuropathy
+T225	indication 11592 11594	HL
+T227	indication 11599 11604	sALCL
+T229	adversereaction 11663 11674	neuropathy.
+T231	adversereaction 11812 11822	neuropathy
+T233	adversereaction 11841 11851	neuropathy
+T235	adversereaction 11925 11935	neuropathy
+T237	adversereaction 11945 11957	hypoesthesia
+T239	adversereaction 11959 11972	hyperesthesia
+T241	adversereaction 11974 11985	paresthesia
+T243	adversereaction 11987 11997	discomfort
+T245	adversereaction 11999 12018	a burning sensation
+T247	adversereaction 12020 12036	neuropathic pain
+T249	adversereaction 12041 12050	weakness.
+T251	adversereaction 12092 12113	peripheral neuropathy
+T253	tradename 12173 12181	ADCETRIS
+T255	adversereaction 12218 12279	Anaphylaxis and Infusion Reactions Infusion-related reactions
+T257	adversereaction 12291 12302	anaphylaxis
+T259	tradename 12323 12335	ADCETRIS. 
+T261	adversereaction 12374 12385	anaphylaxis
+T263	tradename 12452 12460	ADCETRIS
+T265	adversereaction 12513 12538	infusion-related reaction
+T267	co-administereddrug 12771 12784	acetaminophen
+T269	co-administereddrug 12789 12802	antihistamine
+T271	co-administereddrug 12810 12825	corticosteroid.
+T273	adversereaction 12832 12854	Hematologic Toxicities
+T275	adversereaction 12890 12901	neutropenia
+T277	adversereaction 12906 12941	Grade 3 or Grade 4 thrombocytopenia
+T279	adversereaction 12945 12951	anemia
+T281	tradename 12967 12979	ADCETRIS. 
+T283	adversereaction 12979 12998	Febrile neutropenia
+T285	tradename 13037 13049	ADCETRIS. 
+T287	tradename 13113 13121	ADCETRIS
+T289	adversereaction 13190 13215	Grade 3 or 4 neutropenia.
+T291	adversereaction 13249 13273	Grade 3 or 4 neutropenia
+T293	tradename 13372 13380	ADCETRIS
+T295	adversereaction 13424 13471	Serious Infections and Opportunistic Infections
+T297	tradename 13473 13473	
+T299	adversereaction 13473 13520	Serious infections and opportunistic infections
+T301	adversereaction 13529 13538	pneumonia
+T303	adversereaction 13540 13550	bacteremia
+T305	adversereaction 13556 13578	sepsis or septic shock
+T307	tradename 13650 13662	ADCETRIS. 
+T309	adversereaction 13746 13755	bacterial
+T311	adversereaction 13757 13763	fungal
+T313	adversereaction 13765 13785	or viral infections.
+T315	adversereaction 13792 13812	Tumor Lysis Syndrome
+T317	adversereaction 13906 13927	tumor lysis syndrome.
+T319	adversereaction 13982 14043	Increased Toxicity in the Presence of Severe Renal Impairment
+T321	adversereaction 14101 14107	deaths
+T323	activeingredient 14226 14230	MMAE
+T325	tradename 14405 14413	ADCETRIS
+T327	adversereaction 14546 14621	Increased Toxicity in the Presence of Moderate or Severe Hepatic Impairment
+T329	adversereaction 14679 14685	deaths
+T331	tradename 14823 14831	ADCETRIS
+T333	adversereaction 14964 14978	Hepatotoxicity
+T335	adversereaction 14997 15011	hepatotoxicity
+T337	adversereaction 15023 15037	fatal outcomes
+T339	tradename 15075 15087	ADCETRIS. 
+T341	tradename 15238 15246	ADCETRIS
+T343	tradename 15256 15264	ADCETRIS
+T345	adversereaction 15486 15500	hepatotoxicity
+T347	tradename 15560 15572	ADCETRIS.  
+T349	adversereaction 15576 15618	Progressive Multifocal Leukoencephalopathy
+T351	adversereaction 15652 15655	PML
+T353	adversereaction 15660 15665	death
+T355	tradename 15687 15703	ADCETRIS-treated
+T357	tradename 15730 15738	ADCETRIS
+T359	adversereaction 15893 15896	PML
+T361	tradename 16004 16012	ADCETRIS
+T363	adversereaction 16046 16049	PML
+T365	tradename 16066 16074	ADCETRIS
+T367	adversereaction 16100 16103	PML
+T369	adversereaction 16125 16155	Serious Dermatologic Reactions
+T371	tradename 16157 16157	
+T373	adversereaction 16157 16187	Stevens-Johnson syndrome (SJS)
+T375	adversereaction 16192 16224	toxic epidermal necrolysis (TEN)
+T377	adversereaction 16236 16250	fatal outcomes
+T379	tradename 16276 16285	ADCETRIS.
+T381	adversereaction 16290 16293	SJS
+T383	adversereaction 16297 16300	TEN
+T385	tradename 16321 16329	ADCETRIS
+T387	adversereaction 16381 16402	Embryo-Fetal Toxicity
+T389	tradename 16457 16465	ADCETRIS
+T391	tradename 16554 16562	ADCETRIS
+T393	tradename 16625 16625	
+T395	nanoparticle 16625 16644	Brentuximab vedotin
+T397	adversereaction 16652 16675	embryo-fetal toxicities
+T399	adversereaction 16701 16727	decreased embryo viability
+T401	adversereaction 16732 16751	fetal malformations
+T403	adversereaction 17247 17268	Peripheral neuropathy
+T405	tradename 17307 17307	
+T407	adversereaction 17307 17341	Anaphylaxis and Infusion Reactions
+T409	tradename 17380 17380	
+T411	adversereaction 17380 17402	Hematologic Toxicities
+T413	adversereaction 17448 17495	Serious Infections and Opportunistic Infections
+T415	tradename 17534 17534	
+T417	adversereaction 17534 17554	Tumor Lysis Syndrome
+T419	tradename 17593 17593	
+T421	adversereaction 17593 17654	Increased Toxicity in the Presence of Severe Renal Impairment
+T423	tradename 17693 17693	
+T425	adversereaction 17693 17768	Increased Toxicity in the Presence of Moderate or Severe Hepatic Impairment
+T427	tradename 17807 17807	
+T429	adversereaction 17807 17821	Hepatotoxicity
+T431	tradename 17860 17860	
+T433	adversereaction 17860 17902	Progressive Multifocal Leukoencephalopathy
+T435	tradename 17941 17941	
+T437	adversereaction 17941 17971	Serious Dermatologic Reactions
+T439	tradename 18011 18011	
+T441	adversereaction 18011 18032	Embryo-Fetal Toxicity
+T443	tradename 18366 18374	ADCETRIS
+T445	adversereaction 18541 18552	neutropenia
+T447	adversereaction 18554 18583	peripheral sensory neuropathy
+T449	adversereaction 18585 18592	fatigue
+T451	adversereaction 18594 18600	nausea
+T453	adversereaction 18602 18608	anemia
+T455	adversereaction 18610 18643	upper respiratory tract infection
+T457	adversereaction 18645 18653	diarrhea
+T459	adversereaction 18655 18662	pyrexia
+T461	adversereaction 18664 18668	rash
+T463	adversereaction 18670 18686	thrombocytopenia
+T465	adversereaction 18688 18693	cough
+T467	adversereaction 18699 18708	vomiting.
+T469	indication 18915 18931	Hodgkin Lymphoma
+T471	tradename 18933 18941	ADCETRIS
+T473	indication 18975 18977	HL
+T475	dose 19065 19074	1.8 mg/kg
+T477	routeofadministration 19075 19088	intravenously
+T479	frequency 19089 19103	every 3 weeks.
+T481	duration 19139 19147	27 weeks
+T483	duration 19156 19170	3 to 56 weeks)
+T485	adversereaction 19282 19293	neutropenia
+T487	adversereaction 19295 19324	peripheral sensory neuropathy
+T489	adversereaction 19326 19333	fatigue
+T491	adversereaction 19335 19368	upper respiratory tract infection
+T493	adversereaction 19370 19376	nausea
+T495	adversereaction 19378 19386	diarrhea
+T497	adversereaction 19388 19394	anemia
+T499	adversereaction 19396 19403	pyrexia
+T501	adversereaction 19405 19421	thrombocytopenia
+T503	adversereaction 19423 19427	rash
+T505	adversereaction 19429 19443	abdominal pain
+T507	adversereaction 19445 19450	cough
+T509	adversereaction 19456 19465	vomiting.
+T511	tradename 19467 19468	 
+T513	adversereaction 19468 19486	Pulmonary Toxicity
+T515	indication 19531 19533	HL
+T517	tradename 19547 19555	ADCETRIS
+T519	adversereaction 19632 19650	pulmonary toxicity
+T521	adversereaction 19792 19797	cough
+T523	adversereaction 19802 19810	dyspnea.
+T525	tradename 20004 20012	ADCETRIS
+T527	indication 20092 20131	Systemic Anaplastic Large Cell Lymphoma
+T529	tradename 20133 20141	ADCETRIS
+T531	indication 20174 20179	sALCL
+T533	dose 20267 20276	1.8 mg/kg
+T535	routeofadministration 20277 20290	intravenously
+T537	frequency 20291 20305	every 3 weeks.
+T539	duration 20341 20349	24 weeks
+T541	duration 20358 20372	3 to 56 weeks)
+T543	adversereaction 20484 20495	neutropenia
+T545	adversereaction 20497 20503	anemia
+T547	adversereaction 20505 20534	peripheral sensory neuropathy
+T549	adversereaction 20536 20543	fatigue
+T551	adversereaction 20545 20551	nausea
+T553	adversereaction 20553 20560	pyrexia
+T555	adversereaction 20568 20576	diarrhea
+T557	adversereaction 20582 20587	pain.
+T559	tradename 20856 20856	
+T561	adversereaction 20856 20868	Neutropenia*
+T563	tradename 20870 20870	
+T565	adversereaction 20870 20877	Anemia*
+T567	tradename 20879 20879	
+T569	adversereaction 20879 20896	Thrombocytopenia*
+T571	tradename 20898 20898	
+T573	adversereaction 20900 20915	Lymphadenopathy
+T575	tradename 20945 20945	
+T577	adversereaction 20945 20963	Peripheral sensory
+T579	tradename 20971 20971	
+T581	adversereaction 20971 20981	neuropathy
+T583	tradename 20985 20985	
+T585	adversereaction 20985 21001	Peripheral motor
+T587	tradename 21008 21008	
+T589	adversereaction 21008 21037	neuropathy Headache Dizziness
+T591	tradename 21094 21094	
+T593	adversereaction 21094 21101	Fatigue
+T595	tradename 21103 21103	
+T597	adversereaction 21103 21110	Pyrexia
+T599	tradename 21112 21112	
+T601	adversereaction 21112 21118	Chills
+T603	tradename 21120 21120	
+T605	adversereaction 21120 21124	Pain
+T607	tradename 21126 21127	 
+T609	adversereaction 21127 21143	Edema peripheral
+T611	tradename 21173 21173	
+T613	adversereaction 21173 21206	Upper respiratory tract infection
+T615	tradename 21236 21236	
+T617	adversereaction 21236 21242	Nausea
+T619	tradename 21244 21244	
+T621	adversereaction 21244 21252	Diarrhea
+T623	tradename 21254 21254	
+T625	adversereaction 21254 21268	Abdominal pain
+T627	tradename 21270 21270	
+T629	adversereaction 21270 21278	Vomiting
+T631	tradename 21280 21280	
+T633	adversereaction 21280 21292	Constipation
+T635	tradename 21334 21334	
+T637	adversereaction 21334 21338	Rash
+T639	tradename 21340 21340	
+T641	adversereaction 21340 21348	Pruritus
+T643	tradename 21350 21350	
+T645	adversereaction 21350 21358	Alopecia
+T647	tradename 21360 21360	
+T649	adversereaction 21360 21372	Night sweats
+T651	tradename 21374 21374	
+T653	adversereaction 21374 21382	Dry skin
+T655	tradename 21693 21694	 
+T657	indication 21694 21696	HL
+T659	tradename 21726 21726	
+T661	indication 21726 21731	sALCL
+T663	tradename 21905 21905	
+T665	adversereaction 21905 21912	Dyspnea
+T667	tradename 21927 21928	 
+T669	adversereaction 21928 21946	Oropharyngeal pain
+T671	tradename 22011 22011	
+T673	adversereaction 22011 22021	Arthralgia
+T675	tradename 22035 22035	
+T677	adversereaction 22035 22042	Myalgia
+T679	tradename 22057 22057	
+T681	adversereaction 22057 22066	Back pain
+T683	tradename 22081 22081	
+T685	adversereaction 22081 22098	Pain in extremity
+T687	tradename 22114 22115	 
+T689	adversereaction 22115 22128	Muscle spasms
+T691	tradename 22166 22166	
+T693	adversereaction 22166 22174	Insomnia
+T695	tradename 22189 22189	
+T697	adversereaction 22189 22196	Anxiety
+T699	tradename 22247 22247	
+T701	adversereaction 22247 22265	Decreased appetite
+T703	tradename 22295 22295	
+T705	adversereaction 22295 22311	Weight decreased
+T707	tradename 22385 22385	
+T709	adversereaction 22385 22403	Infusion reactions
+T711	adversereaction 22418 22429	anaphylaxis
+T713	adversereaction 22492 22518	infusion-related reactions
+T715	adversereaction 22573 22599	infusion-related reactions
+T717	adversereaction 22702 22728	infusion-related reactions
+T719	adversereaction 22734 22740	chills
+T721	adversereaction 22747 22753	nausea
+T723	adversereaction 22760 22767	dyspnea
+T725	adversereaction 22774 22782	pruritus
+T727	adversereaction 22789 22796	pyrexia
+T729	adversereaction 22807 22812	cough
+T731	tradename 22966 22977	ADCETRIS. 
+T733	indication 23048 23050	HL
+T735	adversereaction 23059 23086	peripheral motor neuropathy
+T737	adversereaction 23093 23107	abdominal pain
+T739	adversereaction 23114 23132	pulmonary embolism
+T741	adversereaction 23139 23150	pneumonitis
+T743	adversereaction 23157 23169	pneumothorax
+T745	adversereaction 23176 23190	pyelonephritis
+T747	adversereaction 23201 23208	pyrexia
+T749	indication 23288 23293	sALCL
+T751	adversereaction 23299 23311	septic shock
+T753	adversereaction 23318 23345	supraventricular arrhythmia
+T755	adversereaction 23352 23369	pain in extremity
+T757	adversereaction 23380 23403	urinary tract infection
+T759	adversereaction 23470 23473	PML
+T761	adversereaction 23475 23499	Stevens-Johnson syndrome
+T763	adversereaction 23505 23526	tumor lysis syndrome.
+T765	adversereaction 23624 23635	neutropenia
+T767	adversereaction 23646 23675	peripheral sensory neuropathy
+T769	indication 23895 23897	HL
+T771	indication 23901 23906	sALCL
+T773	adversereaction 23912 23941	peripheral sensory neuropathy
+T775	adversereaction 23951 23978	peripheral motor neuropathy
+T777	tradename 24099 24111	ADCETRIS. 
+T779	adversereaction 24352 24371	febrile neutropenia
+T781	adversereaction 24436 24450	hepatotoxicity
+T783	adversereaction 24501 24504	PML
+T785	adversereaction 24565 24605	 infections and opportunistic infections
+T787	adversereaction 24681 24695	hyperglycemia.
+T789	adversereaction 24725 24737	Pancreatitis
+T791	adversereaction 24899 24925	Toxic epidermal necrolysis
+T793	indication 25027 25029	HL
+T795	indication 25034 25039	sALCL
+T797	nanoparticle 25120 25139	brentuximab vedotin
+T799	frequency 25140 25153	every 3 weeks
+T801	nanoparticle 25519 25538	brentuximab vedotin
+T803	adversereaction 25813 25839	infusion related reactions
+T805	tradename 26585 26593	ADCETRIS
+T807	activeingredient 26716 26746	monomethyl auristatin E (MMAE)
+T809	activeingredient 26821 26825	MMAE
+T811	tradename 26926 26936	ADCETRIS 
+T813	activeingredient 26964 26968	MMAE
+T815	tradename 27061 27069	ADCETRIS
+T817	activeingredient 27138 27142	MMAE
+T819	tradename 27238 27246	ADCETRIS
+T821	tradename 27320 27328	ADCETRIS
+T823	activeingredient 27389 27393	MMAE
+T825	tradename 27455 27463	ADCETRIS
+T827	activeingredient 27510 27515	MMAE.
+T829	tradename 27579 27587	ADCETRIS
+T831	tradename 27655 27663	ADCETRIS
+T833	tradename 27701 27709	ADCETRIS
+T835	tradename 27770 27770	
+T837	activeingredient 27770 27774	MMAE
+T839	tradename 27883 27891	ADCETRIS
+T841	tradename 28159 28167	ADCETRIS
+T843	tradename 28255 28263	ADCETRIS
+T845	tradename 28326 28326	
+T847	nanoparticle 28326 28345	Brentuximab vedotin
+T849	adversereaction 28353 28376	embryo-fetal toxicities
+T851	indication 28490 28492	HL
+T853	indication 28497 28503	sALCL.
+T855	routeofadministration 28757 28768	intravenous
+T857	dose 28778 28781	0.3
+T859	dose 28783 28784	1
+T861	dose 28786 28787	3
+T863	dose 28789 28800	or 10 mg/kg
+T865	nanoparticle 28801 28820	brentuximab vedotin
+T867	adversereaction 28910 28933	embryo-fetal toxicities
+T869	dose 28975 28989	3 and 10 mg/kg
+T871	nanoparticle 29247 29266	brentuximab vedotin
+T873	dose 29275 29282	3 mg/kg
+T875	indication 29335 29337	HL
+T877	indication 29341 29346	sALCL
+T879	dose 29384 29393	1.8 mg/kg
+T881	frequency 29394 29412	every three weeks.
+T883	nanoparticle 29460 29479	brentuximab vedotin
+T885	tradename 29638 29646	ADCETRIS
+T887	tradename 29847 29855	ADCETRIS
+T889	tradename 29930 29938	ADCETRIS
+T891	tradename 30115 30123	ADCETRIS
+T893	tradename 30347 30355	ADCETRIS
+T895	activeingredient 30495 30526	monomethyl auristatin E (MMAE).
+T897	nanoparticle 30563 30582	brentuximab vedotin
+T899	activeingredient 30587 30591	MMAE
+T901	dose 30635 30644	1.2 mg/kg
+T903	tradename 30648 30656	ADCETRIS
+T905	activeingredient 30990 30994	MMAE
+T907	tradename 31009 31018	ADCETRIS)
+T909	activeingredient 31157 31161	MMAE
+T911	tradename 31360 31368	ADCETRIS
+T913	activeingredient 31501 31506	MMAE.
+T915	nanoparticle 31543 31562	brentuximab vedotin
+T917	activeingredient 31567 31571	MMAE
+T919	tradename 31628 31636	ADCETRIS
+T921	activeingredient 31967 31971	MMAE
+T923	tradename 32158 32167	ADCETRIS.
+T925	tradename 32348 32357	 ADCETRIS
+T927	nanoparticle 32359 32379	brentuximab vedotin)
+T929	chemoclass 32385 32398	CD30-directed
+T931	nanoparticle 32399 32428	antibody-drug conjugate (ADC)
+T933	chemoclass 32530 32558	microtubule disrupting agent
+T935	activeingredient 32559 32563	MMAE
+T937	activeingredient 32625 32629	MMAE
+T939	tradename 32641 32641	
+T941	nanoparticle 32641 32660	Brentuximab vedotin
+T943	molecularweight 32700 32708	153 kDa.
+T945	activeingredient 32739 32743	MMAE
+T947	tradename 32785 32785	
+T949	nanoparticle 32786 32805	Brentuximab vedotin
+T951	tradename 33031 33039	ADCETRIS
+T953	nanoparticle 33041 33061	brentuximab vedotin)
+T955	inactiveingredient 33236 33241	Water
+T957	nanoparticle 33292 33311	brentuximab vedotin
+T959	inactiveingredient 33370 33389	trehalose dihydrate
+T961	inactiveingredient 33401 33425	sodium citrate dihydrate
+T963	inactiveingredient 33438 33461	citric acid monohydrate
+T965	inactiveingredient 33478 33492	polysorbate 80
+T967	inactiveingredient 33497 33502	water
+T969	tradename 33602 33602	
+T971	nanoparticle 33602 33621	Brentuximab vedotin
+T973	nanoparticle 33628 33632	ADC.
+T975	activeingredient 33711 33715	MMAE
+T977	chemoclass 33722 33751	microtubule disrupting agent.
+T979	tradename 33754 33754	
+T981	activeingredient 33754 33758	MMAE
+T983	indication 33847 33857	anticancer
+T985	tradename 33870 33878	ADCETRIS
+T987	nanoparticle 33908 33911	ADC
+T989	nanoparticle 33973 33979	ADC-CD
+T991	activeingredient 34010 34014	MMAE
+T993	activeingredient 34054 34058	MMAE
+T995	nanoparticle 34263 34282	brentuximab vedotin
+T997	dose 34284 34294	1.8 mg/kg)
+T999	nanoparticle 34455 34474	brentuximab vedotin
+T1001	nanoparticle 34737 34756	brentuximab vedotin
+T1003	nanoparticle 34923 34926	ADC
+T1005	activeingredient 34928 34932	MMAE
+T1007	nanoparticle 35032 35036	ADC.
+T1009	nanoparticle 35066 35069	ADC
+T1011	activeingredient 35074 35078	MMAE
+T1013	nanoparticle 35139 35142	ADC
+T1015	nanoparticle 35228 35231	ADC
+T1017	plasmahalflife 35309 35321	4 to 6 days.
+T1019	dose 35375 35392	1.2 to 2.7 mg/kg.
+T1021	nanoparticle 35413 35416	ADC
+T1023	tmax 35430 35444	within 21 days
+T1025	frequency 35450 35462	every 3-week
+T1027	tradename 35473 35481	ADCETRIS
+T1029	nanoparticle 35563 35566	ADC
+T1031	frequency 35607 35619	every 3-week
+T1033	activeingredient 35669 35673	MMAE
+T1035	tmax 35700 35712	1 to 3 days.
+T1037	nanoparticle 35729 35732	ADC
+T1039	activeingredient 35750 35754	MMAE
+T1041	tmax 35768 35782	within 21 days
+T1043	tmax 35788 35800	every 3 week
+T1045	tradename 35811 35820	ADCETRIS.
+T1047	activeingredient 35822 35826	MMAE
+T1049	tradename 35880 35888	ADCETRIS
+T1051	activeingredient 36028 36032	MMAE
+T1053	activeingredient 36086 36090	MMAE
+T1055	activeingredient 36178 36182	MMAE
+T1057	volumeofdistribution 36322 36335	6&#x2013;10 L
+T1059	nanoparticle 36340 36344	ADC.
+T1061	activeingredient 36430 36434	MMAE
+T1063	activeingredient 36449 36468	brentuximab vedotin
+T1065	activeingredient 36519 36523	MMAE
+T1067	activeingredient 36648 36652	MMAE
+T1069	tradename 36701 36701	
+T1071	activeingredient 36701 36705	MMAE
+T1073	activeingredient 36801 36805	MMAE
+T1075	activeingredient 36870 36874	MMAE
+T1077	nanoparticle 36927 36931	ADC.
+T1079	dose 37003 37012	1.8 mg/kg
+T1081	tradename 37016 37025	ADCETRIS.
+T1083	activeingredient 37057 37061	MMAE
+T1085	nanoparticle 37090 37093	ADC
+T1087	tradename 37104 37112	ADCETRIS
+T1089	activeingredient 37200 37204	MMAE
+T1091	activeingredient 37284 37288	MMAE
+T1093	nanoparticle 37613 37633	brentuximab vedotin.
+T1095	nanoparticle 37751 37770	brentuximab vedotin
+T1097	activeingredient 37794 37799	MMAE)
+T1099	tradename 37826 37826	
+T1101	activeingredient 37826 37830	MMAE
+T1103	activeingredient 37980 37984	MMAE
+T1105	chemoclass 37990 38019	microtubule disrupting agent.
+T1107	tradename 38022 38022	
+T1109	activeingredient 38022 38026	MMAE
+T1111	nanoparticle 38174 38193	brentuximab vedotin
+T1113	activeingredient 38197 38201	MMAE
+T1115	nanoparticle 38312 38331	brentuximab vedotin
+T1117	duration 38390 38396	4-week
+T1119	dose 38454 38457	0.5
+T1121	dose 38459 38472	5 or 10 mg/kg
+T1123	nanoparticle 38473 38492	brentuximab vedotin
+T1125	dose 38648 38662	5 and 10 mg/kg
+T1127	nanoparticle 38666 38686	brentuximab vedotin.
+T1129	dose 38761 38770	1.8 mg/kg
+T1131	indication 38837 38853	Hodgkin Lymphoma
+T1133	tradename 38871 38879	ADCETRIS
+T1135	indication 38897 38899	HL
+T1137	dose 39060 39069	1.8 mg/kg
+T1139	tradename 39073 39081	ADCETRIS
+T1141	routeofadministration 39082 39095	intravenously
+T1143	frequency 39112 39126	every 3 weeks.
+T1145	indication 39933 39949	Hodgkin Lymphoma
+T1147	indication 40240 40279	Systemic Anaplastic Large Cell Lymphoma
+T1149	tradename 40297 40305	ADCETRIS
+T1151	indication 40332 40337	sALCL
+T1153	indication 40449 40454	sALCL
+T1155	dose 40534 40543	1.8 mg/kg
+T1157	tradename 40547 40555	ADCETRIS
+T1159	routeofadministration 40569 40582	intravenously
+T1161	frequency 40599 40613	every 3 weeks.
+T1163	indication 41639 41678	Systemic Anaplastic Large Cell Lymphoma
+T1165	tradename 42156 42164	ADCETRIS
+T1167	nanoparticle 42166 42186	brentuximab vedotin)
+T1169	nanoparticle 42358 42378	brentuximab vedotin.
+T1171	tradename 42510 42518	ADCETRIS
+T1173	tradename 42638 42638	
+T1175	adversereaction 42638 42659	Peripheral neuropathy
+T1177	tradename 42682 42690	ADCETRIS
+T1179	adversereaction 42703 42725	peripheral neuropathy.
+T1181	tradename 42898 42898	
+T1183	adversereaction 42898 42915	Fever/Neutropenia
+T1185	adversereaction 42976 42981	fever
+T1187	tradename 43137 43137	
+T1189	adversereaction 43137 43155	Infusion reactions
+T1191	adversereaction 43258 43276	infusion reactions
+T1193	tradename 43397 43397	
+T1195	adversereaction 43397 43411	Hepatotoxicity
+T1197	adversereaction 43466 43478	liver injury
+T1199	tradename 43606 43606	
+T1201	adversereaction 43606 43648	Progressive multifocal leukoencephalopathy
+T1203	tradename 43678 43686	ADCETRIS
+T1205	tradename 44116 44116	
+T1207	adversereaction 44116 44128	Pancreatitis
+T1209	tradename 44277 44286	 ADCETRIS
+T1211	tradename 44334 44342	ADCETRIS
+T1213	tradename 44502 44510	ADCETRIS
+T1215	company 44575 44591	Seattle Genetics
+T1217	company 44593 44597	Inc.
+T1219	tradename 44650 44658	ADCETRIS
+T1221	company 44660 44676	Seattle Genetics
+T1223	company 44714 44730	Seattle Genetics
+T1225	company 44732 44736	Inc.

@@ -4,6 +4,7 @@ from os.path import join
 
 package_name = __name__
 
+
 def load():
     """
     Loads the Engineered Nanomedicine Database (END). This dataset is a collection of annotated
@@ -12,7 +13,7 @@ def load():
     :return: a medaCy Dataset object and a list of entities.
     """
 
-    entities = resource_string(package_name, join('data','training','END.types')).decode('utf-8').split("\n")
+    entities = resource_string(package_name, join('data', 'training', 'END.types')).decode('utf-8').split("\n")
 
     meta_data = {
         'entities': entities,
@@ -21,11 +22,13 @@ def load():
 
     return get_training_dataset(), get_evaluation_dataset(), meta_data
 
+
 def get_training_dataset():
     """
     :return: a medaCy Dataset object containing this Dataset's designated training data.
     """
     return Dataset(resource_filename(package_name, join('data', 'training')))
+
 
 def get_evaluation_dataset():
     """
@@ -34,7 +37,8 @@ def get_evaluation_dataset():
     :return: a medaCy Dataset object containing this Dataset's designated evaluation data.
     """
     # if evaluation is empty return None.
-    if not resource_isdir(package_name, join('data', 'evaluation')) or not resource_listdir(package_name, join('data', 'evaluation')):
+    if not resource_isdir(package_name, join('data', 'evaluation')) \
+            or not resource_listdir(package_name, join('data', 'evaluation')):
         return None
 
     return Dataset(resource_filename(package_name, join('data', 'evaluation')))

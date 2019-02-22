@@ -1,0 +1,667 @@
+451094F/Revised: February 2014
+ DIPRIVAN   
+(Propofol) INJECTABLE EMULSION, USP
+ FOR INTRAVENOUS ADMINISTRATION
+  Rx only
+  Strict aseptic technique must always be maintained during handling.
+  DIPRIVAN Injectable Emulsion is a single access parenteral product (single patient infusion vial) which contains 0.005% disodium edetate (EDTA) to inhibit the rate of growth of microorganisms, for up to 12 hours, in the event of accidental extrinsic contamination.
+  However, DIPRIVAN Injectable Emulsion can still support the growth of microorganisms, as it is not an antimicrobially preserved product under USP standards.
+  Do not use if contamination is suspected.
+Discard unused drug product as directed within the required time limits.
+  There have been reports in which failure to use aseptic technique when handling DIPRIVAN Injectable Emulsion was associated with microbial contamination of the product and with fever, infection/sepsis, other life-threatening illness, and/or death.
+ There have been reports, in the literature and other public sources, of the transmission of bloodborne pathogens (such as Hepatitis B, Hepatitis C, and HIV) from unsafe injection practices, and use of propofol vials intended for single use on multiple persons.
+DIPRIVAN Injectable Emulsion vials are never to be accessed more than once or used on more than one person.
+  (See WARNINGS and DOSAGE AND ADMINISTRATION, Handling Procedures).
+ DESCRIPTION:
+ DIPRIVAN (Propofol) Injectable Emulsion, USP is a sterile, nonpyrogenic emulsion containing 10 mg/mL of propofol suitable for intravenous administration.
+  Propofol is chemically described as 2,6 diisopropylphenol.
+  The structural formula is: C12H18O   M.W.  178.27
+ Propofol is slightly soluble in water and, thus, is formulated in a white, oil-in-water emulsion.
+  The pKa is 11.
+ The octanol/water partition coefficient for propofol is 6761:1 at a pH of 6 to 8.5.
+ In addition to the active component, propofol, the formulation also contains soybean oil (100 mg/mL), glycerol (22.5 mg/mL), egg lecithin (12 mg/mL); and disodium edetate (0.005%); with sodium hydroxide to adjust pH.
+ DIPRIVAN Injectable Emulsion, USP is isotonic and has a pH of 7 to 8.5.
+  CLINICAL PHARMACOLOGY:
+  General
+  DIPRIVAN Injectable Emulsion is an intravenous sedative-hypnotic agent for use in the induction and maintenance of anesthesia or sedation.
+  Intravenous injection of a therapeutic dose of propofol induces hypnosis, with minimal excitation, usually within 40 seconds from the start of injection (the time for one arm-brain circulation).
+  As with other rapidly acting intravenous anesthetic agents, the half-time of the blood-brain equilibration is approximately 1 to 3 minutes, accounting for the rate of induction of anesthesia.
+  The mechanism of action, like all general anesthetics, is poorly understood.
+However, propofol is thought to produce its sedative/anesthetic effects by the positive modulation of the inhibitory function of the neurotransmitter GABA through the ligand-gated GABAA receptors.
+   Pharmacodynamics
+ Pharmacodynamic properties of propofol are dependent upon the therapeutic blood propofol concentrations.
+ Steady-state propofol blood concentrations are generally proportional to infusion rates.
+ Undesirable side effects, such as cardiorespiratory depression, are likely to occur at higher blood concentrations which result from bolus dosing or rapid increases in infusion rates.
+An adequate interval (3 to 5 minutes) must be allowed between dose adjustments in order to assess clinical effects.
+  The hemodynamic effects of DIPRIVAN Injectable Emulsion during induction of anesthesia vary.
+If spontaneous ventilation is maintained, the major cardiovascular effect is arterial hypotension (sometimes greater than a 30% decrease) with little or no change in heart rate and no appreciable decrease in cardiac output.
+  If ventilation is assisted or controlled (positive pressure ventilation), there is an increase in the incidence and the degree of depression of cardiac output.
+ Addition of an opioid, used as a premedicant, further decreases cardiac output and respiratory drive.
+ 22 If anesthesia is continued by infusion of DIPRIVAN Injectable Emulsion, the
+ 23 stimulation of endotracheal intubation and surgery may return arterial pressure towards normal.
+  However, cardiac output may remain depressed.
+  Comparative clinical studies have shown that the hemodynamic effects of DIPRIVAN Injectable Emulsion during induction of anesthesia are generally more pronounced than with other intravenous (IV) induction agents.
+ Induction of anesthesia with DIPRIVAN Injectable Emulsion is frequently associated with apnea in both adults and pediatric patients.
+  In adult patients who received DIPRIVAN Injectable Emulsion (2 to 2.5 mg/kg), apnea lasted less than 30 seconds in 7% of patients, 30 to 60 seconds in 24% of patients, and more than 60 seconds in 12% of patients.
+  In pediatric patients from birth through 16 years of age assessable for apnea who received bolus doses of  DIPRIVAN Injectable Emulsion (1 to 3.6 mg/kg), apnea lasted less than 30 seconds in 12% of patients, 30 to 60 seconds in 10% of patients, and more than 60 seconds in 5% of patients.
+ During maintenance of general anesthesia, DIPRIVAN Injectable Emulsion causes a decrease in spontaneous minute ventilation usually associated with an increase in carbon dioxide tension which may be marked depending upon the rate of administration and concurrent use of other medications (e.g., opioids, sedatives, etc.).
+ During monitored anesthesia care (MAC) sedation, attention must be given to the cardiorespiratory effects of DIPRIVAN Injectable Emulsion.
+  Hypotension, oxyhemoglobin desaturation, apnea, and airway obstruction can occur, especially following a rapid bolus of DIPRIVAN Injectable Emulsion.
+  During initiation of MAC sedation, slow infusion or slow injection techniques are preferable over rapid bolus administration.
+  During maintenance of MAC sedation, a variable rate infusion is preferable over intermittent bolus administration in order to minimize undesirable cardiorespiratory effects.
+  In the elderly, debilitated, or ASA-PS III or IV patients, rapid (single or repeated) bolus dose administration should not be used for MAC sedation (see WARNINGS).
+  Clinical and preclinical studies suggest that DIPRIVAN Injectable Emulsion is rarely associated with elevation of plasma histamine levels.
+  Preliminary findings in patients with normal intraocular pressure indicate that DIPRIVAN Injectable Emulsion produces a decrease in intraocular pressure which may be associated with a concomitant decrease in systemic vascular resistance.
+  Clinical studies indicate that DIPRIVAN Injectable Emulsion when used in combination with hypocarbia increases cerebrovascular resistance and decreases cerebral blood flow, cerebral metabolic oxygen consumption, and intracranial pressure.
+ DIPRIVAN Injectable Emulsion does not affect cerebrovascular reactivity to changes in arterial carbon dioxide tension (see Clinical Trials, Neuroanesthesia).
+  Clinical studies indicate that DIPRIVAN Injectable Emulsion does not suppress the adrenal response to ACTH.
+ Animal studies and limited experience in susceptible patients have not indicated any propensity of DIPRIVAN Injectable Emulsion to induce malignant hyperthermia.
+ Hemosiderin deposits have been observed in the livers of dogs receiving DIPRIVAN Injectable Emulsion containing 0.005% disodium edetate over a four-week period; the clinical significance of this is unknown.
+  Pharmacokinetics
+ The pharmacokinetics of propofol are well described by a three compartment linear model with compartments representing the plasma, rapidly equilibrating tissues, and slowly equilibrating tissues.
+ Following an IV bolus dose, there is rapid equilibration between the plasma and the brain, accounting for the rapid onset of anesthesia.
+ Plasma levels initially decline rapidly as a result of both distribution and metabolic clearance.
+  Distribution accounts for about half of this decline following a bolus of propofol.
+ However, distribution is not constant over time, but decreases as body tissues equilibrate with plasma and become saturated.
+  The rate at which equilibration occurs is a function of the rate and duration of the infusion.
+ When equilibration occurs there is no longer a net transfer of propofol between tissues and plasma.
+ Discontinuation of the recommended doses of DIPRIVAN Injectable Emulsion after the maintenance of anesthesia for approximately one hour, or for sedation in the ICU for one day, results in a prompt decrease in blood propofol concentrations and rapid awakening.
+  Longer infusions (10 days of ICU sedation) result in accumulation of significant tissue stores of propofol, such that the reduction in circulating propofol is slowed and the time to awakening is increased.
+  By daily titration of DIPRIVAN Injectable Emulsion dosage to achieve only the minimum effective therapeutic concentration, rapid awakening within 10 to 15 minutes can occur even after long-term administration.
+  If, however, higher than necessary infusion levels have been maintained for a long time, propofol redistribution from fat and muscle to the plasma can be significant and slow recovery.
+ The figure below illustrates the fall of plasma propofol levels following infusions of various durations to provide ICU sedation.
+  The large contribution of distribution (about 50%) to the fall of propofol plasma levels following brief infusions means that after very long infusions a reduction in the infusion rate is appropriate by as much as half the initial infusion rate in order to maintain a constant plasma level.
+  Therefore, failure to reduce the infusion rate in patients receiving DIPRIVAN Injectable Emulsion for extended periods may result in excessively high blood concentrations of the drug.
+ Thus, titration to clinical response and daily evaluation of sedation levels are important during use of DIPRIVAN Injectable Emulsion infusion for ICU sedation.
+  Adults
+ Propofol clearance ranges from 23 to 50 mL/kg/min (1.6 to 3.4 L/min in 70 kg adults).
+ It is chiefly eliminated by hepatic conjugation to inactive metabolites which are excreted by the kidney.
+ A glucuronide conjugate accounts for about 50% of the administered dose.
+ Propofol has a steady-state volume of distribution (10-day infusion) approaching 60 L/kg in healthy adults.
+ A difference in pharmacokinetics due to gender has not been observed.
+ The terminal half-life of propofol after a 10-day infusion is 1 to 3 days.
+   Geriatrics
+  With increasing patient age, the dose of propofol needed to achieve a defined anesthetic end point (dose-requirement) decreases.
+  This does not appear to be an age-related change in pharmacodynamics or brain sensitivity, as measured by EEG burst suppression.
+  With increasing patient age, pharmacokinetic changes are such that, for a given IV bolus dose, higher peak plasma concentrations occur, which can explain the decreased dose requirement.
+  These higher peak plasma concentrations in the elderly can predispose patients to cardiorespiratory effects including hypotension, apnea, airway obstruction, and/or arterial oxygen desaturation.
+ The higher plasma levels reflect an age-related decrease in volume of distribution and intercompartmental clearance.
+  Lower doses are therefore recommended for initiation and maintenance of sedation and anesthesia in elderly patients (see DOSAGE AND ADMINISTRATION).
+  Pediatrics
+  The pharmacokinetics of propofol were studied in children between 3 and 12 years of age who received DIPRIVAN Injectable Emulsion for periods of approximately 1 to 2 hours.
+  The observed distribution and clearance of propofol in these children were similar to adults.
+  Organ Failure
+ The pharmacokinetics of propofol do not appear to be different in people with chronic hepatic cirrhosis or chronic renal impairment compared to adults with normal hepatic and renal function.
+ The effects of acute hepatic or renal failure on the pharmacokinetics of propofol have not been studied.
+  Clinical Trials
+  Anesthesia and Monitored Anesthesia Care (MAC) Sedation
+  Pediatric Anesthesia
+  DIPRIVAN Injectable Emulsion was studied in clinical trials which included cardiac surgical patients.
+Most patients were 3 years of age or older.
+  The majority of the patients were healthy ASA-PS I or II patients.
+ The range of doses in these studies are described in Tables 1 and 2.
+  TABLE 1.
+PEDIATRIC INDUCTION OF ANESTHESIA
+ Age Range Induction Dose Median (range) Injection Duration Median (range)
+ Birth through 16 years 2.5 mg/kg (1 to 3.6) 20 sec.
+(6 to 45)
+  TABLE 2.
+PEDIATRIC MAINTENANCE OF ANESTHESIA
+ Age Range Maintenance Dosage (mcg/kg/min) Duration (minutes)
+ 2 months to 2 years 199 (82 to 394) 65 (12 to 282)
+ 2 to 12 years 188 (12 to 1041) 69 (23 to 374)
+ 12 through 16 years 161 (84 to 359) 69 (26 to 251)
+ Neuroanesthesia
+  DIPRIVAN Injectable Emulsion was studied in patients undergoing craniotomy for supratentorial tumors in two clinical trials.
+  The mean lesion size (anterior/posterior x lateral) was 31 mm x 32 mm in one trial and 55 mm x 42 mm in the other trial respectively.
+  Anesthesia was induced with a median DIPRIVAN dose of 1.4 mg/kg (range: 0.9 to 6.9 mg/kg) and maintained with a median maintenance DIPRIVAN dose of 146 mcg/kg/min (range: 68 to 425 mcg/kg/min).
+  The median duration of the DIPRIVAN Injectable Emulsion maintenance infusion was 285 minutes (range: 48 to 622 minutes).
+ DIPRIVAN Injectable Emulsion was administered by infusion in a controlled clinical trial to evaluate its effect on cerebrospinal fluid pressure (CSFP).
+  The mean arterial pressure was maintained relatively constant over 25 minutes with a change from baseline of -4%   17% (mean   SD).
+  The change in CSFP was -46%   14%.
+ As CSFP is an indirect measure of intracranial pressure (ICP), DIPRIVAN Injectable Emulsion, when given by infusion or slow bolus in combination with hypocarbia, is capable of decreasing ICP independent of changes in arterial pressure.
+  Intensive Care Unit (ICU) Sedation
+ Adult Patients
+ DIPRIVAN Injectable Emulsion was compared to benzodiazepines and opioids in clinical trials involving ICU patients.
+Of these, 302 received DIPRIVAN Injectable Emulsion and comprise the overall safety database for ICU sedation.
+   Across all clinical studies, the mean infusion maintenance rate for all DIPRIVAN Injectable Emulsion patients was 27  21 mcg/kg/min.
+  The maintenance infusion rates required to maintain adequate sedation ranged from 2.8 mcg/kg/min to 130 mcg/kg/min.
+  The infusion rate was lower in patients over 55 years of age (approximately 20 mcg/kg/min) compared to patients under 55 years of age (approximately 38 mcg/kg/min).
+ Although there are reports of reduced analgesic requirements, most patients received opioids for analgesia during maintenance of ICU sedation.
+  In these studies, morphine or fentanyl was used as needed for analgesia.
+Some patients also received benzodiazepines and/or neuromuscular blocking agents.
+ During long-term maintenance of sedation, some ICU patients were awakened once or twice every 24 hours for assessment of neurologic or respiratory function.
+  In Medical and Postsurgical ICU studies comparing DIPRIVAN Injectable Emulsion to benzodiazepine infusion or bolus, there were no apparent differences in maintenance of adequate sedation, mean arterial pressure, or laboratory findings.
+  Like the comparators, DIPRIVAN Injectable Emulsion reduced blood cortisol during sedation while maintaining responsivity to challenges with adrenocorticotropic hormone (ACTH).
+ Case reports from the published literature generally reflect that DIPRIVAN Injectable Emulsion has been used safely in patients with a history of porphyria or malignant hyperthermia.
+ In hemodynamically stable head trauma patients ranging in age from 19 to 43 years, adequate sedation was maintained with DIPRIVAN Injectable Emulsion or morphine.
+  There were no apparent differences in adequacy of sedation, intracranial pressure, cerebral perfusion pressure, or neurologic recovery between the treatment groups.
+  In literature reports of severely head injured patients in Neurosurgical ICUs, DIPRIVAN Injectable Emulsion infusion and hyperventilation, both with and without diuretics, controlled intracranial pressure while maintaining cerebral perfusion pressure.
+  In some patients, bolus doses resulted in decreased blood pressure and compromised cerebral perfusion pressure.
+  DIPRIVAN Injectable Emulsion was found to be effective in status epilepticus which was refractory to the standard anticonvulsant therapies.
+  For these patients, as well as for ARDS/respiratory failure and tetanus patients, sedation maintenance dosages were generally higher than those for other critically ill patient populations.
+   Pediatric Patients
+  A single, randomized, controlled, clinical trial that evaluated the safety and effectivenes of DIPRIVAN Injectable Emulsion versus standard sedative agents (SSA) was conducted on 327 pediatric ICU patients.
+ Patients were randomized to receive either DIPRIVAN Injectable Emulsion 2%, (113 patients), DIPRIVAN Injectable Emulsion 1%, (109 patients), or an SSA (eg, lorazepam, chloral hydrate, fentanyl, ketamine, morphine, or phenobarbital).
+ DIPRIVAN Injectable Emulsion therapy was initiated at an infusion rate of 5.5 mg/kg/hr and titrated as needed to maintain sedation at a standardized level.
+  The results of the study showed an increase in the number of deaths in patients treated with DIPRIVAN Injectable Emulsion as compared to SSAs.
+  Of the 25 patients who died during the trial or within the 28-day follow-up period: 12 (11% were) in the DIPRIVAN Injectable Emulsion 2% treatment group, 9 (8% were) in the DIPRIVAN Injectable Emulsion 1% treatment group, and 4% were (4%) in the SSA treatment group.
+  The differences in mortality rate between the groups were not statistically significant.
+Review of the deaths failed to reveal a correlation with underlying disease status or a correlation to the drug or a definitive pattern to the causes of death.
+   Cardiac Anesthesia
+  DIPRIVAN Injectable Emulsion was evaluated in clinical trials involving patients undergoing coronary artery bypass graft (CABG).
+ In post-CABG (coronary artery bypass graft) patients, the maintenance rate of propofol administration was usually low (median 11 mcg/kg/min) due to the intraoperative administration of high opioid doses.
+  Patients receiving DIPRIVAN Injectable Emulsion required 35% less nitroprusside than midazolam patients.
+  During initiation of sedation in post-CABG patients, a 15% to 20% decrease in blood pressure was seen in the first 60 minutes.
+  It was not possible to determine cardiovascular effects in patients with severely compromised ventricular function.
+    INDICATIONS AND USAGE:
+  DIPRIVAN Injectable Emulsion is an IV sedative-hypnotic agent that can be used as described in the table below.
+  Table 3.
+Indications for DIPRIVAN Injectable Emulsion
+  Indication Approved Patient Population
+ Initiation and maintenance of Monitored Anesthesia Care (MAC) sedation Adults only
+ Combined sedation and regional anesthesia Adults only (see PRECAUTIONS)
+ Induction of General Anesthesia Patients  &#x2030;  3 years of age
+Maintenance of General Anesthesia Patients  &#x2030;  2 months of age
+Intensive Care Unit (ICU) sedation of intubated, mechanically ventilated patients Adults only
+ Safety, effectiveness and dosing guidelines for DIPRIVAN Injectable Emulsion have not been established for MAC Sedation in the pediatric population; therefore, it is not recommended for this use (see PRECAUTIONS, Pediatric Use).
+ DIPRIVAN Injectable Emulsion is not recommended for induction of anesthesia below the age of 3 years or for maintenance of anesthesia below the age of 2 months because its safety and effectiveness have not been established in those populations.
+ In the Intensive Care Unit (ICU), DIPRIVAN Injectable Emulsion can be administered to intubated, mechanically ventilated adult patients to provide continuous sedation and control of stress responses only by persons skilled in the medical management of critically ill patients and trained in cardiovascular resuscitation and airway management.
+  DIPRIVAN Injectable Emulsion is not indicated for use in Pediatric ICU sedation since the safety of this regimen has not been established (see PRECAUTIONS, Pediatric Use).
+ DIPRIVAN Injectable Emulsion is not recommended for obstetrics, including Cesarean section deliveries.
+DIPRIVAN Injectable Emulsion crosses the placenta, and as with other general anesthetic agents, the administration of DIPRIVAN Injectable Emulsion may be associated with neonatal depression (see PRECAUTIONS).
+ DIPRIVAN Injectable Emulsion is not recommended for use in nursing mothers because propofol has been reported to be excreted in human milk, and the effects of oral absorption of small amounts of propofol are not known (see PRECAUTIONS).
+  CONTRAINDICATIONS:
+ DIPRIVAN Injectable Emulsion is contraindicated in patients with a known hypersensitivity to propofol or any of DIPRIVAN Injectable Emulsion components.
+ DIPRIVAN Injectable Emulsion is contraindicated in patients with allergies to eggs, egg products, soybeans or soy products.
+  WARNINGS:
+ Use of DIPRIVAN Injectable Emulsion has been associated with both fatal and life-threatening anaphylactic and anaphylactoid reactions.
+   For general anesthesia or monitored anesthesia care (MAC) sedation, DIPRIVAN Injectable Emulsion should be administered only by persons trained in the administration of general anesthesia and not involved in the conduct of the surgical/diagnostic procedure.
+  Sedated patients should be continuously monitored, and facilities for maintenance of a patent airway, providing artificial ventilation, administering supplemental oxygen, and instituting cardiovascular resuscitation must be immediately available.
+  Patients should be continuously monitored for early signs of hypotension, apnea, airway obstruction, and/or oxygen desaturation.
+  These cardiorespiratory effects are more likely to occur following rapid bolus administration, especially in the elderly, debilitated, or ASA-PS III or IV patients.
+ For sedation of intubated, mechanically ventilated patients in the Intensive Care Unit (ICU), DIPRIVAN Injectable Emulsion should be administered only by persons skilled in the management of critically ill patients and trained in cardiovascular resuscitation and airway
+ management.
+ Use of DIPRIVAN Injectable Emulsion infusions for both adult and pediatric ICU sedation has been associated with a constellation of metabolic derangements and organ system failures, referred to as Propofol Infusion Syndrome, that have resulted in death.
+ The syndrome is characterized by severe metabolic acidosis, hyperkalemia, lipemia, rhabdomyolysis, hepatomegaly, renal failure, ECG changes* and/or cardiac failure.
+The following appear to be major risk factors for the development of these events: decreased oxygen delivery to tissues; serious neurological injury and/or sepsis; high dosages of one or more of the following pharmacological agents: vasoconstrictors, steroids, inotropes and/or prolonged, high-dose infusions of propofol (&gt; 5 mg/kg/h for &gt; 48h).
+ The syndrome has also been reported following large-dose, short-term infusions during surgical anesthesia.
+ In the setting of prolonged need for sedation, increasing propofol dose requirements to maintain a constant level of sedation, or onset of metabolic acidosis duringadministration of a propofol infusion, consideration should be given to using alternative means of sedation.
+ *Coved ST segment elevation (similar to ECG changes of the Brugada syndrome).
+  Abrupt discontinuation of DIPRIVAN Injectable Emulsion prior to weaning or for daily evaluation of sedation levels should be avoided.
+  This may result in rapid awakening with associated anxiety, agitation, and resistance to mechanical ventilation.
+  Infusions of DIPRIVAN Injectable Emulsion should be adjusted to maintain a light level of sedation through the weaning process or evaluation of sedation level (see PRECAUTIONS).
+  DIPRIVAN Injectable Emulsion should not be coadministered through the same IV catheter with blood or plasma because compatibility has not been established.
+  In vitro tests have shown that aggregates of the globular component of the emulsion vehicle have occurred with blood/plasma/serum from humans and animals.
+  The clinical significance of these findings is not known.
+ There have been reports in which failure to use aseptic technique when handling Diprivan Injectable Emulsion was associated with microbial contamination of the product and with fever, infection, sepsis, other life-threatening illness, and death.
+  Do not use if contamination is suspected.
+ Discard unused drug product as directed within the required time limits (see DOSAGE AND ADMINISTRATION, Handling Procedures).
+ There have been reports, in the literature and other public sources, of the transmission of bloodborne pathogens (such as Hepatitis B, Hepatitis C, and HIV) from unsafe injection practices, and use of propofol vials intended for single use on multiple persons.
+DIPRIVAN Injectable Emulsion vial is never to be accessed more than once or used on more than one person.
+     PRECAUTIONS:
+ General
+ Adult and Pediatric Patients
+ A lower induction dose and a slower maintenance rate of administration should be used in elderly, debilitated, or ASA-PS III or IV patients (see DOSAGE AND ADMINISTRATION).
+ Patients should be continuously monitored for early signs of hypotension and/or bradycardia.
+Apnea requiring ventilatory support often occurs during induction and may persist for more than 60 seconds.
+  DIPRIVAN Injectable Emulsion use requires caution when administered to patients with disorders of lipid metabolism such as primary hyperlipoproteinemia, diabetic hyperlipemia, and pancreatitis.
+ Very rarely the use of DIPRIVAN Injectable Emulsion may be associated with the development of a period of postoperative unconsciousness which may be accompanied by an increase in muscle tone.
+  This may or may not be preceded by a brief period of wakefulness.
+  Recovery is spontaneous.
+ When DIPRIVAN Injectable Emulsion is administered to an epileptic patient, there is a risk of seizure during the recovery phase.
+ Attention should be paid to minimize pain on administration of DIPRIVAN Injectable Emulsion.
+  Transient local pain can be minimized if the larger veins of the forearm or antecubital fossa are used.
+  Pain during intravenous injection may also be reduced by prior injection of IV lidocaine (1 mL of a 1% solution).
+  Pain on injection occurred frequently in pediatric patients (45%) when a small vein of the hand was utilized without lidocaine pretreatment.
+  With lidocaine pretreatment or when antecubital veins were utilized, pain was minimal (incidence less than 10%) and well-tolerated.
+  There have been reports in the literature indicating that the addition of lidocaine to DIPRIVAN Injectable Emulsion in quantities greater than 20 mg lidocaine/200 mg DIPRIVAN Injectable Emulsion results in instability of the emulsion which is associated with increases in globule sizes over time and (in rat studies) a reduction in anesthetic potency.
+  Therefore, it is recommended that lidocaine be administered prior to DIPRIVAN Injectable Emulsion administration or that it be added to DIPRIVAN Injectable Emulsion immediately before administration and in quantities not exceeding 20 mg lidocaine/200 mg DIPRIVAN.
+ Venous sequelae, i.e., phlebitis or thrombosis, have been reported rarely (&lt;1%).
+  In two clinical studies using dedicated intravenous catheters, no instances of venous sequelae were observed up to 14 days following induction.
+ Intra-arterial injection in animals did not induce local tissue effects.
+  Accidental intra-arterial injection has been reported in patients, and, other than pain, there were no major sequelae.
+ Intentional injection into subcutaneous or perivascular tissues of animals caused minimal tissue reaction.
+  During the post-marketing period, there have been rare reports of local pain, swelling, blisters, and/or tissue necrosis following accidental extravasation of DIPRIVAN Injectable Emulsion.
+ Perioperative myoclonia, rarely including convulsions and opisthotonos, has occurred in association with DIPRIVAN Injectable Emulsion administration.
+ Clinical features of anaphylaxis, including angioedema, bronchospasm, erythema, and hypotension, occur rarely following DIPRIVAN Injectable Emulsion administration.
+ There have been rare reports of pulmonary edema in temporal relationship to the administration of DIPRIVAN Injectable Emulsion, although a causal relationship is unknown.
+  Rarely, cases of unexplained postoperative pancreatitis (requiring hospital admission) have been reported after anesthesia in which DIPRIVAN Injectable Emulsion was one of the induction agents used.
+ Due to a variety of confounding factors in these cases, including concomitant medications, a causal relationship to DIPRIVAN Injectable Emulsion is unclear.
+ DIPRIVAN Injectable Emulsion has no vagolytic activity.
+ Reports of bradycardia, asystole, and rarely, cardiac arrest have been associated with DIPRIVAN Injectable Emulsion.
+  Pediatric patients are susceptible to this effect, particularly when fentanyl is given concomitantly.
+  The intravenous administration of anticholinergic agents (e.g., atropine or glycopyrrolate) should be considered to modify potential increases in vagal tone due to concomitant agents (e.g., succinylcholine) or surgical stimuli.
+   Intensive Care Unit Sedation
+  Adult Patients
+ (See WARNINGS and DOSAGE AND ADMINISTRATION, Handling Procedures.)
+  The administration of DIPRIVAN Injectable Emulsion should be initiated as a continuous infusion and changes in the rate of administration made slowly (&gt;5 min) in order to minimize hypotension and avoid acute overdosage (see DOSAGE AND ADMINISTRATION).
+ Patients should be monitored for early signs of significant hypotension and/or cardiovascular depression, which may be profound.
+  These effects are responsive to discontinuation of DIPRIVAN Injectable Emulsion, IV fluid administration, and/or vasopressor therapy.
+  In the elderly, debilitated, or ASA-PS III or IV patients, rapid (single or repeated) bolus administration should not be used during sedation in order to minimize undesirable cardiorespiratory depression, including hypotension, apnea, airway obstruction, and oxygen desaturation.
+    As with other sedative medications, there is wide interpatient variability in DIPRIVAN Injectable Emulsion dosage requirements, and these requirements may change with time.
+ Failure to reduce the infusion rate in patients receiving DIPRIVAN Injectable Emulsion for extended periods may result in excessively high blood concentrations of the drug.
+ Thus, titration to clinical response and daily evaluation of sedation levels are important during use of DIPRIVAN Injectable Emulsion infusion for ICU sedation, especially when it is used for long durations.
+  Opioids and paralytic agents should be discontinued and respiratory function optimized prior to weaning patients from mechanical ventilation.
+  Infusions of DIPRIVAN Injectable Emulsion should be adjusted to maintain a light level of sedation prior to weaning patients from mechanical ventilatory support.
+  Throughout the weaning process, this level of sedation may be maintained in the absence of respiratory depression.
+ Because of the rapid clearance of DIPRIVAN Injectable Emulsion, abrupt discontinuation of a patient's infusion may result in rapid awakening with associated anxiety, agitation, and resistance to mechanical ventilation, making weaning from mechanical ventilation difficult.
+ It is therefore recommended that administration of DIPRIVAN Injectable Emulsion be continued in order to maintain a light level of sedation throughout the weaning process until 10 to 15 minutes prior to extubation, at which time the infusion can be discontinued.
+ Since DIPRIVAN Injectable Emulsion is formulated in an oil-in-water emulsion, elevations in serum triglycerides may occur when DIPRIVAN Injectable Emulsion is administered for extended periods of time.
+  Patients at risk of hyperlipidemia should be monitored for increases in serum triglycerides or serum turbidity.
+  Administration of DIPRIVAN Injectable Emulsion should be adjusted if fat is being inadequately cleared from the body.
+ A reduction in the quantity of concurrently administered lipids is indicated to compensate for the amount of lipid infused as part of the DIPRIVAN Injectable Emulsion formulation; 1 mL of DIPRIVAN Injectable Emulsion contains approximately 0.1 g of fat (1.1 kcal).
+EDTA is a strong chelator of trace metals - including zinc.
+  Although with DIPRIVAN Injectable Emulsion there are no reports of decreased zinc levels or zinc deficiency-related adverse events, DIPRIVAN Injectable Emulsion should not be infused for longer than 5 days without providing a drug holiday to safely replace estimated or measured urine zinc losses.
+ In clinical trials mean urinary zinc loss was approximately 2.5 to 3 mg/day in adult patients and 1.5 to 2 mg/day in pediatric patients.
+  In patients who are predisposed to zinc deficiency, such as those with burns, diarrhea, and/or major sepsis, the need for supplemental zinc should be considered during prolonged therapy with DIPRIVAN Injectable Emulsion.
+ At high doses (2 to 3 grams per day), EDTA has been reported, on rare occasions, to be toxic to the renal tubules.
+Studies to date in patients with normal or impaired renal function have not shown any alteration in renal function with DIPRIVAN Injectable Emulsion containing 0.005% disodium edetate.
+ In patients at risk for renal impairment, urinalysis and urine sediment should be checked before initiation of sedation and then be monitored on alternate days during sedation.
+ The long-term administration of DIPRIVAN Injectable Emulsion to patients with renal failure and/or hepatic insufficiency has not been evaluated.
+  Neurosurgical Anesthesia
+ When DIPRIVAN Injectable Emulsion is used in patients with increased intracranial pressure or impaired cerebral circulation, significant decreases in mean arterial pressure should be avoided because of the resultant decreases in cerebral perfusion pressure.
+  To avoid significant hypotension and decreases in cerebral perfusion pressure, an infusion or slow bolus of approximately 20 mg every 10 seconds should be utilized instead of rapid, more frequent, and/or larger boluses of DIPRIVAN Injectable Emulsion.
+  Slower induction, titrated to clinical responses, will generally result in reduced induction dosage requirements (1 to 2 mg/kg).
+  When increased ICP is suspected, hyperventilation and hypocarbia should accompany the administration of DIPRIVAN Injectable Emulsion (see DOSAGE AND ADMINISTRATION).
+  Cardiac Anesthesia
+  Slower rates of administration should be utilized in premedicated patients, geriatric patients, patients with recent fluid shifts, and patients who are hemodynamically unstable.
+  Fluid deficits should be corrected prior to administration of DIPRIVAN Injectable Emulsion.
+  In those patients where additional fluid therapy may be contraindicated, other measures, e.g., elevation of lower extremities, or use of pressor agents, may be useful to offset the hypotension which is associated with the induction of anesthesia with DIPRIVAN Injectable Emulsion.
+  Information for Patients
+ Patients should be advised that performance of activities requiring mental alertness, such as operating a motor vehicle, or hazardous machinery or signing legal documents may be impaired for some time after general anesthesia or sedation.
+     Drug Interactions
+  The induction dose requirements of DIPRIVAN Injectable Emulsion may be reduced in patients with intramuscular or intravenous premedication, particularly with narcotics (e.g., morphine, meperidine, and fentanyl, etc.) and combinations of opioids and sedatives (e.g., benzodiazepines, barbiturates, chloral hydrate, droperidol, etc.).
+  These agents may increase the anesthetic or sedative effects of DIPRIVAN Injectable Emulsion and may also result in more pronounced decreases in systolic, diastolic, and mean arterial pressures and cardiac output.
+ During maintenance of anesthesia or sedation, the rate of DIPRIVAN Injectable Emulsion administration should be adjusted according to the desired level of anesthesia or sedation and may be reduced in the presence of supplemental analgesic agents (e.g., nitrous oxide or opioids).
+ The concurrent administration of potent inhalational agents (e.g., isoflurane, enflurane, and halothane) during maintenance with DIPRIVAN Injectable Emulsion has not been extensively evaluated.
+  These inhalational agents can also be expected to increase the anesthetic or sedative and cardiorespiratory effects of DIPRIVAN Injectable Emulsion.
+  DIPRIVAN Injectable Emulsion does not cause a clinically significant change in onset, intensity or duration of action of the commonly used neuromuscular blocking agents (e.g., succinylcholine and nondepolarizing muscle relaxants).
+   No significant adverse interactions with commonly used premedications or drugs used during anesthesia or sedation (including a range of muscle relaxants, inhalational agents, analgesic agents, and local anesthetic agents) have been observed in adults.
+  In pediatric patients, administration of fentanyl concomitantly with DIPRIVAN Injectable Emulsion may result in serious bradycardia.
+ Carcinogenesis, Mutagenesis, Impairment of Fertility Carcinogenesis
+ Long-term studies in animals have not been performed to evaluate the carcinogenic potential of propofol.
+ Mutagenesis
+ Propofol was not mutagenic in the in vitro bacterial reverse mutation assay (Ames test) using Salmonella typhimurium strains TA98, TA100, TA1535, TA1537 and TA1538.
+Propofol was not mutagenic in either the gene mutation/gene conversion test using Saccharomyces cerevisiae, or in vitro cytogenetic studies in Chinese hamsters.
+  In the in vivo mouse micronucleus assay with Chinese Hamsters propofol administration did not produce chromosome aberrations.
+ Impairment of Fertility
+ Female Wistar rats were administered either 0, 10, or 15 mg/kg/day propofol intravenously from 2 weeks before pregnancy to day 7 of gestation did not show impaired fertility.
+  Male fertility in rats was not affected in a dominant lethal study at intravenous doses up to  15 mg/kg/day for 5 days.
+ Pregnancy
+ Teratogenic Effects
+ Pregnancy Category B
+ Reproduction studies have been performed in rats and rabbits at intravenous doses of 15 mg/kg/day (approximately equivalent to the recommended human induction dose on a mg/m2 basis) and have revealed no evidence of impaired fertility or harm to the fetus due to propofol.
+  Propofol, however, has been shown to cause maternal deaths in rats and rabbits and decreased pup survival during the lactating period in dams treated with 15 mg/kg/day (approximately equivalent to the recommended human induction dose on a mg/m2 basis).
+ The pharmacological activity (anesthesia) of the drug on the mother is probably responsible for the adverse effects seen in the offspring.
+There are, however, no adequate and well-controlled studies in pregnant women.
+ Because animal reproduction studies are not always predictive of human responses, DIPRIVAN Injectable Emulsion should be used during pregnancy only if clearly needed.
+  Labor and Delivery
+ DIPRIVAN Injectable Emulsion is not recommended for obstetrics, including cesarean section deliveries.
+ DIPRIVAN Injectable Emulsion crosses the placenta, and as with other general anesthetic agents, the administration of DIPRIVAN Injectable Emulsion may be associated with neonatal depression.
+  Nursing Mothers
+ DIPRIVAN Injectable Emulsion is not recommended for use in nursing mothers because DIPRIVAN Injectable Emulsion has been reported to be excreted in human milk and the effects of oral absorption of small amounts of propofol are not known.
+  Pediatric Use
+ The safety and effectiveness of DIPRIVAN Injectable Emulsion have been established for induction of anesthesia in pediatric patients aged 3 years and older and for the maintenance of anesthesia aged 2 months and older.
+   DIPRIVAN Injectable Emulsion is not recommended for the induction of anesthesia in patients younger than 3 years of age and for the maintenance of anesthesia in patients younger than 2 months of age as safety and effectiveness have not been established.
+ In pediatric patients, administration of fentanyl concomitantly with DIPRIVAN Injectable Emulsion may result in serious bradycardia (see PRECAUTIONS, General).
+  DIPRIVAN Injectable Emulsion is not indicated for use in pediatric patients for ICU sedation or for MAC sedation for surgical, nonsurgical or diagnostic procedures as safety and effectiveness have not been established.
+ There have been anecdotal reports of serious adverse events and death in pediatric patients with upper respiratory tract infections receiving DIPRIVAN Injectable Emulsion for ICU sedation.
+ In one multicenter clinical trial of ICU sedation in critically ill pediatric patients that excluded patients with upper respiratory tract infections, the incidence of mortality observed in patients who received DIPRIVAN Injectable Emulsion (n=222) was 9%, while that for patients who received standard sedative agents (n=105) was 4%.
+  While causality has not been established, DIPRIVAN Injectable Emulsion is not indicated for sedation in pediatric patients until further studies have been performed to document its safety in that population (see CLINICAL PHARMACOLOGY, Pharmacokinetics, Pediatric Patients and DOSAGE AND ADMINISTRATION).
+  In pediatric patients, abrupt discontinuation of DIPRIVAN Injectable Emulsion following prolonged infusion may result in flushing of the hands and feet, agitation, tremulousness and hyperirritability.
+  Increased incidences of bradycardia (5%), agitation (4%), and jitteriness (9%) have also been observed.
+ Geriatric Use
+ The effect of age on induction dose requirements for propofol was assessed in an open-label study involving 211 unpremedicated patients with approximately 30 patients in each decade between the ages of 16 and 80.
+ The average dose to induce anesthesia was calculated for patients up to 54 years of age and for patients 55 years of age or older.
+  The average dose to induce anesthesia in patients up to 54 years of age was 1.99 mg/kg and in patients above 54 it was 1.66 mg/kg.
+  Subsequent clinical studies have demonstrated lower dosing requirements for subjects greater than 60 years of age.
+ A lower induction dose and a slower maintenance rate of administration of DIPRIVAN Injectable Emulsion should be used in elderly patients.
+  In this group of patients, rapid (single or repeated) bolus administration should not be used in order to minimize undesirable cardiorespiratory depression including hypotension, apnea, airway obstruction, and/or oxygen desaturation.
+ All dosing should be titrated according to patient condition and response (see DOSAGE AND ADMINISTRATION, Elderly, Debilitated or ASA-PS III or IV Patients and CLINICAL PHARMACOLOGY, Geriatrics).
+ ADVERSE REACTIONS:
+ General
+ Adverse event information is derived from controlled clinical trials and worldwide marketing experience.
+ In the description below, rates of the more common events represent US/Canadian clinical study results.
+  Less frequent events are also derived from publications and marketing experience in over 8 million patients; there are insufficient data to support an accurate estimate of their incidence rates.
+  These studies were conducted using a variety of premedicants, varying lengths of surgical/diagnostic procedures, and various other anesthetic/sedative agents.
+Most adverse events were mild and transient.
+ Anesthesia and MAC Sedation in Adults
+ The following estimates of adverse events for DIPRIVAN Injectable Emulsion include data from clinical trials in general anesthesia/MAC sedation (N=2889 adult patients).
+  The adverse events listed below as probably causally related are those events in which the actual incidence rate in patients treated with DIPRIVAN Injectable Emulsion was greater than the comparator incidence rate in these trials.
+  Therefore, incidence rates for anesthesia and MAC sedation in adults generally represent estimates of the percentage of clinical trial patients which appeared to have probable causal relationship.
+ The adverse experience profile from reports of 150 patients in the MAC sedation clinical trials is similar to the profile established with DIPRIVAN Injectable Emulsion during anesthesia (see below).
+During MAC sedation clinical trials, significant respiratory events included cough, upper airway obstruction, apnea, hypoventilation, and dyspnea.
+ Anesthesia in Pediatric Patients
+ Generally the adverse experience profile from reports of 506 DIPRIVAN Injectable Emulsion pediatric patients from 6 days through 16 years of age in the US/Canadian anesthesia clinical trials is similar to the profile established with DIPRIVAN Injectable Emulsion during anesthesia in adults (see Pediatric percentages [Peds %] below).
+  Although not reported as an adverse event in clinical trials, apnea is frequently observed in pediatric patients.
+  ICU Sedation in Adults
+ The following estimates of adverse events include data from clinical trials in ICU sedation
+ (N=159 adult patients).
+Probably related incidence rates for ICU sedation were determined by individual case report form review.
+  Probable causality was based upon an apparent dose response relationship and/or positive responses to rechallenge.
+  In many instances the presence of concomitant disease and concomitant therapy made the causal relationship unknown.
+ Therefore, incidence rates for ICU sedation generally represent estimates of the percentage of clinical trial patients which appeared to have a probable causal relationship.
+  Incidence greater than 1% - Probably Causally Related
+  Cardiovascular:
+ Anesthesia/MAC Sedation ICU Sedation
+ Bradycardia Bradycardia  Arrhythmia [Peds: 1.2%]
+ Tachycardia Nodal [Peds: 1.6%] Hypotension* [Peds: 17%] (see also CLINICAL PHARMACOLOGY)
+ Decreased Cardiac Output
+ Hypertension [Peds: 8%] Hypotension 26%
+ Central Nervous System: Movement* [Peds: 17%]
+ Injection Site: Burning/Stinging or Pain, 17.6% [Peds: 10%]
+ Metabolic/Nutritional: Hyperlipemia*
+ Respiratory: Apnea (see also CLINICAL PHARMACOLOGY)
+ Respiratory Acidosis During Weaning*
+ Skin and Appendages: Rash [Peds: 5%] Pruritus [Peds: 2%]
+ Events without an * or % had an incidence of 1% to 3% *Incidence of events 3% to 10%
+  Incidence less than 1% - Probably Causally Related
+ Body as a Whole:
+  Anesthesia/MAC Sedation ICU Sedation
+ Anaphylaxis/Anaphylactoid Reaction  Perinatal Disorder  [Tachycardia]  [Bigeminy] [Bradycardia] [Premature Ventricular Contractions] [Hemorrhage]  [ECG Abnormal]  [Arrhythmia Atrial]  [Fever]  [Extremities Pain] [Anticholinergic Syndrome]
+ Cardiovascular: Premature Atrial Contractions Syncope
+ Central Nervous System: Hypertonia/Dystonia, Paresthesia Agitation
+ Digestive: [Hypersalivation]  [Nausea]
+ Hemic/Lymphatic:  [Leukocytosis]
+ Injection Site: [Phlebitis]  [Pruritus]
+ Metabolic: [Hypomagnesemia] Musculoskeletal: Myalgia Nervous: [Dizziness]
+ [Agitation] [Chills] [Somnolence] [Delirium]
+ Respiratory: Wheezing [Cough] [Laryngospasm] [Hypoxia]
+ Decreased Lung Function
+ Skin and Appendages:  Flushing, Pruritus
+ Special Senses: Amblyopia [Vision Abnormal]
+ Urogenital: Cloudy Urine Green Urine
+  Incidence less than 1% - Causal Relationship Unknown
+ Anesthesia/MAC Sedation ICU Sedation
+ Body as a Whole: Asthenia, Awareness, Chest Pain, Extremities Pain, Fever, Increased Drug Effect, Neck Rigidity/Stiffness, Trunk Pain Fever, Sepsis, Trunk Pain, Whole Body Weakness
+ Cardiovascular: Arrhythmia, Atrial Fibrillation, Atrioventricular Heart Block, Bigeminy, Bleeding, Bundle Branch Arrhythmia, Atrial Fibrillation, Bigeminy, Cardiac Arrest, Extrasystole, Right Heart Failure, Ventricular Tachycardia Block, Cardiac Arrest, ECG Abnormal, Edema, Extrasystole, Heart Block, Hypertension, Myocardial Infarction, Myocardial Ischemia, Premature Ventricular Contractions,
+ ST Segment Depression, Supraventricular Tachycardia, Tachycardia, Ventricular Fibrillation
+Central Nervous System: Abnormal Dreams, Agitation, Chills/Shivering, Intracranial Hypertension, Amorous Behavior, Anxiety, Seizures, Somnolence, Thinking Abnormal Bucking/Jerking/Thrashing,  Chills/Shivering/Clonic/Myoclonic Movement, Combativeness, Confusion, Delirium, Depression, Dizziness, Emotional Lability, Euphoria, Fatigue, Hallucinations, Headache, Hypotonia, Hysteria, Insomnia, Moaning, Neuropathy, Opisthotonos, Rigidity, Seizures, Somnolence, Tremor, Twitching
+ Digestive: Cramping, Diarrhea, Dry Mouth, Ileus, Liver Function Abnormal Enlarged Parotid, Nausea, Swallowing, Vomiting
+ Hematologic/Lymphatic: Coagulation Disorder, Leukocytosis
+ Injection Site: Hives/Itching, Phlebitis, Redness/Discoloration
+ Metabolic/Nutritional: Hyperkalemia, Hyperlipemia BUN Increased, Creatinine Increased, Dehydration, Hyperglycemia, Metabolic Acidosis, Osmolality Increased
+ Respiratory: Bronchospasm, Burning in Throat, Hypoxia Cough, Dyspnea, Hiccough, Hyperventilation, Hypoventilation, Hypoxia, Laryngospasm, Pharyngitis, Sneezing, Tachypnea, Upper Airway Obstruction
+ Skin and Appendages: Conjunctival Hyperemia, Diaphoresis, Rash
+Urticaria
+ Special Senses: Diplopia, Ear Pain, Eye Pain, Nystagmus, Taste Perversion, Tinnitus
+ Urogenital: Oliguria, Urine Retention Kidney Failure
+  DRUG ABUSE AND DEPENDENCE:
+  There are reports of the abuse of propofol for recreational and other improper purposes, which have resulted in fatalities and other injuries.
+  Instances of self-administration of DIPRIVAN Injectable Emulsion by health care professionals have also been reported, which have resulted in fatalities and other injuries.
+  Inventories of  DIPRIVAN Injectable Emulsion should be stored and managed to prevent the risk of diversion, including restriction of access and accounting procedures as appropriate to the clinical setting.
+  OVERDOSAGE:
+ If overdosage occurs, DIPRIVAN Injectable Emulsion administration should be discontinued immediately.
+  Overdosage is likely to cause cardiorespiratory depression.
+ Respiratory depression should be treated by artificial ventilation with oxygen.
+  Cardiovascular depression may require repositioning of the patient by raising the patient's legs, increasing the flow rate of intravenous fluids, and administering pressor agents and/or anticholinergic agents.
+ DOSAGE AND ADMINISTRATION:
+ Propofol blood concentrations at steady-state are generally proportional to infusion rates, especially in individual patients.
+  Undesirable effects such as cardiorespiratory depression are likely to occur at higher blood concentrations which result from bolus dosing or rapid increases in the infusion rate.
+  An adequate interval (3 to 5 minutes) must be allowed between dose adjustments to allow for and assess the clinical effects.
+   Shake well before use.
+Do not use if there is evidence of excessive creaming or aggregation, if large droplets are visible, or if there are other forms of phase separation indicating that the stability of the product has been compromised.
+  Slight creaming, which should disappear after shaking, may be visible upon prolonged standing.
+ When administering DIPRIVAN Injectable Emulsion by infusion, syringe or volumetric pumps are recommended to provide controlled infusion rates.
+  When infusing DIPRIVAN Injectable Emulsion to patients undergoing magnetic resonance imaging, metered control devices may be utilized if mechanical pumps are impractical.
+  Changes in vital signs indicating a stress response to surgical stimulation or the emergence from anesthesia may be controlled by the administration of 25 mg (2.5 mL) to 50 mg (5 mL) incremental boluses and/or by increasing the infusion rate of DIPRIVAN Injectable Emulsion.
+ For minor surgical procedures (e.g., body surface) nitrous oxide (60% to 70%) can be combined with a variable rate DIPRIVAN Injectable Emulsion infusion to provide satisfactory anesthesia.
+ With more stimulating surgical procedures (e.g., intra-abdominal), or if supplementation with nitrous oxide is not provided, administration rate(s) of DIPRIVAN Injectable Emulsion and/or opioids should be increased in order to provide adequate anesthesia.
+  Infusion rates should always be titrated downward in the absence of clinical signs of light anesthesia until a mild response to surgical stimulation is obtained in order to avoid administration of DIPRIVAN Injectable Emulsion at rates higher than are clinically necessary.
+Generally, rates of 50 to 100 mcg/kg/min in adults should be achieved during maintenance in order to optimize recovery times.
+   Other drugs that cause CNS depression (hypnotics/sedatives, inhalational anesthetics, and opioids) can increase CNS depression induced by propofol.
+  Morphine premedication (0.15 mg/kg) with nitrous oxide 67% in oxygen has been shown to decrease the necessary propofol injection maintenance infusion rate and therapeutic blood concentrations when compared to non-narcotic (lorazepam) premedication.
+   Induction of General Anesthesia
+  Adult Patients
+ Most adult patients under 55 years of age and classified as ASA-PS I or II require 2 to 2.5 mg/kg of DIPRIVAN Injectable Emulsion for induction when unpremedicated or when premedicated with oral benzodiazepines or intramuscular opioids.
+  For induction, DIPRIVAN Injectable Emulsion should be titrated (approximately 40 mg every 10 seconds) against the response of the patient until the clinical signs show the onset of anesthesia.
+  As with other sedative-hypnotic agents, the amount of intravenous opioid and/or benzodiazepine premedication will influence the response of the patient to an induction dose of DIPRIVAN Injectable Emulsion.
+ Elderly, Debilitated, or ASA-PS III or IV Patients
+  It is important to be familiar and experienced with the intravenous use of DIPRIVAN Injectable Emulsion before treating elderly, debilitated, or ASA-PS III or IV patients.
+  Due to the reduced clearance and higher blood concentrations, most of these patients require approximately 1 to 1.5 mg/kg (approximately 20 mg every 10 seconds) of DIPRIVAN Injectable Emulsion for induction of anesthesia according to their condition and responses.
+  A rapid bolus should not be used, as this will increase the likelihood of undesirable cardiorespiratory depression including hypotension, apnea, airway obstruction, and/or oxygen desaturation (see DOSAGE AND ADMINISTRATION).
+ Pediatric Patients
+ Most patients aged 3 years through 16 years and classified ASA-PS I or II require 2.5 to  3.5 mg/kg of DIPRIVAN Injectable Emulsion for induction when unpremedicated or when lightly premedicated with oral benzodiazepines or intramuscular opioids.
+  Within this dosage range, younger pediatric patients may require higher induction doses than older pediatric patients.
+As with other sedative-hypnotic agents, the amount of intravenous opioid and/or benzodiazepine premedication will influence the response of the patient to an induction dose of DIPRIVAN Injectable Emulsion.
+  A lower dosage is recommended for pediatric patients classified as ASA-PS III or IV.
+  Attention should be paid to minimize pain on injection when administering DIPRIVAN Injectable Emulsion to pediatric patients.
+  Boluses of DIPRIVAN Injectable Emulsion may be administered via small veins if pretreated with lidocaine or via antecubital or larger veins (see PRECAUTIONS, General).
+ Neurosurgical Patients
+ Slower induction is recommended using boluses of 20 mg every 10 seconds.
+  Slower boluses or infusions of DIPRIVAN Injectable Emulsion for induction of anesthesia, titrated to clinical responses, will generally result in reduced induction dosage requirements (1 to  2 mg/kg) (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
+ Cardiac Anesthesia
+ DIPRIVAN Injectable Emulsion has been well-studied in patients with coronary artery disease, but experience in patients with hemodynamically significant valvular or congenital heart disease is limited.
+  As with other anesthetic and sedative-hypnotic agents, DIPRIVAN Injectable Emulsion in healthy patients causes a decrease in blood pressure that is secondary to decreases in preload (ventricular filling volume at the end of the diastole) and afterload (arterial resistance at the beginning of the systole).
+  The magnitude of these changes is proportional to the blood and effect site concentrations achieved.
+  These concentrations depend upon the dose and speed of the induction and maintenance infusion rates.
+ In addition, lower heart rates are observed during maintenance with DIPRIVAN Injectable Emulsion, possibly due to reduction of the sympathetic activity and/or resetting of the baroreceptor reflexes.
+ Therefore, anticholinergic agents should be administered when increases in vagal tone are anticipated.
+ As with other anesthetic agents, DIPRIVAN Injectable Emulsion reduces myocardial oxygen consumption.
+ Further studies are needed to confirm and delineate the extent of these effects on the myocardium and the coronary vascular system.
+   Morphine premedication (0.15 mg/kg) with nitrous oxide 67% in oxygen has been shown to decrease the necessary DIPRIVAN Injectable Emulsion maintenance infusion rates and therapeutic blood concentrations when compared to non-narcotic (lorazepam) premedication.
+ The rate of DIPRIVAN Injectable Emulsion administration should be determined based on the patient's premedication and adjusted according to clinical responses.
+   A rapid bolus induction should be avoided.
+A slow rate of approximately 20 mg every 10 seconds until induction onset (0.5 to 1.5 mg/kg) should be used.
+  In order to assure adequate anesthesia, when DIPRIVAN Injectable Emulsion is used as the primary agent, maintenance infusion rates should not be less than 100 mcg/kg/min and should be supplemented with analgesic levels of continuous opioid administration.
+When an opioid is used as the primary agent, DIPRIVAN Injectable Emulsion maintenance rates should not be less than 50 mcg/kg/min, and care should be taken to ensure amnesia.
+  Higher doses of DIPRIVAN Injectable Emulsion will reduce the opioid requirements (see Table 4).
+  When DIPRIVAN Injectable Emulsion is used as the primary anesthetic, it should not be administered with the high-dose opioid technique as this may increase the likelihood of hypotension (see PRECAUTIONS, Cardiac Anesthesia).
+   Table 4.
+Cardiac Anesthesia Techniques
+ Primary Agent Rate Secondary Agent/Rate        (Following Induction with Primary Agent)
+ DIPRIVAN Injectable Emulsion OPIOIDa/0.05 to 0.075 mcg/kg/min (no bolus) Preinduction  Anxiolysis 25 mcg/kg/min
+ Induction 0.5 to 1.5 mg/kg over 60 sec
+ Maintenance (Titrated to Clinical Response)
+ 100 to 150 mcg/kg/min
+ OPIOIDb DIPRIVAN Injectable Emulsion/50 to 100 mcg/kg/min (no bolus)
+ Induction 25 to 50 mcg/kg Maintenance 0.2 to 0.3 mcg/kg/min
+  a OPIOID is defined in terms of fentanyl equivalents, i.e., 8 1 mcg of fentanyl   =  5 mcg of alfentanil (for bolus)  9  =  10 mcg of alfentanil (for maintenance)  10   or  11  =   0.1 mcg of sufentanil  12
+ b Care should be taken to ensure amnesia.
+  Maintenance of General Anesthesia
+  DIPRIVAN Injectable Emulsion has been used with a variety of agents commonly used in anesthesia such as atropine, scopolamine, glycopyrrolate, diazepam, depolarizing and nondepolarizing muscle relaxants, and opioid analgesics, as well as with inhalational and regional anesthetic agents.
+  In the elderly, debilitated, or ASA-PS III or IV patients, rapid bolus doses should not be used, as this will increase cardiorespiratory effects including hypotension, apnea, airway obstruction, and oxygen desaturation.
+  Adult Patients
+ In adults, anesthesia can be maintained by administering DIPRIVAN Injectable Emulsion by infusion or intermittent IV bolus injection.
+  The patient's clinical response will determine the infusion rate or the amount and frequency of incremental injections.
+  Continuous Infusion
+ DIPRIVAN Injectable Emulsion 100 to 200 mcg/kg/min administered in a variable rate infusion with 60% to 70% nitrous oxide and oxygen provides anesthesia for patients undergoing general surgery.
+ Maintenance by infusion of DIPRIVAN Injectable Emulsion should immediately follow the induction dose in order to provide satisfactory or continuous anesthesia during the induction phase.
+ During this initial period following the induction dose, higher rates of infusion are generally required (150 to 200 mcg/kg/min) for the first 10 to 15 minutes.
+  Infusion rates should subsequently be decreased 30% to 50% during the first half-hour of maintenance.
+ Generally, rates of 50 to 100 mcg/kg/min in adults should be achieved during maintenance in order to optimize recovery times.
+   Other drugs that cause CNS depression (hypnotics/sedatives, inhalational anesthetics, and opioids) can increase the CNS depression induced by propofol.
+    Intermittent Bolus
+ Increments of DIPRIVAN Injectable Emulsion 25 mg (2.5 mL) to 50 mg (5 mL) may be administered with nitrous oxide in adult patients undergoing general surgery.
+  The incremental boluses should be administered when changes in vital signs indicate a response to surgical stimulation or light anesthesia.
+   Pediatric Patients
+  DIPRIVAN Injectable Emulsion administered as a variable rate infusion supplemented with nitrous oxide 60% to 70% provides satisfactory anesthesia for most children 2 months of age 6 or older, ASA-PS I or II, undergoing general anesthesia.
+ In general, for the pediatric population, maintenance by infusion of DIPRIVAN Injectable Emulsion at a rate of 200 to 300 mcg/kg/min should immediately follow the induction dose.
+ Following the first half-hour of maintenance, infusion rates of 125 to 150 mcg/kg/min are typically needed.
+ DIPRIVAN Injectable Emulsion should be titrated to achieve the desired clinical effect.
+ Younger pediatric patients may require higher maintenance infusion rates than older pediatric patients.
+ (See Table 2 Clinical Trials.)
+   Monitored Anesthesia Care (MAC) Sedation
+ Adult Patients
+ When DIPRIVAN Injectable Emulsion is administered for MAC sedation, rates of administration should be individualized and titrated to clinical response.
+  In most patients, the rates of DIPRIVAN Injectable Emulsion administration will be in the range of 25 to 75 mcg/kg/min.
+ During initiation of MAC sedation, slow infusion or slow injection techniques are preferable over rapid bolus administration.
+  During maintenance of MAC sedation, a variable rate infusion is preferable over intermittent bolus dose administration.
+  In the elderly, debilitated, or ASA-PS III or IV patients, rapid (single or repeated) bolus dose administration should not be used for MAC sedation (see WARNINGS).
+ A rapid bolus injection can result in undesirable cardiorespiratory depression including hypotension, apnea, airway obstruction, and oxygen desaturation.
+  Initiation of MAC Sedation
+  For initiation of MAC sedation, either an infusion or a slow injection method may be utilized while closely monitoring cardiorespiratory function.
+  With the infusion method, sedation may be initiated by infusing DIPRIVAN Injectable Emulsion at 100 to 150 mcg/kg/min (6 to 9 mg/kg/h) for a period of 3 to 5 minutes and titrating to the desired clinical effect while closely monitoring respiratory function.
+  With the slow injection method for initiation, patients will require approximately 0.5 mg/kg administered over 3 to 5 minutes and titrated to clinical responses.
+ When DIPRIVAN Injectable Emulsion is administered slowly over 3 to 5 minutes, most patients will be adequately sedated, and the peak drug effect can be achieved while minimizing undesirable cardiorespiratory effects occurring at high plasma levels.
+  In the elderly, debilitated, or ASA-PS III or IV patients, rapid (single or repeated) bolus dose administration should not be used for MAC sedation (see WARNINGS).
+ The rate of administration should be over 3 to 5 minutes and the dosage of DIPRIVAN Injectable Emulsion should be reduced to approximately 80% of the usual adult dosage in these patients according to their condition, responses, and changes in vital signs (see DOSAGE AND ADMINISTRATION).
+  Maintenance of MAC Sedation
+ For maintenance of sedation, a variable rate infusion method is preferable over an intermittent bolus dose method.
+  With the variable rate infusion method, patients will generally require maintenance rates of 25 to 75 mcg/kg/min (1.5 to 4.5 mg/kg/h) during the first 10 to 15 minutes of sedation maintenance.
+  Infusion rates should subsequently be decreased over time to 25 to 50 mcg/kg/min and adjusted to clinical responses.
+  In titrating to clinical effect, allow approximately 2 minutes for onset of peak drug effect.
+ Infusion rates should always be titrated downward in the absence of clinical signs of light sedation until mild responses to stimulation are obtained in order to avoid sedative administration of DIPRIVAN Injectable Emulsion at rates higher than are clinically necessary.
+  If the intermittent bolus dose method is used, increments of DIPRIVAN Injectable Emulsion 10 mg (1 mL) or 20 mg (2 mL) can be administered and titrated to desired clinical effect.
+With the intermittent bolus method of sedation maintenance, there is increased potential for respiratory depression, transient increases in sedation depth, and prolongation of recovery.
+ In the elderly, debilitated, or ASA-PS III or IV patients, rapid (single or repeated) bolus dose administration should not be used for MAC sedation (see WARNINGS).
+ The rate of administration and the dosage of DIPRIVAN Injectable Emulsion should be reduced to approximately 80% of the usual adult dosage in these patients according to their condition, responses, and changes in vital signs (see DOSAGE AND ADMINISTRATION).
+ DIPRIVAN Injectable Emulsion can be administered as the sole agent for maintenance of MAC sedation during surgical/diagnostic procedures.
+  When DIPRIVAN Injectable Emulsion sedation is supplemented with opioid and/or benzodiazepine medications, these agents increase the sedative and respiratory effects of DIPRIVAN Injectable Emulsion and may also result in a slower recovery profile (see PRECAUTIONS, Drug Interactions).
+    ICU Sedation
+ (See WARNINGS and DOSAGE AND ADMINISTRATION, Handling Procedures.)
+ Abrupt discontinuation of DIPRIVAN Injectable Emulsion prior to weaning or for daily evaluation of sedation levels should be avoided.
+  This may result in rapid awakening with associated anxiety, agitation, and resistance to mechanical ventilation.
+  Infusions of DIPRIVAN Injectable Emulsion should be adjusted to assure a minimal level of sedation is maintained throughout the weaning process and when assessing the level of sedation (see PRECAUTIONS).
+  Adult Patients
+ For intubated, mechanically ventilated adult patients, Intensive Care Unit (ICU) sedation should be initiated slowly with a continuous infusion in order to titrate to desired clinical effect and minimize hypotension (see DOSAGE AND ADMINISTRATION).
+ Most adult ICU patients recovering from the effects of general anesthesia or deep sedation will require maintenance rates of 5 to 50 mcg/kg/min (0.3 to 3 mg/kg/h) individualized and titrated to clinical response (see DOSAGE AND ADMINISTRATION).
+ With medical ICU patients or patients who have recovered from the effects of general anesthesia or deep sedation, the rate of administration of 50 mcg/kg/min or higher may be required to achieve adequate sedation.
+ These higher rates of administration may increase the likelihood of patients developing hypotension.
+ Administration should not exceed  4 mg/kg/hour unless the benefits outweigh the risks (see WARNINGS).
+ Dosage and rate of administration should be individualized and titrated to the desired effect, according to clinically relevant factors including the patient's underlying medical problems, preinduction and concomitant medications, age, ASA-PS classification, and level of debilitation of the patient.
+  The elderly, debilitated, and ASA-PS III or IV patients may have exaggerated hemodynamic and respiratory responses to rapid bolus doses (see WARNINGS).
+  DIPRIVAN Injectable Emulsion should be individualized according to the patient's condition and response, blood lipid profile, and vital signs (see PRECAUTIONS, Intensive Care Unit Sedation).
+ For intubated, mechanically ventilated adult patients, Intensive Care Unit (ICU) sedation should be initiated slowly with a continuous infusion in order to titrate to desired clinical effect and minimize hypotension.
+  When indicated, initiation of sedation should begin at 5 mcg/kg/min (0.3 mg/kg/h).
+  The infusion rate should be increased by increments of 5 to 10 mcg/kg/min (0.3 to 0.6 mg/kg/h) until the desired level of sedation is achieved.
+ A minimum period of 5 minutes between adjustments should be allowed for onset of peak drug effect.
+Most adult patients require maintenance rates of 5 to 50 mcg/kg/min (0.3 to 3 mg/kg/h) or higher.
+  Administration should not exceed 4 mg/kg/hour unless the benefits outweigh the risks (see WARNINGS).
+Dosages of DIPRIVAN Injectable Emulsion should be reduced in patients who have received large dosages of narcotics.
+  The DIPRIVAN Injectable Emulsion dosage requirement may also be reduced by adequate management of pain with analgesic agents.
+ As with other sedative medications, there is interpatient variability in dosage requirements, and these requirements may change with time (see SUMMARY OF DOSAGE GUIDELINES).
+ Evaluation of level of sedation and assessment of CNS function should be carried out daily throughout maintenance to determine the minimum dose of DIPRIVAN required for sedation (see  Clinical Trials, Intensive Care Unit (ICU) Sedation).
+ Bolus administration of 10 or 20 mg should only be used to rapidly increase depth of sedation in patients where hypotension is not likely to occur.
+  Patients with compromised myocardial function, intravascular volume depletion, or abnormally low vascular tone (e.g., sepsis) may be more susceptible to hypotension (see PRECAUTIONS).
+  SUMMARY OF DOSAGE GUIDELINES:
+ Dosages and rates of administration in the following table should be individualized and titrated to clinical response.
+Safety and dosing requirements for induction of anesthesia in pediatric patients have only been established for children 3 years of age or older.
+  Safety and dosing requirements for the maintenance of anesthesia have only been established for children 2 months of age and older.
+   For complete dosage information, see DOSAGE AND ADMINISTRATION.
+    INDICATION DOSAGE AND ADMINISTRATION
+Induction of General Anesthesia:  Healthy Adults Less Than 55 Years of Age: 40 mg every 10 seconds until induction onset (2 to 2.5 mg/kg).
+ Elderly, Debilitated, or ASA-PS III or IV Patients: 20 mg every 10 seconds until induction onset (1 to 1.5 mg/kg).
+ Cardiac Anesthesia: 20 mg every 10 seconds until induction onset  (0.5 to 1.5 mg/kg).
+ Neurosurgical Patients: 20 mg every 10 seconds until induction onset (1 to 2 mg/kg).
+ Pediatric Patients - healthy, from 3 years to 16 years of age: 2.5 to 3.5 mg/kg administered over 20 to 30 seconds.
+(see PRECAUTIONS, Pediatric Use and CLINICAL PHARMACOLOGY, Pediatrics)
+ Maintenance of General Anesthesia: Infusion
+ Healthy Adults Less Than 55 Years of Age: 100 to 200 mcg/kg/min (6 to 12 mg/kg/h).
+ Elderly, Debilitated, ASA-PS III or IV Patients: 50 to 100 mcg/kg/min (3 to 6 mg/kg/h).
+ Cardiac Anesthesia:  Most patients require:
+Primary DIPRIVAN Injectable Emulsion with Secondary Opioid- 100 to 150 mcg/kg/min.
+ Low-Dose DIPRIVAN Injectable Emulsion with Primary Opioid- 50 to 100 mcg/kg/min.
+  (see DOSAGE AND ADMINISTRATION, Table 4)
+Neurosurgical Patients: 100 to 200 mcg/kg/min (6 to 12 mg/kg/h).
+ Pediatric Patients - healthy, from 2 months of age to 16 years of age: 125 to 300 mcg/kg/min (7.5 to 18 mg/kg/h).
+Following the first half hour of maintenance, if clinical signs of light anesthesia are not present, the infusion rate should be decreased.
+ (see PRECAUTIONS, Pediatric Use and CLINICAL PHARMACOLOGY, Pediatrics)
+ Maintenance of General Anesthesia: Intermittent Bolus
+ Healthy Adults Less Than 55 Years of Age: Increments of 20 to 50 mg as needed.
+ Initiation of MAC Sedation:
+  Healthy Adults Less Than 55 Years of Age:
+ Slow infusion or slow injection techniques are recommended to avoid apnea or hypotension.
+  Most patients require an infusion of 100 to 150 mcg/kg/min (6 to 9 mg/kg/h) for 3 to 5 minutes or a slow injection of 0.5 mg/kg over 3 to 5 minutes followed immediately by a maintenance infusion.
+ Elderly, Debilitated, Neurosurgical, or ASA-PS III or IV Patients:
+ Most patients require dosages similar to healthy adults.
+Rapid boluses are to be avoided (see WARNINGS).
+ Maintenance of MAC Sedation:
+  Healthy Adults Less Than 55 Years of Age:
+ A variable rate infusion technique is preferable over an intermittent bolus technique.
+  Most patients require an infusion of 25 to 75 mcg/kg/min (1.5 to 4.5 mg/kg/h) or incremental bolus doses of 10 mg or 20 mg.
+ In Elderly, Debilitated, Neurosurgical, or ASA-PS III or IV Patients:
+ Most patients require 80% of the usual adult dose.
+  A rapid (single or repeated) bolus dose should not be used (see WARNINGS).
+ Initiation and Maintenance of ICU Sedation in Intubated, Mechanically Ventilated
+ Adult Patients - Because of the residual effects of previous anesthetic or sedative agents, in most patients the initial infusion should be 5 mcg/kg/min (0.3 mg/kg/h) for at least 5 minutes.
+  Subsequent increments of 5 to 10 mcg/kg/min (0.3 to 0.6 mg/kg/h) over 5 to 10 minutes may be used until desired clinical effect is achieved.
+ Maintenance rates of 5 to 50 mcg/kg/min (0.3 to 3 mg/kg/h) or higher may be required.
+  Administration should not exceed 4 mg/kg/hour unless the benefits outweigh the risks (see WARNINGS).
+ Evaluation of clinical effect and assessment of CNS function should be carried out daily throughout maintenance to determine the minimum dose of DIPRIVAN Injectable Emulsion required for sedation.
+ The tubing and any unused DIPRIVAN Injectable Emulsion drug product should be discarded after 12 hours because DIPRIVAN Injectable Emulsion contains no preservatives and is capable of supporting growth of microorganisms (see WARNINGS and DOSAGE AND ADMINISTRATION).
+  Administration with Lidocaine
+ If lidocaine is to be administered to minimize pain on injection of DIPRIVAN Injectable Emulsion, it is recommended that it be administered prior to DIPRIVAN Injectable Emulsion administration or that it be added to DIPRIVAN Injectable Emulsion immediately before administration and in quantities not exceeding 20 mg lidocaine/200 mg DIPRIVAN.
+  Compatibility and Stability
+ DIPRIVAN Injectable Emulsion should not be mixed with other therapeutic agents prior to administration.
+  Dilution Prior to Administration
+ DIPRIVAN Injectable Emulsion is provided as a ready-to-use formulation.
+ However, should dilution be necessary, it should only be diluted with 5% Dextrose Injection, USP, and it should not be diluted to a concentration less than 2 mg/mL because it is an emulsion.
+ In diluted form it has been shown to be more stable when in contact with glass than with plastic (95% potency after 2 hours of running infusion in plastic).
+     Administration with Other Fluids
+ Compatibility of DIPRIVAN Injectable Emulsion with the coadministration of blood/serum/plasma has not been established (see WARNINGS).
+When administered using a y-type infusion set, DIPRIVAN Injectable Emulsion has been shown to be compatible with the following intravenous fluids.
+ - 5% Dextrose Injection, USP
+ - Lactated Ringers Injection, USP
+ - Lactated Ringers and 5% Dextrose Injection
+ - 5% Dextrose and 0.45% Sodium Chloride Injection, USP
+ - 5% Dextrose and 0.2% Sodium Chloride Injection, USP
+  Handling Procedures
+ General
+ Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
+ Clinical experience with the use of in-line filters and DIPRIVAN Injectable Emulsion during anesthesia or ICU/MAC sedation is limited.
+  DIPRIVAN Injectable Emulsion should only be administered through a filter with a pore size of 5 micron or greater unless it has been demonstrated that the filter does not restrict the flow of DIPRIVAN Injectable Emulsion and/or cause the breakdown of the emulsion.
+ Filters should be used with caution and where clinically appropriate.
+ Continuous monitoring is necessary due to the potential for restricted flow and/or breakdown of the emulsion.
+ Do not use if there is evidence of separation of the phases of the emulsion.
+ Rare cases of self-administration of DIPRIVAN Injectable Emulsion by health care professionals have been reported, including some fatalities (see DRUG ABUSE AND DEPENDENCE).
+  Strict aseptic technique must always be maintained during handling.
+  DIPRIVAN Injectable Emulsion is a single access parenteral product (single patient infusion vial) which contains 0.005% disodium edetate to inhibit the rate of growth of microorganisms, up to 12 hours, in the event of accidental extrinsic contamination.
+  However, DIPRIVAN Injectable Emulsion can still support the growth of microorganisms as it is not an antimicrobially preserved product under USP standards.
+Do not use if contamination is suspected.
+  Discard unused drug product as directed within the required time limits.
+ There have been reports in which failure to use aseptic technique when handling DIPRIVAN Injectable Emulsion was associated with microbial contamination of the product and with fever, infection/sepsis, other life-threatening illness, and/or death.
+ There have been reports, in the literature and other public sources, of the transmission of bloodborne pathogens (such as Hepatitis B, Hepatitis C, and HIV) from unsafe injection practices, and use of propofol vials intended for single use on multiple persons.
+ DIPRIVAN Injectable Emulsion vials are never to be accessed more than once or used on more than one person.
+ Diprivan, with EDTA inhibits microbial growth for up to 12 hours, as demonstrated by test data for representative USP microorganisms.
+  Guidelines for Aseptic Technique for General Anesthesia/MAC Sedation
+ DIPRIVAN Injectable Emulsion must be prepared for use just prior to initiation of each individual anesthetic/sedative procedure.
+ The vial rubber stopper should be disinfected using 70% isopropyl alcohol.
+DIPRIVAN Injectable Emulsion should be drawn into a sterile syringe immediately after a vial is opened.
+  When withdrawing DIPRIVAN Injectable Emulsion from vials, a sterile vent spike should be used.
+ The syringe should be labelled with appropriate information including the date and time the vial was opened.
+ Administration should commence promptly and be completed within 12 hours after the vial has been opened.
+ DIPRIVAN Injectable Emulsion must be prepared for single-patient use only.
+  Any unused DIPRIVAN Injectable Emulsion drug product, reservoirs, dedicated administration tubing and/or solutions containing DIPRIVAN Injectable Emulsion must be discarded at the end of the anesthetic procedure or at 12 hours, whichever occurs sooner.
+  The IV line should be flushed every 12 hours and at the end of the anesthetic procedure to remove residual DIPRIVAN Injectable Emulsion.
+ Guidelines for Aseptic Technique for ICU Sedation
+  DIPRIVAN Injectable Emulsion must be prepared for single-patient use only.
+  Strict aseptic techniques must be followed.
+  The vial rubber stopper should be disinfected using 70% isopropyl alcohol.
+ A sterile vent spike and sterile tubing must be used for administration of DIPRIVAN Injectable Emulsion.
+ As with other lipid emulsions, the number of IV line manipulations should be minimized.
+  Administration should commence promptly and must be completed within 12 hours after the vial has been spiked.
+  The tubing and any unused DIPRIVAN Injectable Emulsion drug product must be discarded after 12 hours.
+ If DIPRIVAN Injectable Emulsion is transferred to a syringe prior to administration, it should be drawn into a sterile syringe immediately after a vial is opened.
+  When withdrawing DIPRIVAN Injectable Emulsion from a vial, a sterile vent spike should be used.
+ The syringe should be labelled with appropriate information including the date and time the vial was opened.
+ Administration should commence promptly and be completed within 12 hours after the vial has been opened.
+  DIPRIVAN Injectable Emulsion should be discarded and administration lines changed after 12 hours.
+  HOW SUPPLIED:
+  DIPRIVAN Injectable Emulsion, USP is available as follows:
+ Product NDC
+ No.
+No.
+Strength
+ 260910 63323-269-10 1% (10 mg/mL propofol)
+ 10 mL ready-to-use single-patient infusion vial in packages of ten.
+ 260929 63323-269-29 1% (10 mg/mL propofol)
+ 20 mL ready-to-use single-patient infusion vial in packages of ten.
+ 260950 63323-269-50 1% (10 mg/mL propofol)
+ 50 mL ready-to-use single-patient infusion vial in packages of twenty.
+ 260965 63323-269-65 1% (10 mg/mL propofol)
+ 100 mL ready-to-use single-patient infusion vial in packages of ten.
+ Propofol undergoes oxidative degradation, in the presence of oxygen, and is therefore packaged under nitrogen to eliminate this degradation path.
+  Store between 4o to 25oC (40o to 77oF).
+  Do not freeze.
+ Shake well before use.
+    All trademarks are the property of Fresenius Ka
+  Manufactured for:
+   Fresenius Kabi USA, LLC
+ Lake Zurich, IL 60047
+   Made in Austria
+  451094F
+  Revised: February 2014
+ bi USA, LLC.
+ 

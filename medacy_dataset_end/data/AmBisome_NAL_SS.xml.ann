@@ -1,0 +1,704 @@
+T1	tradename 0 8	AmBisome
+T3	tradename 15 27	 AmBisome (
+T5	activeingredient 27 42	amphotericin B)
+T7	nanoparticle 43 51	liposome
+T9	tradename 101 109	AmBisome
+T11	routeofadministration 176 187	intravenous
+T13	activeingredient 226 240	amphotericin B
+T15	nanoparticle 267 276	liposomal
+T17	corecomposition 321 357	hydrogenated soy phosphatidylcholine
+T19	corecomposition 365 376	cholesterol
+T21	corecomposition 388 418	distearoylphosphatidylglycerol
+T23	corecomposition 428 444	alpha tocopherol
+T25	inactiveingredient 472 479	sucrose
+T27	inactiveingredient 495 525	disodium succinate hexahydrate
+T29	inactiveingredient 576 581	Water
+T31	tradename 654 662	AmBisome
+T33	nanoparticle 688 697	liposomal
+T35	nanoparticle 720 729	Liposomes
+T37	corecomposition 834 847	phospholipids
+T39	corecomposition 852 863	cholesterol
+T41	nanoparticle 991 1000	liposomes
+T43	tradename 1088 1096	AmBisome
+T45	nanoparticle 1135 1144	liposomes
+T47	activeingredient 1150 1164	amphotericin B
+T49	activeingredient 1295 1309	amphotericin B
+T51	tradename 1381 1389	AmBisome
+T53	nanoparticle 1390 1400	liposomes.
+T55	tradename 1402 1410	AmBisome
+T57	nanoparticle 1425 1434	liposomes
+T59	particlediameter 1444 1460	less than 100 nm
+T61	nanoparticle 1503 1511	liposome
+T63	nanoparticle 1541 1550	Liposomal
+T65	nanoparticle 1589 1602	lipid complex
+T67	nanoparticle 1765 1774	liposomal
+T69	nanoparticle 1778 1791	lipid-complex
+T71	tradename 2009 2009	
+T73	activeingredient 2009 2023	Amphotericin B
+T75	indication 2051 2061	antifungal
+T77	activeingredient 2121 2135	Amphotericin B
+T79	activeingredient 2165 2173	[1R-(1R*
+T81	activeingredient 2174 2177	3S*
+T83	activeingredient 2178 2181	5R*
+T85	activeingredient 2182 2185	6R*
+T87	activeingredient 2186 2189	9R*
+T89	activeingredient 2190 2194	11R*
+T91	activeingredient 2195 2199	15S*
+T93	activeingredient 2200 2204	16R*
+T95	activeingredient 2205 2209	17R*
+T97	activeingredient 2210 2214	18S*
+T99	activeingredient 2215 2218	19E
+T101	activeingredient 2219 2222	21E
+T103	activeingredient 2223 2226	23E
+T105	activeingredient 2227 2230	25E
+T107	activeingredient 2231 2234	27E
+T109	activeingredient 2235 2238	29E
+T111	activeingredient 2239 2242	31E
+T113	activeingredient 2243 2247	33R*
+T115	activeingredient 2248 2252	35S*
+T117	activeingredient 2253 2257	36R*
+T119	activeingredient 2258 2279	37S*)]-33-[(3-Amino-3
+T121	activeingredient 2280 2314	6 dideoxy--D-mannopyranosyl)oxy]-1
+T123	activeingredient 2315 2316	3
+T125	activeingredient 2317 2318	5
+T127	activeingredient 2319 2320	6
+T129	activeingredient 2321 2322	9
+T131	activeingredient 2323 2325	11
+T133	activeingredient 2326 2328	17
+T135	activeingredient 2329 2346	37-octahydroxy-15
+T137	activeingredient 2347 2349	16
+T139	activeingredient 2350 2372	18 trimethyl-13-oxo-14
+T141	activeingredient 2373 2412	39-dioxabicyclo[33.3.1]nonatriaconta-19
+T143	activeingredient 2413 2415	21
+T145	activeingredient 2416 2418	23
+T147	activeingredient 2419 2421	25
+T149	activeingredient 2422 2424	27
+T151	activeingredient 2425 2427	29
+T153	activeingredient 2428 2478	31 heptaene-36-carboxylic acid (CAS No.1397-89-3).
+T155	tradename 2480 2480	
+T157	activeingredient 2480 2494	Amphotericin B
+T159	molecularweight 2559 2566	924.09.
+T161	activeingredient 2585 2599	amphotericin B
+T163	tradename 2654 2654	
+T165	activeingredient 2654 2668	Amphotericin B
+T167	tradename 2695 2703	AmBisome
+T169	activeingredient 2983 2997	amphotericin B
+T171	tradename 3172 3180	AmBisome
+T173	nanoparticle 3186 3195	liposomal
+T175	activeingredient 3211 3225	amphotericin B
+T177	tradename 3370 3378	AmBisome
+T179	activeingredient 3421 3435	amphotericin B
+T181	indication 3469 3490	Aspergillus fumigatus
+T183	indication 3492 3510	Aspergillus flavus
+T185	indication 3512 3528	Candida albicans
+T187	indication 3530 3544	Candida krusei
+T189	indication 3546 3564	Candida lusitaniae
+T191	indication 3566 3586	Candida parapsilosis
+T193	indication 3588 3606	Candida tropicalis
+T195	indication 3608 3631	Cryptococcus neoformans
+T197	indication 3637 3662	Blastomyces dermatitidis.
+T199	activeingredient 3724 3738	amphotericin B
+T201	activeingredient 3993 4008	amphotericin B.
+T203	activeingredient 4388 4402	amphotericin B
+T205	tradename 4440 4448	AmBisome
+T207	activeingredient 4470 4484	amphotericin B
+T209	corecomposition 4512 4525	phospholipids
+T211	tradename 4529 4537	AmBisome
+T213	activeingredient 4543 4557	amphotericin B
+T215	activeingredient 4611 4625	amphotericin B
+T217	tradename 4650 4658	AmBisome
+T219	activeingredient 4703 4718	amphotericin B.
+T221	activeingredient 4751 4765	amphotericin B
+T223	pre-existingdisease 4784 4810	febrile neutropenic cancer
+T225	pre-existingdisease 4815 4837	bone marrow transplant
+T227	dose 4882 4894	1 to 5 mg/kg
+T229	frequency 4894 4898	/day
+T231	tradename 4899 4907	AmBisome
+T233	duration 4912 4925	3 to 20 days.
+T235	activeingredient 4951 4965	amphotericin B
+T237	tradename 4990 4998	AmBisome
+T239	dose 5122 5134	1 to 5 mg/kg
+T241	frequency 5134 5139	/day.
+T243	activeingredient 5181 5195	amphotericin B
+T245	tradename 5312 5320	AmBisome
+T247	cmax 5433 5441	(mcg/mL)
+T249	tradename 5443 5443	
+T251	cmax 5443 5506	7.3 3.8 12.2 4.9 17.2 7.1 31.4 17.8 57.6 21 83 35.2
+T253	auc 5515 5533	(mcg&#x2022;hr/mL)
+T255	tradename 5535 5535	
+T257	auc 5535 5587	27 14 60 20 65 33 197 183 269 96 555 311
+T259	plasmahalflife 5590 5651	(hr) 10.7 6.4 7 2.1 8.1 2.3 6.3 2 6.4 2.1 6.8 2.1
+T261	volumeofdistribution 5655 5733	(L/kg) 0.44 0.27 0.14 0.05 0.40 0.37 0.16 0.09 0.16 0.10 0.10 0.07
+T263	clearance 5737 5793	(mL/hr/kg) 39 22 17 6 51 44 22 15 21 14 11 6
+T265	activeingredient 5825 5839	amphotericin B
+T267	tradename 5924 5932	AmBisome
+T269	plasmahalflife 5957 5968	7-10 hours.
+T271	activeingredient 5994 6008	amphotericin B
+T273	tradename 6062 6070	AmBisome
+T275	plasmahalflife 6095 6109	100-153 hours.
+T277	activeingredient 6327 6341	amphotericin B
+T279	dose 6435 6447	1 to 5 mg/kg
+T281	frequency 6447 6451	/day
+T283	activeingredient 6551 6565	amphotericin B
+T285	tradename 6590 6598	AmBisome
+T287	activeingredient 6704 6718	amphotericin B
+T289	tradename 6743 6751	AmBisome
+T291	tradename 6817 6818	 
+T293	pre-existingdisease 6818 6834	Renal Impairment
+T295	pre-existingdisease 6850 6866	renal impairment
+T297	activeingredient 6889 6903	amphotericin B
+T299	tradename 6928 6936	AmBisome
+T301	tradename 6969 6977	AmBisome
+T303	pre-existingdisease 7043 7059	renal impairment
+T305	tradename 7100 7101	 
+T307	pre-existingdisease 7101 7119	Hepatic Impairment
+T309	pre-existingdisease 7135 7153	hepatic impairment
+T311	activeingredient 7176 7190	amphotericin B
+T313	tradename 7215 7223	AmBisome
+T315	activeingredient 7296 7310	amphotericin B
+T317	tradename 7335 7343	AmBisome
+T319	tradename 7409 7417	AmBisome
+T321	activeingredient 7590 7604	amphotericin B
+T323	tradename 7629 7637	AmBisome
+T325	tradename 7677 7686	 AmBisome
+T327	indication 7751 7767	fungal infection
+T329	pre-existingdisease 7771 7778	febrile
+T331	pre-existingdisease 7780 7791	neutropenic
+T333	indication 7816 7839	Cryptococcal Meningitis
+T335	pre-existingdisease 7843 7855	HIV infected
+T337	indication 7932 7951	Aspergillus species
+T339	indication 7953 7968	Candida species
+T341	indication 7976 7996	Cryptococcus species
+T343	indication 8040 8064	Cryptococcal Meningitis)
+T345	pre-existingdisease 8129 8145	renal impairment
+T347	indication 8235 8258	visceral leishmaniasis.
+T349	pre-existingdisease 8262 8279	immunocompromised
+T351	indication 8294 8316	visceral leishmaniasis
+T353	tradename 8330 8338	AmBisome
+T355	tradename 8611 8619	AmBisome
+T357	tradename 8987 8998	AmBisome. 
+T359	tradename 9076 9084	AmBisome
+T361	activeingredient 9088 9103	amphotericin B.
+T363	tradename 9302 9310	AmBisome
+T365	activeingredient 9324 9338	amphotericin B
+T367	nanoparticle 9339 9353	lipid complex)
+T369	tradename 9460 9468	AmBisome
+T371	activeingredient 9472 9486	amphotericin B
+T373	pre-existingdisease 9490 9493	HIV
+T375	indication 9508 9532	cryptococcal meningitis.
+T377	pre-existingdisease 9700 9720	renal insufficiency.
+T379	pre-existingdisease 9743 9762	Febrile Neutropenic
+T381	tradename 9874 9882	AmBisome
+T383	dose 9884 9895	1.5-6 mg/kg
+T385	frequency 9895 9900	/day)
+T387	dose 9944 9957	0.3-1.2 mg/kg
+T389	frequency 9957 9962	/day)
+T391	pre-existingdisease 10017 10028	neutropenic
+T393	indication 10432 10449	fungal infection.
+T395	tradename 10493 10501	AmBisome
+T397	pre-existingdisease 10691 10710	Febrile Neutropenic
+T399	tradename 10770 10778	AmBisome
+T401	activeingredient 10779 10793	Amphotericin B
+T403	indication 10993 11009	fungal infection
+T405	indication 11541 11558	fungal infections
+T407	tradename 11598 11606	AmBisome
+T409	activeingredient 11611 11625	amphotericin B
+T411	indication 11699 11717	fungal infections.
+T413	pre-existingdisease 11741 11760	Febrile Neutropenic
+T415	indication 11781 11798	Fungal Infections
+T417	tradename 11799 11809	 AmBisome
+T419	activeingredient 11810 11824	Amphotericin B
+T421	indication 11919 11935	fungal infection
+T423	indication 11978 11994	fungal infection
+T425	indication 12031 12048	fungal infections
+T427	indication 12097 12114	fungal infections
+T429	tradename 12169 12177	AmBisome
+T431	activeingredient 12203 12217	amphotericin B
+T433	tradename 12327 12335	AmBisome
+T435	dose 12337 12350	3 and 5 mg/kg
+T437	frequency 12350 12355	/day)
+T439	activeingredient 12370 12384	amphotericin B
+T441	nanoparticle 12385 12398	lipid complex
+T443	dose 12400 12407	5 mg/kg
+T445	frequency 12407 12412	/day)
+T447	pre-existingdisease 12471 12482	neutropenic
+T449	tradename 12538 12546	AmBisome
+T451	dose 12569 12576	3 mg/kg
+T453	frequency 12576 12580	/day
+T455	dose 12597 12604	5 mg/kg
+T457	frequency 12604 12609	/day)
+T459	activeingredient 12635 12649	amphotericin B
+T461	nanoparticle 12650 12664	lipid complex.
+T463	tradename 13117 13125	AmBisome
+T465	dose 13127 13140	1 and 3 mg/kg
+T467	frequency 13140 13145	/day)
+T469	dose 13187 13194	1 mg/kg
+T471	frequency 13194 13199	/day)
+T473	indication 13255 13273	fungal infections.
+T475	tradename 13532 13540	AmBisome
+T477	activeingredient 13545 13559	amphotericin B
+T479	pre-existingdisease 13584 13603	febrile neutropenic
+T481	indication 13628 13651	Cryptococcal Meningitis
+T483	pre-existingdisease 13655 13667	HIV Infected
+T485	tradename 13780 13788	AmBisome
+T487	dose 13799 13812	3 and 6 mg/kg
+T489	frequency 13812 13817	/day)
+T491	dose 13861 13870	0.7 mg/kg
+T493	frequency 13870 13875	/day)
+T495	indication 13897 13920	cryptococcal meningitis
+T497	pre-existingdisease 13952 13964	HIV positive
+T499	tradename 14078 14086	AmBisome
+T501	dose 14087 14094	3 mg/kg
+T503	frequency 14094 14098	/day
+T505	dose 14112 14119	6 mg/kg
+T507	frequency 14119 14123	/day
+T509	indication 14169 14192	cryptococcal meningitis
+T511	frequency 14317 14327	once daily
+T513	routeofadministration 14421 14425	oral
+T515	dose 14441 14447	400 mg
+T517	frequency 14447 14451	/day
+T519	dose 14467 14473	200 mg
+T521	frequency 14473 14477	/day
+T523	tradename 14891 14899	AmBisome
+T525	tradename 15038 15048	AmBisome 
+T527	dose 15048 15055	3 mg/kg
+T529	tradename 15056 15064	AmBisome
+T531	dose 15065 15072	6 mg/kg
+T533	activeingredient 15073 15087	Amphotericin B
+T535	dose 15088 15097	0.7 mg/kg
+T537	tradename 15264 15272	AmBisome
+T539	activeingredient 15277 15291	amphotericin B
+T541	activeingredient 15339 15354	amphotericin B.
+T543	tradename 15387 15399	AmBisome.  
+T545	indication 15588 15608	cryptococcus species
+T547	tradename 15677 15685	AmBisome
+T549	dose 15686 15693	6 mg/kg
+T551	frequency 15693 15697	/day
+T553	tradename 15815 15823	AmBisome
+T555	dose 15824 15831	3 mg/kg
+T557	frequency 15831 15835	/day
+T559	tradename 16067 16075	AmBisome
+T561	dose 16076 16083	3 mg/kg
+T563	tradename 16084 16092	AmBisome
+T565	dose 16093 16100	6 mg/kg
+T567	activeingredient 16101 16115	Amphotericin B
+T569	dose 16116 16125	0.7 mg/kg
+T571	tradename 16431 16439	AmBisome
+T573	activeingredient 16444 16458	amphotericin B
+T575	activeingredient 16498 16513	amphotericin B.
+T577	tradename 16546 16559	AmBisome.  
+T579	tradename 16666 16674	AmBisome
+T581	activeingredient 16842 16856	amphotericin B
+T583	indication 16978 16997	Aspergillus Species
+T585	indication 16999 17014	Candida Species
+T587	indication 17022 17042	Cryptococcus Species
+T589	pre-existingdisease 17118 17134	Renal Impairment
+T591	tradename 17209 17217	AmBisome
+T593	indication 17291 17318	systemic fungal infections.
+T595	indication 17346 17363	fungal infections
+T597	pre-existingdisease 17486 17506	renal insufficiency.
+T599	indication 17766 17779	aspergillosis
+T601	indication 17781 17792	candidiasis
+T603	indication 17798 17813	cryptococcosis.
+T605	indication 17830 17852	Visceral Leishmaniasis
+T607	tradename 17853 17861	AmBisome
+T609	indication 17891 17913	visceral leishmaniasis
+T611	indication 17987 18007	Leishmania infantum.
+T613	tradename 18115 18123	AmBisome
+T615	dose 18220 18231	12-30 mg/kg
+T617	dose 18476 18487	30-40 mg/kg
+T619	pre-existingdisease 18669 18672	HIV
+T621	pre-existingdisease 18700 18712	HIV infected
+T623	pre-existingdisease 18726 18731	AIDS.
+T625	indication 18939 18962	visceral leishmaniasis.
+T627	tradename 19210 19218	AmBisome
+T629	indication 19231 19253	Visceral Leishmaniasis
+T631	tradename 19489 19489	
+T633	dose 19489 19495	100 mg
+T635	frequency 19495 19499	/day
+T637	duration 19502 19509	21 days
+T639	dose 19510 19523	29-38.9 mg/kg
+T641	tradename 19547 19547	
+T643	dose 19547 19554	4 mg/kg
+T645	frequency 19554 19558	/day
+T647	pre-existingdisease 19989 19992	HIV
+T649	tradename 20159 20167	AmBisome
+T651	tradename 20264 20273	 AmBisome
+T653	tradename 20541 20542	 
+T655	adversereaction 20542 20553	Anaphylaxis
+T657	activeingredient 20615 20630	amphotericin B-
+T659	tradename 20658 20669	AmBisome. 
+T661	adversereaction 20674 20702	severe anaphylactic reaction
+T663	tradename 20815 20827	AmBisome.  
+T665	activeingredient 20862 20877	amphotericin B-
+T667	tradename 21048 21056	AmBisome
+T669	tradename 21510 21518	AmBisome
+T671	tradename 21842 21853	AmBisome. 
+T673	activeingredient 21909 21923	amphotericin B
+T675	tradename 21946 21958	AmBisome:  
+T677	activeingredient 22918 22932	amphotericin B
+T679	activeingredient 23004 23019	amphotericin B.
+T681	routeofadministration 23223 23234	intravenous
+T683	activeingredient 23235 23249	amphotericin B
+T685	activeingredient 23329 23343	amphotericin B
+T687	activeingredient 23585 23600	Amphotericin B-
+T689	tradename 23953 23972	AmBisome. AmBisome
+T691	dose 24186 24201	10 and 15 mg/kg
+T693	dose 24238 24255	1.6 and 2.4 mg/kg
+T695	tradename 24301 24309	AmBisome
+T697	tradename 24496 24504	AmBisome
+T699	tradename 24749 24757	AmBisome
+T701	tradename 24846 24854	AmBisome
+T703	dose 24875 24882	5 mg/kg
+T705	dose 24961 24974	1 to 5 mg/kg)
+T707	dose 24991 24998	3 mg/kg
+T709	tradename 25210 25218	AmBisome
+T711	tradename 25300 25308	AmBisome
+T713	tradename 25513 25521	AmBisome
+T715	indication 25856 25872	fungal infection
+T717	indication 25904 25930	systemic fungal infections
+T719	indication 25939 25961	visceral leishmaniasis
+T721	tradename 25998 26009	AmBisome. 
+T723	tradename 26071 26079	AmBisome
+T725	tradename 26147 26155	AmBisome
+T727	tradename 26216 26224	AmBisome
+T729	pre-existingdisease 26521 26540	Febrile Neutropenic
+T731	tradename 26618 26626	AmBisome
+T733	tradename 26732 26740	AmBisome
+T735	tradename 26816 26824	AmBisome
+T737	tradename 26975 26983	AmBisome
+T739	tradename 27077 27085	AmBisome
+T741	pre-existingdisease 27203 27210	febrile
+T743	pre-existingdisease 27212 27223	neutropenic
+T745	tradename 27235 27243	AmBisome
+T747	activeingredient 27248 27262	amphotericin B
+T749	tradename 27377 27385	AmBisome
+T751	tradename 27590 27598	AmBisome
+T753	activeingredient 27607 27621	Amphotericin B
+T755	adversereaction 27646 27741	Abdominal pain Asthenia Back pain Blood product transfusion react. Chills Infection Pain Sepsis
+T757	adversereaction 27842 27877	Chest pain Hypertension Hypotension
+T759	tradename 27999 28007	AmBisome
+T761	tradename 28017 28017	
+T763	activeingredient 28017 28031	Amphotericin B
+T765	tradename 28041 28041	
+T767	adversereaction 28041 28052	Tachycardia
+T769	adversereaction 28081 28089	Diarrhea
+T771	tradename 28101 28101	
+T773	adversereaction 28101 28128	Gastrointestinal hemorrhage
+T775	tradename 28139 28139	
+T777	adversereaction 28139 28145	Nausea
+T779	tradename 28157 28157	
+T781	adversereaction 28157 28165	Vomiting
+T783	adversereaction 28213 28243	Alkaline phosphatase increased
+T785	tradename 28255 28255	
+T787	adversereaction 28255 28275	ALT (SGPT) increased
+T789	adversereaction 28284 28304	AST (SGOT) increased
+T791	tradename 28316 28316	
+T793	adversereaction 28316 28329	Bilirubinemia
+T795	tradename 28341 28341	
+T797	adversereaction 28341 28354	BUN increased
+T799	tradename 28364 28364	
+T801	adversereaction 28364 28384	Creatinine increased
+T803	tradename 28396 28396	
+T805	adversereaction 28396 28401	Edema
+T807	tradename 28413 28413	
+T809	adversereaction 28413 28426	Hyperglycemia
+T811	tradename 28436 28436	
+T813	adversereaction 28436 28449	Hypernatremia
+T815	tradename 28458 28458	
+T817	adversereaction 28458 28470	Hypervolemia
+T819	tradename 28482 28482	
+T821	adversereaction 28482 28494	Hypocalcemia
+T823	tradename 28506 28506	
+T825	adversereaction 28506 28517	Hypokalemia
+T827	tradename 28529 28529	
+T829	adversereaction 28529 28543	Hypomagnesemia
+T831	tradename 28555 28555	
+T833	adversereaction 28555 28571	Peripheral edema
+T835	adversereaction 28598 28605	Anxiety
+T837	tradename 28615 28615	
+T839	adversereaction 28615 28624	Confusion
+T841	tradename 28636 28636	
+T843	adversereaction 28636 28644	Headache
+T845	tradename 28656 28656	
+T847	adversereaction 28656 28664	Insomnia
+T849	adversereaction 28695 28710	Cough increased
+T851	tradename 28722 28722	
+T853	adversereaction 28722 28729	Dyspnea
+T855	tradename 28739 28739	
+T857	adversereaction 28739 28748	Epistaxis
+T859	tradename 28760 28760	
+T861	adversereaction 28760 28767	Hypoxia
+T863	tradename 28778 28778	
+T865	adversereaction 28778 28791	Lung disorder
+T867	tradename 28803 28803	
+T869	adversereaction 28803 28819	Pleural effusion
+T871	tradename 28830 28830	
+T873	adversereaction 28830 28838	Rhinitis
+T875	adversereaction 28868 28890	Pruritus Rash Sweating
+T877	adversereaction 28937 28946	Hematuria
+T879	tradename 28954 28963	 AmBisome
+T881	tradename 28985 28993	AmBisome
+T883	adversereaction 29019 29025	chills
+T885	adversereaction 29027 29039	hypertension
+T887	adversereaction 29041 29052	hypotension
+T889	adversereaction 29054 29065	tachycardia
+T891	adversereaction 29067 29074	hypoxia
+T893	adversereaction 29076 29087	hypokalemia
+T895	tradename 29267 29275	AmBisome
+T897	adversereaction 29341 29352	hypokalemia
+T899	adversereaction 29371 29377	chills
+T901	adversereaction 29396 29404	vomiting
+T903	adversereaction 29427 29439	hypertension
+T905	pre-existingdisease 29584 29603	febrile neutropenic
+T907	tradename 29641 29649	AmBisome
+T909	adversereaction 29781 29800	nephrotoxic effects
+T911	tradename 29984 29992	AmBisome
+T913	dose 29993 30000	3 mg/kg
+T915	tradename 30032 30040	AmBisome
+T917	dose 30041 30048	5 mg/kg
+T919	activeingredient 30078 30092	amphotericin B
+T921	nanoparticle 30093 30106	lipid complex
+T923	dose 30107 30114	5 mg/kg
+T925	pre-existingdisease 30184 30191	febrile
+T927	pre-existingdisease 30193 30204	neutropenic
+T929	tradename 30216 30224	AmBisome
+T931	activeingredient 30229 30243	amphotericin B
+T933	nanoparticle 30244 30257	lipid complex
+T935	tradename 30546 30554	AmBisome
+T937	dose 30555 30562	3 mg/kg
+T939	frequency 30562 30566	/day
+T941	tradename 30574 30582	AmBisome
+T943	dose 30583 30590	5 mg/kg
+T945	frequency 30590 30594	/day
+T947	activeingredient 30602 30616	Amphotericin B
+T949	nanoparticle 30617 30630	Lipid Complex
+T951	dose 30631 30638	5 mg/kg
+T953	frequency 30638 30642	/day
+T955	adversereaction 30667 30681	Abdominal pain
+T957	tradename 30697 30697	
+T959	adversereaction 30697 30705	Asthenia
+T961	tradename 30720 30720	
+T963	adversereaction 30720 30733	Chills/rigors
+T965	tradename 30748 30748	
+T967	adversereaction 30748 30754	Sepsis
+T969	tradename 30770 30770	
+T971	adversereaction 30770 30790	Transfusion reaction
+T973	adversereaction 30827 30837	Chest pain
+T975	tradename 30852 30852	
+T977	adversereaction 30852 30864	Hypertension
+T979	tradename 30881 30881	
+T981	adversereaction 30881 30892	Hypotension
+T983	tradename 30908 30908	
+T985	adversereaction 30908 30919	Tachycardia
+T987	adversereaction 30952 30976	Diarrhea Nausea Vomiting
+T989	adversereaction 31061 31091	Alkaline phosphatase increased
+T991	tradename 31106 31106	
+T993	adversereaction 31106 31119	Bilirubinemia
+T995	tradename 31136 31136	
+T997	adversereaction 31136 31149	BUN increased
+T999	tradename 31164 31164	
+T1001	adversereaction 31164 31184	Creatinine increased
+T1003	tradename 31199 31199	
+T1005	adversereaction 31199 31204	Edema
+T1007	tradename 31221 31221	
+T1009	adversereaction 31221 31234	Hyperglycemia
+T1011	tradename 31337 31345	AmBisome
+T1013	dose 31346 31353	3 mg/kg
+T1015	frequency 31353 31357	/day
+T1017	tradename 31365 31373	AmBisome
+T1019	dose 31374 31381	5 mg/kg
+T1021	frequency 31381 31385	/day
+T1023	activeingredient 31393 31407	Amphotericin B
+T1025	dose 31422 31429	5 mg/kg
+T1027	frequency 31429 31433	/day
+T1029	tradename 31442 31442	
+T1031	adversereaction 31442 31454	Hypervolemia
+T1033	tradename 31470 31470	
+T1035	adversereaction 31470 31482	Hypocalcemia
+T1037	tradename 31497 31497	
+T1039	adversereaction 31497 31508	Hypokalemia
+T1041	tradename 31525 31525	
+T1043	adversereaction 31525 31539	Hypomagnesemia
+T1045	tradename 31556 31556	
+T1047	adversereaction 31556 31585	Liver function tests abnormal
+T1049	adversereaction 31616 31642	Anxiety Confusion Headache
+T1051	tradename 31706 31706	
+T1053	adversereaction 31706 31713	Dyspnea
+T1055	tradename 31730 31730	
+T1057	adversereaction 31730 31739	Epistaxis
+T1059	tradename 31755 31755	
+T1061	adversereaction 31755 31762	Hypoxia
+T1063	tradename 31777 31777	
+T1065	adversereaction 31777 31790	Lung disorder
+T1067	adversereaction 31827 31831	Rash
+T1069	tradename 32006 32014	AmBisome
+T1071	dose 32015 32022	3 mg/kg
+T1073	tradename 32054 32062	AmBisome
+T1075	dose 32063 32070	6 mg/kg
+T1077	dose 32128 32137	0.7 mg/kg
+T1079	indication 32237 32260	cryptococcal meningitis
+T1081	pre-existingdisease 32264 32276	HIV positive
+T1083	tradename 32460 32461	 
+T1085	indication 32461 32484	Cryptococcal Meningitis
+T1087	tradename 32562 32570	AmBisome
+T1089	dose 32571 32578	3 mg/kg
+T1091	frequency 32578 32582	/day
+T1093	tradename 32590 32598	AmBisome
+T1095	dose 32599 32606	6 mg/kg
+T1097	frequency 32606 32610	/day
+T1099	activeingredient 32618 32632	Amphotericin B
+T1101	dose 32633 32642	0.7 mg/kg
+T1103	frequency 32642 32646	/day
+T1105	adversereaction 32670 32718	Abdominal pain Infection Procedural Complication
+T1107	tradename 32786 32787	 
+T1109	adversereaction 32787 32796	Phlebitis
+T1111	adversereaction 32828 32865	Anorexia Constipation Diarrhea Nausea
+T1113	tradename 32922 32924	 
+T1115	indication 32924 32947	Cryptococcal Meningitis
+T1117	tradename 33025 33033	AmBisome
+T1119	dose 33034 33041	3 mg/kg
+T1121	frequency 33041 33045	/day
+T1123	tradename 33053 33061	AmBisome
+T1125	dose 33062 33069	6 mg/kg
+T1127	frequency 33069 33073	/day
+T1129	activeingredient 33081 33095	Amphotericin B
+T1131	dose 33096 33105	0.7 mg/kg
+T1133	frequency 33105 33109	/day
+T1135	adversereaction 33118 33126	Vomiting
+T1137	adversereaction 33169 33203	Anemia Leukopenia Thrombocytopenia
+T1139	adversereaction 33286 33431	Bilirubinemia BUN increased Creatinine increased Hyperglycemia Hypocalcemia Hypokalemia Hypomagnesemia Hyponatremia Liver Function Tests Abnormal
+T1141	adversereaction 33574 33592	Dizziness Insomnia
+T1143	adversereaction 33640 33655	Cough Increased
+T1145	adversereaction 33690 33694	Rash
+T1147	pre-existingdisease 33809 33828	febrile neutropenic
+T1149	adversereaction 33867 33892	infusion related reaction
+T1151	tradename 33958 33974	AmBisome-treated
+T1153	adversereaction 34009 34031	infusion related fever
+T1155	adversereaction 34050 34063	chills/rigors
+T1157	adversereaction 34085 34093	vomiting
+T1159	adversereaction 34197 34223	infusion related reactions
+T1161	tradename 34458 34466	AmBisome
+T1163	activeingredient 34467 34481	Amphotericin B
+T1165	tradename 34482 34490	AmBisome
+T1167	activeingredient 34491 34505	Amphotericin B
+T1169	activeingredient 35229 35244	amphotericin B-
+T1171	tradename 35362 35370	AmBisome
+T1173	activeingredient 35377 35391	Amphotericin B
+T1175	tradename 35827 35843	AmBisome-treated
+T1177	activeingredient 35867 35881	amphotericin B
+T1179	tradename 36122 36130	AmBisome
+T1181	activeingredient 36145 36159	amphotericin B
+T1183	tradename 36243 36251	AmBisome
+T1185	activeingredient 36276 36290	amphotericin B
+T1187	activeingredient 36374 36388	amphotericin B
+T1189	dose 36462 36469	3 mg/kg
+T1191	frequency 36470 36477	per day
+T1193	tradename 36478 36486	AmBisome
+T1195	dose 36521 36528	5 mg/kg
+T1197	frequency 36529 36536	per day
+T1199	tradename 36537 36550	AmBisome.  
+T1201	tradename 36652 36660	AmBisome
+T1203	activeingredient 36661 36675	Amphotericin B
+T1205	dose 36690 36697	5 mg/kg
+T1207	frequency 36697 36702	/day3
+T1209	dose 36703 36708	mg/kg
+T1211	frequency 36708 36712	/day
+T1213	dose 36713 36720	5 mg/kg
+T1215	frequency 36720 36724	/day
+T1217	tradename 37654 37662	AmBisome
+T1219	indication 37718 37741	cryptococcal meningitis
+T1221	tradename 37813 37821	AmBisome
+T1223	tradename 38010 38018	AmBisome
+T1225	dose 38019 38026	3 mg/kg
+T1227	tradename 38027 38035	AmBisome
+T1229	dose 38036 38043	6 mg/kg
+T1231	activeingredient 38044 38058	Amphotericin B
+T1233	tradename 38512 38520	AmBisome
+T1235	tradename 39001 39009	AmBisome
+T1237	activeingredient 39034 39048	amphotericin B
+T1239	activeingredient 39120 39134	amphotericin B
+T1241	tradename 39282 39293	AmBisome. 
+T1243	activeingredient 39370 39384	amphotericin B
+T1245	tradename 39469 39477	AmBisome
+T1247	tradename 39583 39599	AmBisome-treated
+T1249	tradename 42171 42179	AmBisome
+T1251	tradename 42390 42398	AmBisome
+T1253	activeingredient 42403 42417	amphotericin B
+T1255	tradename 42994 43002	AmBisome
+T1257	tradename 43104 43112	AmBisome
+T1259	activeingredient 43113 43127	Amphotericin B
+T1261	tradename 43475 43483	AmBisome
+T1263	dose 43484 43491	3 mg/kg
+T1265	frequency 43491 43495	/day
+T1267	tradename 43522 43522	
+T1269	activeingredient 43522 43536	Amphotericin B
+T1271	dose 43537 43546	0.6 mg/kg
+T1273	frequency 43546 43550	/day
+T1275	tradename 43580 43588	AmBisome
+T1277	dose 43590 43597	3 mg/kg
+T1279	frequency 43597 43602	/day)
+T1281	activeingredient 43607 43621	amphotericin B
+T1283	dose 43623 43632	0.6 mg/kg
+T1285	frequency 43632 43637	/day)
+T1287	tradename 43973 43981	AmBisome
+T1289	activeingredient 44034 44048	amphotericin B
+T1291	tradename 44190 44198	AmBisome
+T1293	activeingredient 44199 44213	Amphotericin B
+T1295	dose 44228 44235	5 mg/kg
+T1297	frequency 44235 44241	/day 3
+T1299	dose 44242 44247	mg/kg
+T1301	frequency 44247 44251	/day
+T1303	dose 44252 44259	5 mg/kg
+T1305	frequency 44259 44263	/day
+T1307	indication 45167 45190	cryptococcal meningitis
+T1309	tradename 45208 45216	AmBisome
+T1311	tradename 45311 45319	AmBisome
+T1313	dose 45320 45327	3 mg/kg
+T1315	tradename 45328 45336	AmBisome
+T1317	dose 45337 45344	6 mg/kg
+T1319	activeingredient 45345 45359	Amphotericin B
+T1321	tradename 45619 45627	AmBisome
+T1323	dose 45693 45701	10 mg/kg
+T1325	dose 45728 45736	15 mg/kg
+T1327	tradename 46127 46139	AmBisome.  
+T1329	tradename 46166 46175	 AmBisome
+T1331	routeofadministration 46202 46213	intravenous
+T1333	routeofadministration 46355 46366	intravenous
+T1335	tradename 46379 46387	AmBisome
+T1337	tradename 46564 46574	AmBisome. 
+T1339	tradename 46599 46607	AmBisome
+T1341	tradename 46898 46906	AmBisome
+T1343	indication 47034 47064	fungal infections: Aspergillus
+T1345	tradename 47066 47066	
+T1347	indication 47066 47086	Candida Cryptococcus
+T1349	tradename 47092 47092	
+T1351	indication 47092 47115	Cryptococcal meningitis
+T1353	tradename 47423 47423	
+T1355	indication 47423 47445	Visceral Leishmaniasis
+T1357	tradename 48071 48079	AmBisome
+T1359	tradename 48184 48192	AmBisome
+T1361	activeingredient 48213 48227	amphotericin B
+T1363	tradename 48339 48349	AmBisome 
+T1365	activeingredient 48393 48408	amphotericin B/
+T1367	tradename 48668 48679	AmBisome. 
+T1369	tradename 48791 48809	AmBisome. AmBisome
+T1371	tradename 49026 49034	AmBisome
+T1373	tradename 49100 49108	AmBisome
+T1375	tradename 49326 49335	AmBisome.
+T1377	tradename 49341 49349	AmBisome
+T1379	tradename 49638 49649	AMBISOME  
+T1381	tradename 50003 50011	AmBisome
+T1383	tradename 50142 50150	AmBisome
+T1385	tradename 50489 50497	AmBisome
+T1387	tradename 50577 50585	AmBisome
+T1389	activeingredient 50651 50666	amphotericin B)
+T1391	company 51706 51724	Astellas Pharma US
+T1393	company 51726 51730	Inc.
+T1395	company 51774 51789	Gilead Sciences
+T1397	company 51791 51795	Inc.
+T1399	tradename 51817 51828	 AmBisome
+T1401	company 51858 51873	Gilead Sciences
+T1403	company 51875 51879	Inc.
+T1405	company 51918 51938	The Liposome Company
+T1407	company 51940 51944	Inc.

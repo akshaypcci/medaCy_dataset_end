@@ -1,0 +1,575 @@
+T1	tradename 125 134	Marqibo (
+T3	activeingredient 134 162	vinCRIStine sulfate LIPOSOME
+T5	nanoparticle 163 172	injection
+T7	tradename 235 244	Marqibo (
+T9	activeingredient 244 272	vinCRIStine sulfate LIPOSOME
+T11	nanoparticle 273 282	injection
+T13	tradename 286 293	Marqibo
+T15	activeingredient 295 323	vinCRIStine sulfate LIPOSOME
+T17	nanoparticle 324 333	injection
+T19	routeofadministration 339 359	intravenous infusion
+T21	fdaapprovaldate 383 387	2012
+T23	routeofadministration 464 479	Intravenous Use
+T25	tradename 584 593	Marqibo (
+T27	activeingredient 593 621	vinCRIStine sulfate LIPOSOME
+T29	nanoparticle 622 631	injection
+T31	activeingredient 675 704	vinCRIStine sulfate injection
+T33	tradename 818 828	Marqibo is
+T35	chemoclass 831 855	vinca alkaloid indicated
+T37	indication 897 972	Philadelphia chromosome negative (Ph-) acute lymphoblastic leukemia (ALL)in
+T39	routeofadministration 1250 1265	Intravenous use
+T41	tradename 1326 1336	Marqibo at
+T43	dose 1347 1371	2.25 mg/m2 intravenously
+T45	routeofadministration 1372 1376	over
+T47	frequency 1384 1403	once every 7 days (
+T49	tradename 1510 1521	Marqibo Kit
+T51	tradename 1566 1575	Marqibo (
+T53	activeingredient 1575 1594	vinCRIStine sulfate
+T55	nanoparticle 1595 1613	LIPOSOME injection
+T57	activeingredient 1648 1669	vincristine sulfate (
+T59	tradename 1700 1710	Marqibo is
+T61	tradename 1815 1825	Marqibo is
+T63	activeingredient 1879 1901	vincristine sulfate or
+T65	tradename 1933 1942	Marqibo (
+T67	activeingredient 1942 1961	vinCRIStine sulfate
+T69	nanoparticle 1962 1980	LIPOSOME injection
+T71	tradename 1988 1998	Marqibo is
+T73	tradename 2381 2393	Marqibo only
+T75	tradename 2505 2513	Marqibo.
+T77	tradename 2577 2589	Marqibo dose
+T79	adversereaction 3243 3255	constipation
+T81	adversereaction 3257 3263	nausea
+T83	adversereaction 3265 3272	pyrexia
+T85	adversereaction 3274 3281	fatigue
+T87	adversereaction 3283 3304	peripheral neuropathy
+T89	adversereaction 3306 3325	febrile neutropenia
+T91	adversereaction 3327 3335	diarrhea
+T93	adversereaction 3337 3343	anemia
+T95	adversereaction 3345 3363	decreased appetite
+T97	adversereaction 3369 3379	insomnia (
+T99	company 3432 3453	Talon Therapeutics at
+T101	tradename 3540 3550	Marqibo is
+T103	activeingredient 3620 3641	vincristine sulfate (
+T105	tradename 3725 3735	Marqibo in
+T107	routeofadministration 3891 3906	INTRAVENOUS USE
+T109	indication 3946 3958	Aduld ALL in
+T111	routeofadministration 4218 4233	Intravenous Use
+T113	adversereaction 4246 4273	Extravasation Tissue Injury
+T115	adversereaction 4276 4277	5
+T117	adversereaction 4281 4300	Neurologic Toxicity
+T119	adversereaction 4303 4304	5
+T121	adversereaction 4308 4324	Myelosuppression
+T123	adversereaction 4331 4351	Tumor Lysis Syndrome
+T125	adversereaction 4354 4355	5
+T127	adversereaction 4359 4393	Constipation and Bowel Obstruction
+T129	adversereaction 4395 4396	5
+T131	adversereaction 4400 4407	Fatigue
+T133	adversereaction 4409 4410	5
+T135	adversereaction 4414 4430	Hepatic Toxicity
+T137	adversereaction 4432 4433	5
+T139	adversereaction 4437 4457	Embryofetal Toxicity
+T141	indication 5247 5275	Acute Lymphoblastic Leukemia
+T143	routeofadministration 5322 5337	Intravenous Use
+T145	routeofadministration 5440 5466	intrathecal administration
+T147	tradename 5469 5478	Marqibo (
+T149	activeingredient 5478 5506	vinCRIStine sulfate LIPOSOME
+T151	nanoparticle 5507 5516	injection
+T153	activeingredient 5560 5589	vinCRIStine sulfate injection
+T155	indication 5715 5727	Adult ALL in
+T157	tradename 5756 5763	Marqibo
+T159	indication 5818 5894	Philadelphia chromosome negative (Ph ) acute lymphoblastic leukemia (ALL) in
+T161	routeofadministration 6173 6188	Intravenous Use
+T163	tradename 6231 6240	Marqibo (
+T165	activeingredient 6240 6268	vinCRIStine sulfate LIPOSOME
+T167	nanoparticle 6269 6278	injection
+T169	activeingredient 6322 6351	vincristine sulfate injection
+T171	tradename 6497 6507	Marqibo is
+T173	dose 6508 6532	2.25 mg/m2 intravenously
+T175	routeofadministration 6533 6537	over
+T177	frequency 6545 6563	once every 7 days.
+T179	tradename 6566 6576	Marqibo is
+T181	nanoparticle 6577 6598	liposome encapsulated
+T183	activeingredient 6599 6611	vincristine.
+T185	tradename 6666 6676	Marqibo is
+T187	tradename 6873 6885	Marqibo only
+T189	tradename 7124 7139	Marqibo related
+T191	tradename 7318 7326	Marqibo.
+T193	tradename 7501 7509	Marqibo.
+T195	tradename 7621 7633	Marqibo dose
+T197	dose 7637 7645	2 mg/m2.
+T199	tradename 7706 7717	Marqibo for
+T201	dose 7836 7844	2 mg/m2:
+T203	tradename 7864 7872	Marqibo.
+T205	tradename 7933 7945	Marqibo dose
+T207	dose 7949 7961	1.825 mg/m2.
+T209	tradename 8024 8035	Marqibo for
+T211	dose 8153 8165	1.825 mg/m2:
+T213	tradename 8185 8193	Marqibo.
+T215	tradename 8246 8258	Marqibo dose
+T217	dose 8262 8272	1.5 mg/m2.
+T219	tradename 8739 8746	Marqibo
+T221	tradename 8749 8760	Marqibo Kit
+T223	tradename 9171 9182	Marqibo and
+T225	tradename 9256 9263	Marqibo
+T227	activeingredient 9265 9284	vinCRIStine sulfate
+T229	nanoparticle 9285 9293	LIPOSOME
+T231	tradename 9503 9511	Marqibo.
+T233	tradename 9514 9527	Marqibo takes
+T235	tradename 9637 9648	Marqibo due
+T237	tradename 9834 9842	Marqibo.
+T239	tradename 9870 9882	Marqibo that
+T241	nanoparticle 9956 9974	Liposome Injection
+T243	activeingredient 9980 10009	VinCRIStine Sulfate Injection
+T245	tradename 10927 10938	Marqibo Kit
+T247	nanoparticle 11472 11490	Liposome Injection
+T249	activeingredient 11495 11524	VinCRIStine Sulfate Injection
+T251	nanoparticle 11575 11593	Liposome Injection
+T253	nanoparticle 11641 11659	Liposome Injection
+T255	inactiveingredient 11669 11695	Sodium Phosphate Injection
+T257	activeingredient 11723 11752	VinCRIStine Sulfate Injection
+T259	activeingredient 11774 11803	VinCRIStine Sulfate Injection
+T261	inactiveingredient 11813 11839	Sodium Phosphate Injection
+T263	inactiveingredient 11899 11925	Sodium Phosphate Injection
+T265	inactiveingredient 12011 12037	Sodium Phosphate Injection
+T267	inactiveingredient 12161 12187	Sodium Phosphate Injection
+T269	activeingredient 12204 12233	VinCRIStine Sulfate Injection
+T271	nanoparticle 12261 12279	Liposome Injection
+T273	inactiveingredient 12285 12311	Sodium Phosphate Injection
+T275	inactiveingredient 12548 12574	Sodium Phosphate Injection
+T277	tradename 12666 12683	Marqibo Overlabel
+T279	tradename 12975 12992	Marqibo Overlabel
+T281	inactiveingredient 13023 13049	Sodium Phosphate Injection
+T283	tradename 13087 13094	Marqibo
+T285	activeingredient 13097 13125	vinCRIStine sulfate LIPOSOME
+T287	nanoparticle 13126 13135	injection
+T289	tradename 13344 13353	Marqibo (
+T291	activeingredient 13353 13381	vinCRIStine sulfate LIPOSOME
+T293	nanoparticle 13382 13391	injection
+T295	activeingredient 13426 13446	vincristine sulfate.
+T297	tradename 13599 13611	Marqibo with
+T299	tradename 13725 13737	Marqibo dose
+T301	tradename 13845 13857	Marqibo dose
+T303	tradename 13982 13994	Marqibo into
+T305	tradename 14236 14255	Marqibo preparation
+T307	activeingredient 14424 14448	vincristine sulfate into
+T309	nanoparticle 14453 14463	liposomes.
+T311	tradename 14906 14916	Marqibo is
+T313	tradename 14953 14964	Marqibo Kit
+T315	tradename 15055 15064	Marqibo (
+T317	activeingredient 15064 15092	vinCRIStine sulfate LIPOSOME
+T319	nanoparticle 15093 15102	injection
+T321	activeingredient 15137 15157	vincristine sulfate.
+T323	tradename 15184 15194	Marqibo is
+T325	tradename 15294 15304	Marqibo is
+T327	activeingredient 15358 15380	vincristine sulfate or
+T329	tradename 15412 15421	Marqibo (
+T331	activeingredient 15421 15449	vinCRIStine sulfate LIPOSOME
+T333	nanoparticle 15450 15459	injection
+T335	tradename 15464 15474	Marqibo is
+T337	routeofadministration 15564 15579	Intravenous Use
+T339	tradename 16349 16359	Marqibo is
+T341	indication 16543 16561	adult ALL patients
+T343	tradename 16699 16708	Marqibo [
+T345	adversereaction 16754 16770	Myelosuppression
+T347	adversereaction 16772 16779	Monitor
+T349	tradename 16824 16832	Marqibo.
+T351	adversereaction 16851 16862	neutropenia
+T353	adversereaction 16864 16880	thrombocytopenia
+T355	adversereaction 16885 16900	anemia develops
+T357	tradename 16911 16923	Marqibo dose
+T359	adversereaction 16995 17015	Tumor Lysis Syndrome
+T361	adversereaction 17018 17048	Tumor lysis syndrome (TLS) may
+T363	indication 17072 17085	ALL receiving
+T365	tradename 17086 17105	Marqibo. Anticipate
+T367	adversereaction 17141 17175	Constipation and Bowel Obstruction
+T369	adversereaction 17178 17183	Ileus
+T371	adversereaction 17185 17202	bowel obstruction
+T373	adversereaction 17208 17239	colonic pseudo obstruction have
+T375	tradename 17252 17263	Marqibo can
+T377	adversereaction 17270 17284	constipation [
+T379	adversereaction 17375 17387	constipation
+T381	adversereaction 17389 17406	bowel obstruction
+T383	adversereaction 17415 17430	paralytic ileus
+T385	adversereaction 17671 17686	Fatigue Marqibo
+T387	tradename 17687 17690	can
+T389	adversereaction 17704 17712	fatigue.
+T391	tradename 17713 17725	Marqibo dose
+T393	adversereaction 17790 17806	Hepatic Toxicity
+T395	adversereaction 17809 17884	Fatal liver toxicity and elevated levels of aspartate aminotransferase have
+T397	adversereaction 17894 17942	Elevated levels of aspartate aminotransferase of
+T399	tradename 18058 18069	Marqibo for
+T401	adversereaction 18070 18087	hepatic toxicity.
+T403	adversereaction 18097 18125	Embryofetal Toxicity Marqibo
+T405	tradename 18126 18129	can
+T407	activeingredient 18186 18214	Vincristine sulfate liposome
+T409	nanoparticle 18215 18224	injection
+T411	tradename 18372 18380	Marqibo.
+T413	tradename 18436 18446	Marqibo in
+T415	tradename 18539 18555	Marqibo clinical
+T417	routeofadministration 18899 18914	intravenous use
+T419	adversereaction 18960 18989	Extravasation tissue injury [
+T421	adversereaction 19027 19050	Peripheral Neuropathy [
+T423	adversereaction 19087 19105	Myelosuppression [
+T425	adversereaction 19143 19164	Tumor lysis syndrome[
+T427	adversereaction 19201 19237	Constipation and bowel obstruction [
+T429	adversereaction 19274 19283	Fatigue [
+T431	adversereaction 19320 19338	Hepatic toxicity [
+T433	indication 19754 19792	Ph- Adult Acute Lymphoblastic Leukemia
+T435	tradename 19795 19802	Marqibo
+T437	dose 19817 19827	2.25 mg/m2
+T439	frequency 19828 19834	weekly
+T441	adversereaction 20014 20028	constipation (
+T443	adversereaction 20034 20042	nausea (
+T445	adversereaction 20048 20057	pyrexia (
+T447	adversereaction 20063 20072	fatigue (
+T449	adversereaction 20078 20101	peripheral neuropathy (
+T451	adversereaction 20107 20128	febrile neutropenia (
+T453	adversereaction 20134 20144	diarrhea (
+T455	adversereaction 20150 20158	anemia (
+T457	adversereaction 20164 20184	decreased appetite (
+T459	adversereaction 20194 20204	insomnia (
+T461	adversereaction 20636 20655	Febrile Neutropenia
+T463	adversereaction 20667 20678	Neutropenia
+T465	adversereaction 20690 20696	Anemia
+T467	adversereaction 20708 20724	Thrombocytopenia
+T469	adversereaction 20760 20769	Pneumonia
+T471	adversereaction 20779 20791	Septic Shock
+T473	adversereaction 20801 20826	Staphylococcal Bacteremia
+T475	adversereaction 20861 20900	Peripheral Sensory and Motor Neuropathy
+T477	adversereaction 20913 20925	Constipation
+T479	adversereaction 20936 20941	Ileus
+T481	adversereaction 20943 20969	Colonic Pseudo Obstruction
+T483	adversereaction 20980 20988	Asthenia
+T485	adversereaction 21000 21017	Muscular Weakness
+T487	adversereaction 21087 21107	Respiratory Distress
+T489	adversereaction 21118 21137	Respiratory Failure
+T491	adversereaction 21212 21219	Pyrexia
+T493	adversereaction 21231 21238	Fatigue
+T495	adversereaction 21250 21254	Pain
+T497	adversereaction 21304 21318	Abdominal Pain
+T499	adversereaction 21356 21392	Aspartate Aminotransferase Increased
+T501	adversereaction 21432 21443	Hypotension
+T503	adversereaction 21488 21509	Mental Status Changes
+T505	adversereaction 21549 21563	Cardiac Arrest
+T507	adversereaction 21959 21980	febrile neutropenia (
+T509	adversereaction 21988 21997	pyrexia (
+T511	adversereaction 22005 22018	hypotension (
+T513	adversereaction 22025 22047	respiratory distress (
+T515	adversereaction 22058 22074	cardiac arrest (
+T517	adversereaction 22350 22373	peripheral neuropathy (
+T519	adversereaction 22406 22428	tumor lysis syndrome (
+T521	adversereaction 22522 22547	decreased vibratory sense
+T523	adversereaction 22549 22561	facial palsy
+T525	adversereaction 22563 22575	hyporeflexia
+T527	adversereaction 22577 22589	constipation
+T529	adversereaction 22591 22599	asthenia
+T531	adversereaction 22601 22608	fatigue
+T533	adversereaction 22614 22634	musculoskeletal pain
+T535	tradename 23069 23087	Marqibo.Marqibo is
+T537	activeingredient 23157 23177	vincristine sulfate.
+T539	routeofadministration 23193 23227	oral or intravenous administration
+T541	co-administereddrug 23231 23285	phenytoin and antineoplastic chemotherapy combinations
+T543	activeingredient 23314 23338	vincristine sulfate have
+T545	activeingredient 23452 23471	Vincristine sulfate
+T547	tradename 23493 23500	Marqibo
+T549	activeingredient 24040 24059	Vincristine sulfate
+T551	tradename 24081 24088	Marqibo
+T553	tradename 24317 24334	Marqibo Therefore
+T555	tradename 24594 24605	Marqibo can
+T557	activeingredient 24898 24917	vincristine sulfate
+T559	nanoparticle 24918 24936	liposome injection
+T561	routeofadministration 24937 24957	intravenously during
+T563	activeingredient 24989 25014	vincristine sulfate doses
+T565	dose 25018 25037	0.022 to 0.09 mg/kg
+T567	frequency 25037 25042	/day.
+T569	dose 25304 25315	0.044 mg/kg
+T571	frequency 25315 25322	/day in
+T573	tradename 25844 25854	Marqibo in
+T575	tradename 26316 26327	Marqibo has
+T577	activeingredient 26391 26413	vincristine sulfate is
+T579	tradename 26520 26531	Marqibo has
+T581	tradename 26578 26589	Marqibo was
+T583	tradename 26810 26820	Marqibo in
+T585	tradename 26987 26996	Marqibo (
+T587	activeingredient 26996 27015	vinCRIStine sulfate
+T589	nanoparticle 27016 27034	LIPOSOME injection
+T591	dose 27066 27075	2.4 mg/m2
+T593	adversereaction 27105 27124	motor neuropathy of
+T595	adversereaction 27134 27154	grand mal seizure of
+T597	adversereaction 27168 27229	elevated aspartate aminotransferase and hyperbilirubinemia of
+T599	tradename 27337 27346	Marqibo (
+T601	activeingredient 27346 27365	vinCRIStine sulfate
+T603	nanoparticle 27366 27384	LIPOSOME injection
+T605	activeingredient 27389 27413	vincristine encapsulated
+T607	corecomposition 27417 27452	sphingomyelin/cholesterol liposomes
+T609	nanoparticle 27453 27456	for
+T611	routeofadministration 27457 27483	intravenous administration
+T613	tradename 27512 27522	Marqibo is
+T615	activeingredient 27523 27543	vincristine sulfate.
+T617	activeingredient 27546 27568	Vincristine sulfate is
+T619	chemoclass 27571 27594	vinca alkaloid isolated
+T621	molecularweight 27794 27802	923.04 (
+T623	molecularweight 27815 27823	824.98 (
+T625	activeingredient 27905 27927	vincristine sulfate is
+T627	activeingredient 28000 28014	Vincristine is
+T629	corecomposition 28033 28058	Sphingomyelin/Cholesterol
+T631	nanoparticle 28059 28068	liposome.
+T633	nanoparticle 28096 28108	liposome are
+T635	corecomposition 28109 28141	sphingomyelin and cholesterol at
+T637	tradename 28224 28240	Marqibo contains
+T639	activeingredient 28246 28265	vincristine sulfate
+T641	inactiveingredient 28274 28282	mannitol
+T643	corecomposition 28292 28305	sphingomyelin
+T645	corecomposition 28315 28326	cholesterol
+T647	inactiveingredient 28334 28348	sodium citrate
+T649	inactiveingredient 28356 28367	citric acid
+T651	inactiveingredient 28376 28392	sodium phosphate
+T653	inactiveingredient 28405 28421	sodium chloride.
+T655	tradename 28426 28435	Marqibo (
+T657	activeingredient 28435 28454	vinCRIStine sulfate
+T659	nanoparticle 28455 28473	LIPOSOME injection
+T661	corecomposition 28604 28629	sphingomyelin/cholesterol
+T663	nanoparticle 28631 28640	liposomes
+T665	nanoparticle 28662 28675	liposome mean
+T667	particlediameter 28688 28695	100 nm.
+T669	nanoparticle 28750 28760	liposomes.
+T671	tradename 28767 28778	Marqibo Kit
+T673	tradename 28818 28827	Marqibo (
+T675	activeingredient 28827 28846	vinCRIStine sulfate
+T677	nanoparticle 28847 28865	LIPOSOME injection
+T679	activeingredient 28877 28906	VinCRIStine Sulfate Injection
+T681	activeingredient 28932 28961	VinCRIStine Sulfate Injection
+T683	activeingredient 28989 29010	vincristine sulfate (
+T685	activeingredient 29045 29061	vincristine free
+T687	inactiveingredient 29084 29093	mannitol.
+T689	corecomposition 29095 29120	Sphingomyelin/Cholesterol
+T691	nanoparticle 29121 29139	Liposome Injection
+T693	corecomposition 29160 29185	Sphingomyelin/Cholesterol
+T695	nanoparticle 29186 29204	Liposome Injection
+T697	corecomposition 29233 29246	sphingomyelin
+T699	corecomposition 29259 29270	cholesterol
+T701	inactiveingredient 29283 29294	citric acid
+T703	inactiveingredient 29307 29321	sodium citrate
+T705	inactiveingredient 29356 29382	Sodium Phosphate Injection
+T707	inactiveingredient 29406 29432	Sodium Phosphate Injection
+T709	inactiveingredient 29463 29491	dibasic sodium phosphate and
+T711	inactiveingredient 29505 29521	sodium chloride.
+T713	tradename 29581 29591	Marqibo is
+T715	corecomposition 29594 29619	sphingomyelin/cholesterol
+T717	nanoparticle 29620 29641	liposome encapsulated
+T719	activeingredient 29657 29677	vincristine sulfate.
+T721	activeingredient 29691 29716	vincristine sulfate binds
+T723	activeingredient 29848 29878	vincristine sulfate stabilizes
+T725	tradename 30052 30063	Marqibo was
+T727	indication 30112 30119	ALL who
+T729	tradename 30131 30143	Marqibo dose
+T731	dose 30147 30170	2.25 mg/m2 administered
+T733	routeofadministration 30183 30203	intravenous infusion
+T735	activeingredient 30266 30289	vincristine sulfate are
+T737	activeingredient 30315 30341	vincristine sulfate levels
+T739	nanoparticle 30370 30391	liposome encapsulated
+T741	activeingredient 30493 30518	vincristine sulfate after
+T743	activeingredient 30551 30570	vincristine sulfate
+T745	indication 30667 30703	Acute Lymphoblastic Leukemia Treated
+T747	dose 30709 30719	2.25 mg/m2
+T749	tradename 30720 30728	Marqiboa
+T751	auc 30778 30783	14566
+T753	auc 30798 30829	7036 26074 ( &#x20ac; ng/mL) CL
+T755	clearance 30835 30838	345
+T757	clearance 30849 30868	148 783 (mL/h) Cmax
+T759	cmax 30874 30878	1220
+T761	cmax 30889 30907	919 1720 (ng/mL) a
+T763	tradename 30985 30995	Marqibo is
+T765	clearance 31002 31010	345 mL/h
+T767	dose 31025 31036	2.25 mg/m2.
+T769	activeingredient 31102 31125	vincristine s ulfate at
+T771	clearance 31126 31143	189 mL/min/m2 (11
+T773	clearance 31144 31153	340 mL/h)
+T775	tradename 31179 31198	Marqibo contributes
+T777	tradename 31224 31240	Marqibo relative
+T779	activeingredient 31258 31278	vincristine sulfate.
+T781	routeofadministration 31290 31316	intravenous administration
+T783	tradename 31320 31327	Marqibo
+T785	activeingredient 31384 31407	vincristine sulfate and
+T787	tradename 31459 31471	Marqibo dose
+T789	activeingredient 31590 31610	vincristine sulfate.
+T791	activeingredient 31637 31665	vincristine sulfate infusion
+T793	activeingredient 31685 31714	vincristine sulfate excretion
+T795	tradename 31941 31951	Marqibo or
+T797	activeingredient 31966 31986	vincristine sulfate.
+T799	activeingredient 32100 32119	vincristine sulfate
+T801	tradename 32121 32132	Marqibo may
+T803	tradename 32201 32209	Marqibo.
+T805	activeingredient 32223 32238	vincristine was
+T807	tradename 32362 32373	Marqibo can
+T809	activeingredient 32445 32479	vincristine sulfate Administration
+T811	activeingredient 32483 32494	vincristine
+T813	nanoparticle 32495 32513	liposome injection
+T815	activeingredient 32740 32760	vincristine sulfate.
+T817	activeingredient 33019 33038	vincristine sulfate
+T819	nanoparticle 33039 33057	liposome injection
+T821	activeingredient 33075 33098	vincristine sulfate was
+T823	routeofadministration 33123 33141	intravenously once
+T825	frequency 33142 33163	per week for 6 weeks.
+T827	activeingredient 33241 33260	vincristine sulfate
+T829	nanoparticle 33261 33279	liposome injection
+T831	activeingredient 33304 33326	vincristine sulfate at
+T833	activeingredient 33333 33358	vincristine sulfate doses
+T835	dose 33362 33368	2mg/m2
+T837	frequency 33368 33377	/week and
+T839	activeingredient 33624 33643	vincristine sulfate
+T841	nanoparticle 33644 33662	liposome injection
+T843	activeingredient 33806 33826	vincristine sulfate.
+T845	dose 33896 33906	2 mg/m2 of
+T847	routeofadministration 33907 33928	intravenous liposomal
+T849	nanoparticle 33929 33931	or
+T851	activeingredient 33946 33972	vincristine sulfate showed
+T853	activeingredient 33997 34019	vincristine sulfate in
+T855	activeingredient 34125 34144	vincristine sulfate
+T857	nanoparticle 34145 34163	liposome injection
+T859	indication 34198 34226	Acute Lymphoblastic Leukemia
+T861	tradename 34228 34239	Marqibo was
+T863	indication 34375 34414	Philadelphia chromosome negative ALL in
+T865	routeofadministration 34858 34878	intravenous Marqibo
+T867	tradename 34879 34890	monotherapy
+T869	dose 34894 34909	2.25 mg/m2 over
+T871	frequency 34921 34934	every 7 days.
+T873	tradename 35076 35084	Marqibo.
+T875	activeingredient 35134 35157	vincristine sulfate and
+T877	indication 35515 35522	ALL and
+T879	indication 35544 35548	ALL.
+T881	tradename 37197 37208	Marqibo Kit
+T883	activeingredient 37258 37287	VinCRIStine Sulfate Injection
+T885	nanoparticle 37395 37413	Liposome Injection
+T887	inactiveingredient 37479 37505	Sodium Phosphate Injection
+T889	inactiveingredient 37601 37627	Sodium Phosphate Injection
+T891	tradename 37656 37665	Marqibo (
+T893	activeingredient 37665 37684	vinCRIStine sulfate
+T895	nanoparticle 37685 37703	LIPOSOME injection
+T897	tradename 37778 37789	Marqibo Kit
+T899	tradename 37987 37995	Marqibo:
+T901	adversereaction 37998 38026	Extravasation Tissue Injury:
+T903	tradename 38243 38254	Marqibo may
+T905	adversereaction 38261 38272	fatigue and
+T907	adversereaction 38285 38307	peripheral neuropathy.
+T909	adversereaction 38445 38475	Gastrointestinal/Constipation:
+T911	tradename 38495 38506	Marqibo may
+T913	adversereaction 38518 38531	constipation.
+T915	adversereaction 38563 38578	constipation by
+T917	adversereaction 38780 38824	constipation such bowel movement infrequency
+T919	adversereaction 38826 38840	abdominal pain
+T921	adversereaction 38842 38850	bloating
+T923	adversereaction 38852 38860	diarrhea
+T925	adversereaction 38862 38868	nausea
+T927	adversereaction 38873 38883	vomiting [
+T929	tradename 39039 39048	Marqibo [
+T931	tradename 39207 39220	Marqibo while
+T933	activeingredient 40045 40074	VinCRIStine Sulfate Injection
+T935	company 40075 40078	USP
+T937	company 40081 40102	Hospira Australia Pty
+T939	nanoparticle 40173 40191	Liposome Injection
+T941	company 40193 40212	Cangene Corporation
+T943	company 40214 40222	Winnipeg
+T945	inactiveingredient 40252 40278	Sodium Phosphate Injection
+T947	company 40280 40303	Jubilant HollisterStier
+T949	company 40306 40313	Spokane
+T951	tradename 40326 40337	Marqibo Kit
+T953	activeingredient 40361 40389	vinCRIStine sulfate LIPOSOME
+T955	nanoparticle 40390 40399	injection
+T957	company 40401 40419	Anderson Packaging
+T959	company 40421 40424	Inc
+T961	company 40426 40434	Rockford
+T963	company 40464 40482	Talon Therapeutics
+T965	company 40484 40488	Inc.
+T967	company 40490 40493	400
+T969	tradename 40585 40594	Marqibo (
+T971	activeingredient 40610 40638	vinCRIStine sulfate LIPOSOME
+T973	nanoparticle 40639 40648	injection
+T975	tradename 40710 40721	Marqibo and
+T977	tradename 40734 40750	Marqibo infusion
+T979	tradename 40911 40918	Marqibo
+T981	tradename 40921 40931	Marqibo is
+T983	indication 40982 41059	Philadelphia chromosome negative (Ph-) acutelymphoblastic leukemia (ALL) when
+T985	tradename 41251 41261	Marqibo is
+T987	tradename 41332 41340	Marqibo:
+T989	tradename 41482 41492	Marqibo if
+T991	activeingredient 41581 41603	vincristine sulfate or
+T993	tradename 41630 41638	Marqibo.
+T995	tradename 41698 41706	Marqibo.
+T997	tradename 41759 41773	Marqibo causes
+T999	routeofadministration 41816 41841	intravenous (IV) infusion
+T1001	tradename 41892 41900	Marqibo?
+T1003	tradename 41919 41926	Marqibo
+T1005	activeingredient 41983 42005	vincristine sulfate in
+T1007	adversereaction 42235 42247	constipation
+T1009	tradename 42365 42376	Marqibo can
+T1011	tradename 42446 42454	Marqibo.
+T1013	tradename 42521 42529	Marqibo.
+T1015	tradename 42597 42605	Marqibo.
+T1017	tradename 42670 42684	Marqibo passes
+T1019	tradename 42759 42769	Marqibo or
+T1021	tradename 42948 42959	Marqibo may
+T1023	tradename 43032 43045	Marqibo works
+T1025	tradename 43182 43190	Marqibo?
+T1027	tradename 43210 43220	Marqibo as
+T1029	routeofadministration 43224 43249	intravenous (IV) infusion
+T1031	tradename 43276 43286	Marqibo is
+T1033	frequency 43301 43314	every 7 days.
+T1035	tradename 43359 43371	Marqibo less
+T1037	tradename 43407 43417	Marqibo if
+T1039	tradename 43524 43532	Marqibo.
+T1041	tradename 43572 43580	Marqibo?
+T1043	tradename 43584 43595	Marqibo can
+T1045	adversereaction 43613 43621	fatigue)
+T1047	adversereaction 43642 43653	neuropathy)
+T1049	tradename 43792 43800	Marqibo?
+T1051	tradename 43858 43866	Marqibo?
+T1053	tradename 43869 43880	Marqibo can
+T1055	adversereaction 43922 43936	Tissue injury.
+T1057	tradename 43939 43952	Marqibo leaks
+T1059	adversereaction 44203 44214	neuropathy)
+T1061	tradename 44248 44259	Marqibo and
+T1063	tradename 44364 44374	Marqibo if
+T1065	adversereaction 45131 45153	Low blood cell counts.
+T1067	tradename 45157 45168	Marqibo may
+T1069	adversereaction 45208 45215	anemia)
+T1071	adversereaction 45240 45252	neutropenia)
+T1073	adversereaction 45273 45290	thrombocytopenia)
+T1075	tradename 45380 45388	Marqibo.
+T1077	tradename 45435 45446	Marqibo and
+T1079	adversereaction 45573 45607	Tumor lysis syndrome (TLS). TLS is
+T1081	adversereaction 45651 45658	TLS can
+T1083	tradename 45814 45821	Marqibo
+T1085	adversereaction 45871 45916	Constipation and intestinal (bowel) blockage.
+T1087	adversereaction 45985 46021	constipation or intestinal blockage.
+T1089	adversereaction 46047 46074	stomach area (abdomen) pain
+T1091	adversereaction 46076 46096	bloating or diarrhea
+T1093	adversereaction 46098 46116	nausea or vomiting
+T1095	adversereaction 46130 46138	fatigue)
+T1097	tradename 46143 46154	Marqibo can
+T1099	adversereaction 46287 46323	Liver problems that can cause death.
+T1101	tradename 46326 46337	Marqibo can
+T1103	adversereaction 46392 46428	liver problems that can cause death.
+T1105	tradename 46505 46513	Marqibo.
+T1107	tradename 46564 46574	Marqibo if
+T1109	tradename 46629 46644	Marqibo include
+T1111	adversereaction 46647 46653	nausea
+T1113	adversereaction 46655 46660	fever
+T1115	adversereaction 46662 46670	diarrhea
+T1117	adversereaction 46672 46690	decreased appetite
+T1119	adversereaction 46692 46706	sleep problems
+T1121	tradename 46848 46856	Marqibo.
+T1123	tradename 47053 47060	Marqibo
+T1125	tradename 47249 47257	Marqibo.
+T1127	tradename 47301 47308	Marqibo
+T1129	tradename 47396 47408	Marqibo that
+T1131	tradename 47548 47556	Marqibo?
+T1133	activeingredient 47578 47597	vincristine sulfate
+T1135	inactiveingredient 47622 47630	mannitol
+T1137	corecomposition 47632 47645	sphingomyelin
+T1139	corecomposition 47647 47658	cholesterol
+T1141	inactiveingredient 47660 47674	sodium citrate
+T1143	inactiveingredient 47677 47688	citric acid
+T1145	inactiveingredient 47690 47727	sodium phosphate and sodium chloride.
+T1147	company 47835 47853	Talon Therapeutics
+T1149	company 47855 47859	Inc.

@@ -1,0 +1,565 @@
+T1	tradename 104 112	ELESTRIN
+T3	tradename 176 185	ELESTRIN.
+T5	tradename 187 197	ElestrinTM
+T7	activeingredient 199 208	estradiol
+T9	dose 220 227	0.52 mg
+T11	activeingredient 231 240	estradiol
+T13	fdaapprovaldate 278 282	1975
+T15	adversereaction 293 311	ENDOMETRIAL CANCER
+T17	adversereaction 313 327	CARDIOVASCULAR
+T19	adversereaction 329 338	DISORDERS
+T21	adversereaction 340 353	BREAST CANCER
+T23	adversereaction 358 375	PROBABLE DEMENTIA
+T25	adversereaction 491 509	endometrial cancer
+T27	tradename 1615 1623	ELESTRIN
+T29	indication 1686 1721	Vasomotor Symptoms due to Menopause
+T31	dose 1879 1886	0.52 mg
+T33	activeingredient 1887 1896	estradiol
+T35	dose 1956 1963	1.04 mg
+T37	activeingredient 1964 1973	estradiol
+T39	tradename 2058 2066	Elestrin
+T41	dose 2124 2131	0.52 mg
+T43	activeingredient 2135 2144	estradiol
+T45	tradename 2626 2634	ELESTRIN
+T47	adversereaction 2923 2942	gallbladder disease
+T49	adversereaction 2980 2993	hypercalcemia
+T51	adversereaction 2995 3009	loss of vision
+T53	adversereaction 3018 3038	hypertriglyceridemia
+T55	adversereaction 3042 3062	cholestatic jaundice
+T57	adversereaction 3391 3408	breast tenderness
+T59	adversereaction 3410 3422	metrorrhagia
+T61	adversereaction 3424 3439	nasopharyngitis
+T63	adversereaction 3445 3480	upper respiratory tract infections.
+T65	company 3535 3539	Meda
+T67	adversereaction 4316 4334	ENDOMETRIAL CANCER
+T69	adversereaction 4336 4360	CARDIOVASCULAR DISORDERS
+T71	adversereaction 4362 4375	BREAST CANCER
+T73	adversereaction 4380 4397	PROBABLE DEMENTIA
+T75	adversereaction 4398 4399	1
+T77	indication 4452 4494	Severe Vasomotor Symptoms due to Menopause
+T79	indication 4559 4594	Vasomotor Symptoms due to Menopause
+T81	indication 4595 4596	3
+T83	adversereaction 4676 4700	Cardiovascular Disorders
+T85	adversereaction 4706 4725	Malignant Neoplasms
+T87	adversereaction 4731 4748	Probable Dementia
+T89	adversereaction 4754 4773	Gallbladder Disease
+T91	adversereaction 4779 4792	Hypercalcemia
+T93	adversereaction 4798 4818	Visual Abnormalities
+T95	adversereaction 4893 4916	Elevated Blood Pressure
+T97	adversereaction 4922 4942	Hypertriglyceridemia
+T99	adversereaction 4991 5011	Cholestatic Jaundice
+T101	adversereaction 5018 5032	Hypothyroidism
+T103	adversereaction 5039 5054	Fluid Retention
+T105	adversereaction 5061 5073	Hypocalcemia
+T107	adversereaction 5080 5109	Exacerbation of Endometriosis
+T109	adversereaction 6410 6428	ENDOMETRIAL CANCER
+T111	adversereaction 6430 6454	CARDIOVASCULAR DISORDERS
+T113	adversereaction 6457 6470	BREAST CANCER
+T115	adversereaction 6475 6492	PROBABLE DEMENTIA
+T117	adversereaction 6519 6537	Endometrial Cancer
+T119	adversereaction 6569 6587	endometrial cancer
+T121	adversereaction 6721 6744	endometrial hyperplasia
+T123	adversereaction 6774 6793	endometrial cancer.
+T125	adversereaction 7067 7091	Cardiovascular Disorders
+T127	adversereaction 7096 7113	Probable Dementia
+T129	adversereaction 7179 7201	cardiovascular disease
+T131	adversereaction 7205 7213	dementia
+T133	frequency 7502 7507	daily
+T135	routeofadministration 7508 7512	oral
+T137	dose 7540 7549	0.625 mg]
+T139	adversereaction 7758 7775	probable dementia
+T141	duration 7832 7841	5.2 years
+T143	frequency 7860 7865	daily
+T145	dose 7870 7879	0.625 mg)
+T147	adversereaction 8561 8583	cardiovascular disease
+T149	adversereaction 8587 8595	dementia
+T151	duration 8868 8877	5.6 years
+T153	frequency 8896 8901	daily
+T155	routeofadministration 8902 8906	oral
+T157	dose 8911 8920	0.625 mg)
+T159	dose 8970 8977	2.5 mg]
+T161	adversereaction 9169 9186	probable dementia
+T163	duration 9243 9250	4 years
+T165	frequency 9269 9274	daily
+T167	dose 9279 9288	0.625 mg)
+T169	adversereaction 9613 9635	invasive breast cancer
+T171	indication 10132 10167	Vasomotor Symptoms due to Menopause
+T173	adversereaction 10339 10358	endometrial cancer.
+T175	routeofadministration 10899 10920	applied onto the skin
+T177	indication 11066 11101	Vasomotor Symptoms due to Menopause
+T179	tradename 11103 11111	ELESTRIN
+T181	frequency 11123 11133	once daily
+T183	indication 11191 11226	vasomotor symptoms due to menopause
+T185	dose 11268 11277	0.87 gram
+T187	activeingredient 11281 11290	estradiol
+T189	dose 11296 11303	0.52 mg
+T191	activeingredient 11304 11314	estradiol)
+T193	tradename 11401 11409	ELESTRIN
+T195	frequency 11429 11436	per day
+T197	dose 11438 11444	0.87 g
+T199	frequency 11445 11452	per day
+T201	dose 11469 11476	0.52 mg
+T203	activeingredient 11480 11490	estradiol)
+T205	tradename 11682 11690	Elestrin
+T207	activeingredient 11692 11701	estradiol
+T209	dose 11764 11771	0.52 mg
+T211	activeingredient 11775 11784	estradiol
+T213	dose 11788 11794	0.87 g
+T215	tradename 11843 11851	ELESTRIN
+T217	tradename 12250 12258	ELESTRIN
+T219	adversereaction 12454 12478	Cardiovascular Disorders
+T221	adversereaction 12501 12507	stroke
+T223	adversereaction 12512 12515	DVT
+T225	adversereaction 12586 12588	PE
+T227	adversereaction 12590 12593	DVT
+T229	adversereaction 12595 12601	stroke
+T231	adversereaction 12606 12608	MI
+T233	adversereaction 13188 13194	stroke
+T235	frequency 13249 13254	daily
+T237	dose 13259 13268	0.625 mg)
+T239	adversereaction 13476 13482	stroke
+T241	adversereaction 13644 13650	stroke
+T243	dose 13681 13690	0.625 mg)
+T245	frequency 13921 13926	daily
+T247	dose 13931 13940	0.625 mg)
+T249	dose 13951 13958	2.5 mg)
+T251	adversereaction 14270 14292	Coronary Heart Disease
+T253	adversereaction 14351 14379	coronary heart disease (CHD)
+T255	dose 14655 14664	0.625 mg]
+T257	frequency 14925 14930	daily
+T259	dose 14935 14944	0.625 mg)
+T261	dose 14955 14962	2.5 mg)
+T263	frequency 15449 15454	daily
+T265	dose 15459 15468	0.625 mg)
+T267	dose 15479 15486	2.5 mg)
+T269	adversereaction 16218 16240	Venous Thromboembolism
+T271	frequency 16341 16346	daily
+T273	dose 16351 16360	0.625 mg)
+T275	frequency 16868 16873	daily
+T277	dose 16878 16887	0.625 mg)
+T279	dose 16898 16905	2.5 mg)
+T281	adversereaction 17563 17582	Malignant Neoplasms
+T283	adversereaction 17584 17602	Endometrial Cancer
+T285	adversereaction 17625 17643	endometrial cancer
+T287	adversereaction 18834 18857	endometrial hyperplasia
+T289	adversereaction 18887 18906	endometrial cancer.
+T291	tradename 19001 19009	ELESTRIN
+T293	dose 19010 19015	1.7 g
+T295	frequency 19016 19023	per day
+T297	adversereaction 19031 19044	Breast Cancer
+T299	adversereaction 19119 19132	breast cancer
+T301	frequency 19180 19185	daily
+T303	dose 19190 19199	0.625 mg)
+T305	frequency 19289 19294	daily
+T307	adversereaction 19349 19371	invasive breast cancer
+T309	adversereaction 19504 19517	breast cancer
+T311	frequency 19574 19579	daily
+T313	dose 19584 19593	0.625 mg)
+T315	dose 19604 19611	2.5 mg)
+T317	adversereaction 19719 19741	invasive breast cancer
+T319	frequency 19760 19765	daily
+T321	adversereaction 19925 19947	invasive breast cancer
+T323	adversereaction 20144 20166	invasive breast cancer
+T325	adversereaction 20366 20388	invasive breast cancer
+T327	adversereaction 20531 20554	invasive breast cancers
+T329	dose 20661 20670	0.625 mg)
+T331	dose 20681 20688	2.5 mg)
+T333	adversereaction 21457 21470	breast cancer
+T335	adversereaction 22899 22916	Probable Dementia
+T337	frequency 23054 23059	daily
+T339	dose 23064 23073	0.625 mg)
+T341	frequency 23674 23679	daily
+T343	dose 23684 23693	0.625 mg)
+T345	dose 23704 23711	2.5 mg)
+T347	adversereaction 23852 23870	probable dementia.
+T349	adversereaction 23894 23911	probable dementia
+T351	adversereaction 23996 24013	probable dementia
+T353	adversereaction 24357 24374	probable dementia
+T355	adversereaction 24634 24653	Gallbladder Disease
+T357	adversereaction 24694 24713	gallbladder disease
+T359	adversereaction 24801 24814	Hypercalcemia
+T361	adversereaction 24859 24872	hypercalcemia
+T363	adversereaction 24926 24939	hypercalcemia
+T365	adversereaction 25053 25073	Visual Abnormalities
+T367	adversereaction 25075 25102	Retinal vascular thrombosis
+T369	adversereaction 25215 25249	partial or complete loss of vision
+T371	adversereaction 25272 25281	proptosis
+T373	adversereaction 25283 25291	diplopia
+T375	adversereaction 25296 25305	migraine.
+T377	adversereaction 25331 25342	papilledema
+T379	adversereaction 25346 25370	retinal vascular lesions
+T381	adversereaction 25988 26002	breast cancer.
+T383	adversereaction 26008 26031	Elevated Blood Pressure
+T385	adversereaction 26080 26107	increases in blood pressure
+T387	adversereaction 26302 26322	Hypertriglyceridemia
+T389	adversereaction 26351 26371	hypertriglyceridemia
+T391	adversereaction 26585 26605	Cholestatic Jaundice
+T393	adversereaction 26886 26900	Hypothyroidism
+T395	adversereaction 27455 27470	Fluid Retention
+T397	adversereaction 27507 27523	fluid retention.
+T399	adversereaction 27699 27711	Hypocalcemia
+T401	adversereaction 27811 27823	hypocalcemia
+T403	adversereaction 27841 27870	Exacerbation of Endometriosis
+T405	adversereaction 28197 28230	exacerbate symptoms of angioedema
+T407	tradename 28634 28642	ELESTRIN
+T409	activeingredient 28708 28717	Estradiol
+T411	tradename 28788 28796	ELESTRIN
+T413	tradename 28912 28921	ELESTRIN.
+T415	tradename 28964 28972	ELESTRIN
+T417	activeingredient 29034 29043	estradiol
+T419	tradename 29098 29106	ELESTRIN
+T421	activeingredient 29407 29416	estradiol
+T423	activeingredient 30723 30732	estradiol
+T425	adversereaction 31192 31216	Cardiovascular Disorders
+T427	adversereaction 31274 31293	Malignant Neoplasms
+T429	tradename 31650 31658	ELESTRIN
+T431	tradename 32063 32071	ELESTRIN
+T433	tradename 32093 32101	ELESTRIN
+T435	adversereaction 32166 32183	Breast tenderness
+T437	adversereaction 32209 32221	Metrorrhagia
+T439	adversereaction 32298 32313	Nasopharyngitis
+T441	adversereaction 32342 32375	Upper respiratory tract infection
+T443	tradename 32512 32521	ELESTRIN.
+T445	adversereaction 32749 32825	Changes in vaginal bleeding pattern and abnormal withdrawal bleeding or flow
+T447	adversereaction 32827 32848	breakthrough bleeding
+T449	adversereaction 32850 32858	spotting
+T451	adversereaction 32860 32872	dysmenorrhea
+T453	adversereaction 32874 32913	increase in size of uterine leiomyomata
+T455	adversereaction 32915 32924	vaginitis
+T457	adversereaction 32936 32955	vaginal candidiasis
+T459	adversereaction 32957 32995	change in amount of cervical secretion
+T461	adversereaction 32997 33026	changes in cervical ectropion
+T463	adversereaction 33028 33042	ovarian cancer
+T465	adversereaction 33044 33067	endometrial hyperplasia
+T467	adversereaction 33069 33088	endometrial cancer.
+T469	adversereaction 33099 33109	Tenderness
+T471	adversereaction 33111 33122	enlargement
+T473	adversereaction 33124 33128	pain
+T475	adversereaction 33130 33146	nipple discharge
+T477	adversereaction 33148 33160	galactorrhea
+T479	adversereaction 33162 33188	fibrocystic breast changes
+T481	adversereaction 33190 33204	breast cancer.
+T483	adversereaction 33222 33260	Deep and superficial venous thrombosis
+T485	adversereaction 33262 33280	pulmonary embolism
+T487	adversereaction 33282 33298	thrombophlebitis
+T489	adversereaction 33300 33321	myocardial infarction
+T491	adversereaction 33323 33329	stroke
+T493	adversereaction 33331 33358	increase in blood pressure.
+T495	adversereaction 33379 33385	Nausea
+T497	adversereaction 33387 33395	vomiting
+T499	adversereaction 33397 33413	abdominal cramps
+T501	adversereaction 33415 33423	bloating
+T503	adversereaction 33425 33445	cholestatic jaundice
+T505	adversereaction 33447 33489	increased incidence of gallbladder disease
+T507	adversereaction 33491 33503	pancreatitis
+T509	adversereaction 33505 33540	enlargement of hepatic hemangiomas.
+T511	adversereaction 33548 33610	Chloasma or melasma that may persist when drug is discontinued
+T513	adversereaction 33612 33631	erythema multiforme
+T515	adversereaction 33633 33649	erythema nodosum
+T517	adversereaction 33651 33671	hemorrhagic eruption
+T519	adversereaction 33673 33691	loss of scalp hair
+T521	adversereaction 33693 33702	hirsutism
+T523	adversereaction 33704 33712	pruritus
+T525	adversereaction 33714 33719	rash.
+T527	adversereaction 33727 33754	Retinal vascular thrombosis
+T529	adversereaction 33756 33786	intolerance to contact lenses.
+T531	adversereaction 33812 33820	Headache
+T533	adversereaction 33822 33830	migraine
+T535	adversereaction 33832 33841	dizziness
+T537	adversereaction 33843 33860	mental depression
+T539	adversereaction 33862 33868	chorea
+T541	adversereaction 33870 33881	nervousness
+T543	adversereaction 33883 33900	mood disturbances
+T545	adversereaction 33902 33914	irritability
+T547	adversereaction 33916 33940	exacerbation of epilepsy
+T549	adversereaction 33942 33951	dementia.
+T551	adversereaction 33968 33998	Increase or decrease in weight
+T553	adversereaction 34000 34030	reduced carbohydrate tolerance
+T555	adversereaction 34032 34056	aggravation of porphyria
+T557	adversereaction 34058 34063	edema
+T559	adversereaction 34065 34076	arthralgias
+T561	adversereaction 34078 34088	leg cramps
+T563	adversereaction 34090 34107	changes in libido
+T565	adversereaction 34109 34118	urticaria
+T567	adversereaction 34120 34130	angioedema
+T569	adversereaction 34132 34168	anaphylactoid/anaphylactic reactions
+T571	adversereaction 34170 34182	hypocalcemia
+T573	adversereaction 34184 34206	exacerbation of asthma
+T575	adversereaction 34208 34232	increased triglycerides.
+T577	tradename 34426 34435	ELESTRIN.
+T579	tradename 35187 35195	ELESTRIN
+T581	routeofadministration 35398 35402	oral
+T583	tradename 35477 35485	ELESTRIN
+T585	tradename 35784 35792	ELESTRIN
+T587	tradename 35849 35857	ELESTRIN
+T589	tradename 36077 36085	ELESTRIN
+T591	tradename 36184 36193	ELESTRIN.
+T593	frequency 36268 36273	daily
+T595	dose 36278 36287	0.625 mg]
+T597	frequency 36469 36474	daily
+T599	dose 36479 36488	0.625 mg]
+T601	dose 36499 36506	2.5 mg]
+T603	adversereaction 36837 36854	probable dementia
+T605	tradename 37310 37318	ELESTRIN
+T607	tradename 37427 37435	ELESTRIN
+T609	adversereaction 37507 37513	nausea
+T611	adversereaction 37515 37523	vomiting
+T613	adversereaction 37525 37542	breast tenderness
+T615	adversereaction 37544 37558	abdominal pain
+T617	adversereaction 37560 37570	drowsiness
+T619	adversereaction 37575 37582	fatigue
+T621	adversereaction 37588 37607	withdrawal bleeding
+T623	tradename 37683 37691	ELESTRIN
+T625	tradename 37767 37775	ELESTRIN
+T627	activeingredient 37777 37786	estradiol
+T629	activeingredient 37810 37819	estradiol
+T631	tradename 37918 37926	ELESTRIN
+T633	dose 37945 37952	0.52 mg
+T635	activeingredient 37956 37965	estradiol
+T637	dose 37969 37975	0.87 g
+T639	activeingredient 37985 37994	Estradiol
+T641	molecularweight 38161 38167	281.4.
+T643	tradename 38221 38229	ELESTRIN
+T645	activeingredient 38233 38243	estradiol.
+T647	inactiveingredient 38283 38290	ethanol
+T649	inactiveingredient 38292 38308	propylene glycol
+T651	inactiveingredient 38310 38343	diethylene glycol monoethyl ether
+T653	inactiveingredient 38345 38357	carbomer 940
+T655	inactiveingredient 38359 38374	triethanolamine
+T657	inactiveingredient 38376 38392	edetate disodium
+T659	inactiveingredient 38407 38413	water)
+T661	activeingredient 38747 38756	estradiol
+T663	activeingredient 39023 39032	estradiol
+T665	tradename 39894 39903	ELESTRIN.
+T667	activeingredient 39977 39986	estradiol
+T669	tradename 40055 40063	ELESTRIN
+T671	activeingredient 40114 40123	estradiol
+T673	dose 40165 40171	0.87 g
+T675	dose 40175 40180	1.7 g
+T677	tradename 40184 40192	ELESTRIN
+T679	tradename 40255 40263	ELESTRIN
+T681	dose 40264 40270	0.87 g
+T683	dose 40275 40280	1.7 g
+T685	activeingredient 40310 40319	estradiol
+T687	activeingredient 40504 40513	estradiol
+T689	dose 40606 40612	0.87 g
+T691	frequency 40613 40620	per day
+T693	dose 40625 40630	1.7 g
+T695	frequency 40631 40638	per day
+T697	frequency 40653 40660	per day
+T699	frequency 40675 40682	per day
+T701	activeingredient 40749 40758	Estradiol
+T703	dose 40810 40816	0.87 g
+T705	tradename 40817 40825	ELESTRIN
+T707	dose 40827 40835	0.52 mg/
+T709	frequency 40835 40836	d
+T711	activeingredient 40837 40847	Estradiol)
+T713	dose 40853 40858	1.7 g
+T715	tradename 40859 40867	ELESTRIN
+T717	dose 40869 40877	1.04 mg/
+T719	frequency 40877 40878	d
+T721	activeingredient 40879 40889	Estradiol)
+T723	auc 40903 40922	(hr/mL) 335.2 940.2
+T725	auc 40923 40927	Cmax
+T727	cmax 40928 40945	(pg/mL) 21.6 66.7
+T729	cmax 40946 40950	Cave
+T731	tmax 40996 41003	(h)a 18
+T733	tmax 41005 41014	1 - 20) 4
+T735	activeingredient 41117 41127	estradiol:
+T737	activeingredient 41167 41176	estradiol
+T739	activeingredient 41256 41265	Estradiol
+T741	dose 41434 41440	0.87 g
+T743	dose 41458 41463	1.7 g
+T745	dose 41518 41523	1.7 g
+T747	dose 41585 41590	1.7 g
+T749	tradename 41599 41607	ELESTRIN
+T751	tradename 41814 41822	ELESTRIN
+T753	activeingredient 41849 41858	estradiol
+T755	activeingredient 41915 41924	estradiol
+T757	tradename 42006 42015	ELESTRIN.
+T759	tradename 42108 42116	ELESTRIN
+T761	activeingredient 42151 42160	estradiol
+T763	tradename 42246 42255	ELESTRIN.
+T765	activeingredient 42787 42796	Estradiol
+T767	activeingredient 43358 43367	Estradiol
+T769	activeingredient 43624 43633	Estradiol
+T771	activeingredient 43662 43671	estradiol
+T773	dose 43815 43820	2.6 g
+T775	tradename 43821 43829	ELESTRIN
+T777	activeingredient 43973 43982	estradiol
+T779	activeingredient 44089 44098	estradiol
+T781	activeingredient 44283 44292	estradiol
+T783	frequency 44774 44779	daily
+T785	tradename 44789 44797	ELESTRIN
+T787	activeingredient 45079 45088	estradiol
+T789	tradename 45196 45204	ELESTRIN
+T791	dose 45205 45210	1.7 g
+T793	dose 45212 45219	1.04 mg
+T795	activeingredient 45220 45230	estradiol)
+T797	dose 45235 45240	2.6 g
+T799	dose 45242 45249	1.56 mg
+T801	activeingredient 45250 45260	estradiol)
+T803	frequency 45261 45271	once daily
+T805	tradename 45355 45363	ELESTRIN
+T807	dose 45412 45417	2.6 g
+T809	tradename 45453 45461	ELESTRIN
+T811	dose 45462 45468	0.87 g
+T813	dose 45470 45477	0.52 mg
+T815	activeingredient 45478 45488	estradiol)
+T817	dose 45507 45512	2.6 g
+T819	tradename 45674 45682	ELESTRIN
+T821	dose 45683 45688	1.7 g
+T823	frequency 45689 45696	per day
+T825	tradename 45887 45895	ELESTRIN
+T827	dose 45896 45902	0.87 g
+T829	frequency 45903 45910	per day
+T831	dose 45938 45944	0.87 g
+T833	frequency 45945 45952	per day
+T835	dose 45957 45962	1.7 g
+T837	frequency 45963 45970	per day
+T839	dose 46211 46216	1.7 g
+T841	frequency 46217 46224	per day
+T843	tradename 46225 46233	ELESTRIN
+T845	tradename 46411 46419	ELESTRIN
+T847	tradename 46458 46466	ELESTRIN
+T849	dose 46467 46474	0.87 g/
+T851	frequency 46474 46477	day
+T853	tradename 46486 46494	ELESTRIN
+T855	dose 46495 46501	1.7 g/
+T857	frequency 46501 46504	day
+T859	frequency 47478 47483	daily
+T861	routeofadministration 47484 47488	oral
+T863	dose 47493 47502	0.625 mg)
+T865	dose 47537 47544	2.5 mg)
+T867	frequency 55301 55306	daily
+T869	dose 55311 55320	0.625 mg)
+T871	frequency 56443 56448	daily
+T873	dose 56453 56462	0.625 mg)
+T875	dose 56473 56480	2.5 mg)
+T877	tradename 59251 59259	Elestrin
+T879	activeingredient 59264 59273	estradiol
+T881	dose 59718 59724	0.87 g
+T883	dose 59747 59754	0.52 mg
+T885	activeingredient 59758 59768	estradiol.
+T887	tradename 59983 59991	ELESTRIN
+T889	tradename 60057 60065	ELESTRIN
+T891	adversereaction 60673 60697	Cardiovascular Disorders
+T893	adversereaction 60699 60718	Malignant Neoplasms
+T895	adversereaction 60724 60741	Probable Dementia
+T897	adversereaction 60992 61000	headache
+T899	adversereaction 61002 61028	breast pain and tenderness
+T901	adversereaction 61030 61036	nausea
+T903	adversereaction 61041 61050	vomiting.
+T905	tradename 61084 61094	ELESTRINTM
+T907	activeingredient 61096 61105	estradiol
+T909	tradename 61165 61173	ELESTRIN
+T911	tradename 61222 61230	ELESTRIN
+T913	tradename 61469 61477	ELESTRIN
+T915	adversereaction 61566 61580	 of the uterus
+T917	tradename 61655 61664	ELESTRIN.
+T919	adversereaction 61725 61745	cancer of the uterus
+T921	adversereaction 62104 62112	dementia
+T923	adversereaction 62331 62344	heart attacks
+T925	adversereaction 62346 62353	strokes
+T927	adversereaction 62355 62368	breast cancer
+T929	adversereaction 62373 62384	blood clots
+T931	adversereaction 62454 62462	dementia
+T933	tradename 62612 62620	ELESTRIN
+T935	tradename 62630 62639	ELESTRIN?
+T937	tradename 62641 62649	ELESTRIN
+T939	activeingredient 62718 62728	estradiol)
+T941	routeofadministration 62738 62763	absorbed through the skin
+T943	tradename 62795 62803	ELESTRIN
+T945	tradename 62815 62823	ELESTRIN
+T947	indication 62853 62890	Reduce moderate to severe hot flashes
+T949	tradename 63760 63769	ELESTRIN.
+T951	tradename 63790 63799	ELESTRIN?
+T953	tradename 63820 63828	ELESTRIN
+T955	tradename 64123 64132	ELESTRIN.
+T957	tradename 64309 64317	ELESTRIN
+T959	tradename 64375 64383	ELESTRIN
+T961	tradename 65167 65175	ELESTRIN
+T963	tradename 65184 65192	ELESTRIN
+T965	tradename 65324 65333	ELESTRIN.
+T967	tradename 65375 65383	ELESTRIN
+T969	tradename 65434 65443	ELESTRIN?
+T971	tradename 65559 65567	ELESTRIN
+T973	tradename 65822 65831	ELESTRIN.
+T975	tradename 65833 65841	ELESTRIN
+T977	tradename 65885 65893	ELESTRIN
+T979	tradename 65959 65967	ELESTRIN
+T981	tradename 66021 66029	ELESTRIN
+T983	tradename 66835 66844	ELESTRIN.
+T985	tradename 67009 67017	ELESTRIN
+T987	tradename 67267 67275	ELESTRIN
+T989	tradename 67668 67677	ELESTRIN.
+T991	tradename 67795 67803	ELESTRIN
+T993	tradename 67832 67840	ELESTRIN
+T995	tradename 68154 68162	ELESTRIN
+T997	tradename 68349 68357	ELESTRIN
+T999	tradename 68431 68440	ELESTRIN?
+T1001	tradename 68472 68480	ELESTRIN
+T1003	tradename 68833 68841	ELESTRIN
+T1005	tradename 68866 68874	ELESTRIN
+T1007	tradename 68955 68964	ELESTRIN.
+T1009	tradename 69383 69392	ELESTRIN?
+T1011	adversereaction 69543 69555	Heart attack
+T1013	adversereaction 69557 69563	Stroke
+T1015	adversereaction 69565 69576	Blood clots
+T1017	adversereaction 69578 69586	Dementia
+T1019	adversereaction 69588 69601	Breast cancer
+T1021	adversereaction 69603 69637	Cancer of the lining of the uterus
+T1023	adversereaction 69646 69665	Cancer of the ovary
+T1025	adversereaction 69667 69686	High blood pressure
+T1027	adversereaction 69688 69704	High blood sugar
+T1029	adversereaction 69706 69725	Gallbladder disease
+T1031	adversereaction 69727 69741	Liver problems
+T1033	adversereaction 69743 69785	Enlargement of benign tumors of the uterus
+T1035	adversereaction 70180 70188	Headache
+T1037	adversereaction 70190 70201	Breast pain
+T1039	adversereaction 70203 70241	Irregular vaginal bleeding or spotting
+T1041	adversereaction 70243 70270	Stomach or abdominal cramps
+T1043	adversereaction 70272 70280	bloating
+T1045	adversereaction 70282 70301	Nausea and vomiting
+T1047	adversereaction 70303 70312	Hair loss
+T1049	adversereaction 70314 70329	Fluid retention
+T1051	adversereaction 70331 70354	Vaginal yeast infection
+T1053	tradename 70403 70412	ELESTRIN.
+T1055	company 70544 70564	Meda Pharmaceuticals
+T1057	tradename 70678 70687	ELESTRIN?
+T1059	tradename 70774 70782	ELESTRIN
+T1061	tradename 71114 71123	ELESTRIN.
+T1063	tradename 71729 71737	ELESTRIN
+T1065	tradename 71858 71866	ELESTRIN
+T1067	tradename 71928 71936	ELESTRIN
+T1069	tradename 72026 72034	ELESTRIN
+T1071	tradename 72137 72146	ELESTRIN.
+T1073	tradename 72271 72279	ELESTRIN
+T1075	tradename 73178 73186	ELESTRIN
+T1077	tradename 73317 73326	ELESTRIN.
+T1079	tradename 73364 73372	ELESTRIN
+T1081	frequency 73395 73400	daily
+T1083	tradename 73496 73504	ELESTRIN
+T1085	tradename 73641 73649	ELESTRIN
+T1087	tradename 73688 73696	ELESTRIN
+T1089	tradename 74139 74147	ELESTRIN
+T1091	tradename 74255 74264	ELESTRIN?
+T1093	activeingredient 74285 74295	estradiol.
+T1095	inactiveingredient 74328 74333	water
+T1097	inactiveingredient 74335 74342	ethanol
+T1099	inactiveingredient 74344 74360	propylene glycol
+T1101	inactiveingredient 74362 74395	diethylene glycol monoethyl ether
+T1103	inactiveingredient 74397 74409	carbomer 940
+T1105	inactiveingredient 74411 74426	triethanolamine
+T1107	inactiveingredient 74432 74449	edetate disodium.
+T1109	tradename 74451 74459	ELESTRIN
+T1111	company 74478 74498	Meda Pharmaceuticals
+T1113	company 74517 74537	Meda Pharmaceuticals
+T1115	company 74630 74646	DPT Laboratories
+T1117	company 74648 74652	Ltd.
+T1119	u.s.patent 74705 74706	7
+T1121	u.s.patent 74707 74710	198
+T1123	u.s.patent 74711 74714	801
+T1125	u.s.patent 74733 74734	7
+T1127	u.s.patent 74735 74738	470
+T1129	u.s.patent 74739 74742	433

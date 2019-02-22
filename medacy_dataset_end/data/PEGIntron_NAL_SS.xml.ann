@@ -1,0 +1,1410 @@
+T1	tradename 126 135	PEGINTRON
+T3	tradename 208 218	PEGINTRON.
+T5	tradename 231 240	PEGINTRON
+T7	nanoparticle 242 264	peginterferon alfa-2b)
+T9	routeofadministration 280 292	subcutaneous
+T11	fdaapprovaldate 320 324	2001
+T13	co-administereddrug 376 396	RIBAVIRIN-ASSOCIATED
+T15	adversereaction 537 553	neuropsychiatric
+T17	adversereaction 555 565	autoimmune
+T19	adversereaction 567 575	ischemic
+T21	adversereaction 577 602	and infectious disorders.
+T23	co-administereddrug 757 766	Ribavirin
+T25	co-administereddrug 778 787	Ribavirin
+T27	tradename 953 962	PegIntron
+T29	indication 1006 1031	Chronic Hepatitis C (CHC)
+T31	tradename 1132 1141	PegIntron
+T33	routeofadministration 1161 1173	subcutaneous
+T35	tradename 1200 1209	PegIntron
+T37	tradename 1247 1256	PegIntron
+T39	co-administereddrug 1294 1301	REBETOL
+T41	co-administereddrug 1328 1335	REBETOL
+T43	tradename 1373 1382	PegIntron
+T45	dose 1420 1430	1.5 mcg/kg
+T47	frequency 1430 1436	/ week
+T49	dose 1448 1457	60 mcg/m2
+T51	frequency 1457 1463	/ week
+T53	dose 1476 1487	800-1400 mg
+T55	routeofadministration 1488 1494	orally
+T57	frequency 1495 1500	daily
+T59	dose 1522 1530	15 mg/kg
+T61	frequency 1530 1534	/day
+T63	routeofadministration 1535 1541	orally
+T65	adversereaction 2019 2045	hypersensitivity reactions
+T67	adversereaction 2055 2064	urticaria
+T69	adversereaction 2066 2076	angioedema
+T71	adversereaction 2078 2097	bronchoconstriction
+T73	adversereaction 2099 2110	anaphylaxis
+T75	adversereaction 2112 2136	Stevens-Johnson syndrome
+T77	adversereaction 2142 2168	toxic epidermal necrolysis
+T79	adversereaction 2236 2257	Autoimmune hepatitis.
+T81	adversereaction 2273 2295	Hepatic decompensation
+T83	indication 2359 2362	CHC
+T85	co-administereddrug 2472 2482	ribavirin:
+T87	co-administereddrug 2783 2793	ribavirin:
+T89	adversereaction 3097 3113	Hemolytic anemia
+T91	co-administereddrug 3119 3129	ribavirin.
+T93	adversereaction 3147 3171	Neuropsychiatric events.
+T95	adversereaction 3258 3272	Hypothyroidism
+T97	adversereaction 3274 3289	hyperthyroidism
+T99	adversereaction 3291 3304	hyperglycemia
+T101	adversereaction 3306 3323	diabetes mellitus
+T103	adversereaction 3408 3433	ophthalmologic disorders.
+T105	adversereaction 3451 3499	Ischemic and hemorrhagic cerebrovascular events.
+T107	adversereaction 3635 3647	Pancreatitis
+T109	adversereaction 3652 3694	ulcerative or hemorrhagic/ischemic colitis
+T111	adversereaction 3699 3712	pancreatitis.
+T113	adversereaction 3736 3757	Pulmonary infiltrates
+T115	adversereaction 3761 3791	pulmonary function impairment.
+T117	adversereaction 3880 3907	Increased creatinine levels
+T119	adversereaction 3973 4005	acute hypersensitivity reactions
+T121	adversereaction 4010 4030	cutaneous eruptions.
+T123	adversereaction 4050 4078	Dental/periodontal disorders
+T125	adversereaction 4132 4152	Hypertriglyceridemia
+T127	adversereaction 4167 4179	pancreatitis
+T129	adversereaction 4245 4256	Weight loss
+T131	adversereaction 4261 4278	growth inhibition
+T133	adversereaction 4430 4451	Peripheral neuropathy
+T135	co-administereddrug 4482 4494	telbivudine.
+T137	tradename 4627 4636	PegIntron
+T139	tradename 4640 4650	PegIntron/
+T141	co-administereddrug 4650 4657	REBETOL
+T143	adversereaction 4662 4698	injection site inflammation/reaction
+T145	adversereaction 4700 4716	fatigue/asthenia
+T147	adversereaction 4718 4726	headache
+T149	adversereaction 4728 4734	rigors
+T151	adversereaction 4736 4742	fevers
+T153	adversereaction 4744 4750	nausea
+T155	adversereaction 4752 4759	myalgia
+T157	adversereaction 4764 4803	anxiety/emotional lability/irritability
+T159	tradename 4902 4912	PegIntron/
+T161	co-administereddrug 4912 4919	REBETOL
+T163	adversereaction 4924 4931	pyrexia
+T165	adversereaction 4933 4941	headache
+T167	adversereaction 4943 4954	neutropenia
+T169	adversereaction 4956 4963	fatigue
+T171	adversereaction 4965 4973	anorexia
+T173	adversereaction 4975 4998	injection-site erythema
+T175	adversereaction 5000 5008	vomiting
+T177	company 5073 5093	Schering Corporation
+T179	company 5111 5126	Merck &amp; Co.
+T181	company 5128 5132	Inc.
+T183	co-administereddrug 5377 5387	Methadone:
+T185	co-administereddrug 5605 5614	ribavirin
+T187	co-administereddrug 5700 5707	REBETOL
+T189	co-administereddrug 5784 5793	Ribavirin
+T191	co-administereddrug 6397 6417	RIBAVIRIN-ASSOCIATED
+T193	indication 6465 6490	Chronic Hepatitis C (CHC)
+T195	tradename 6545 6554	PegIntron
+T197	tradename 6590 6599	PegIntron
+T199	co-administereddrug 6892 6901	Ribavirin
+T201	adversereaction 6918 6941	Neuropsychiatric Events
+T203	adversereaction 6957 6978	Cardiovascular Events
+T205	adversereaction 7029 7053	Ophthalmologic Disorders
+T207	adversereaction 7069 7094	Cerebrovascular Disorders
+T209	adversereaction 7110 7130	Bone Marrow Toxicity
+T211	adversereaction 7146 7166	Autoimmune Disorders
+T213	adversereaction 7182 7194	Pancreatitis
+T215	adversereaction 7211 7218	Colitis
+T217	adversereaction 7235 7254	Pulmonary Disorders
+T219	adversereaction 7271 7286	Hepatic Failure
+T221	adversereaction 7353 7369	Hypersensitivity
+T223	adversereaction 7419 7451	Dental and Periodontal Disorders
+T225	adversereaction 7547 7568	Peripheral Neuropathy
+T227	co-administereddrug 7845 7854	Ribavirin
+T229	indication 8519 8538	Chronic Hepatitis C
+T231	indication 8565 8584	Chronic Hepatitis C
+T233	co-administereddrug 8908 8928	RIBAVIRIN-ASSOCIATED
+T235	tradename 8977 8986	PegIntron
+T237	adversereaction 9037 9053	neuropsychiatric
+T239	adversereaction 9055 9065	autoimmune
+T241	adversereaction 9067 9075	ischemic
+T243	adversereaction 9077 9102	and infectious disorders.
+T245	tradename 9410 9419	PegIntron
+T247	co-administereddrug 9511 9531	Ribavirin Ribavirin
+T249	co-administereddrug 9715 9724	Ribavirin
+T251	co-administereddrug 9788 9797	ribavirin
+T253	co-administereddrug 9857 9866	ribavirin
+T255	indication 9929 9954	Chronic Hepatitis C (CHC)
+T257	tradename 9968 9977	PegIntron
+T259	indication 10047 10072	Chronic Hepatitis C (CHC)
+T261	tradename 10130 10139	PegIntron
+T263	co-administereddrug 10160 10167	REBETOL
+T265	co-administereddrug 10169 10179	ribavirin)
+T267	tradename 10405 10414	PegIntron
+T269	co-administereddrug 10435 10442	REBETOL
+T271	tradename 10721 10730	PegIntron
+T273	indication 10783 10786	CHC
+T275	co-administereddrug 10894 10901	REBETOL
+T277	tradename 11158 11167	PegIntron
+T279	tradename 11231 11240	PegIntron
+T281	dose 11244 11254	1.5 mcg/kg
+T283	frequency 11254 11260	/week.
+T285	tradename 11286 11295	PegIntron
+T287	tradename 11338 11347	PegIntron
+T289	co-administereddrug 11423 11430	REBETOL
+T291	tradename 11444 11453	PegIntron
+T293	dose 11457 11471	800 to 1400 mg
+T295	routeofadministration 11472 11478	orally
+T297	co-administereddrug 11520 11527	REBETOL
+T299	co-administereddrug 11566 11573	REBETOL
+T301	tradename 11829 11838	PegIntron
+T303	co-administereddrug 11843 11853	ribavirin.
+T305	tradename 11904 11914	PegIntron/
+T307	co-administereddrug 11914 11921	REBETOL
+T309	tradename 12366 12376	PegIntron/
+T311	co-administereddrug 12376 12383	REBETOL
+T313	tradename 12464 12473	PegIntron
+T315	co-administereddrug 12478 12485	REBETOL
+T317	tradename 13119 13128	PegIntron
+T319	tradename 13208 13217	PegIntron
+T321	tradename 13297 13306	PegIntron
+T323	tradename 13360 13369	PegIntron
+T325	co-administereddrug 13411 13418	REBETOL
+T327	co-administereddrug 13441 13448	REBETOL
+T329	dose 13520 13527	800 mg/
+T331	frequency 13527 13530	day
+T333	dose 13654 13661	800 mg/
+T335	frequency 13661 13664	day
+T337	dose 13749 13756	800 mg/
+T339	frequency 13756 13759	day
+T341	dose 13896 13903	800 mg/
+T343	frequency 13903 13906	day
+T345	dose 13991 13999	1000 mg/
+T347	frequency 13999 14002	day
+T349	dose 14110 14117	1000 mg
+T351	frequency 14117 14121	/day
+T353	dose 14199 14207	1200 mg/
+T355	frequency 14207 14210	day
+T357	dose 14327 14335	1200 mg/
+T359	frequency 14335 14338	day
+T361	dose 14441 14449	1400 mg/
+T363	frequency 14449 14452	day
+T365	tradename 14632 14641	PegIntron
+T367	dose 14650 14660	1.5 mcg/kg
+T369	frequency 14660 14665	/week
+T371	tradename 14778 14787	PegIntron
+T373	tradename 14917 14926	PegIntron
+T375	co-administereddrug 14950 14958	REBETOL.
+T377	tradename 14994 15003	PegIntron
+T379	dose 15007 15017	60 mcg/m2/
+T381	frequency 15017 15021	week
+T383	routeofadministration 15022 15036	subcutaneously
+T385	dose 15057 15066	15 mg/kg/
+T387	frequency 15066 15069	day
+T389	co-administereddrug 15073 15080	REBETOL
+T391	routeofadministration 15081 15087	orally
+T393	tradename 15230 15240	PegIntron/
+T395	co-administereddrug 15240 15247	REBETOL
+T397	co-administereddrug 15476 15484	REBETOL*
+T399	co-administereddrug 15571 15578	REBETOL
+T401	frequency 15579 15584	Daily
+T403	co-administereddrug 15601 15608	REBETOL
+T405	dose 15667 15676	15 mg/kg/
+T407	frequency 15676 15679	day
+T409	co-administereddrug 15695 15702	REBETOL
+T411	routeofadministration 15703 15707	oral
+T413	dose 15744 15751	800 mg/
+T415	frequency 15751 15754	day
+T417	dose 15832 15840	1000 mg/
+T419	frequency 15840 15843	day
+T421	dose 15933 15941	1200 mg/
+T423	frequency 15941 15944	day
+T425	co-administereddrug 16018 16025	REBETOL
+T427	tradename 16057 16066	PegIntron
+T429	dose 16067 16076	60 mcg/m2
+T431	frequency 16077 16084	weekly.
+T433	co-administereddrug 16097 16104	REBETOL
+T435	routeofadministration 16105 16109	oral
+T437	tradename 16190 16199	PegIntron
+T439	tradename 16248 16257	PegIntron
+T441	dose 16269 16278	1 mcg/kg/
+T443	frequency 16278 16282	week
+T445	routeofadministration 16283 16297	subcutaneously
+T447	tradename 16602 16611	PegIntron
+T449	tradename 16701 16710	PegIntron
+T451	tradename 16762 16771	PegIntron
+T453	tradename 16840 16849	PegIntron
+T455	tradename 16891 16900	PegIntron
+T457	tradename 17490 17499	PegIntron
+T459	co-administereddrug 17504 17511	REBETOL
+T461	tradename 17893 17902	PegIntron
+T463	tradename 17924 17934	PegIntron/
+T465	co-administereddrug 17934 17941	REBETOL
+T467	dose 18035 18045	1.5 mcg/kg
+T469	frequency 18045 18050	/week
+T471	dose 18055 18064	1 mcg/kg/
+T473	frequency 18064 18068	week
+T475	dose 18078 18089	0.5 mcg/kg/
+T477	frequency 18089 18093	week
+T479	tradename 18147 18156	PegIntron
+T481	dose 18227 18236	1 mcg/kg/
+T483	frequency 18236 18240	week
+T485	dose 18244 18255	0.5 mcg/kg/
+T487	frequency 18255 18260	week.
+T489	tradename 18517 18526	PegIntron
+T491	dose 18527 18537	1.5 mcg/kg
+T493	co-administereddrug 18543 18550	REBETOL
+T495	dose 18551 18557	800 mg
+T497	frequency 18558 18563	daily
+T499	tradename 18683 18692	PegIntron
+T501	dose 18696 18704	1 mcg/kg
+T503	co-administereddrug 18725 18732	REBETOL
+T505	tradename 18795 18804	PegIntron
+T507	dose 18808 18818	0.5 mcg/kg
+T509	dose 19024 19034	60 mcg/m2/
+T511	frequency 19034 19038	week
+T513	dose 19043 19053	40 mcg/m2/
+T515	frequency 19053 19057	week
+T517	dose 19067 19077	20 mcg/m2/
+T519	frequency 19077 19081	week
+T521	tradename 19224 19233	PegIntron
+T523	dose 19234 19243	60 mcg/m2
+T525	frequency 19244 19250	weekly
+T527	co-administereddrug 19256 19263	REBETOL
+T529	dose 19264 19272	15 mg/kg
+T531	frequency 19273 19279	daily.
+T533	tradename 19351 19360	PegIntron
+T535	tradename 19364 19374	PegIntron/
+T537	co-administereddrug 19374 19381	REBETOL
+T539	dose 19900 19910	40 mcg/m2/
+T541	frequency 19910 19914	week
+T543	dose 19924 19934	20 mcg/m2/
+T545	frequency 19934 19938	week
+T547	tradename 20319 20329	PegIntron/
+T549	co-administereddrug 20329 20336	REBETOL
+T551	tradename 20503 20513	PegIntron/
+T553	co-administereddrug 20513 20520	REBETOL
+T555	tradename 20564 20573	PegIntron
+T557	dose 20580 20589	1 mcg/kg/
+T559	frequency 20589 20593	week
+T561	tradename 20629 20638	PegIntron
+T563	dose 20645 20656	0.5 mcg/kg/
+T565	frequency 20656 20661	week.
+T567	tradename 20689 20698	PegIntron
+T569	tradename 20721 20730	PegIntron
+T571	dose 20739 20750	0.5 mcg/kg/
+T573	frequency 20750 20755	week.
+T575	tradename 20832 20841	PegIntron
+T577	tradename 20845 20855	PegIntron/
+T579	co-administereddrug 20855 20862	REBETOL
+T581	tradename 20948 20957	PegIntron
+T583	co-administereddrug 20998 21007	ribavirin
+T585	frequency 21008 21013	Daily
+T587	tradename 21486 21495	PegIntron
+T589	co-administereddrug 21517 21526	Ribavirin
+T591	dose 21535 21542	200 mg/
+T593	frequency 21542 21545	day
+T595	tradename 21874 21883	PegIntron
+T597	dose 21890 21899	1 mcg/kg/
+T599	frequency 21899 21904	week.
+T601	tradename 21949 21958	PegIntron
+T603	dose 21965 21976	0.5 mcg/kg/
+T605	frequency 21976 21981	week.
+T607	tradename 22011 22020	PegIntron
+T609	tradename 22043 22052	PegIntron
+T611	dose 22061 22072	0.5 mcg/kg/
+T613	frequency 22072 22077	week.
+T615	tradename 22131 22140	PegIntron
+T617	dose 22147 22157	40 mcg/m2/
+T619	frequency 22157 22161	week
+T621	tradename 22185 22194	PegIntron
+T623	dose 22201 22211	20 mcg/m2/
+T625	frequency 22211 22216	week.
+T627	co-administereddrug 22274 22283	ribavirin
+T629	dose 22290 22297	200 mg/
+T631	frequency 22297 22300	day
+T633	dose 22335 22342	1400 mg
+T635	dose 22372 22379	400 mg/
+T637	frequency 22379 22383	day)
+T639	co-administereddrug 22429 22438	ribavirin
+T641	dose 22459 22466	200 mg/
+T643	frequency 22466 22470	day.
+T645	co-administereddrug 22505 22514	ribavirin
+T647	dose 22529 22535	600 mg
+T649	frequency 22536 22541	daily
+T651	co-administereddrug 22678 22687	ribavirin
+T653	dose 22694 22703	12 mg/kg/
+T655	frequency 22703 22706	day
+T657	co-administereddrug 22730 22739	ribavirin
+T659	dose 22746 22754	8 mg/kg/
+T661	frequency 22754 22758	day.
+T663	tradename 23177 23186	PegIntron
+T665	co-administereddrug 23188 23195	REBETOL
+T667	tradename 23282 23291	PegIntron
+T669	dose 23298 23309	0.5 mcg/kg)
+T671	dose 23315 23324	1 mcg/kg)
+T673	tradename 23368 23377	PegIntron
+T675	tradename 24047 24056	PegIntron
+T677	tradename 24127 24136	PegIntron
+T679	dose 24137 24145	1 mcg/kg
+T681	tradename 24171 24180	PegIntron
+T683	dose 24181 24191	0.5 mcg/kg
+T685	tradename 24235 24244	PegIntron
+T687	tradename 24284 24293	PegIntron
+T689	tradename 24330 24339	PegIntron
+T691	tradename 24387 24396	PegIntron
+T693	tradename 24437 24446	PegIntron
+T695	tradename 24483 24492	PegIntron
+T697	tradename 25684 25693	PegIntron
+T699	co-administereddrug 25724 25731	REBETOL
+T701	tradename 26202 26212	PegIntron/
+T703	co-administereddrug 26212 26219	REBETOL
+T705	tradename 26598 26607	PegIntron
+T707	tradename 26764 26773	PegIntron
+T709	tradename 26852 26861	PegIntron
+T711	tradename 26910 26919	PegIntron
+T713	co-administereddrug 26956 26963	REBETOL
+T715	adversereaction 27101 27108	anemia.
+T717	tradename 27119 27129	PegIntron/
+T719	co-administereddrug 27129 27136	REBETOL
+T721	tradename 27302 27311	PegIntron
+T723	tradename 28375 28384	PegIntron
+T725	tradename 28828 28838	PegIntron/
+T727	co-administereddrug 28838 28847	ribavirin
+T729	co-administereddrug 28950 28959	Ribavirin
+T731	co-administereddrug 29031 29040	Ribavirin
+T733	co-administereddrug 29126 29135	ribavirin
+T735	co-administereddrug 29210 29219	ribavirin
+T737	co-administereddrug 29833 29842	Ribavirin
+T739	co-administereddrug 29866 29875	Ribavirin
+T741	co-administereddrug 29941 29950	Ribavirin
+T743	co-administereddrug 30304 30313	ribavirin
+T745	co-administereddrug 30345 30354	Ribavirin
+T747	tradename 30389 30399	PegIntron/
+T749	co-administereddrug 30399 30414	REBETOL-treated
+T751	co-administereddrug 30647 30656	ribavirin
+T753	co-administereddrug 30763 30772	ribavirin
+T755	co-administereddrug 30831 30840	ribavirin
+T757	adversereaction 30868 30891	Neuropsychiatric Events
+T759	adversereaction 30930 30953	neuropsychiatric events
+T761	adversereaction 30965 30972	suicide
+T763	adversereaction 30974 31005	suicidal and homicidal ideation
+T765	adversereaction 31007 31017	depression
+T767	adversereaction 31019 31053	relapse of drug addiction/overdose
+T769	adversereaction 31059 31078	aggressive behavior
+T771	tradename 31195 31204	PegIntron
+T773	adversereaction 31241 31250	Psychoses
+T775	adversereaction 31252 31266	hallucinations
+T777	adversereaction 31268 31285	bipolar disorders
+T779	adversereaction 31291 31296	mania
+T781	tradename 31370 31379	PegIntron
+T783	adversereaction 32152 32162	depression
+T785	adversereaction 32166 32183	suicidal ideation
+T787	adversereaction 32283 32293	depression
+T789	adversereaction 32389 32408	clinical depression
+T791	adversereaction 32580 32597	suicidal ideation
+T793	adversereaction 32601 32635	aggressive behavior towards others
+T795	tradename 32689 32698	PegIntron
+T797	tradename 32816 32825	PegIntron
+T799	adversereaction 32944 32958	encephalopathy
+T801	tradename 33040 33050	PegIntron.
+T803	adversereaction 33138 33149	hypotension
+T805	adversereaction 33151 33161	arrhythmia
+T807	adversereaction 33163 33174	tachycardia
+T809	adversereaction 33176 33190	cardiomyopathy
+T811	adversereaction 33192 33207	angina pectoris
+T813	adversereaction 33213 33234	myocardial infarction
+T815	tradename 33280 33290	PegIntron.
+T817	tradename 33302 33311	PegIntron
+T819	tradename 33474 33483	PegIntron
+T821	tradename 33664 33674	PegIntron/
+T823	co-administereddrug 33674 33683	ribavirin
+T825	co-administereddrug 33709 33718	ribavirin
+T827	tradename 33779 33788	PegIntron
+T829	adversereaction 33810 33824	hypothyroidism
+T831	adversereaction 33829 33859	hyperthyroidism. Hyperglycemia
+T833	tradename 33903 33913	PegIntron.
+T835	adversereaction 33925 33942	Diabetes mellitus
+T837	adversereaction 33973 33988	Type 1 diabetes
+T839	tradename 34062 34072	PegIntron.
+T841	tradename 34180 34189	PegIntron
+T843	tradename 34326 34335	PegIntron
+T845	adversereaction 34410 34424	loss of vision
+T847	adversereaction 34426 34437	retinopathy
+T849	adversereaction 34448 34461	macular edema
+T851	adversereaction 34463 34496	retinal artery or vein thrombosis
+T853	adversereaction 34498 34517	retinal hemorrhages
+T855	adversereaction 34522 34539	cotton wool spots
+T857	adversereaction 34541 34555	optic neuritis
+T859	adversereaction 34557 34568	papilledema
+T861	adversereaction 34574 34599	serous retinal detachment
+T863	nanoparticle 34647 34668	peginterferon alfa-2b
+T865	nanoparticle 35072 35093	Peginterferon alfa-2b
+T867	adversereaction 35246 35293	Ischemic and hemorrhagic cerebrovascular events
+T869	tradename 35381 35391	PegIntron.
+T871	adversereaction 35730 35750	Bone Marrow Toxicity
+T873	tradename 35764 35773	PegIntron
+T875	adversereaction 35837 35848	cytopenias.
+T877	tradename 35849 35858	PegIntron
+T879	co-administereddrug 36005 36014	Ribavirin
+T881	adversereaction 36034 36045	neutropenia
+T883	adversereaction 36128 36144	aplastic anemia.
+T885	adversereaction 36161 36181	Autoimmune Disorders
+T887	adversereaction 36225 36245	autoimmune disorders
+T889	adversereaction 36253 36264	thyroiditis
+T891	adversereaction 36266 36301	thrombotic thrombocytopenic purpura
+T893	adversereaction 36303 36338	idiopathic thrombocytopenic purpura
+T895	adversereaction 36340 36360	rheumatoid arthritis
+T897	adversereaction 36362 36384	interstitial nephritis
+T899	adversereaction 36386 36414	systemic lupus erythematosus
+T901	adversereaction 36420 36430	psoriasis)
+T903	tradename 36471 36481	PegIntron.
+T905	tradename 36493 36502	PegIntron
+T907	adversereaction 36586 36598	Pancreatitis
+T909	adversereaction 36630 36642	pancreatitis
+T911	tradename 36714 36723	PegIntron
+T913	adversereaction 36802 36814	pancreatitis
+T915	adversereaction 36859 36872	pancreatitis.
+T917	adversereaction 36890 36897	Colitis
+T919	adversereaction 36929 36971	ulcerative or hemorrhagic/ischemic colitis
+T921	adversereaction 37062 37076	Abdominal pain
+T923	adversereaction 37078 37093	bloody diarrhea
+T925	adversereaction 37099 37104	fever
+T927	tradename 37148 37157	PegIntron
+T929	adversereaction 37268 37275	colitis
+T931	adversereaction 37403 37410	Dyspnea
+T933	adversereaction 37412 37433	pulmonary infiltrates
+T935	adversereaction 37435 37444	pneumonia
+T937	adversereaction 37446 37470	bronchiolitis obliterans
+T939	adversereaction 37472 37496	interstitial pneumonitis
+T941	adversereaction 37498 37520	pulmonary hypertension
+T943	adversereaction 37526 37537	sarcoidosis
+T945	adversereaction 37557 37576	respiratory failure
+T947	adversereaction 37588 37594	deaths
+T949	tradename 37628 37637	PegIntron
+T951	adversereaction 37692 37711	respiratory failure
+T953	tradename 37770 37779	PegIntron
+T955	adversereaction 37846 37867	pulmonary infiltrates
+T957	adversereaction 37871 37901	pulmonary function impairment.
+T959	adversereaction 38008 38013	fever
+T961	adversereaction 38024 38043	"flu-like" symptoms
+T963	tradename 38060 38069	PegIntron
+T965	adversereaction 38277 38292	Hepatic Failure
+T967	indication 38305 38326	Chronic Hepatitis C (
+T969	adversereaction 38373 38395	hepatic decompensation
+T971	adversereaction 38400 38405	death
+T973	tradename 38453 38463	PegIntron.
+T975	co-administereddrug 38612 38621	ribavirin
+T977	adversereaction 38676 38698	hepatic decompensation
+T979	tradename 38850 38859	PegIntron
+T981	adversereaction 38908 38922	decompensation
+T983	tradename 39201 39211	PegIntron.
+T985	tradename 39370 39379	PegIntron
+T987	tradename 39516 39525	PegIntron
+T989	co-administereddrug 39749 39758	ribavirin
+T991	co-administereddrug 39839 39848	ribavirin
+T993	adversereaction 39875 39891	Hypersensitivity
+T995	adversereaction 39913 39945	acute hypersensitivity reactions
+T997	adversereaction 39953 39962	urticaria
+T999	adversereaction 39964 39974	angioedema
+T1001	adversereaction 39976 39995	bronchoconstriction
+T1003	adversereaction 39997 40009	anaphylaxis)
+T1005	adversereaction 40014 40033	cutaneous eruptions
+T1007	adversereaction 40035 40059	Stevens-Johnson syndrome
+T1009	adversereaction 40061 40088	toxic epidermal necrolysis)
+T1011	tradename 40209 40218	PegIntron
+T1013	adversereaction 40318 40324	rashes
+T1015	tradename 40417 40426	PegIntron
+T1017	co-administereddrug 40456 40465	ribavirin
+T1019	tradename 40699 40708	PegIntron
+T1021	tradename 40880 40889	PegIntron
+T1023	tradename 40952 40961	PegIntron
+T1025	tradename 40965 40975	PegIntron/
+T1027	co-administereddrug 40975 40982	REBETOL
+T1029	tradename 41862 41872	PegIntron/
+T1031	co-administereddrug 41872 41882	ribavirin.
+T1033	adversereaction 41900 41932	Dental and Periodontal Disorders
+T1035	adversereaction 41945 41977	Dental and periodontal disorders
+T1037	tradename 42019 42029	PegIntron/
+T1039	co-administereddrug 42029 42036	REBETOL
+T1041	adversereaction 42071 42080	dry mouth
+T1043	co-administereddrug 42204 42211	REBETOL
+T1045	tradename 42216 42226	PegIntron.
+T1047	adversereaction 42481 42509	Elevated triglyceride levels
+T1049	tradename 42582 42591	PegIntron
+T1051	adversereaction 42612 42632	Hypertriglyceridemia
+T1053	adversereaction 42647 42659	pancreatitis
+T1055	adversereaction 42709 42737	Elevated triglyceride levels
+T1057	tradename 42813 42822	PegIntron
+T1059	adversereaction 42892 42904	pancreatitis
+T1061	adversereaction 42914 42928	abdominal pain
+T1063	adversereaction 42930 42936	nausea
+T1065	adversereaction 42941 42949	vomiting
+T1067	adversereaction 42968 42990	elevated triglycerides
+T1069	adversereaction 43055 43071	Impact on Growth
+T1071	tradename 43122 43131	PegIntron
+T1073	co-administereddrug 43137 43144	REBETOL
+T1075	tradename 43395 43404	PegIntron
+T1077	co-administereddrug 43410 43417	REBETOL
+T1079	adversereaction 43521 43555	Severely inhibited growth velocity
+T1081	tradename 43801 43810	PegIntron
+T1083	co-administereddrug 43839 43846	REBETOL
+T1085	adversereaction 43860 43877	growth inhibition
+T1087	adversereaction 43980 44001	Peripheral Neuropathy
+T1089	adversereaction 44014 44035	Peripheral neuropathy
+T1091	co-administereddrug 44108 44120	telbivudine.
+T1093	adversereaction 44188 44209	peripheral neuropathy
+T1095	co-administereddrug 44251 44262	telbivudine
+T1097	nanoparticle 44267 44295	pegylated interferon alfa-2a
+T1099	co-administereddrug 44311 44322	telbivudine
+T1101	co-administereddrug 44368 44379	telbivudine
+T1103	indication 44433 44452	chronic hepatitis B
+T1105	tradename 44875 44884	PegIntron
+T1107	co-administereddrug 44914 44921	REBETOL
+T1109	tradename 45101 45110	PegIntron
+T1111	co-administereddrug 45127 45134	REBETOL
+T1113	tradename 45248 45257	PegIntron
+T1115	co-administereddrug 45262 45269	REBETOL
+T1117	adversereaction 45275 45285	depression
+T1119	adversereaction 45290 45307	suicidal ideation
+T1121	tradename 45468 45477	PegIntron
+T1123	co-administereddrug 45482 45489	REBETOL
+T1125	adversereaction 45495 45509	cardiac arrest
+T1127	adversereaction 45511 45528	suicidal ideation
+T1129	adversereaction 45534 45549	suicide attempt
+T1131	tradename 45822 45831	PegIntron
+T1133	tradename 45835 45845	PegIntron/
+T1135	co-administereddrug 45845 45852	REBETOL
+T1137	adversereaction 45858 45894	injection-site inflammation/reaction
+T1139	adversereaction 45896 45912	fatigue/asthenia
+T1141	adversereaction 45914 45922	headache
+T1143	adversereaction 45924 45930	rigors
+T1145	adversereaction 45932 45938	fevers
+T1147	adversereaction 45940 45946	nausea
+T1149	adversereaction 45948 45955	myalgia
+T1151	adversereaction 45961 45993	emotional lability/irritability.
+T1153	adversereaction 46082 46089	pyrexia
+T1155	adversereaction 46091 46099	headache
+T1157	adversereaction 46101 46109	vomiting
+T1159	adversereaction 46111 46122	neutropenia
+T1161	adversereaction 46124 46131	fatigue
+T1163	adversereaction 46133 46141	anorexia
+T1165	adversereaction 46143 46166	injection-site erythema
+T1167	adversereaction 46172 46187	abdominal pain.
+T1169	tradename 46214 46223	PegIntron
+T1171	tradename 46314 46324	PegIntron/
+T1173	co-administereddrug 46324 46331	REBETOL
+T1175	co-administereddrug 46371 46379	REBETOL.
+T1177	tradename 46510 46520	PegIntron/
+T1179	co-administereddrug 46533 46540	REBETOL
+T1181	tradename 46558 46568	PegIntron/
+T1183	co-administereddrug 46578 46585	REBETOL
+T1185	tradename 46627 46636	PegIntron
+T1187	dose 46638 46648	1.5 mcg/kg
+T1189	frequency 46648 46653	/week
+T1191	dose 46658 46667	1 mcg/kg/
+T1193	frequency 46667 46672	week)
+T1195	co-administereddrug 46699 46706	REBETOL
+T1197	dose 46754 46762	180 mcg/
+T1199	frequency 46762 46767	week)
+T1201	co-administereddrug 46768 46775	Copegus
+T1203	dose 46777 46790	1000-1200 mg/
+T1205	frequency 46790 46794	day)
+T1207	tradename 47388 47397	PegIntron
+T1209	dose 47398 47406	1 mcg/kg
+T1211	dose 47447 47452	3 MIU
+T1213	tradename 47484 47493	PegIntron
+T1215	dose 47494 47505	1.5 mcg/kg/
+T1217	co-administereddrug 47506 47513	REBETOL
+T1219	co-administereddrug 47554 47561	REBETOL
+T1221	adversereaction 47615 47652	Injection Site Inflammation/Reaction
+T1223	adversereaction 47724 47733	Dry Mouth
+T1225	adversereaction 47744 47762	Increased Sweating
+T1227	adversereaction 47774 47782	Flushing
+T1229	tradename 47901 47910	PegIntron
+T1231	dose 47911 47919	1 mcg/kg
+T1233	dose 47960 47965	3 MIU
+T1235	tradename 47997 48006	PegIntron
+T1237	dose 48007 48018	1.5 mcg/kg/
+T1239	co-administereddrug 48019 48026	REBETOL
+T1241	co-administereddrug 48067 48074	REBETOL
+T1243	adversereaction 48127 48143	Fatigue/Asthenia
+T1245	adversereaction 48157 48165	Headache
+T1247	adversereaction 48179 48185	Rigors
+T1249	adversereaction 48199 48204	Fever
+T1251	adversereaction 48218 48229	Weight Loss
+T1253	adversereaction 48243 48269	Right Upper Quadrant Pain
+T1255	adversereaction 48302 48312	Chest Pain
+T1257	adversereaction 48322 48329	Malaise
+T1259	adversereaction 48399 48408	Dizziness
+T1261	adversereaction 48436 48450	Hypothyroidism
+T1263	adversereaction 48481 48487	Nausea
+T1265	adversereaction 48501 48509	Anorexia
+T1267	adversereaction 48523 48531	Diarrhea
+T1269	adversereaction 48545 48553	Vomiting
+T1271	adversereaction 48565 48579	Abdominal Pain
+T1273	adversereaction 48593 48602	Dyspepsia
+T1275	adversereaction 48612 48624	Constipation
+T1277	adversereaction 48660 48671	Neutropenia
+T1279	adversereaction 48683 48689	Anemia
+T1281	adversereaction 48701 48711	Leukopenia
+T1283	adversereaction 48725 48741	Thrombocytopenia
+T1285	adversereaction 48807 48819	Hepatomegaly
+T1287	adversereaction 48849 48856	Myalgia
+T1289	adversereaction 48870 48880	Arthralgia
+T1291	adversereaction 48894 48915	Musculoskeletal Pain
+T1293	adversereaction 48967 48975	Insomnia
+T1295	adversereaction 48989 48999	Depression
+T1297	adversereaction 49013 49053	Anxiety/Emotional Lability/Irritability
+T1299	adversereaction 49089 49112	Concentration Impaired
+T1301	adversereaction 49147 49156	Agitation
+T1303	adversereaction 49166 49177	Nervousness
+T1305	adversereaction 49212 49230	Menstrual Disorder
+T1307	adversereaction 49266 49281	Viral Infection
+T1309	adversereaction 49295 49311	Fungal Infection
+T1311	adversereaction 49348 49355	Dyspnea
+T1313	adversereaction 49367 49375	Coughing
+T1315	adversereaction 49387 49398	Pharyngitis
+T1317	adversereaction 49411 49419	Rhinitis
+T1319	adversereaction 49429 49438	Sinusitis
+T1321	adversereaction 49472 49480	Alopecia
+T1323	adversereaction 49494 49502	Pruritus
+T1325	adversereaction 49515 49519	Rash
+T1327	adversereaction 49531 49539	Skin Dry
+T1329	adversereaction 49579 49595	Taste Perversion
+T1331	adversereaction 49630 49644	Vision Blurred
+T1333	tradename 49774 49783	PegIntron
+T1335	dose 49784 49792	1 mcg/kg
+T1337	dose 49833 49838	3 MIU
+T1339	tradename 49870 49879	PegIntron
+T1341	dose 49880 49891	1.5 mcg/kg/
+T1343	co-administereddrug 49892 49899	REBETOL
+T1345	co-administereddrug 49940 49947	REBETOL
+T1347	tradename 50406 50415	PegIntron
+T1349	dose 50427 50437	1.5 mcg/kg
+T1351	co-administereddrug 50443 50450	REBETOL
+T1353	tradename 50483 50492	PegIntron
+T1355	dose 50493 50501	1 mcg/kg
+T1357	co-administereddrug 50518 50525	REBETOL
+T1359	dose 50566 50573	180 mcg
+T1361	co-administereddrug 50579 50586	Copegus
+T1363	adversereaction 50620 50627	Fatigue
+T1365	adversereaction 50637 50645	Headache
+T1367	adversereaction 50655 50661	Nausea
+T1369	adversereaction 50671 50677	Chills
+T1371	adversereaction 50687 50695	Insomnia
+T1373	adversereaction 50705 50711	Anemia
+T1375	adversereaction 50721 50728	Pyrexia
+T1377	adversereaction 50738 50762	Injection Site Reactions
+T1379	adversereaction 50772 50780	Anorexia
+T1381	adversereaction 50790 50794	Rash
+T1383	adversereaction 50804 50811	Myalgia
+T1385	adversereaction 50821 50832	Neutropenia
+T1387	adversereaction 50842 50854	Irritability
+T1389	adversereaction 50864 50874	Depression
+T1391	adversereaction 50885 50893	Alopecia
+T1393	adversereaction 50903 50910	Dyspnea
+T1395	adversereaction 50920 50930	Arthralgia
+T1397	adversereaction 50940 50948	Pruritus
+T1399	adversereaction 50958 50980	Influenza-like Illness
+T1401	adversereaction 50990 50999	Dizziness
+T1403	adversereaction 51009 51017	Diarrhea
+T1405	adversereaction 51027 51032	Cough
+T1407	adversereaction 51042 51058	Weight Decreased
+T1409	adversereaction 51068 51076	Vomiting
+T1411	adversereaction 51085 51101	Unspecified Pain
+T1413	adversereaction 51110 51118	Dry Skin
+T1415	adversereaction 51128 51135	Anxiety
+T1417	adversereaction 51145 51159	Abdominal Pain
+T1419	adversereaction 51169 51179	Leukopenia
+T1421	tradename 51254 51264	PegIntron/
+T1423	co-administereddrug 51277 51284	REBETOL
+T1425	tradename 51302 51312	PegIntron/
+T1427	co-administereddrug 51322 51329	REBETOL
+T1429	adversereaction 51515 51521	anemia
+T1431	tradename 51667 51676	PegIntron
+T1433	tradename 51878 51888	PegIntron/
+T1435	co-administereddrug 51888 51895	REBETOL
+T1437	co-administereddrug 51935 51942	REBETOL
+T1439	co-administereddrug 52062 52069	REBETOL
+T1441	co-administereddrug 52104 52111	REBETOL
+T1443	adversereaction 52509 52516	suicide
+T1445	tradename 52540 52549	PegIntron
+T1447	adversereaction 52695 52702	suicide
+T1449	tradename 52726 52736	PegIntron/
+T1451	co-administereddrug 52736 52743	REBETOL
+T1453	co-administereddrug 52801 52808	REBETOL
+T1455	tradename 53098 53108	PegIntron/
+T1457	co-administereddrug 53108 53115	REBETOL
+T1459	tradename 53146 53155	PegIntron
+T1461	dose 53156 53164	1.5 mcg/
+T1463	co-administereddrug 53164 53171	REBETOL
+T1465	tradename 53198 53207	PegIntron
+T1467	dose 53208 53214	1 mcg/
+T1469	co-administereddrug 53214 53221	REBETOL
+T1471	co-administereddrug 53290 53297	Copegus
+T1473	tradename 53422 53431	PegIntron
+T1475	dose 53433 53444	1.5 mcg/kg)
+T1477	co-administereddrug 53445 53452	REBETOL
+T1479	tradename 53539 53548	PegIntron
+T1481	co-administereddrug 53579 53586	REBETOL
+T1483	co-administereddrug 53704 53712	REBETOL.
+T1485	tradename 53761 53770	PegIntron
+T1487	co-administereddrug 53804 53811	REBETOL
+T1489	tradename 53842 53851	PegIntron
+T1491	co-administereddrug 53866 53873	REBETOL
+T1493	adversereaction 54062 54069	fatigue
+T1495	adversereaction 54071 54080	headache)
+T1497	tradename 54156 54165	PegIntron
+T1499	dose 54166 54174	1.5 mcg/
+T1501	co-administereddrug 54174 54181	REBETOL
+T1503	tradename 54198 54207	PegIntron
+T1505	dose 54208 54214	1 mcg/
+T1507	co-administereddrug 54214 54221	REBETOL
+T1509	dose 54250 54258	180 mcg/
+T1511	co-administereddrug 54258 54265	Copegus
+T1513	tradename 54416 54425	PegIntron
+T1515	dose 54427 54438	1.5 mcg/kg)
+T1517	co-administereddrug 54439 54446	REBETOL
+T1519	co-administereddrug 54486 54494	REBETOL.
+T1521	tradename 54570 54579	PegIntron
+T1523	dose 54581 54592	1.5 mcg/kg)
+T1525	co-administereddrug 54593 54600	REBETOL
+T1527	tradename 54679 54688	PegIntron
+T1529	dose 54689 54699	1.5 mcg/kg
+T1531	tradename 54710 54719	PegIntron
+T1533	dose 54720 54730	0.5 mcg/kg
+T1535	co-administereddrug 54804 54811	REBETOL
+T1537	adversereaction 54913 54924	neutropenia
+T1539	adversereaction 54934 54940	anemia
+T1541	adversereaction 54988 54998	depression
+T1543	adversereaction 55000 55007	fatigue
+T1545	adversereaction 55009 55015	nausea
+T1547	adversereaction 55021 55038	thrombocytopenia.
+T1549	tradename 55278 55287	PegIntron
+T1551	dose 55291 55299	1 mcg/kg
+T1553	co-administereddrug 55320 55327	REBETOL
+T1555	tradename 55390 55399	PegIntron
+T1557	dose 55403 55413	0.5 mcg/kg
+T1559	co-administereddrug 55480 55487	Copegus
+T1561	dose 55526 55534	135 mcg/
+T1563	frequency 55534 55538	week
+T1565	dose 55612 55618	90 mcg
+T1567	frequency 55618 55623	/week
+T1569	tradename 55657 55667	PegIntron/
+T1571	co-administereddrug 55667 55674	REBETOL
+T1573	adversereaction 55850 55879	psychiatric adverse reactions
+T1575	adversereaction 55903 55913	depression
+T1577	adversereaction 55915 55927	irritability
+T1579	adversereaction 55933 55941	insomnia
+T1581	adversereaction 56022 56039	Suicidal behavior
+T1583	adversereaction 56230 56259	psychiatric adverse reactions
+T1585	tradename 56295 56304	PegIntron
+T1587	dose 56305 56313	1.5 mcg/
+T1589	co-administereddrug 56313 56320	REBETOL
+T1591	tradename 56349 56358	PegIntron
+T1593	dose 56359 56365	1 mcg/
+T1595	co-administereddrug 56365 56372	REBETOL
+T1597	dose 56413 56421	180 mcg/
+T1599	co-administereddrug 56421 56428	Copegus
+T1601	tradename 56446 56455	PegIntron
+T1603	adversereaction 56464 56471	fatigue
+T1605	adversereaction 56475 56483	headache
+T1607	adversereaction 56530 56535	fever
+T1609	adversereaction 56539 56545	rigors
+T1611	adversereaction 56651 56656	fever
+T1613	adversereaction 56661 56670	headache)
+T1615	adversereaction 56745 56774	application site inflammation
+T1617	adversereaction 56795 56801	bruise
+T1619	adversereaction 56803 56812	itchiness
+T1621	adversereaction 56818 56829	irritation)
+T1623	tradename 56881 56890	PegIntron
+T1625	adversereaction 57097 57121	injection-site reactions
+T1627	tradename 57387 57396	PegIntron
+T1629	co-administereddrug 57401 57408	REBETOL
+T1631	adversereaction 57549 57560	weight loss
+T1633	adversereaction 57562 57569	fatigue
+T1635	adversereaction 57575 57583	headache
+T1637	adversereaction 57724 57739	suicide attempt
+T1639	adversereaction 57741 57758	suicidal ideation
+T1641	adversereaction 57760 57777	severe depression
+T1643	adversereaction 57779 57788	psychosis
+T1645	adversereaction 57790 57809	aggressive reaction
+T1647	adversereaction 57811 57845	relapse of drug addiction/overdose
+T1649	adversereaction 57847 57858	nerve palsy
+T1651	adversereaction 57881 57895	cardiomyopathy
+T1653	adversereaction 57897 57918	myocardial infarction
+T1655	adversereaction 57920 57926	angina
+T1657	adversereaction 57928 57948	pericardial effusion
+T1659	adversereaction 57950 57966	retinal ischemia
+T1661	adversereaction 57968 58001	retinal artery or vein thrombosis
+T1663	adversereaction 58003 58012	blindness
+T1665	adversereaction 58014 58037	decreased visual acuity
+T1667	adversereaction 58039 58053	optic neuritis
+T1669	adversereaction 58055 58080	transient ischemic attack
+T1671	adversereaction 58082 58110	supraventricular arrhythmias
+T1673	adversereaction 58112 58133	loss of consciousness
+T1675	adversereaction 58135 58146	neutropenia
+T1677	adversereaction 58148 58157	infection
+T1679	adversereaction 58159 58165	sepsis
+T1681	adversereaction 58167 58176	pneumonia
+T1683	adversereaction 58178 58185	abscess
+T1685	adversereaction 58187 58198	cellulitis)
+T1687	adversereaction 58200 58209	emphysema
+T1689	adversereaction 58211 58235	bronchiolitis obliterans
+T1691	adversereaction 58237 58253	pleural effusion
+T1693	adversereaction 58255 58270	gastroenteritis
+T1695	adversereaction 58272 58284	pancreatitis
+T1697	adversereaction 58286 58290	gout
+T1699	adversereaction 58292 58305	hyperglycemia
+T1701	adversereaction 58307 58322	hyperthyroidism
+T1703	adversereaction 58327 58341	hypothyroidism
+T1705	adversereaction 58343 58370	autoimmune thrombocytopenia
+T1707	adversereaction 58396 58416	rheumatoid arthritis
+T1709	adversereaction 58418 58440	interstitial nephritis
+T1711	adversereaction 58442 58461	lupus-like syndrome
+T1713	adversereaction 58463 58474	sarcoidosis
+T1715	adversereaction 58476 58496	aggravated psoriasis
+T1717	adversereaction 58498 58507	urticaria
+T1719	adversereaction 58509 58532	injection-site necrosis
+T1721	adversereaction 58534 58544	vasculitis
+T1723	adversereaction 58550 58564	phototoxicity.
+T1725	tradename 58596 58606	PegIntron/
+T1727	co-administereddrug 58606 58613	REBETOL
+T1729	adversereaction 59068 59075	pyrexia
+T1731	adversereaction 59083 59091	headache
+T1733	adversereaction 59099 59110	neutropenia
+T1735	adversereaction 59118 59125	fatigue
+T1737	adversereaction 59133 59141	anorexia
+T1739	adversereaction 59149 59172	injection-site erythema
+T1741	adversereaction 59184 59192	vomiting
+T1743	adversereaction 59395 59414	injection-site pain
+T1745	adversereaction 59421 59438	pain in extremity
+T1747	adversereaction 59445 59453	headache
+T1749	adversereaction 59460 59471	neutropenia
+T1751	adversereaction 59482 59489	pyrexia
+T1753	adversereaction 59570 59581	nervousness
+T1755	adversereaction 59595 59605	aggression
+T1757	adversereaction 59619 59624	anger
+T1759	adversereaction 59642 59652	depression
+T1761	tradename 59871 59880	PegIntron
+T1763	co-administereddrug 59886 59893	REBETOL
+T1765	adversereaction 59999 60033	Severely inhibited growth velocity
+T1767	adversereaction 60198 60204	anemia
+T1769	adversereaction 60206 60217	neutropenia
+T1771	adversereaction 60223 60235	weight loss.
+T1773	adversereaction 60734 60745	Neutropenia
+T1775	adversereaction 60750 60756	Anemia
+T1777	adversereaction 60761 60771	Leukopenia
+T1779	adversereaction 60815 60829	Abdominal Pain
+T1781	adversereaction 60845 60865	Abdominal Pain Upper
+T1783	adversereaction 60881 60889	Vomiting
+T1785	adversereaction 60894 60900	Nausea
+T1787	adversereaction 60970 60977	Pyrexia
+T1789	adversereaction 60982 60989	Fatigue
+T1791	adversereaction 60994 61017	Injection-site Erythema
+T1793	adversereaction 61022 61028	Chills
+T1795	adversereaction 61033 61041	Asthenia
+T1797	adversereaction 61046 61058	Irritability
+T1799	adversereaction 61090 61106	Weight Decreased
+T1801	adversereaction 61158 61166	Anorexia
+T1803	adversereaction 61171 61189	Decreased Appetite
+T1805	adversereaction 61254 61264	Arthralgia
+T1807	adversereaction 61269 61276	Myalgia
+T1809	adversereaction 61318 61326	Headache
+T1811	adversereaction 61331 61340	Dizziness
+T1813	adversereaction 61396 61404	Alopecia
+T1815	tradename 62527 62536	PegIntron
+T1817	co-administereddrug 62566 62573	REBETOL
+T1819	co-administereddrug 62979 62986	REBETOL
+T1821	co-administereddrug 63008 63015	REBETOL
+T1823	tradename 63315 63325	PegIntron/
+T1825	co-administereddrug 63325 63332	REBETOL
+T1827	co-administereddrug 63346 63353	REBETOL
+T1829	tradename 63404 63413	PegIntron
+T1831	dose 63415 63426	1.5 mcg/kg)
+T1833	co-administereddrug 63427 63434	REBETOL
+T1835	dose 63582 63590	180 mcg/
+T1837	co-administereddrug 63590 63597	Copegus
+T1839	tradename 63946 63955	PegIntron
+T1841	tradename 64220 64229	PegIntron
+T1843	co-administereddrug 64273 64280	REBETOL
+T1845	co-administereddrug 64311 64318	REBETOL
+T1847	tradename 64449 64458	PegIntron
+T1849	co-administereddrug 64509 64516	REBETOL
+T1851	tradename 64567 64577	PegIntron/
+T1853	co-administereddrug 64577 64584	REBETOL
+T1855	tradename 64642 64651	PegIntron
+T1857	tradename 64694 64704	PegIntron/
+T1859	co-administereddrug 64704 64711	REBETOL
+T1861	tradename 65131 65140	PegIntron
+T1863	co-administereddrug 65155 65162	REBETOL
+T1865	co-administereddrug 65207 65215	REBETOL.
+T1867	tradename 65538 65547	PegIntron
+T1869	tradename 65800 65809	PegIntron
+T1871	tradename 66123 66132	PegIntron
+T1873	co-administereddrug 66150 66158	REBETOL)
+T1875	tradename 67022 67032	PegIntron/
+T1877	co-administereddrug 67032 67039	REBETOL
+T1879	tradename 67264 67273	PegIntron
+T1881	co-administereddrug 67279 67286	REBETOL
+T1883	adversereaction 67921 67936	Hepatic Failure
+T1885	tradename 68351 68360	PegIntron
+T1887	co-administereddrug 68408 68415	REBETOL
+T1889	tradename 68491 68500	PegIntron
+T1891	tradename 69101 69110	PegIntron
+T1893	tradename 69315 69324	PegIntron
+T1895	adversereaction 69606 69627	Pure red cell aplasia
+T1897	adversereaction 69629 69664	thrombotic thrombocytopenic purpura
+T1899	adversereaction 69735 69747	Hearing loss
+T1901	adversereaction 69749 69756	vertigo
+T1903	adversereaction 69758 69776	hearing impairment
+T1905	adversereaction 69808 69829	Diabetic ketoacidosis
+T1907	adversereaction 69831 69839	diabetes
+T1909	adversereaction 69866 69895	Vogt-Koyanagi-Harada syndrome
+T1911	adversereaction 69897 69922	serous retinal detachment
+T1913	adversereaction 69961 69980	Aphthous stomatitis
+T1915	adversereaction 70076 70084	asthenia
+T1917	adversereaction 70086 70093	malaise
+T1919	adversereaction 70095 70103	fatigue)
+T1921	adversereaction 70148 70180	acute hypersensitivity reactions
+T1923	adversereaction 70192 70203	anaphylaxis
+T1925	adversereaction 70205 70215	angioedema
+T1927	adversereaction 70217 70227	urticaria)
+T1929	adversereaction 70229 70253	Stevens-Johnson syndrome
+T1931	adversereaction 70255 70281	toxic epidermal necrolysis
+T1933	adversereaction 70283 70311	systemic lupus erythematosus
+T1935	adversereaction 70313 70332	erythema multiforme
+T1937	adversereaction 70372 70391	Bacterial infection
+T1939	adversereaction 70402 70408	sepsis
+T1941	adversereaction 70455 70466	Dehydration
+T1943	adversereaction 70468 70488	hypertriglyceridemia
+T1945	adversereaction 70548 70562	Rhabdomyolysis
+T1947	adversereaction 70564 70572	myositis
+T1949	adversereaction 70609 70617	Seizures
+T1951	adversereaction 70619 70630	memory loss
+T1953	adversereaction 70632 70653	peripheral neuropathy
+T1955	adversereaction 70655 70667	paraesthesia
+T1957	adversereaction 70669 70686	migraine headache
+T1959	adversereaction 70720 70738	Homicidal ideation
+T1961	adversereaction 70799 70821	Pulmonary hypertension
+T1963	adversereaction 70861 70874	Renal failure
+T1965	adversereaction 70876 70895	renal insufficiency
+T1967	adversereaction 70946 70955	Psoriasis
+T1969	adversereaction 70986 70998	Hypertension
+T1971	adversereaction 71000 71011	hypotension
+T1973	tradename 71130 71139	PegIntron
+T1975	tradename 71376 71385	PegIntron
+T1977	co-administereddrug 71640 71649	Ribavirin
+T1979	adversereaction 71685 71707	Hepatic decompensation
+T1981	co-administereddrug 71854 71864	ribavirin.
+T1983	co-administereddrug 71934 71943	ribavirin
+T1985	co-administereddrug 72036 72045	ribavirin
+T1987	adversereaction 72179 72201	hepatic decompensation
+T1989	adversereaction 72206 72213	anemia.
+T1991	co-administereddrug 72400 72409	ribavirin
+T1993	adversereaction 72502 72524	hepatic decompensation
+T1995	co-administereddrug 72650 72659	ribavirin
+T1997	surfacecoating 72808 72817	pegylated
+T1999	co-administereddrug 72960 72969	ribavirin
+T2001	co-administereddrug 73163 73173	zidovudine
+T2003	surfacecoating 73194 73203	pegylated
+T2005	co-administereddrug 73225 73234	ribavirin
+T2007	adversereaction 73245 73263	severe neutropenia
+T2009	adversereaction 73288 73301	severe anemia
+T2011	co-administereddrug 73384 73395	zidovudine.
+T2013	co-administereddrug 73440 73449	ribavirin
+T2015	co-administereddrug 73454 73464	didanosine
+T2017	adversereaction 73496 73517	fatal hepatic failure
+T2019	adversereaction 73530 73551	peripheral neuropathy
+T2021	adversereaction 73553 73565	pancreatitis
+T2023	adversereaction 73571 73614	symptomatic hyperlactatemia/lactic acidosis
+T2025	tradename 73769 73778	PegIntron
+T2027	activeingredient 73849 73867	interferon alfa-2b
+T2029	dose 73951 73974	15 and 30 million IU/kg
+T2031	dose 74006 74028	5 and 10 million IU/kg
+T2033	tradename 74099 74108	PegIntron
+T2035	tradename 74255 74264	PegIntron
+T2037	tradename 74399 74408	PegIntron
+T2039	co-administereddrug 74548 74557	Ribavirin
+T2041	co-administereddrug 74710 74720	ribavirin.
+T2043	co-administereddrug 74732 74741	Ribavirin
+T2045	co-administereddrug 74877 74886	ribavirin
+T2047	co-administereddrug 74912 74921	Ribavirin
+T2049	co-administereddrug 75079 75088	ribavirin
+T2051	tradename 75341 75350	PegIntron
+T2053	co-administereddrug 75358 75367	ribavirin
+T2055	tradename 75652 75661	PegIntron
+T2057	co-administereddrug 75666 75675	ribavirin
+T2059	indication 76076 76080	CHC.
+T2061	tradename 76155 76164	PegIntron
+T2063	co-administereddrug 76185 76192	REBETOL
+T2065	tradename 76514 76523	PegIntron
+T2067	co-administereddrug 76553 76560	REBETOL
+T2069	tradename 76749 76758	PegIntron
+T2071	tradename 76982 76991	PegIntron
+T2073	tradename 77327 77337	PegIntron/
+T2075	co-administereddrug 77338 77347	ribavirin
+T2077	co-administereddrug 77375 77384	ribavirin
+T2079	tradename 77478 77487	PegIntron
+T2081	co-administereddrug 77517 77526	ribavirin
+T2083	indication 77548 77559	hepatitis C
+T2085	co-administereddrug 77778 77787	ribavirin
+T2087	tradename 78116 78126	PegIntron/
+T2089	co-administereddrug 78127 78136	ribavirin
+T2091	tradename 78581 78591	PegIntron.
+T2093	dose 78648 78659	3.45 mcg/kg
+T2095	frequency 78660 78666	weekly
+T2097	co-administereddrug 78751 78760	ribavirin
+T2099	routeofadministration 78780 78789	ingestion
+T2101	dose 78793 78797	10 g
+T2103	tradename 79049 79058	PegIntron
+T2105	nanoparticle 79060 79081	peginterferon alfa-2b
+T2107	activeingredient 79110 79140	recombinant alfa-2b interferon
+T2109	surfacecoating 79146 79184	monomethoxy polyethylene glycol (PEG).
+T2111	surfacecoating 79232 79235	PEG
+T2113	tradename 79326 79335	PegIntron
+T2115	molecularweight 79362 79364	31
+T2117	molecularweight 79365 79377	000 daltons.
+T2119	nanoparticle 79414 79435	peginterferon alfa-2b
+T2121	activeingredient 79490 79508	Interferon alfa-2b
+T2123	tradename 79814 79823	PegIntron
+T2125	routeofadministration 79896 79908	subcutaneous
+T2127	tradename 80014 80023	PegIntron
+T2129	inactiveingredient 80124 80158	dibasic sodium phosphate anhydrous
+T2131	inactiveingredient 80168 80204	monobasic sodium phosphate dihydrate
+T2133	inactiveingredient 80214 80221	sucrose
+T2135	inactiveingredient 80236 80251	polysorbate 80.
+T2137	tradename 80368 80377	PegIntron
+T2139	tradename 80620 80629	PegIntron
+T2141	tradename 80809 80818	PegIntron
+T2143	tradename 80902 80911	PegIntron
+T2145	inactiveingredient 80926 80960	dibasic sodium phosphate anhydrous
+T2147	inactiveingredient 80971 81007	monobasic sodium phosphate dihydrate
+T2149	inactiveingredient 81015 81022	sucrose
+T2151	inactiveingredient 81038 81053	polysorbate 80.
+T2153	tradename 81232 81241	PegIntron
+T2155	tradename 81453 81462	PegIntron
+T2157	tradename 81521 81530	PegIntron
+T2159	nanoparticle 81671 81717	Pegylated recombinant human interferon alfa-2b
+T2161	nanoparticle 81874 81895	peginterferon alfa-2b
+T2163	tradename 82309 82318	PegIntron
+T2165	routeofadministration 82704 82716	subcutaneous
+T2167	tradename 82725 82734	PegIntron
+T2169	tmax 82851 82866	15 and 44 hours
+T2171	tradename 82965 82974	PegIntron
+T2173	tradename 83087 83097	PegIntron.
+T2175	tradename 83288 83297	PegIntron
+T2177	eliminationhalflife 83337 83345	40 hours
+T2179	eliminationhalflife 83353 83365	22-60 hours)
+T2181	tradename 83435 83444	PegIntron
+T2183	clearance 83478 83490	22 mL/hr kg.
+T2185	surfacecoating 83557 83567	Pegylation
+T2187	activeingredient 83571 83589	interferon alfa-2b
+T2189	tradename 83610 83620	PegIntron)
+T2191	activeingredient 83672 83691	interferon alfa-2b.
+T2193	tradename 83730 83739	PegIntron
+T2195	dose 83741 83750	1 mcg/kg)
+T2197	tradename 83927 83936	PegIntron
+T2199	activeingredient 84005 84024	interferon alfa-2b.
+T2201	tradename 84096 84105	PegIntron
+T2203	dose 84107 84115	1 mcg/kg
+T2205	routeofadministration 84116 84130	subcutaneously
+T2207	frequency 84137 84160	every week for 4 weeks)
+T2209	tradename 84178 84187	PegIntron
+T2211	tradename 84600 84609	PegIntron
+T2213	co-administereddrug 84738 84745	REBETOL
+T2215	co-administereddrug 84767 84774	REBETOL
+T2217	co-administereddrug 84857 84864	REBETOL
+T2219	tradename 84956 84965	PegIntron
+T2221	indication 85066 85085	chronic hepatitis C
+T2223	routeofadministration 85222 85234	subcutaneous
+T2225	dose 85243 85251	1 mcg/kg
+T2227	tradename 85255 85264	PegIntron
+T2229	tradename 85458 85467	PegIntron
+T2231	co-administereddrug 85472 85479	REBETOL
+T2233	indication 85551 85570	chronic hepatitis C
+T2235	tradename 85645 85654	PegIntron
+T2237	dose 85655 85665	60 mcg/m2/
+T2239	frequency 85665 85669	week
+T2241	routeofadministration 85670 85684	subcutaneously
+T2243	dose 85761 85771	1.5 mcg/kg
+T2245	frequency 85771 85776	/week
+T2247	routeofadministration 85777 85792	subcutaneously.
+T2249	co-administereddrug 85828 85835	REBETOL
+T2251	co-administereddrug 85919 85926	REBETOL
+T2253	co-administereddrug 86037 86046	Ribavirin
+T2255	co-administereddrug 86090 86097	REBETOL
+T2257	indication 86596 86615	chronic hepatitis C
+T2259	tradename 86629 86638	PegIntron
+T2261	dose 86640 86651	1.5 mcg/kg)
+T2263	frequency 86652 86676	once weekly for 4 weeks.
+T2265	tradename 86688 86697	PegIntron
+T2267	tradename 86788 86797	PegIntron
+T2269	tradename 87220 87229	PegIntron
+T2271	tradename 87371 87380	PegIntron
+T2273	tradename 87402 87417	PegIntron-naive
+T2275	indication 87418 87446	chronic hepatitis C subjects
+T2277	dose 87457 87467	1.5 mcg/kg
+T2279	tradename 87468 87477	PegIntron
+T2281	routeofadministration 87478 87492	subcutaneously
+T2283	dose 87605 87611	40 mg/
+T2285	frequency 87611 87614	day
+T2287	tradename 87635 87645	PegIntron.
+T2289	tradename 87722 87731	PegIntron
+T2291	tradename 87849 87858	PegIntron
+T2293	co-administereddrug 87944 87953	Ribavirin
+T2295	co-administereddrug 87993 88002	Ribavirin
+T2297	surfacecoating 88140 88149	pegylated
+T2299	co-administereddrug 88181 88190	ribavirin
+T2301	co-administereddrug 88404 88413	ribavirin
+T2303	co-administereddrug 88763 88772	ribavirin
+T2305	tradename 88951 88960	PegIntron
+T2307	activeingredient 88981 88999	interferon alfa-2b
+T2309	nanoparticle 89018 89039	Peginterferon alfa-2b
+T2311	activeingredient 89492 89510	interferon alfa-2b
+T2313	nanoparticle 89605 89626	peginterferon alfa-2b
+T2315	co-administereddrug 89726 89735	ribavirin
+T2317	co-administereddrug 89824 89833	Ribavirin
+T2319	co-administereddrug 89919 89928	Ribavirin
+T2321	co-administereddrug 90000 90009	ribavirin
+T2323	co-administereddrug 90370 90379	ribavirin
+T2325	co-administereddrug 90484 90494	ribavirin.
+T2327	surfacecoating 90576 90585	pegylated
+T2329	co-administereddrug 90615 90624	ribavirin
+T2331	surfacecoating 90812 90822	pegylated/
+T2333	co-administereddrug 90851 90861	ribavirin.
+T2335	surfacecoating 92006 92015	pegylated
+T2337	co-administereddrug 92057 92067	ribavirin.
+T2339	tradename 92376 92385	PegIntron
+T2341	dose 92386 92397	1.0 mcg/kg/
+T2343	co-administereddrug 92397 92404	REBETOL
+T2345	tradename 92406 92415	PegIntron
+T2347	dose 92416 92427	1.5 mcg/kg/
+T2349	co-administereddrug 92427 92434	REBETOL
+T2351	dose 92447 92455	180 mcg/
+T2353	co-administereddrug 92455 92462	Copegus
+T2355	tradename 92656 92665	PegIntron
+T2357	tradename 92737 92746	PegIntron
+T2359	surfacecoating 92781 92807	methoxypolyethylene glycol
+T2361	co-administereddrug 92963 92973	Ribavirin:
+T2363	co-administereddrug 92978 92987	ribavirin
+T2365	tradename 93033 93042	PegIntron
+T2367	co-administereddrug 93071 93081	ribavirin.
+T2369	tradename 93128 93137	PegIntron
+T2371	routeofadministration 93253 93265	subcutaneous
+T2373	dose 93280 93291	4239 mcg/m2
+T2375	tradename 93292 93301	PegIntron
+T2377	frequency 93308 93335	every other day for 1 month
+T2379	tradename 93675 93684	PegIntron
+T2381	frequency 93707 93722	Every other day
+T2383	dose 93735 93745	262 mcg/m2
+T2385	tradename 93884 93893	PegIntron
+T2387	indication 93984 94006	Chronic Hepatitis C in
+T2389	tradename 94025 94034	PegIntron
+T2391	tradename 94116 94125	PegIntron
+T2393	dose 94127 94130	0.5
+T2395	dose 94132 94133	1
+T2397	dose 94135 94148	or 1.5 mcg/kg
+T2399	frequency 94149 94160	once weekly
+T2401	routeofadministration 94161 94176	subcutaneously)
+T2403	dose 94205 94220	3 million units
+T2405	frequency 94221 94235	3 times weekly
+T2407	routeofadministration 94236 94251	subcutaneously)
+T2409	indication 94272 94309	chronic hepatitis from HCV infection.
+T2411	dose 95012 95028	1 and 1.5 mcg/kg
+T2413	tradename 95029 95038	PegIntron
+T2415	tradename 95247 95256	PegIntron
+T2417	dose 95268 95278	0.5 mcg/kg
+T2419	tradename 95300 95309	PegIntron
+T2421	dose 95310 95318	1 mcg/kg
+T2423	dose 95349 95354	3 MIU
+T2425	frequency 95355 95373	three times weekly
+T2427	tradename 95450 95459	PegIntron
+T2429	dose 95460 95468	1 mcg/kg
+T2431	tradename 95959 95969	PegIntron.
+T2433	tradename 96068 96077	PegIntron
+T2435	tradename 96146 96155	PegIntron
+T2437	tradename 96278 96287	PegIntron
+T2439	tradename 96479 96488	PegIntron
+T2441	tradename 97349 97359	PegIntron/
+T2443	co-administereddrug 97359 97366	REBETOL
+T2445	tradename 97482 97492	PegIntron/
+T2447	co-administereddrug 97492 97499	REBETOL
+T2449	tradename 97510 97519	PegIntron
+T2451	dose 97520 97530	1.5 mcg/kg
+T2453	routeofadministration 97531 97545	subcutaneously
+T2455	frequency 97546 97558	once weekly/
+T2457	co-administereddrug 97558 97565	REBETOL
+T2459	dose 97566 97572	800 mg
+T2461	routeofadministration 97573 97579	orally
+T2463	tradename 97606 97615	PegIntron
+T2465	dose 97616 97626	1.5 mcg/kg
+T2467	routeofadministration 97627 97641	subcutaneously
+T2469	frequency 97642 97665	once weekly for 4 weeks
+T2471	dose 97671 97681	0.5 mcg/kg
+T2473	routeofadministration 97682 97696	subcutaneously
+T2475	co-administereddrug 97722 97729	REBETOL
+T2477	dose 97730 97745	1000 or 1200 mg
+T2479	routeofadministration 97746 97752	orally
+T2481	frequency 97753 97758	daily
+T2483	dose 97794 97799	3 MIU
+T2485	routeofadministration 97800 97814	subcutaneously
+T2487	frequency 97815 97829	thrice weekly/
+T2489	co-administereddrug 97829 97836	REBETOL
+T2491	dose 97837 97852	1000 or 1200 mg
+T2493	routeofadministration 97853 97859	orally
+T2495	frequency 97860 97865	daily
+T2497	tradename 98288 98297	PegIntron
+T2499	dose 98298 98308	1.5 mcg/kg
+T2501	co-administereddrug 98314 98321	REBETOL
+T2503	dose 98322 98328	800 mg
+T2505	co-administereddrug 98380 98387	REBETOL
+T2507	tradename 98436 98445	PegIntron
+T2509	dose 98465 98476	0.5 mcg/kg/
+T2511	co-administereddrug 98476 98483	REBETOL
+T2513	co-administereddrug 98537 98544	REBETOL
+T2515	tradename 98627 98636	PegIntron
+T2517	dose 98637 98647	1.5 mcg/kg
+T2519	frequency 98649 98660	once weekly
+T2521	co-administereddrug 98661 98668	REBETOL
+T2523	dose 98669 98675	800 mg
+T2525	frequency 98676 98681	daily
+T2527	dose 98702 98707	3 MIU
+T2529	frequency 98708 98726	three times weekly
+T2531	co-administereddrug 98727 98734	REBETOL
+T2533	dose 98746 98758	1000/1200 mg
+T2535	frequency 98759 98764	daily
+T2537	tradename 99099 99109	PegIntron/
+T2539	co-administereddrug 99109 99116	REBETOL
+T2541	co-administereddrug 99130 99138	REBETOL)
+T2543	tradename 99454 99463	PegIntron
+T2545	dose 99465 99476	1.5 mcg/kg)
+T2547	co-administereddrug 99477 99484	REBETOL
+T2549	dose 99486 99493	800 mg)
+T2551	co-administereddrug 99735 99743	REBETOL.
+T2553	tradename 100069 100079	PegIntron/
+T2555	co-administereddrug 100079 100086	REBETOL
+T2557	tradename 100805 100815	PegIntron/
+T2559	co-administereddrug 100815 100822	REBETOL
+T2561	indication 100935 100954	chronic hepatitis C
+T2563	tradename 100982 100991	PegIntron
+T2565	dose 100992 101002	1.5 mcg/kg
+T2567	routeofadministration 101003 101017	subcutaneously
+T2569	frequency 101018 101029	once weekly
+T2571	co-administereddrug 101052 101059	REBETOL
+T2573	dose 101068 101082	800 to 1400 mg
+T2575	dose 101114 101120	800 mg
+T2577	routeofadministration 101128 101134	orally
+T2579	frequency 101135 101140	daily
+T2581	tradename 101386 101395	PegIntron
+T2583	dose 101396 101406	1.5 mcg/kg
+T2585	co-administereddrug 101411 101418	REBETOL
+T2587	dose 101419 101433	800 to 1400 mg
+T2589	tradename 101496 101505	PegIntron
+T2591	dose 101533 101539	800 mg
+T2593	frequency 101540 101545	daily
+T2595	co-administereddrug 101554 101562	REBETOL.
+T2597	tradename 102975 102985	PegIntron/
+T2599	co-administereddrug 102985 102992	REBETOL
+T2601	tradename 103131 103141	PegIntron/
+T2603	co-administereddrug 103141 103148	REBETOL
+T2605	tradename 103159 103168	PegIntron
+T2607	dose 103169 103179	1.5 mcg/kg
+T2609	dose 103184 103192	1 mcg/kg
+T2611	routeofadministration 103193 103207	subcutaneously
+T2613	frequency 103208 103219	once weekly
+T2615	co-administereddrug 103245 103252	REBETOL
+T2617	dose 103253 103267	800 to 1400 mg
+T2619	routeofadministration 103268 103270	PO
+T2621	frequency 103271 103276	daily
+T2623	dose 103313 103320	180 mcg
+T2625	routeofadministration 103321 103335	subcutaneously
+T2627	frequency 103336 103347	once weekly
+T2629	co-administereddrug 103368 103375	Copegus
+T2631	dose 103376 103391	1000 to 1200 mg
+T2633	routeofadministration 103392 103394	PO
+T2635	frequency 103395 103400	daily
+T2637	indication 103460 103479	chronic hepatitis C
+T2639	tradename 103937 103946	PegIntron
+T2641	dose 103947 103958	1.5 mcg/kg/
+T2643	co-administereddrug 103959 103966	REBETOL
+T2645	tradename 103967 103976	PegIntron
+T2647	dose 103977 103986	1 mcg/kg/
+T2649	co-administereddrug 103998 104005	REBETOL
+T2651	dose 104025 104033	180 mcg/
+T2653	co-administereddrug 104033 104040	Copegus
+T2655	tradename 104335 104344	PegIntron
+T2657	dose 104346 104357	1.5 mcg/kg)
+T2659	co-administereddrug 104358 104365	REBETOL
+T2661	co-administereddrug 104377 104384	Copegus
+T2663	tradename 104464 104473	PegIntron
+T2665	dose 104474 104483	1 mcg/kg/
+T2667	co-administereddrug 104483 104491	REBETOL.
+T2669	tradename 104511 104520	PegIntron
+T2671	dose 104521 104531	1.5 mcg/kg
+T2673	co-administereddrug 104537 104544	REBETOL
+T2675	tradename 104916 104925	PegIntron
+T2677	dose 104927 104938	1.5 mcg/kg)
+T2679	co-administereddrug 104939 104946	REBETOL
+T2681	tradename 104991 105001	PegIntron/
+T2683	co-administereddrug 105001 105008	REBETOL
+T2685	co-administereddrug 105232 105241	ribavirin
+T2687	tradename 105263 105272	PegIntron
+T2689	dose 105274 105284	1.5 mcg/kg
+T2691	routeofadministration 105285 105299	subcutaneously
+T2693	frequency 105301 105312	once weekly
+T2695	co-administereddrug 105350 105360	ribavirin.
+T2697	co-administereddrug 106625 106634	ribavirin
+T2699	nanoparticle 106680 106715	peginterferon (2a and 2b combined)/
+T2701	co-administereddrug 106715 106724	ribavirin
+T2703	co-administereddrug 106786 106795	ribavirin
+T2705	nanoparticle 106830 106865	peginterferon (2a and 2b combined)/
+T2707	co-administereddrug 106865 106874	ribavirin
+T2709	indication 108706 108725	Chronic Hepatitis C
+T2711	tradename 108740 108750	PegIntron/
+T2713	co-administereddrug 108750 108757	REBETOL
+T2715	indication 108912 108931	chronic hepatitis C
+T2717	co-administereddrug 108973 108980	REBETOL
+T2719	dose 108981 108989	15 mg/kg
+T2721	frequency 108989 108993	/day
+T2723	tradename 108999 109008	PegIntron
+T2725	dose 109009 109018	60 mcg/m2
+T2727	frequency 109019 109049	once weekly for 24 or 48 weeks
+T2729	tradename 110771 110780	PegIntron
+T2731	tradename 110805 110814	PegIntron
+T2733	tradename 110903 110912	PegIntron
+T2735	tradename 111038 111047	PegIntron
+T2737	tradename 111174 111183	PegIntron
+T2739	tradename 111310 111319	PegIntron
+T2741	tradename 111412 111421	PegIntron
+T2743	tradename 111509 111518	PegIntron
+T2745	tradename 111664 111673	PegIntron
+T2747	tradename 111820 111829	PegIntron
+T2749	tradename 112708 112717	PegIntron
+T2751	tradename 112824 112833	PegIntron
+T2753	tradename 112845 112854	PegIntron
+T2755	tradename 112921 112930	PegIntron
+T2757	tradename 113174 113183	PegIntron
+T2759	tradename 113428 113437	PegIntron
+T2761	tradename 113682 113691	PegIntron
+T2763	tradename 113897 113906	PegIntron
+T2765	tradename 113953 113962	PegIntron
+T2767	tradename 114370 114379	PegIntron
+T2769	tradename 114398 114407	PegIntron
+T2771	tradename 115086 115095	PegIntron
+T2773	tradename 115673 115682	PegIntron
+T2775	co-administereddrug 115927 115934	REBETOL
+T2777	co-administereddrug 115936 115946	ribavirin)
+T2779	tradename 116152 116162	PegIntron/
+T2781	co-administereddrug 116162 116171	ribavirin
+T2783	tradename 116234 116244	PegIntron/
+T2785	co-administereddrug 116244 116253	ribavirin
+T2787	co-administereddrug 116579 116588	ribavirin
+T2789	tradename 116698 116707	PegIntron
+T2791	tradename 116821 116830	PegIntron
+T2793	tradename 117370 117379	PegIntron
+T2795	tradename 117426 117435	PegIntron
+T2797	tradename 117588 117597	PegIntron
+T2799	tradename 117733 117742	PegIntron
+T2801	tradename 117877 117886	PegIntron
+T2803	tradename 117911 117920	PegIntron
+T2805	tradename 118004 118013	PegIntron
+T2807	tradename 118051 118060	PegIntron
+T2809	tradename 118156 118165	PegIntron
+T2811	company 118532 118538	Becton
+T2813	company 118540 118562	Dickinson and Company.
+T2815	company 118596 118616	Schering Corporation
+T2817	company 118634 118649	Merck &amp; Co.
+T2819	company 118651 118655	Inc.

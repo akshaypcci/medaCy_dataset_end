@@ -1,0 +1,209 @@
+T1	tradename 105 112	Renagel
+T3	tradename 175 183	Renagel.
+T5	tradename 196 203	Renagel
+T7	activeingredient 205 229	sevelamer hydrochloride)
+T9	fdaapprovaldate 273 277	2000
+T11	tradename 388 395	Renagel
+T13	indication 436 516	control of serum phosphorus in patients with chronic kidney disease on dialysis.
+T15	frequency 691 710	three times per day
+T17	frequency 771 789	two week intervals
+T19	tradename 1713 1720	Renagel
+T21	adversereaction 1770 1779	dyspepsia
+T23	adversereaction 1787 1798	peritonitis
+T25	adversereaction 1805 1813	diarrhea
+T27	adversereaction 1820 1826	nausea
+T29	adversereaction 1833 1845	constipation
+T31	adversereaction 1852 1860	pruritus
+T33	adversereaction 1867 1887	abdominal distension
+T35	adversereaction 1894 1902	vomiting
+T37	adversereaction 1909 1916	fatigue
+T39	adversereaction 1923 1931	anorexia
+T41	adversereaction 1942 1952	arthralgia
+T43	adversereaction 2096 2111	fecal impaction
+T45	adversereaction 2132 2137	ileus
+T47	adversereaction 2139 2156	bowel obstruction
+T49	adversereaction 2162 2179	bowel perforation
+T51	company 2276 2295	Genzyme Corporation
+T53	tradename 2934 2942	Renagel.
+T55	activeingredient 4928 4952	sevelamer hydrochloride)
+T57	indication 4974 5060	control of serum phosphorus in patients with chronic kidney disease (CKD) on dialysis.
+T59	tradename 5089 5096	Renagel
+T61	tradename 5307 5314	Renagel
+T63	dose 5318 5332	800 to 1600 mg
+T65	tradename 5381 5388	Renagel
+T67	tradename 5419 5426	Renagel
+T69	tradename 5539 5546	Renagel
+T71	tradename 5738 5745	Renagel
+T73	tradename 5764 5771	Renagel
+T75	frequency 5838 5855	three times daily
+T77	frequency 5889 5906	three times daily
+T79	frequency 5985 6002	three times daily
+T81	frequency 6036 6053	three times daily
+T83	frequency 6119 6136	three times daily
+T85	frequency 6170 6187	three times daily
+T87	tradename 6422 6429	Renagel
+T89	tradename 6507 6514	Renagel
+T91	tradename 6691 6698	Renagel
+T93	tradename 6763 6770	Renagel
+T95	tradename 6808 6815	Renagel
+T97	tradename 7091 7099	Renagel.
+T99	tradename 7526 7533	Renagel
+T101	tradename 7597 7604	Renagel
+T103	tradename 7727 7734	Renagel
+T105	tradename 8059 8066	Renagel
+T107	adversereaction 8228 8237	dysphagia
+T109	adversereaction 8242 8269	esophageal tablet retention
+T111	adversereaction 8535 8568	bowel obstruction and perforation
+T113	tradename 8838 8845	Renagel
+T115	activeingredient 9138 9161	sevelamer hydrochloride
+T117	activeingredient 9552 9575	sevelamer hydrochloride
+T119	activeingredient 9636 9659	sevelamer hydrochloride
+T121	activeingredient 10150 10173	sevelamer hydrochloride
+T123	activeingredient 10242 10265	sevelamer hydrochloride
+T125	activeingredient 10405 10428	sevelamer hydrochloride
+T127	adversereaction 10473 10481	vomiting
+T129	adversereaction 10489 10495	nausea
+T131	adversereaction 10503 10511	diarrhea
+T133	adversereaction 10519 10528	dyspepsia
+T135	adversereaction 10536 10550	abdominal pain
+T137	adversereaction 10557 10567	flatulence
+T139	adversereaction 10577 10589	constipation
+T141	tradename 10841 10848	Renagel
+T143	adversereaction 11183 11194	peritonitis
+T145	adversereaction 11690 11702	peritonitis.
+T147	activeingredient 11846 11869	sevelamer hydrochloride
+T149	tradename 11871 11879	Renagel)
+T151	adversereaction 11881 11889	pruritus
+T153	adversereaction 11891 11895	rash
+T155	adversereaction 11897 11911	abdominal pain
+T157	adversereaction 11913 11928	fecal impaction
+T159	adversereaction 11951 11956	ileus
+T161	adversereaction 11958 11980	intestinal obstruction
+T163	adversereaction 11986 12009	intestinal perforation.
+T165	routeofadministration 12536 12540	oral
+T167	routeofadministration 12563 12567	oral
+T169	tradename 13686 13693	Renagel
+T171	tradename 14040 14047	Renagel
+T173	tradename 14256 14263	Renagel
+T175	routeofadministration 14436 14440	oral
+T177	tradename 14450 14457	Renagel
+T179	tradename 14628 14635	Renagel
+T181	tradename 14739 14746	Renagel
+T183	tradename 14908 14915	Renagel
+T185	tradename 15025 15032	Renagel
+T187	tradename 15482 15489	Renagel
+T189	dose 15552 15560	14 grams
+T191	frequency 15561 15583	per day for eight days
+T193	tradename 15619 15626	Renagel
+T195	dose 15665 15673	13 grams
+T197	frequency 15674 15681	per day
+T199	tradename 15760 15767	Renagel
+T201	tradename 15788 15795	Renagel
+T203	tradename 15935 15942	Renagel
+T205	activeingredient 15954 15977	sevelamer hydrochloride
+T207	routeofadministration 16034 16038	oral
+T209	activeingredient 16067 16090	Sevelamer hydrochloride
+T211	activeingredient 16097 16123	(allylamine hydrochloride)
+T213	activeingredient 16340 16363	Sevelamer hydrochloride
+T215	activeingredient 16517 16540	Sevelamer Hydrochloride
+T217	activeingredient 16636 16668	poly(ally-lamine hydrochloride).
+T219	activeingredient 16755 16785	poly(allylamine hydrochloride)
+T221	tradename 16846 16853	Renagel
+T223	tradename 16890 16897	Renagel
+T225	activeingredient 16933 16956	sevelamer hydrochloride
+T227	inactiveingredient 17034 17060	diacetylated monoglyceride
+T229	inactiveingredient 17062 17087	colloidal silicon dioxide
+T231	inactiveingredient 17093 17106	stearic acid.
+T233	inactiveingredient 17145 17166	iron oxide black ink.
+T235	indication 17315 17333	hyperphosphatemia.
+T237	indication 17616 17633	Hyperphosphatemia
+T239	indication 17758 17775	hyperphosphatemia
+T241	tradename 17949 17956	Renagel
+T243	tradename 18133 18140	Renagel
+T245	activeingredient 18150 18173	sevelamer hydrochloride
+T247	activeingredient 18531 18554	sevelamer hydrochloride
+T249	activeingredient 18709 18732	sevelamer hydrochloride
+T251	activeingredient 19130 19153	sevelamer hydrochloride
+T253	activeingredient 19421 19444	sevelamer hydrochloride
+T255	activeingredient 19498 19521	sevelamer hydrochloride
+T257	dose 19787 19796	9.6 grams
+T259	frequency 19797 19807	once daily
+T261	activeingredient 19848 19871	Sevelamer hydrochloride
+T263	dose 19992 20005	2.4-2.8 grams
+T265	frequency 20021 20038	three times daily
+T267	frequency 20053 20068	two times daily
+T269	dose 20231 20240	2.8 grams
+T271	activeingredient 20244 20267	sevelamer hydrochloride
+T273	activeingredient 20608 20631	sevelamer hydrochloride
+T275	activeingredient 20921 20944	sevelamer hydrochloride
+T277	activeingredient 21132 21155	sevelamer hydrochloride
+T279	activeingredient 21539 21562	sevelamer hydrochloride
+T281	dose 21574 21577	0.3
+T283	dose 21579 21580	1
+T285	dose 21582 21592	or 3 g/kg/
+T287	frequency 21592 21596	day.
+T289	dose 21788 21793	13 g)
+T291	activeingredient 21846 21869	sevelamer hydrochloride
+T293	dose 21888 21895	9 g/kg/
+T295	frequency 21895 21898	day
+T297	dose 22654 22663	4.5 g/kg/
+T299	frequency 22663 22666	day
+T301	dose 22733 22738	13 g)
+T303	dose 22802 22805	0.5
+T305	dose 22807 22823	1.5 or 4.5 g/kg/
+T307	frequency 22823 22826	day
+T309	dose 23095 23100	13 g)
+T311	routeofadministration 23150 23154	oral
+T313	dose 23164 23167	100
+T315	dose 23169 23186	500 or 1000 mg/kg
+T317	frequency 23186 23190	/day
+T319	tradename 23448 23455	Renagel
+T321	tradename 23602 23609	Renagel
+T323	tradename 23661 23668	Renagel
+T325	tradename 23766 23773	Renagel
+T327	tradename 23923 23930	Renagel
+T329	tradename 24012 24019	Renagel
+T331	tradename 24100 24107	Renagel
+T333	tradename 24420 24427	Renagel
+T335	tradename 24741 24748	Renagel
+T337	tradename 25117 25124	Renagel
+T339	activeingredient 25527 25550	sevelamer hydrochloride
+T341	tradename 25936 25943	Renagel
+T343	dose 25977 25982	4.9 g
+T345	dose 25993 26007	0.0 to 12.6 g)
+T347	tradename 26284 26291	Renagel
+T349	tradename 26486 26493	Renagel
+T351	tradename 26721 26728	Renagel
+T353	tradename 27071 27078	Renagel
+T355	tradename 27485 27492	Renagel
+T357	dose 27526 27531	6.5 g
+T359	dose 27542 27554	0.8 to 13 g)
+T361	tradename 27860 27867	Renagel
+T363	tradename 27940 27947	Renagel
+T365	dose 27981 27986	5.9 g
+T367	dose 27994 28008	0.8 to 14.3 g)
+T369	tradename 28103 28110	Renagel
+T371	tradename 28254 28261	Renagel
+T373	tradename 28348 28355	RENAGEL
+T375	activeingredient 28382 28405	sevelamer hydrochloride
+T377	inactiveingredient 28429 28441	hypromellose
+T379	inactiveingredient 28443 28469	diacetylated monoglyceride
+T381	inactiveingredient 28471 28496	colloidal silicon dioxide
+T383	inactiveingredient 28502 28515	stearic acid.
+T385	tradename 28527 28534	Renagel
+T387	activeingredient 28826 28849	Sevelamer Hydrochloride
+T389	tradename 28900 28907	Renagel
+T391	tradename 28994 29001	RENAGEL
+T393	activeingredient 29028 29051	sevelamer hydrochloride
+T395	inactiveingredient 29075 29087	hypromellose
+T397	inactiveingredient 29089 29115	diacetylated monoglyceride
+T399	inactiveingredient 29117 29142	colloidal silicon dioxide
+T401	inactiveingredient 29148 29161	stearic acid.
+T403	tradename 29163 29170	Renagel
+T405	tradename 29520 29533	Renagel after
+T407	tradename 29815 29822	Renagel
+T409	tradename 29972 29980	Renagel.
+T411	tradename 30039 30046	Renagel
+T413	company 30282 30301	Genzyme Corporation
+T415	tradename 30358 30365	Renagel
+T417	company 30395 30415	Genzyme Corporation.
