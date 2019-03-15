@@ -13,7 +13,13 @@ def load():
     :return: a medaCy Dataset object and a list of entities.
     """
 
-    entities = resource_string(package_name, join('data', 'training', 'END.types')).decode('utf-8').split("\n")
+    entities = ["activeingredient", "adversereaction", "auc", "chemoclass", "clearance",
+                "cmax", "co-administereddrug", "company", "corecomposition", "dose", "duration",
+                "eliminationhalflife", "fdaapprovaldate", "frequency", "inactiveingredient",
+                "indication", "molecularweight", "nanoparticle", "particlediameter",
+                "plasmahalflife", "pre-existingdisease", "routeofadministration",
+                "surfacecharge", "surfacecoating", "tmax", "tradename", "u.s.patent", "volumeofdistribution"
+                ]
 
     meta_data = {
         'entities': entities,
