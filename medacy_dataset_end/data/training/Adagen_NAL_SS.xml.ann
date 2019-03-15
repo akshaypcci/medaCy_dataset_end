@@ -1,0 +1,231 @@
+T1	tradename 6 12	ADAGEN
+T3	nanoparticle 17 35	pegademase bovine)
+T5	tradename 62 68	ADAGEN
+T7	nanoparticle 71 89	pegademase bovine)
+T9	indication 178 225	severe combined immunodeficiency disease (SCID)
+T11	activeingredient 258 278	adenosine deaminase.
+T13	tradename 281 287	ADAGEN
+T15	nanoparticle 290 308	pegademase bovine)
+T17	routeofadministration 395 408	intramuscular
+T19	tradename 531 537	ADAGEN
+T21	nanoparticle 540 558	pegademase bovine)
+T23	nanoparticle 572 644	(monomethoxypolyethylene glycol succinimidyl) 11-17-adenosine deaminase.
+T25	surfacecoating 687 723	monomethoxypolyethylene glycol (PEG)
+T27	molecularweight 742 743	5
+T29	molecularweight 744 747	000
+T31	activeingredient 783 809	adenosine deaminase (ADA).
+T33	activeingredient 811 814	ADA
+T35	activeingredient 816 835	adenosine deaminase
+T37	tradename 875 881	ADAGEN
+T39	nanoparticle 884 902	pegademase bovine)
+T41	tradename 975 981	ADAGEN
+T43	nanoparticle 984 1002	pegademase bovine)
+T45	activeingredient 1020 1039	adenosine deaminase
+T47	surfacecoating 1079 1082	PEG
+T49	surfacecoating 1161 1164	PEG
+T51	tradename 1199 1205	ADAGEN
+T53	nanoparticle 1208 1226	pegademase bovine)
+T55	nanoparticle 1249 1266	Pegademase bovine
+T57	inactiveingredient 1345 1371	Monobasic sodium phosphate
+T59	inactiveingredient 1431 1455	Dibasic sodium phosphate
+T61	inactiveingredient 1520 1535	Sodium Chloride
+T63	inactiveingredient 1616 1621	Water
+T65	activeingredient 1761 1764	ADA
+T67	indication 1862 1902	Severe Combined Immunodeficiency Disease
+T69	indication 1935 1982	Severe combined immunodeficiency disease (SCID)
+T71	tradename 2741 2747	ADAGEN
+T73	nanoparticle 2750 2768	pegademase bovine)
+T75	tradename 2988 2994	ADAGEN
+T77	nanoparticle 2997 3015	pegademase bovine)
+T79	tradename 3173 3179	ADAGEN
+T81	nanoparticle 3182 3200	pegademase bovine)
+T83	tradename 3416 3422	ADAGEN
+T85	nanoparticle 3425 3443	pegademase bovine)
+T87	tradename 3477 3483	ADAGEN
+T89	nanoparticle 3486 3504	pegademase bovine)
+T91	activeingredient 3600 3603	ADA
+T93	tradename 3726 3732	ADAGEN
+T95	nanoparticle 3735 3753	pegademase bovine)
+T97	tradename 4479 4485	ADAGEN
+T99	nanoparticle 4488 4506	pegademase bovine)
+T101	tradename 4586 4592	ADAGEN
+T103	nanoparticle 4595 4613	pegademase bovine)
+T105	indication 4703 4707	SCID
+T107	routeofadministration 4751 4764	intramuscular
+T109	tradename 4778 4784	ADAGEN
+T111	nanoparticle 4787 4805	pegademase bovine)
+T113	tmax 4865 4876	2 to 3 days
+T115	activeingredient 4939 4942	ADA
+T117	tradename 4975 4981	ADAGEN
+T119	nanoparticle 4984 5002	pegademase bovine)
+T121	plasmahalflife 5066 5083	3 to &gt; 6 days.
+T123	tradename 5115 5121	ADAGEN
+T125	nanoparticle 5124 5142	pegademase bovine)
+T127	dose 5156 5163	15 U/kg
+T129	tradename 5588 5594	ADAGEN
+T131	nanoparticle 5597 5615	pegademase bovine)
+T133	tradename 5764 5770	ADAGEN
+T135	nanoparticle 5773 5791	pegademase bovine)
+T137	tradename 6181 6187	ADAGEN
+T139	nanoparticle 6190 6208	pegademase bovine)
+T141	tradename 7155 7161	ADAGEN
+T143	nanoparticle 7164 7182	pegademase bovine)
+T145	tradename 7476 7482	ADAGEN
+T147	nanoparticle 7485 7503	pegademase bovine)
+T149	activeingredient 7562 7587	adenosine deaminase (ADA)
+T151	indication 7616 7663	severe combined immunodeficiency disease (SCID)
+T153	tradename 7753 7759	ADAGEN
+T155	nanoparticle 7762 7780	pegademase bovine)
+T157	tradename 7889 7895	ADAGEN
+T159	nanoparticle 7898 7916	pegademase bovine)
+T161	tradename 8011 8017	ADAGEN
+T163	nanoparticle 8020 8038	pegademase bovine)
+T165	tradename 8356 8362	ADAGEN
+T167	nanoparticle 8365 8383	pegademase bovine)
+T169	tradename 8468 8474	ADAGEN
+T171	nanoparticle 8477 8495	pegademase bovine)
+T173	routeofadministration 8525 8538	intramuscular
+T175	tradename 8761 8767	ADAGEN
+T177	nanoparticle 8770 8788	pegademase bovine)
+T179	company 8846 8871	Sigma-Tau Pharmaceuticals
+T181	company 8873 8877	Inc.
+T183	tradename 9001 9007	ADAGEN
+T185	nanoparticle 9010 9028	pegademase bovine)
+T187	dose 9149 9156	15 U/kg
+T189	frequency 9156 9162	/week.
+T191	activeingredient 9273 9276	ADA
+T193	tradename 9281 9287	ADAGEN
+T195	nanoparticle 9290 9308	pegademase bovine)
+T197	frequency 9364 9376	twice weekly
+T199	routeofadministration 9377 9390	intramuscular
+T201	dose 9426 9433	20 U/kg
+T203	frequency 9446 9452	weekly
+T205	dose 9461 9469	40 U/kg.
+T207	frequency 9615 9621	weekly
+T209	dose 9641 9648	20 U/kg
+T211	indication 10040 10044	SCID
+T213	tradename 10081 10087	ADAGEN
+T215	nanoparticle 10090 10108	pegademase bovine)
+T217	tradename 10304 10310	ADAGEN
+T219	nanoparticle 10313 10332	pegademase bovine)
+T221	tradename 10823 10829	ADAGEN
+T223	nanoparticle 10832 10850	pegademase bovine)
+T225	tradename 10908 10914	ADAGEN
+T227	nanoparticle 10917 10935	pegademase bovine)
+T229	tradename 11397 11403	ADAGEN
+T231	nanoparticle 11406 11424	pegademase bovine)
+T233	tradename 12005 12011	ADAGEN
+T235	nanoparticle 12014 12032	pegademase bovine)
+T237	tradename 12154 12160	ADAGEN
+T239	nanoparticle 12163 12181	pegademase bovine)
+T241	tradename 12570 12576	ADAGEN
+T243	nanoparticle 12579 12597	pegademase bovine)
+T245	tradename 13080 13086	ADAGEN
+T247	nanoparticle 13089 13107	pegademase bovine)
+T249	tradename 13184 13190	ADAGEN
+T251	nanoparticle 13193 13211	pegademase bovine)
+T253	tradename 13235 13241	ADAGEN
+T255	nanoparticle 13244 13262	pegademase bovine)
+T257	tradename 13476 13482	ADAGEN
+T259	nanoparticle 13485 13503	pegademase bovine)
+T261	activeingredient 13727 13730	ADA
+T263	tradename 13735 13741	ADAGEN
+T265	nanoparticle 13744 13762	pegademase bovine)
+T267	tradename 13861 13867	ADAGEN
+T269	nanoparticle 13870 13888	pegademase bovine)
+T271	tradename 14133 14139	ADAGEN
+T273	nanoparticle 14142 14160	pegademase bovine)
+T275	tradename 14199 14205	ADAGEN
+T277	nanoparticle 14208 14226	pegademase bovine)
+T279	tradename 14300 14306	ADAGEN
+T281	nanoparticle 14309 14327	pegademase bovine)
+T283	activeingredient 14575 14578	ADA
+T285	tradename 14582 14588	ADAGEN
+T287	nanoparticle 14591 14609	pegademase bovine)
+T289	tradename 14723 14729	ADAGEN
+T291	nanoparticle 14732 14750	pegademase bovine)
+T293	tradename 14911 14917	ADAGEN
+T295	nanoparticle 14920 14938	pegademase bovine)
+T297	activeingredient 14990 14993	ADA
+T299	activeingredient 15042 15046	ADA.
+T301	tradename 15088 15094	ADAGEN
+T303	tradename 15333 15339	ADAGEN
+T305	nanoparticle 15342 15360	pegademase bovine)
+T307	tradename 15432 15438	ADAGEN
+T309	nanoparticle 15441 15459	pegademase bovine)
+T311	tradename 15667 15673	ADAGEN
+T313	nanoparticle 15676 15694	pegademase bovine)
+T315	tradename 15736 15742	ADAGEN
+T317	nanoparticle 15745 15763	pegademase bovine)
+T319	tradename 15870 15876	ADAGEN
+T321	nanoparticle 15878 15896	pegademase bovine)
+T323	tradename 16010 16016	ADAGEN
+T325	nanoparticle 16019 16037	pegademase bovine)
+T327	tradename 16156 16162	ADAGEN
+T329	nanoparticle 16165 16183	pegademase bovine)
+T331	tradename 16277 16283	ADAGEN
+T333	nanoparticle 16286 16304	pegademase bovine)
+T335	adversereaction 16404 16412	headache
+T337	adversereaction 16432 16458	pain at the injection site
+T339	tradename 16558 16564	ADAGEN
+T341	nanoparticle 16567 16585	pegademase bovine)
+T343	adversereaction 16814 16830	hemolytic anemia
+T345	adversereaction 16832 16860	auto-immune hemolytic anemia
+T347	adversereaction 16862 16877	thrombocythemia
+T349	adversereaction 16879 16895	thrombocytopenia
+T351	adversereaction 16900 16928	autoimmune thrombocytopenia.
+T353	adversereaction 16954 16977	injection site erythema
+T355	adversereaction 16979 16989	urticaria.
+T357	adversereaction 16992 17001	Lymphomas
+T359	company 17051 17076	Sigma-Tau Pharmaceuticals
+T361	company 17078 17082	Inc.
+T363	tradename 17263 17269	ADAGEN
+T365	nanoparticle 17272 17290	pegademase bovine)
+T367	routeofadministration 17316 17331	intraperitoneal
+T369	dose 17340 17342	50
+T371	dose 17343 17351	000 U/kg
+T373	tradename 17355 17361	ADAGEN
+T375	nanoparticle 17364 17382	pegademase bovine)
+T377	tradename 17482 17488	ADAGEN
+T379	nanoparticle 17491 17509	pegademase bovine)
+T381	tradename 17677 17683	ADAGEN
+T383	nanoparticle 17686 17704	pegademase bovine)
+T385	company 17765 17790	Sigma-Tau Pharmaceuticals
+T387	company 17792 17796	Inc.
+T389	tradename 17849 17855	ADAGEN
+T391	nanoparticle 17858 17876	pegademase bovine)
+T393	tradename 18147 18153	ADAGEN
+T395	nanoparticle 18156 18174	pegademase bovine)
+T397	tradename 18263 18269	ADAGEN
+T399	nanoparticle 18272 18290	pegademase bovine)
+T401	frequency 18324 18336	every 7 days
+T403	routeofadministration 18343 18356	intramuscular
+T405	tradename 18383 18389	ADAGEN
+T407	nanoparticle 18392 18410	pegademase bovine)
+T409	dose 18483 18490	10 U/kg
+T411	dose 18511 18518	15 U/kg
+T413	dose 18544 18551	20 U/kg
+T415	dose 18603 18610	20 U/kg
+T417	frequency 18611 18620	per week.
+T419	dose 18642 18648	5 U/kg
+T421	frequency 18648 18653	/week
+T423	dose 18701 18708	30 U/kg
+T425	activeingredient 18750 18753	ADA
+T427	frequency 18918 18930	twice weekly
+T429	dose 18943 18950	20 U/kg
+T431	tradename 18964 18970	ADAGEN
+T433	nanoparticle 18973 18991	pegademase bovine)
+T435	tradename 19308 19314	ADAGEN
+T437	nanoparticle 19317 19335	pegademase bovine)
+T439	tradename 20433 20439	ADAGEN
+T441	nanoparticle 20442 20460	pegademase bovine)
+T443	tradename 20489 20495	ADAGEN
+T445	nanoparticle 20498 20516	pegademase bovine)
+T447	routeofadministration 20581 20594	intramuscular
+T449	tradename 20607 20613	ADAGEN
+T451	tradename 20959 20965	ADAGEN
+T453	nanoparticle 20968 20986	pegademase bovine)
+T455	company 21149 21171	Sigma-Tau PharmaSource
+T457	company 21173 21177	Inc.
+T459	company 21220 21245	Sigma-Tau Pharmaceuticals
+T461	company 21247 21251	Inc.

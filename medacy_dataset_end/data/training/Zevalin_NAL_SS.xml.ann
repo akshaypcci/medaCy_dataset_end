@@ -1,0 +1,639 @@
+T1	tradename 114 121	ZEVALIN
+T3	tradename 185 193	ZEVALIN.
+T5	tradename 196 203	ZEVALIN
+T7	nanoparticle 205 226	ibritumomab tiuxetan)
+T9	routeofadministration 242 253	intravenous
+T11	fdaapprovaldate 281 285	2002
+T13	adversereaction 477 495	Infusion Reactions
+T15	co-administereddrug 538 547	rituximab
+T17	adversereaction 586 596	Cytopenias
+T19	adversereaction 628 672	Severe Cutaneous and Mucocutaneous Reactions
+T21	tradename 700 707	Zevalin
+T23	activeingredient 776 780	Y-90
+T25	tradename 781 789	Zevalin.
+T27	tradename 1039 1046	Zevalin
+T29	chemoclass 1052 1065	CD20-directed
+T31	tradename 1120 1127	Zevalin
+T33	indication 1242 1262	B-cell non-Hodgkin's
+T35	indication 1264 1278	lymphoma (NHL)
+T37	indication 1319 1322	NHL
+T39	co-administereddrug 1491 1500	rituximab
+T41	dose 1501 1510	250 mg/m2
+T43	routeofadministration 1511 1523	intravenous.
+T45	co-administereddrug 1559 1568	rituximab
+T47	dose 1569 1578	250 mg/m2
+T49	routeofadministration 1579 1590	intravenous
+T51	co-administereddrug 1655 1664	rituximab
+T53	dose 1686 1696	0.4 mCi/kg
+T55	dose 1698 1714	14.8 MBq per kg)
+T57	activeingredient 1715 1719	Y-90
+T59	tradename 1720 1727	Zevalin
+T61	routeofadministration 1728 1740	intravenous.
+T63	co-administereddrug 1838 1847	rituximab
+T65	dose 1869 1879	0.3 mCi/kg
+T67	dose 1881 1897	11.1 MBq per kg)
+T69	activeingredient 1898 1902	Y-90
+T71	tradename 1903 1910	Zevalin
+T73	routeofadministration 1911 1923	intravenous.
+T75	adversereaction 2196 2223	Serious Infusion Reactions:
+T77	co-administereddrug 2248 2257	rituximab
+T79	activeingredient 2266 2268	90
+T81	tradename 2269 2277	Zevalin.
+T83	adversereaction 2289 2321	Prolonged and Severe Cytopenias:
+T85	tradename 2340 2347	Zevalin
+T87	adversereaction 2454 2499	Severe Cutaneous and Mucocutaneous Reactions:
+T89	co-administereddrug 2512 2521	rituximab
+T91	tradename 2526 2533	Zevalin
+T93	adversereaction 2564 2608	severe cutaneous or mucocutaneous reactions.
+T95	adversereaction 2669 2677	Leukemia
+T97	adversereaction 2682 2706	Myelodysplastic Syndrome
+T99	tradename 2932 2940	Zevalin.
+T101	adversereaction 2947 2969	Embryo-fetal Toxicity:
+T103	adversereaction 3170 3180	cytopenias
+T105	adversereaction 3182 3189	fatigue
+T107	adversereaction 3191 3206	nasopharyngitis
+T109	adversereaction 3208 3214	nausea
+T111	adversereaction 3216 3230	abdominal pain
+T113	adversereaction 3232 3240	asthenia
+T115	adversereaction 3242 3247	cough
+T117	adversereaction 3249 3257	diarrhea
+T119	adversereaction 3263 3271	pyrexia.
+T121	company 3324 3348	Spectrum Pharmaceuticals
+T123	company 3350 3354	Inc.
+T125	tradename 4048 4055	Zevalin
+T127	activeingredient 4150 4154	Y-90
+T129	tradename 4155 4162	Zevalin
+T131	adversereaction 4333 4359	Serious Infusion Reactions
+T133	adversereaction 4365 4396	Prolonged and Severe Cytopenias
+T135	adversereaction 4402 4446	Severe Cutaneous and Mucocutaneous Reactions
+T137	adversereaction 4500 4524	Myelodysplastic Syndrome
+T139	adversereaction 4526 4534	Leukemia
+T141	adversereaction 4639 4660	Embryo-Fetal Toxicity
+T143	adversereaction 5518 5544	SERIOUS INFUSION REACTIONS
+T145	adversereaction 5546 5577	PROLONGED AND SEVERE CYTOPENIAS
+T147	adversereaction 5583 5627	SEVERE CUTANEOUS AND MUCOCUTANEOUS REACTIONS
+T149	adversereaction 5630 5657	Serious Infusion Reactions:
+T151	co-administereddrug 5699 5708	rituximab
+T153	tradename 5749 5756	Zevalin
+T155	adversereaction 5817 5824	hypoxia
+T157	adversereaction 5826 5847	pulmonary infiltrates
+T159	adversereaction 5849 5884	acute respiratory distress syndrome
+T161	adversereaction 5886 5907	myocardial infarction
+T163	adversereaction 5909 5933	ventricular fibrillation
+T165	adversereaction 5938 5956	cardiogenic shock.
+T167	co-administereddrug 6004 6013	rituximab
+T169	co-administereddrug 6103 6112	rituximab
+T171	activeingredient 6117 6121	Y-90
+T173	tradename 6122 6129	Zevalin
+T175	adversereaction 6164 6190	severe infusion reactions.
+T177	adversereaction 6192 6224	Prolonged and Severe Cytopenias:
+T179	activeingredient 6226 6230	Y-90
+T181	tradename 6231 6238	Zevalin
+T183	adversereaction 6265 6296	severe and prolonged cytopenias
+T185	activeingredient 6335 6339	Y-90
+T187	tradename 6340 6347	Zevalin
+T189	adversereaction 6511 6556	Severe Cutaneous and Mucocutaneous Reactions:
+T191	adversereaction 6559 6603	Severe cutaneous and mucocutaneous reactions
+T193	tradename 6636 6643	Zevalin
+T195	co-administereddrug 6679 6688	rituximab
+T197	activeingredient 6693 6697	Y-90
+T199	tradename 6698 6705	Zevalin
+T201	activeingredient 6872 6876	Y-90
+T203	tradename 6877 6884	Zevalin
+T205	dose 6903 6911	32.0 mCi
+T207	dose 6913 6922	1184 MBq)
+T209	indication 6993 7015	Relapsed or Refractory
+T211	indication 7017 7044	Low-grade or Follicular NHL
+T213	tradename 7047 7054	Zevalin
+T215	indication 7089 7111	relapsed or refractory
+T217	indication 7113 7173	low-grade or follicular B-cell non-Hodgkin's lymphoma (NHL).
+T219	indication 7179 7214	Previously Untreated Follicular NHL
+T221	tradename 7216 7223	Zevalin
+T223	indication 7258 7293	previously untreated follicular NHL
+T225	tradename 7452 7459	Zevalin
+T227	tradename 7523 7530	Zevalin
+T229	co-administereddrug 7718 7726	Rituxan/
+T231	tradename 7726 7733	Zevalin
+T233	tradename 7852 7859	Zevalin
+T235	co-administereddrug 7931 7944	acetaminophen
+T237	routeofadministration 7952 7958	orally
+T239	co-administereddrug 7963 7978	diphenhydramine
+T241	routeofadministration 7985 7991	orally
+T243	co-administereddrug 8001 8010	rituximab
+T245	co-administereddrug 8033 8042	rituximab
+T247	dose 8043 8052	250 mg/m2
+T249	routeofadministration 8053 8066	intravenously
+T251	co-administereddrug 8256 8265	rituximab
+T253	co-administereddrug 8306 8315	rituximab
+T255	adversereaction 8329 8355	serious infusion reactions
+T257	tradename 8376 8383	Zevalin
+T259	co-administereddrug 8495 8504	rituximab
+T261	adversereaction 8523 8549	severe infusion reactions.
+T263	co-administereddrug 8661 8674	acetaminophen
+T265	routeofadministration 8682 8688	orally
+T267	co-administereddrug 8693 8708	diphenhydramine
+T269	routeofadministration 8715 8721	orally
+T271	co-administereddrug 8731 8740	rituximab
+T273	co-administereddrug 8763 8772	rituximab
+T275	dose 8773 8782	250 mg/m2
+T277	routeofadministration 8783 8796	intravenously
+T279	adversereaction 8940 8958	infusion reactions
+T281	co-administereddrug 8975 8984	rituximab
+T283	co-administereddrug 9028 9037	rituximab
+T285	activeingredient 9180 9184	Y-90
+T287	tradename 9185 9192	Zevalin
+T289	co-administereddrug 9282 9291	rituximab
+T291	activeingredient 9514 9518	Y-90
+T293	tradename 9519 9526	Zevalin
+T295	routeofadministration 9549 9560	intravenous
+T297	activeingredient 9584 9588	Y-90
+T299	dose 9589 9603	0.4 mCi per kg
+T301	dose 9605 9621	14.8 MBq per kg)
+T303	activeingredient 9733 9737	Y-90
+T305	tradename 9738 9745	Zevalin
+T307	routeofadministration 9768 9779	intravenous
+T309	activeingredient 9803 9807	Y-90
+T311	dose 9808 9822	0.3 mCi per kg
+T313	dose 9824 9840	11.1 MBq per kg)
+T315	dose 9890 9896	32 mCi
+T317	dose 9898 9907	1184 MBq)
+T319	activeingredient 9908 9912	Y-90
+T321	tradename 9913 9920	Zevalin
+T323	activeingredient 10047 10051	Y-90
+T325	tradename 10052 10060	Zevalin.
+T327	activeingredient 10252 10256	Y-90
+T329	tradename 10257 10264	Zevalin
+T331	activeingredient 10325 10342	Yttrium-90 (Y-90)
+T333	tradename 10343 10351	Zevalin.
+T335	tradename 10423 10430	Zevalin
+T337	activeingredient 10519 10529	Yttrium-90
+T339	inactiveingredient 10725 10740	Sodium Chloride
+T341	activeingredient 10992 10996	Y-90
+T343	activeingredient 11046 11050	Y-90
+T345	tradename 11051 11058	Zevalin
+T347	tradename 11064 11071	Zevalin
+T349	inactiveingredient 11084 11098	sodium acetate
+T351	activeingredient 11305 11309	Y-90
+T353	activeingredient 11383 11387	Y-90
+T355	inactiveingredient 11428 11442	Sodium Acetate
+T357	activeingredient 11486 11490	Y-90
+T359	inactiveingredient 11702 11716	Sodium Acetate
+T361	activeingredient 11853 11857	Y-90
+T363	tradename 12002 12009	Zevalin
+T365	nanoparticle 12011 12032	ibritumomab tiuxetan)
+T367	activeingredient 12665 12670	Y-90.
+T369	activeingredient 12933 12937	Y-90
+T371	tradename 12938 12945	Zevalin
+T373	activeingredient 13117 13122	Y-90.
+T375	activeingredient 13187 13191	Y-90
+T377	tradename 13192 13199	Zevalin
+T379	dose 13220 13226	32 mCi
+T381	dose 13228 13237	1184 MBq)
+T383	activeingredient 13518 13528	Yttrium-90
+T385	tradename 13529 13536	Zevalin
+T387	activeingredient 13759 13764	Y-90.
+T389	activeingredient 13867 13871	Y-90
+T391	tradename 13872 13880	Zevalin:
+T393	activeingredient 13907 13911	Y-90
+T395	tradename 13912 13919	Zevalin
+T397	inactiveingredient 14118 14123	NaCl)
+T399	activeingredient 14546 14550	Y-90
+T401	tradename 14551 14558	Zevalin
+T403	tradename 14620 14627	Zevalin
+T405	activeingredient 14673 14677	Y-90
+T407	tradename 14678 14685	Zevalin
+T409	tradename 14855 14862	Zevalin
+T411	activeingredient 15225 15229	Y-90
+T413	tradename 15230 15237	Zevalin
+T415	activeingredient 15247 15251	Y-90
+T417	tradename 15252 15259	Zevalin
+T419	nanoparticle 16660 16680	ibritumomab tiuxetan
+T421	adversereaction 16775 16801	Serious Infusion Reactions
+T423	co-administereddrug 16840 16860	rituximab. Rituximab
+T425	tradename 16893 16900	Zevalin
+T427	adversereaction 16957 16976	infusion reactions.
+T429	co-administereddrug 17027 17036	rituximab
+T431	adversereaction 17111 17136	severe infusion reactions
+T433	adversereaction 17149 17158	urticaria
+T435	adversereaction 17160 17171	hypotension
+T437	adversereaction 17173 17183	angioedema
+T439	adversereaction 17185 17192	hypoxia
+T441	adversereaction 17194 17206	bronchospasm
+T443	adversereaction 17208 17229	pulmonary infiltrates
+T445	adversereaction 17231 17266	acute respiratory distress syndrome
+T447	adversereaction 17268 17289	myocardial infarction
+T449	adversereaction 17291 17315	ventricular fibrillation
+T451	adversereaction 17321 17339	cardiogenic shock.
+T453	co-administereddrug 17375 17384	rituximab
+T455	adversereaction 17403 17429	severe infusion reactions.
+T457	co-administereddrug 17455 17464	rituximab
+T459	activeingredient 17469 17473	Y-90
+T461	tradename 17474 17481	Zevalin
+T463	adversereaction 17501 17527	severe infusion reactions.
+T465	co-administereddrug 17546 17554	Rituxan/
+T467	tradename 17554 17561	Zevalin
+T469	adversereaction 17701 17732	Prolonged and Severe Cytopenias
+T471	adversereaction 17734 17744	Cytopenias
+T473	adversereaction 17808 17818	hemorrhage
+T475	adversereaction 17823 17839	severe infection
+T477	tradename 17893 17900	Zevalin
+T479	adversereaction 17991 18007	thrombocytopenia
+T481	adversereaction 18012 18023	neutropenia
+T483	adversereaction 18067 18083	thrombocytopenia
+T485	adversereaction 18179 18189	cytopenias
+T487	tradename 18327 18334	Zevalin
+T489	tradename 18484 18491	Zevalin
+T491	adversereaction 18620 18630	cytopenias
+T493	adversereaction 18662 18681	febrile neutropenia
+T495	adversereaction 18683 18694	hemorrhage)
+T497	tradename 18731 18738	Zevalin
+T499	tradename 18848 18855	Zevalin
+T501	adversereaction 18883 18927	Severe Cutaneous and Mucocutaneous Reactions
+T503	adversereaction 18929 18948	Erythema multiforme
+T505	adversereaction 18950 18974	Stevens-Johnson syndrome
+T507	adversereaction 18976 19002	toxic epidermal necrolysis
+T509	adversereaction 19004 19022	bullous dermatitis
+T511	adversereaction 19028 19050	exfoliative dermatitis
+T513	tradename 19225 19232	Zevalin
+T515	tradename 19272 19279	Zevalin
+T517	adversereaction 19327 19369	severe cutaneous or mucocutaneous reaction
+T519	adversereaction 19718 19742	Myelodysplastic Syndrome
+T521	adversereaction 19744 19752	Leukemia
+T523	activeingredient 19836 19840	Y-90
+T525	tradename 19854 19861	Zevalin
+T527	adversereaction 19901 19931	Myelodysplastic syndrome (MDS)
+T529	adversereaction 19939 19971	acute myelogenous leukemia (AML)
+T531	indication 20020 20046	relapsed or refractory NHL
+T533	adversereaction 20269 20272	MDS
+T535	adversereaction 20276 20279	AML
+T537	tradename 20323 20330	Zevalin
+T539	activeingredient 20469 20473	Y-90
+T541	tradename 20474 20481	Zevalin
+T543	tradename 20544 20551	Zevalin
+T545	adversereaction 20699 20706	MDS/AML
+T547	tradename 20723 20730	Zevalin
+T549	tradename 20904 20911	Zevalin
+T551	adversereaction 20968 20974	Deaths
+T553	adversereaction 20982 20989	MDS/AML
+T555	tradename 21027 21034	Zevalin
+T557	tradename 21166 21173	Zevalin
+T559	tradename 21427 21434	Zevalin
+T561	tradename 21556 21564	Zevalin.
+T563	tradename 21639 21646	Zevalin
+T565	tradename 21751 21758	Zevalin
+T567	activeingredient 21764 21768	Y-90
+T569	adversereaction 21939 21960	Embryo-Fetal Toxicity
+T571	activeingredient 21990 21994	Y-90
+T573	tradename 21995 22002	Zevalin
+T575	tradename 22072 22079	Zevalin
+T577	adversereaction 22471 22497	Serious Infusion Reactions
+T579	adversereaction 22555 22586	Prolonged and Severe Cytopenias
+T581	adversereaction 22644 22688	Severe Cutaneous and Mucocutaneous Reactions
+T583	adversereaction 22746 22754	Leukemia
+T585	adversereaction 22759 22783	Myelodysplastic Syndrome
+T587	tradename 22860 22867	Zevalin
+T589	adversereaction 22872 22882	cytopenias
+T591	adversereaction 22884 22891	fatigue
+T593	adversereaction 22893 22908	nasopharyngitis
+T595	adversereaction 22910 22916	nausea
+T597	adversereaction 22918 22932	abdominal pain
+T599	adversereaction 22934 22942	asthenia
+T601	adversereaction 22944 22949	cough
+T603	adversereaction 22951 22959	diarrhea
+T605	adversereaction 22965 22973	pyrexia.
+T607	tradename 23013 23020	Zevalin
+T609	adversereaction 23025 23056	prolonged and severe cytopenias
+T611	adversereaction 23058 23074	thrombocytopenia
+T613	adversereaction 23076 23082	anemia
+T615	adversereaction 23084 23095	lymphopenia
+T617	adversereaction 23097 23109	neutropenia)
+T619	tradename 23151 23158	Zevalin
+T621	co-administereddrug 23199 23208	rituximab
+T623	co-administereddrug 23242 23252	rituximab.
+T625	tradename 23598 23605	Zevalin
+T627	indication 23627 23649	relapsed or refractory
+T629	indication 23651 23660	low-grade
+T631	indication 23662 23691	follicular or transformed NHL
+T633	indication 23765 23800	previously untreated follicular NHL
+T635	tradename 23865 23872	Zevalin
+T637	tradename 23932 23939	Zevalin
+T639	indication 23961 23987	relapsed or refractory NHL
+T641	dose 24045 24055	0.4 mCi/kg
+T643	dose 24057 24069	14.8 MBq/kg)
+T645	activeingredient 24073 24077	Y-90
+T647	tradename 24078 24085	Zevalin
+T649	indication 24125 24151	relapsed or refractory NHL
+T651	dose 24224 24234	0.3 mCi/kg
+T653	dose 24236 24248	11.1 MBq/kg)
+T655	activeingredient 24253 24257	Y-90
+T657	tradename 24258 24265	Zevalin
+T659	indication 24310 24334	previously untreated NHL
+T661	dose 24382 24392	0.4 mCi/kg
+T663	dose 24394 24406	14.8 MBq/kg)
+T665	activeingredient 24410 24414	Y-90
+T667	tradename 24415 24422	Zevalin
+T669	tradename 24465 24473	Zevalin.
+T671	tradename 24579 24586	Zevalin
+T673	indication 24802 24837	Previously Untreated Follicular NHL
+T675	tradename 24855 24862	Zevalin
+T677	tradename 24884 24891	Zevalin
+T679	adversereaction 25004 25018	Abdominal pain
+T681	adversereaction 25034 25042	Diarrhea
+T683	adversereaction 25053 25059	Nausea
+T685	adversereaction 25088 25096	Asthenia
+T687	adversereaction 25111 25118	Fatigue
+T689	adversereaction 25129 25151	Influenza-like illness
+T691	adversereaction 25161 25168	Pyrexia
+T693	adversereaction 25197 25204	Myalgia
+T695	adversereaction 25225 25233	Anorexia
+T697	adversereaction 25277 25282	Cough
+T699	adversereaction 25297 25319	Pharyngolaryngeal pain
+T701	adversereaction 25329 25338	Epistaxis
+T703	adversereaction 25352 25376	Nervous System Dizziness
+T705	adversereaction 25386 25407	Vascular Hypertension
+T707	adversereaction 25450 25462	Night sweats
+T709	adversereaction 25472 25481	Petechiae
+T711	adversereaction 25491 25499	Pruritus
+T713	adversereaction 25508 25509	R
+T715	adversereaction 25510 25513	ash
+T717	adversereaction 25559 25569	Bronchitis
+T719	adversereaction 25579 25594	Nasopharyngitis
+T721	adversereaction 25606 25614	Rhinitis
+T723	adversereaction 25624 25633	Sinusitis
+T725	adversereaction 25650 25673	Urinary tract infection
+T727	adversereaction 25716 25732	Thrombocytopenia
+T729	adversereaction 25744 25755	Neutropenia
+T731	adversereaction 25767 25773	Anemia
+T733	adversereaction 25784 25794	Leukopenia
+T735	adversereaction 25805 25806	L
+T737	adversereaction 25807 25817	ymphopenia
+T739	tradename 25944 25959	Zevalin-treated
+T741	indication 25974 25996	relapsed or refractory
+T743	indication 25998 26007	low-grade
+T745	indication 26009 26046	follicular or transformed B-cell NHL.
+T747	tradename 26099 26114	Zevalin-treated
+T749	indication 26213 26245	Relapsed or Refractory Low-grade
+T751	indication 26247 26284	Follicular or Transformed B-cell NHLa
+T753	adversereaction 26322 26338	Thrombocytopenia
+T755	adversereaction 26345 26356	Neutropenia
+T757	adversereaction 26363 26369	Anemia
+T759	adversereaction 26376 26386	Ecchymosis
+T761	co-administereddrug 26450 26459	rituximab
+T763	tradename 26476 26483	Zevalin
+T765	adversereaction 26505 26536	Prolonged and Severe Cytopenias
+T767	tradename 26674 26681	Zevalin
+T769	indication 26765 26787	previously treated NHL
+T771	activeingredient 26861 26865	Y-90
+T773	tradename 26866 26873	Zevalin
+T775	tradename 26958 26965	Zevalin
+T777	activeingredient 27093 27097	Y-90
+T779	tradename 27098 27105	Zevalin
+T781	dose 27112 27122	0.4 mCi/kg
+T783	dose 27124 27147	14.8 MBq/kg) 0.3 mCi/kg
+T785	dose 27150 27173	11.1 MBq/kg) 0.4 mCi/kg
+T787	dose 27176 27188	14.8 MBq/kg)
+T789	adversereaction 28039 28049	Cytopenias
+T791	tradename 28126 28133	Zevalin
+T793	adversereaction 28704 28713	cytopenia
+T795	indication 28747 28770	relapsed/refractory NHL
+T797	activeingredient 28925 28930	Y-90-
+T799	tradename 28930 28937	Zevalin
+T801	indication 29057 29080	relapsed/refractory NHL
+T803	tradename 29263 29270	Zevalin
+T805	tradename 29465 29480	Zevalin-treated
+T807	indication 29556 29582	relapsed or refractory NHL
+T809	tradename 29612 29619	Zevalin
+T811	indication 29669 29695	relapsed or refractory NHL
+T813	tradename 29796 29803	Zevalin
+T815	adversereaction 29861 29884	urinary tract infection
+T817	adversereaction 29886 29905	febrile neutropenia
+T819	adversereaction 29907 29913	sepsis
+T821	adversereaction 29915 29924	pneumonia
+T823	adversereaction 29926 29936	cellulitis
+T825	adversereaction 29938 29945	colitis
+T827	adversereaction 29947 29955	diarrhea
+T829	adversereaction 29957 29970	osteomyelitis
+T831	adversereaction 29976 30010	upper respiratory tract infection)
+T833	adversereaction 30063 30069	sepsis
+T835	adversereaction 30071 30078	empyema
+T837	adversereaction 30080 30089	pneumonia
+T839	adversereaction 30091 30110	febrile neutropenia
+T841	adversereaction 30112 30117	fever
+T843	adversereaction 30123 30160	biliary stent-associated cholangitis)
+T845	tradename 30195 30202	Zevalin
+T847	adversereaction 30268 30291	urinary tract infection
+T849	adversereaction 30293 30321	bacterial or viral pneumonia
+T851	adversereaction 30323 30342	febrile neutropenia
+T853	adversereaction 30344 30364	perihilar infiltrate
+T855	adversereaction 30366 30378	pericarditis
+T857	routeofadministration 30384 30395	intravenous
+T859	adversereaction 30412 30428	viral hepatitis)
+T861	adversereaction 30471 30490	bacterial pneumonia
+T863	adversereaction 30492 30511	respiratory disease
+T865	adversereaction 30517 30524	sepsis)
+T867	tradename 30629 30636	Zevalin
+T869	adversereaction 30689 30707	neutropenic sepsis
+T871	adversereaction 30714 30724	bronchitis
+T873	adversereaction 30726 30741	catheter sepsis
+T875	adversereaction 30743 30757	diverticulitis
+T877	adversereaction 30759 30772	herpes zoster
+T879	adversereaction 30774 30783	influenza
+T881	adversereaction 30785 30818	lower respiratory tract infection
+T883	adversereaction 30820 30829	sinusitis
+T885	adversereaction 30835 30869	upper respiratory tract infection.
+T887	adversereaction 30871 30879	Leukemia
+T889	adversereaction 30884 30908	Myelodysplastic Syndrome
+T891	indication 30933 30956	relapsed/refractory NHL
+T893	adversereaction 30987 30994	MDS/AML
+T895	adversereaction 31060 31067	MDS/AML
+T897	adversereaction 31214 31221	MDS/AML
+T899	adversereaction 31289 31311	MDS/secondary leukemia
+T901	adversereaction 31399 31406	MDS/AML
+T903	adversereaction 31550 31557	MDS/AML
+T905	adversereaction 31687 31694	MDS/AML
+T907	activeingredient 31799 31804	Y-90-
+T909	tradename 31804 31811	Zevalin
+T911	adversereaction 31870 31877	MDS/AML
+T913	tradename 31919 31926	Zevalin
+T915	tradename 32098 32105	Zevalin
+T917	tradename 32576 32583	Zevalin
+T919	adversereaction 32646 32665	erythema multiforme
+T921	adversereaction 32667 32691	Stevens-Johnson syndrome
+T923	adversereaction 32693 32719	toxic epidermal necrolysis
+T925	adversereaction 32721 32739	bullous dermatitis
+T927	adversereaction 32745 32767	exfoliative dermatitis
+T929	adversereaction 32826 32848	Infusion site erythema
+T931	adversereaction 32853 32863	ulceration
+T933	tradename 33013 33020	Zevalin
+T935	tradename 33580 33587	Zevalin
+T937	tradename 33958 33965	Zevalin
+T939	tradename 34354 34361	Zevalin
+T941	tradename 34635 34643	Zevalin.
+T943	activeingredient 34947 34951	Y-90
+T945	tradename 34953 34960	Zevalin
+T947	tradename 35187 35194	Zevalin
+T949	tradename 35373 35380	Zevalin
+T951	tradename 35499 35506	Zevalin
+T953	activeingredient 35612 35616	Y-90
+T955	tradename 35617 35624	Zevalin
+T957	tradename 35697 35704	Zevalin
+T959	tradename 35841 35848	Zevalin
+T961	indication 35940 35963	relapsed/refractory NHL
+T963	tradename 35981 35988	Zevalin
+T965	tradename 36168 36175	Zevalin
+T967	tradename 36233 36241	Zevalin.
+T969	adversereaction 36662 36672	cytopenias
+T971	dose 36782 36788	32 mCi
+T973	dose 36790 36799	1184 MBq)
+T975	tradename 36819 36826	Zevalin
+T977	nanoparticle 36828 36849	ibritumomab tiuxetan)
+T979	corecomposition 36952 36963	ibritumomab
+T981	activeingredient 36988 37116	tiuxetan [N-[2-bis(carboxymethyl)amino](p-isothiocyanatophenyl)-propyl]-[N-[2-bis(carboxymethyl)amino]-2-(methyl)-ethyl]glycine.
+T983	activeingredient 37213 37224	Yttrium-90.
+T985	nanoparticle 37263 37283	ibritumomab tiuxetan
+T987	molecularweight 37287 37294	148 kD.
+T989	tradename 37320 37327	Zevalin
+T991	corecomposition 37331 37342	ibritumomab
+T993	corecomposition 37346 37383	murine IgG1 kappa monoclonal antibody
+T995	nanoparticle 37420 37440	Ibritumomab tiuxetan
+T997	nanoparticle 37594 37614	ibritumomab tiuxetan
+T999	inactiveingredient 37631 37647	Sodium Chloride.
+T1001	activeingredient 37691 37706	Y-90 Yttrium-90
+T1003	activeingredient 37964 37968	Y-90
+T1005	activeingredient 38018 38022	Y-90
+T1007	activeingredient 38187 38191	Y-90
+T1009	activeingredient 38248 38252	Y-90
+T1011	activeingredient 38452 38456	Y-90
+T1013	nanoparticle 38818 38838	Ibritumomab tiuxetan
+T1015	nanoparticle 38972 38992	ibritumomab tiuxetan
+T1017	indication 39140 39177	B-cell non-Hodgkin's lymphomas (NHL).
+T1019	surfacecoating 39292 39300	tiuxetan
+T1021	activeingredient 39322 39326	Y-90
+T1023	corecomposition 39352 39364	ibritumomab.
+T1025	activeingredient 39390 39394	Y-90
+T1027	nanoparticle 39491 39511	Ibritumomab tiuxetan
+T1029	tradename 39824 39831	Zevalin
+T1031	tradename 40539 40546	Zevalin
+T1033	dose 40548 40553	5 mCi
+T1035	dose 40555 40563	185 MBq]
+T1037	dose 40572 40578	1.6 mg
+T1039	nanoparticle 40579 40600	ibritumomab tiuxetan)
+T1041	tradename 40755 40762	Zevalin
+T1043	dose 40853 40862	1.0 mg/kg
+T1045	dose 40866 40876	2.5 mg/kg)
+T1047	tradename 40885 40892	Zevalin
+T1049	tradename 40989 40996	Zevalin
+T1051	tradename 41108 41115	Zevalin
+T1053	activeingredient 41170 41174	Y-90
+T1055	eliminationhalflife 41197 41205	30 hours
+T1057	auc 41299 41308	39 hours.
+T1059	tradename 41672 41679	Zevalin
+T1061	tradename 41741 41748	Zevalin
+T1063	tradename 41960 41967	Zevalin
+T1065	tradename 42149 42156	Zevalin
+T1067	tradename 42646 42653	Zevalin
+T1069	tradename 42711 42718	Zevalin
+T1071	co-administereddrug 42759 42768	rituximab
+T1073	indication 43143 43146	NHL
+T1075	co-administereddrug 43262 43271	rituximab
+T1077	indication 43860 43935	relapsed or refractory low-grade or follicular non-Hodgkin's lymphoma (NHL)
+T1079	co-administereddrug 43967 43977	rituximab.
+T1081	indication 44089 44092	NHL
+T1083	tradename 44204 44211	Zevalin
+T1085	co-administereddrug 44258 44267	rituximab
+T1087	routeofadministration 44280 44282	IV
+T1089	dose 44295 44308	375 mg per m2
+T1091	frequency 44309 44315	weekly
+T1093	tradename 44465 44472	Zevalin
+T1095	tradename 44704 44711	Zevalin
+T1097	tradename 44740 44747	Zevalin
+T1099	indication 45096 45128	relapsed or refractory low-grade
+T1101	indication 45130 45144	follicular NHL
+T1103	activeingredient 45441 45445	Y-90
+T1105	tradename 45446 45453	Zevalin
+T1107	dose 45455 45469	0.3 mCi per kg
+T1109	dose 45471 45487	11.1 MBq per kg)
+T1111	indication 45655 45665	Follicular
+T1113	indication 45667 45677	B-Cell NHL
+T1115	indication 45806 45820	follicular NHL
+T1117	tradename 46208 46215	Zevalin
+T1119	activeingredient 46257 46261	Y-90
+T1121	tradename 46262 46269	Zevalin
+T1123	indication 46545 46567	non-Hodgkin's Lymphoma
+T1125	co-administereddrug 47027 47047	rituximab-containing
+T1127	tradename 47159 47174	Zevalin-treated
+T1129	activeingredient 47740 47744	Y-90
+T1131	tradename 47758 47765	Zevalin
+T1133	tradename 47977 47984	Zevalin
+T1135	nanoparticle 48008 48028	ibritumomab tiuxetan
+T1137	inactiveingredient 48042 48057	Sodium Chloride
+T1139	inactiveingredient 48107 48121	Sodium Acetate
+T1141	inactiveingredient 48146 48171	Sodium Acetate trihydrate
+T1143	inactiveingredient 48180 48185	Water
+T1145	inactiveingredient 48290 48297	Albumin
+T1147	inactiveingredient 48313 48328	Sodium Chloride
+T1149	inactiveingredient 48336 48374	Sodium Phosphate Dibasic Dodecahydrate
+T1151	inactiveingredient 48381 48394	Pentetic Acid
+T1153	inactiveingredient 48401 48430	Potassium Phosphate Monobasic
+T1155	inactiveingredient 48440 48458	Potassium Chloride
+T1157	inactiveingredient 48468 48473	Water
+T1159	activeingredient 48576 48586	Yttrium-90
+T1161	activeingredient 48686 48690	Y-90
+T1163	tradename 48691 48698	Zevalin
+T1165	co-administereddrug 48704 48713	Rituximab
+T1167	company 48720 48731	Biogen Idec
+T1169	company 48736 48750	Genentech USA)
+T1171	adversereaction 48964 48983	infusion reactions.
+T1173	adversereaction 49132 49142	cytopenias
+T1175	adversereaction 49144 49152	bleeding
+T1177	adversereaction 49154 49167	easy bruising
+T1179	adversereaction 49169 49178	petechiae
+T1181	adversereaction 49182 49189	purpura
+T1183	adversereaction 49191 49197	pallor
+T1185	adversereaction 49199 49207	weakness
+T1187	adversereaction 49211 49219	fatigue)
+T1189	adversereaction 49451 49455	rash
+T1191	adversereaction 49457 49463	bullae
+T1193	adversereaction 49468 49507	desquamation of the skin or oral mucosa
+T1195	adversereaction 49581 49590	infection
+T1197	adversereaction 49597 49605	pyrexia)
+T1199	tradename 49728 49735	Zevalin
+T1201	tradename 49892 49899	Zevalin
+T1203	tradename 50057 50064	Zevalin
+T1205	tradename 50116 50123	Zevalin
+T1207	nanoparticle 50128 50149	ibritumomab tiuxetan)
+T1209	company 50170 50194	Spectrum Pharmaceuticals
+T1211	company 50196 50200	Inc.
+T1213	tradename 50263 50270	Zevalin
+T1215	company 50303 50327	Spectrum Pharmaceuticals
+T1217	company 50329 50333	Inc.
+T1219	u.s.patent 50386 50387	5
+T1221	u.s.patent 50388 50391	736
+T1223	u.s.patent 50392 50395	137
+T1225	u.s.patent 50397 50398	5
+T1227	u.s.patent 50399 50402	776
+T1229	u.s.patent 50403 50406	456
+T1231	u.s.patent 50408 50409	5
+T1233	u.s.patent 50410 50413	843
+T1235	u.s.patent 50414 50417	439
+T1237	u.s.patent 50419 50420	6
+T1239	u.s.patent 50421 50424	207
+T1241	u.s.patent 50425 50428	858
+T1243	u.s.patent 50430 50431	6
+T1245	u.s.patent 50432 50435	399
+T1247	u.s.patent 50436 50439	061
+T1249	u.s.patent 50441 50442	6
+T1251	u.s.patent 50443 50446	682
+T1253	u.s.patent 50447 50450	734
+T1255	u.s.patent 50452 50453	6
+T1257	u.s.patent 50454 50457	994
+T1259	u.s.patent 50458 50461	840
+T1261	u.s.patent 50463 50464	7
+T1263	u.s.patent 50465 50468	229
+T1265	u.s.patent 50469 50472	620
+T1267	u.s.patent 50474 50475	7
+T1269	u.s.patent 50476 50479	381
+T1271	u.s.patent 50480 50483	560
+T1273	u.s.patent 50485 50486	7
+T1275	u.s.patent 50487 50490	422
+T1277	u.s.patent 50491 50494	739

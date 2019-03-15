@@ -1,0 +1,1687 @@
+ HIGHLIGHTSHIGHLIGHTS OF PRESCRIBING INFORMATION These highlights do not include all the information needed to use TAXOTERE safely and effectively.
+ See full prescribing information for TAXOTERE.
+ HIGHLIGHTSTAXOTERE (docetaxel) Injection Concentrate, Intravenous Infusion (IV).
+Initial U.S. Approval: 1996
+ HIGHLIGHTS HIGHLIGHTSWARNING: TOXIC DEATHS, HEPATOTOXICITY, NEUTROPENIA, HYPERSENSITIVITY REACTIONS, and FLUID RETENTION See full prescribing information for complete boxed warning
+HIGHLIGHTSTreatment-related mortality increases with abnormal liver function, at higher doses, and in patients with NSCLC and prior platinum-based therapy receiving TAXOTERE at 100 mg/m2 (5.1)
+ HIGHLIGHTSShould not be given if bilirubin &gt; ULN, or if AST and/or ALT &gt; 1.5 x ULN concomitant with alkaline phosphatase &gt; 2.5 x ULN.
+LFT elevations increase risk of severe or life-threatening complications.
+HIGHLIGHTSObtain LFTs before each treatment cycle (8.6)
+ HIGHLIGHTSShould not be given if neutrophil counts are &lt; 1500 cells/mm3.
+Obtain frequent blood counts to monitor for neutropenia (4)
+ HIGHLIGHTSSevere hypersensitivity, including very rare fatal anaphylaxis, has been reported in patients who received dexamethasone premedication.
+ HIGHLIGHTSSevere reactions require immediate discontinuation of TAXOTERE and administration of appropriate therapy (5.4)
+ HIGHLIGHTSContraindicated if history of severe hypersensitivity reactions to TAXOTERE or to drugs formulated with polysorbate 80 (4)
+ HIGHLIGHTSSevere fluid retention may occur despite dexamethasone (5.5)
+ HIGHLIGHTS HIGHLIGHTS----------------------------RECENT MAJOR CHANGES -----------
+HIGHLIGHTSWarnings and Precautions (5.9) 12/2013 Warnings and Precautions (5.11) 11/2014
+ HIGHLIGHTS HIGHLIGHTS HIGHLIGHTS----------------------------INDICATIONS AND USAGE ----------------
+HIGHLIGHTSTAXOTERE is a microtubule inhibitor indicated for:
+ HIGHLIGHTSBreast Cancer (BC): single agent for locally advanced or metastatic BC after chemotherapy failure; and with doxorubicin and cyclophosphamide as adjuvant treatment of operable node-positive BC (1.1)
+ HIGHLIGHTS HIGHLIGHTSNon-Small Cell Lung Cancer (NSCLC): single agent for locally advanced or metastatic NSCLC after platinum therapy failure; and with cisplatin for unresectable, locally advanced or metastatic untreated NSCLC (1.2)
+HIGHLIGHTS HIGHLIGHTSHormone Refractory Prostate Cancer (HRPC): with prednisone in androgen independent (hormone refractory) metastatic prostate cancer (1.3)
+ HIGHLIGHTS HIGHLIGHTSGastric Adenocarcinoma (GC): with cisplatin and fluorouracil for untreated, advanced GC, including the gastroesophageal junction (1.4)
+ HIGHLIGHTS HIGHLIGHTSSquamous Cell Carcinoma of the Head and Neck Cancer (SCCHN): with cisplatin and fluorouracil for induction treatment of locally advanced SCCHN (1.5)
+ HIGHLIGHTS HIGHLIGHTS----------------------DOSAGE AND ADMINISTRATION----------------------
+HIGHLIGHTSAdminister in a facility equipped to manage possible complications (e.g., anaphylaxis).
+Administer intravenously (IV) over 1 hr every 3 weeks.
+PVC equipment is not recommended.
+ HIGHLIGHTSUse only a 21 gauge needle to withdraw TAXOTERE from the vial.
+ HIGHLIGHTSBC locally advanced or metastatic: 60 mg/m2 to 100 mg/m2 single agent (2.1)
+ HIGHLIGHTS HIGHLIGHTSBC adjuvant: 75 mg/m2 administered 1 hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 every 3 weeks for 6 cycles (2.1)
+ HIGHLIGHTS HIGHLIGHTSNSCLC: after platinum therapy failure: 75 mg/m2 single agent (2.2)
+ HIGHLIGHTS HIGHLIGHTSNSCLC: chemotherapy-naive: 75 mg/m2 followed by cisplatin 75 mg/m2 (2.2)
+ HIGHLIGHTS HIGHLIGHTSHRPC: 75 mg/m2 with 5 mg prednisone twice a day continuously (2.3)
+ HIGHLIGHTS HIGHLIGHTSGC: 75 mg/m2 followed by cisplatin 75 mg/m2 (both on day 1 only)followed by fluorouracil 750 mg/m2 per day as a 24-hr IV (days 1-5), starting at end of cisplatin infusion (2.4)
+ HIGHLIGHTSSCCHN: 75 mg/m2 followed by cisplatin 75 mg/m2 IV  (day 1), followed by fluorouracil 750 mg/m2 per day as a 24-hr IV (days 1-5), starting at end of cisplatin infusion; for 4 cycles (2.5)
+ HIGHLIGHTS HIGHLIGHTSSCCHN: 75 mg/m2 followed by cisplatin 100 mg/m2 IV (day 1), followed by fluorouracil 1000 mg/m2 per day as a 24-hr IV (days 1-4); for 3 cycles (2.5)
+ HIGHLIGHTS HIGHLIGHTSFor all patients:
+ HIGHLIGHTSPremedicate with oral corticosteroids (2.6)
+ HIGHLIGHTSAdjust dose as needed (2.7)
+ HIGHLIGHTS HIGHLIGHTS---------------------DOSAGE FORMS AND STRENGTHS---------------------
+HIGHLIGHTSOne vial TAXOTERE: Single use vials 20 mg/mL and 80 mg/4 mL (3)
+ HIGHLIGHTS HIGHLIGHTS-------------------------------CONTRAINDICATIONS---------------------
+HIGHLIGHTSHypersensitivity to docetaxel or polysorbate 80 (4)
+ HIGHLIGHTSNeutrophil counts of &lt;1500 cells/mm3 (4)
+ HIGHLIGHTS HIGHLIGHTS-----------------------WARNINGS AND PRECAUTIONS-----------------------
+HIGHLIGHTSAcute myeloid leukemia: In patients who received TAXOTERE, doxorubicin and cyclophosphamide, monitor for delayed myelodysplasia or myeloid leukemia (5.6)
+ HIGHLIGHTSCutaneous reactions: Reactions including erythema of the extremities with edema followed by desquamation may occur.
+Severe skin toxicity may require dose adjustment (5.7)
+ HIGHLIGHTSNeurologic reactions: Reactions including.
+paresthesia, dysesthesia, and pain may occur.
+Severe neurosensory symptoms require dose adjustment or discontinuation if persistent.
+(5.8)
+ HIGHLIGHTSEye disorders: Cystoid macular edema (CME) has been reported and requires treatment discontinuation.
+(5.9)
+ HIGHLIGHTSAsthenia: Severe asthenia may occur and may require treatment discontinuation.
+(5.10)
+ HIGHLIGHTSAlcohol content: The alcohol content in a dose of TAXOTERE Injection may affect the central nervous system.
+ HIGHLIGHTSThis may include impairment of a patient's ability to drive or use machines immediately after infusion.
+(5.11)
+ HIGHLIGHTSPregnancy: Fetal harm can occur when administered to a pregnant woman.
+ HIGHLIGHTSWomen of childbearing potential should be advised not to become pregnant when receiving TAXOTERE (5.12, 8.1)
+ HIGHLIGHTS HIGHLIGHTS---------------------------ADVERSE REACTIONS--------------------
+HIGHLIGHTSMost common adverse reactions across all TAXOTERE indications are infections, neutropenia, anemia, febrile neutropenia, hypersensitivity, thrombocytopenia, neuropathy, dysgeusia, dyspnea, constipation, anorexia, nail disorders, fluid retention, asthenia, pain, nausea, diarrhea, vomiting, mucositis, alopecia, skin reactions, myalgia (6)
+ HIGHLIGHTS HIGHLIGHTSTo report SUSPECTED ADVERSE REACTIONS, contact sanofi-aventis U.S. LLC at 1-800-633-1610 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
+ HIGHLIGHTS HIGHLIGHTS------------------------------DRUG INTERACTIONS ----------------------
+HIGHLIGHTSCytochrome P450 3A4 inducers, inhibitors, or substrates: May alter docetaxel metabolism.
+(7)
+HIGHLIGHTS HIGHLIGHTSSee 17 for PATIENT COUNSELING INFORMATION and FDA-approved patient labeling
+ HIGHLIGHTS    HIGHLIGHTSFULL PRESCRIBING INFORMATION: CONTENTS*
+ HIGHLIGHTSWARNING: TOXIC DEATHS, HEPATOTOXICITY, NEUTROPENIA,
+ HIGHLIGHTS HIGHLIGHTS6 ADVERSE REACTIONS HYPERSENSITIVITY REACTIONS, and FLUID RETENTION
+ HIGHLIGHTS6.1 Clinical Trial Experience
+ HIGHLIGHTS1 INDICATIONS AND USAGE
+ HIGHLIGHTS6.2 Post-Marketing Experiences
+ HIGHLIGHTS1.1 Breast Cancer
+ HIGHLIGHTS HIGHLIGHTS7 DRUG INTERACTIONS
+ HIGHLIGHTS1.2 Non-Small Cell Lung Cancer 8 USE IN SPECIFIC POPULATIONS
+ HIGHLIGHTS1.3 Prostate Cancer
+ HIGHLIGHTS HIGHLIGHTS8.1 Pregnancy
+ HIGHLIGHTS1.4 Gastric Adenocarcinoma
+ HIGHLIGHTS8.3 Nursing Mothers
+ HIGHLIGHTS1.5 Head and Neck Cancer
+ HIGHLIGHTS8.4 Pediatric Use
+ HIGHLIGHTS HIGHLIGHTS2 DOSAGE AND ADMINISTRATION
+ HIGHLIGHTS8.5 Geriatric Use
+ HIGHLIGHTS2.1 Breast Cancer
+ HIGHLIGHTS8.6 Hepatic Impairment
+ HIGHLIGHTS2.2 Non-Small Cell Lung Cancer
+ HIGHLIGHTS HIGHLIGHTS10 OVERDOSAGE
+ HIGHLIGHTS2.3 Prostate Cancer
+ HIGHLIGHTS11 DESCRIPTION
+ HIGHLIGHTS2.4 Gastric Adenocarcinoma
+ HIGHLIGHTS HIGHLIGHTS12 CLINICAL PHARMACOLOGY
+ HIGHLIGHTS2.5 Head and Neck Cancer
+ HIGHLIGHTS12.1 Mechanism of Action
+ HIGHLIGHTS2.6 Premedication Regimen
+ HIGHLIGHTS12.3 Human Pharmacokinetics
+ HIGHLIGHTS2.7 Dosage Adjustments During Treatment
+ HIGHLIGHTS HIGHLIGHTS13 NONCLINICAL TOXICOLOGY
+ HIGHLIGHTS2.8 Administration Precautions
+ HIGHLIGHTS13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+ HIGHLIGHTS2.9 Preparation and Administration
+ HIGHLIGHTS HIGHLIGHTS14 CLINICAL STUDIES
+ HIGHLIGHTS2.10 Stability
+ HIGHLIGHTS14.1 Locally Advanced or Metastatic Breast Cancer
+ HIGHLIGHTS HIGHLIGHTS3 DOSAGE FORMS AND STRENGTHS
+ HIGHLIGHTS14.2 Adjuvant Treatment of Breast Cancer
+ HIGHLIGHTS HIGHLIGHTS4 CONTRAINDICATIONS
+ HIGHLIGHTS14.3 Non-Small Cell Lung Cancer (NSCLC)
+ HIGHLIGHTS HIGHLIGHTS5 WARNINGS AND PRECAUTIONS
+ HIGHLIGHTS14.4 Hormone Refractory Prostate Cancer
+ HIGHLIGHTS5.1 Toxic Deaths
+ HIGHLIGHTS14.5 Gastric Adenocarcinoma
+ HIGHLIGHTS5.2 Hepatic Impairment
+ HIGHLIGHTS14.6 Head and Neck Cancer
+ HIGHLIGHTS5.3 Hematologic Effects
+ HIGHLIGHTS HIGHLIGHTS15 REFERENCES
+ HIGHLIGHTS5.4 Hypersensitivity Reactions
+ HIGHLIGHTS5.5 Fluid Retention
+HIGHLIGHTS HIGHLIGHTS16 HOW SUPPLIED/STORAGE AND HANDLING
+ HIGHLIGHTS16.1 How Supplied
+ HIGHLIGHTS5.6 Acute Myeloid Leukemia
+ HIGHLIGHTS5.7 Cutaneous Reaction
+HIGHLIGHTS16.2 Storage 5.8 Neurologic Reactions
+HIGHLIGHTS16.3 Handling and Disposal
+ HIGHLIGHTS5.9 Eye Disorders
+HIGHLIGHTS HIGHLIGHTS17 PATIENT COUNSELING INFORMATION
+ HIGHLIGHTS5.10 Asthenia
+ HIGHLIGHTS5.11 Alcohol Content
+ HIGHLIGHTS5.12 Use in Pregnancy
+  HIGHLIGHTS*Sections or subsections omitted from the full prescribing information are not listed
+ HIGHLIGHTS HIGHLIGHTSFULL PRESCRIBING INFORMATION
+ HIGHLIGHTSWARNING: TOXIC DEATHS, HEPATOTOXICITY, NEUTROPENIA,HYPERSENSITIVITY REACTIONS, and FLUID RETENTION
+HIGHLIGHTS  HIGHLIGHTSThe incidence of treatment-related mortality associated with TAXOTERE therapy is increased in patients with abnormal liver function, in patients receiving higher doses, and in patients with non-small cell lung carcinoma and a history of prior treatment with platinum-based chemotherapy who receive TAXOTERE as a single agent at a dose of 100 mg/m2 [see Warnings and Precautions (5.1)].
+ HIGHLIGHTSTAXOTERE should not be given to patients with bilirubin &gt; upper limit of normal (ULN), or to patients with AST and/or ALT  &gt;1.5 x ULN concomitant with alkaline phosphatase &gt;2.5 x ULN.
+HIGHLIGHTS Patients with elevations of bilirubin or abnormalities of transaminase concurrent with alkaline phosphatase are at increased risk for the development of grade 4 neutropenia, febrile neutropenia, infections, severe thrombocytopenia, severe stomatitis, severe skin toxicity, and toxic death.
+ HIGHLIGHTSPatients with isolated elevations of transaminase &gt;1.5 x ULN also had a higher rate of febrile neutropenia grade 4 but did not have an increased incidence of toxic death.
+Bilirubin, AST or ALT, and alkaline phosphatase values should be obtained prior to each cycle of TAXOTERE therapy [see Warnings and Precautions (5.2)].
+HIGHLIGHTS TAXOTERE therapy should not be given to patients with neutrophil counts of &lt;1500 cells/mm3.
+In order to monitor the occurrence of neutropenia, which may be severe and result in infection, frequent blood cell counts should be performed on all patients receiving TAXOTERE [see Warnings and Precautions (5.3)].
+ HIGHLIGHTSSevere hypersensitivity reactions characterized by generalized rash/erythema, hypotension and/or bronchospasm, or very rarely fatal anaphylaxis, have been reported in patients who received a 3-day dexamethasone premedication.
+ HIGHLIGHTSHypersensitivity reactions require immediate discontinuation of the TAXOTERE infusion and administration of appropriate therapy [see Warnings and Precautions (5.4)].
+HIGHLIGHTS TAXOTERE must not be given to patients who have a history of severe hypersensitivity reactions to TAXOTERE or to other drugs formulated with polysorbate 80 [see Contraindications (4)].
+ HIGHLIGHTSSevere fluid retention occurred in 6.5% (6/92) of patients despite use of a 3-day dexamethasone premedication regimen.
+ HIGHLIGHTSIt was characterized by one or more of the following events: poorly tolerated peripheral edema, generalized edema, pleural effusion requiring urgent drainage, dyspnea at rest, cardiac tamponade, or pronounced abdominal distention (due to ascites) [see Warnings and Precautions (5.5)].
+ HIGHLIGHTS HIGHLIGHTS1.
+INDICATIONS AND USAGE
+ HIGHLIGHTS1.1 Breast Cancer
+ HIGHLIGHTSTAXOTERE is indicated for the treatment of patients with locally advanced or metastatic breast cancer after failure of prior chemotherapy.
+ HIGHLIGHTSTAXOTERE in combination with doxorubicin and cyclophosphamide is indicated for the adjuvant treatment of patients with operable node-positive breast cancer.
+ HIGHLIGHTS1.2 Non-Small Cell Lung Cancer
+ HIGHLIGHTSTAXOTERE as a single agent is indicated for the treatment of patients with locally advanced or metastatic non-small cell lung cancer after failure of prior platinum-based chemotherapy.
+ HIGHLIGHTSTAXOTERE in combination with cisplatin is indicated for the treatment of patients with unresectable, locally advanced or metastatic non-small cell lung cancer who have not previously received chemotherapy for this condition.
+ HIGHLIGHTS1.3 Prostate Cancer
+ HIGHLIGHTSTAXOTERE in combination with prednisone is indicated for the treatment of patients with androgen independent (hormone refractory) metastatic prostate cancer.
+ HIGHLIGHTS1.4 Gastric Adenocarcinoma
+ HIGHLIGHTSTAXOTERE in combination with cisplatin and fluorouracil is indicated for the treatment of patients with advanced gastric adenocarcinoma, including adenocarcinoma of the gastroesophageal junction, who have not received prior chemotherapy for advanced disease.
+  HIGHLIGHTS1.5 Head and Neck Cancer
+ HIGHLIGHTSTAXOTERE in combination with cisplatin and fluorouracil is indicated for the induction treatment of patients with locally advanced squamous cell carcinoma of the head and neck (SCCHN).
+ HIGHLIGHTS HIGHLIGHTS2.
+DOSAGE AND ADMINISTRATION
+ HIGHLIGHTSFor all indications, toxicities may warrant dosage adjustments [see Dosage and Administration
+ HIGHLIGHTS(2.7)].
+ HIGHLIGHTSAdminister in a facility equipped to manage possible complications (e.g. anaphylaxis).
+ HIGHLIGHTS HIGHLIGHTS2.1 Breast Cancer
+ HIGHLIGHTSFor locally advanced or metastatic breast cancer after failure of prior chemotherapy, the recommended dose of TAXOTERE is 60 mg/m2 to 100 mg/m2 administered intravenously over 1 hour every 3 weeks.
+ HIGHLIGHTSFor the adjuvant treatment of operable node-positive breast cancer, the recommended TAXOTERE dose is 75 mg/m2 administered 1 hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 every 3 weeks for 6 courses.
+ HIGHLIGHTSProphylactic G-CSF may be used to mitigate the risk of hematological toxicities [see Dosage and Administration (2.7)].
+ HIGHLIGHTS HIGHLIGHTS2.2 Non-Small Cell Lung Cancer
+ HIGHLIGHTSFor treatment after failure of prior platinum-based chemotherapy, TAXOTERE was evaluated as monotherapy, and the recommended dose is 75 mg/m2 administered intravenously over 1 hour every 3 weeks.
+HIGHLIGHTS A dose of 100 mg/m2 in patients previously treated with chemotherapy was associated with increased hematologic toxicity, infection, and treatment-related mortality in randomized, controlled trials [see Boxed Warning, Dosage and Administration (2.7), Warnings and Precautions (5), Clinical Studies (14)].
+ HIGHLIGHTS HIGHLIGHTSFor chemotherapy-naive patients, TAXOTERE was evaluated in combination with cisplatin.
+ HIGHLIGHTSThe recommended dose of TAXOTERE is 75 mg/m2 administered intravenously over 1 hour immediately followed by cisplatin 75 mg/m2 over 30-60 minutes every 3 weeks [see Dosage and Administration (2.7)].
+ HIGHLIGHTS HIGHLIGHTS2.3 Prostate Cancer
+ HIGHLIGHTSFor hormone-refractory metastatic prostate cancer, the recommended dose of TAXOTERE is 75 mg/m2 every 3 weeks as a 1 hour intravenous infusion.
+ HIGHLIGHTSPrednisone 5 mg orally twice daily is administered continuously [see Dosage and Administration (2.7)].
+ HIGHLIGHTS HIGHLIGHTS2.4 Gastric Adenocarcinoma
+ HIGHLIGHTSFor gastric adenocarcinoma, the recommended dose of TAXOTERE is 75 mg/m2 as a 1 hour intravenous infusion, followed by cisplatin 75 mg/m2, as a 1 to 3 hour intravenous infusion (both on day 1 only), followed by fluorouracil 750 mg/m2 per day given as a 24-hour continuous intravenous infusion for 5 days, starting at the end of the cisplatin infusion.
+  HIGHLIGHTSTreatment is repeated every three weeks.
+Patients must receive premedication with antiemetics and appropriate hydration for cisplatin administration [see Dosage and Administration (2.7)].
+ HIGHLIGHTS HIGHLIGHTS2.5 Head and Neck Cancer
+ HIGHLIGHTSPatients must receive premedication with antiemetics, and appropriate hydration (prior to and after cisplatin administration).
+HIGHLIGHTS  Prophylaxis for neutropenic infections should be administered.
+ HIGHLIGHTSAll patients treated on the TAXOTERE containing arms of the TAX323 and TAX324 studies received prophylactic antibiotics.
+ HIGHLIGHTSInduction chemotherapy followed by radiotherapy (TAX323) For the induction treatment of locally advanced inoperable SCCHN, the recommended dose of TAXOTERE is 75 mg/m2 as a 1 hour intravenous infusion followed by cisplatin 75 mg/m2 intravenously over 1 hour, on day one, followed by fluorouracil as a continuous intravenous infusion at 750 mg/m2 per day for five days.
+ HIGHLIGHTSThis regimen is administered every 3 weeks for 4 cycles.
+ Following chemotherapy, patients should receive radiotherapy.
+ HIGHLIGHTS [see Dosage and Administration (2.7)].
+ HIGHLIGHTS HIGHLIGHTSInduction chemotherapy followed by chemoradiotherapy (TAX324) For the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN, the recommended dose of TAXOTERE is 75 mg/m2 as a 1 hour intravenous infusion on day 1, followed by cisplatin 100 mg/m2 administered as a 30-minute to 3 hour infusion, followed by fluorouracil 1000 mg/m2/day as a continuous infusion from day 1 to day 4.
+ This regimen is administered every 3 weeks for 3 cycles.
+ HIGHLIGHTSFollowing chemotherapy, patients should receive chemoradiotherapy [see Dosage and Administration (2.7)].
+ HIGHLIGHTS HIGHLIGHTS2.6 Premedication Regimen
+ HIGHLIGHTSAll patients should be premedicated with oral corticosteroids (see below for prostate cancer) such as dexamethasone 16 mg per day (e.g., 8 mg twice daily) for 3 days starting 1 day prior to TAXOTERE administration in order to reduce the incidence and severity of fluid retention as well as the severity of hypersensitivity reactions [see Boxed Warning, Warnings and Precautions (5.4)].
+ HIGHLIGHTS HIGHLIGHTSFor hormone-refractory metastatic prostate cancer, given the concurrent use of prednisone, the recommended premedication regimen is oral dexamethasone 8 mg, at 12 hours, 3 hours and 1 hour before the TAXOTERE infusion [see Warnings and Precautions (5.4)].
+ HIGHLIGHTS HIGHLIGHTS2.7 Dosage Adjustments During Treatment
+ HIGHLIGHTSBreast Cancer Patients who are dosed initially at 100 mg/m2 and who experience either febrile neutropenia, neutrophils &lt;500 cells/mm3 for more than 1 week, or severe or cumulative cutaneous reactions during TAXOTERE therapy should have the dosage adjusted from 100 mg/m2 to 75 mg/m2.
+ HIGHLIGHTSIf the patient continues to experience these reactions, the dosage should either be decreased from 75 mg/m2 to 55 mg/m2 or the treatment should be discontinued.
+Conversely, patients who are dosed initially at 60 mg/m2 and who do not experience febrile neutropenia, neutrophils &lt;500 cells/mm3 for more than 1 week, severe or cumulative cutaneous reactions, or severe peripheral neuropathy during TAXOTERE therapy may tolerate higher doses.
+HIGHLIGHTS Patients who develop  &#x2030; grade 3 peripheral neuropathy should have TAXOTERE treatment discontinued entirely.
+ HIGHLIGHTS HIGHLIGHTSCombination Therapy with TAXOTERE in the Adjuvant Treatment of Breast Cancer TAXOTERE in combination with doxorubicin and cyclophosphamide should be administered when the neutrophil count is  &#x2030; 1,500 cells/mm3 .
+  HIGHLIGHTSPatients who experience febrile neutropenia should receive G-CSF in all subsequent cycles.
+ HIGHLIGHTS Patients who continue to experience this reaction should remain on G-CSF and have their TAXOTERE dose reduced to 60 mg/m.
+ HIGHLIGHTSPatients who experience grade 3 or 4 stomatitis should have their TAXOTERE dose decreased to 60 mg/m.
+ HIGHLIGHTSPatients who experience severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during TAXOTERE therapy should have their dosage of TAXOTERE reduced from 75 mg/m to 60 mg/m.
+If the patient continues to experience these reactions at 60 mg/m, treatment should be discontinued.
+ HIGHLIGHTS HIGHLIGHTSNon-Small Cell Lung Cancer Monotherapy with TAXOTERE for NSCLC treatment after failure of prior platinum-based chemotherapy Patients who are dosed initially at 75 mg/m2 and who experience either febrile neutropenia, neutrophils &lt;500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions, or other grade 3/4 non-hematological toxicities during TAXOTERE treatment should have treatment withheld until resolution of the toxicity and then resumed at 55 mg/m2.
+Patients who develop  &#x2030; grade 3 peripheral neuropathy should have TAXOTERE treatment discontinued entirely.
+ HIGHLIGHTS HIGHLIGHTSCombination therapy with TAXOTERE for chemotherapy-naive NSCLC For patients who are dosed initially at TAXOTERE 75 mg/m2 in combination with cisplatin, and whose nadir of platelet count during the previous course of therapy is &lt;25,000 cells/mm3, in patients who experience febrile neutropenia, and in patients with serious non-hematologic toxicities, the TAXOTERE dosage in subsequent cycles should be reduced to 65 mg/m2 .
+ HIGHLIGHTSIn patients who require a further dose reduction, a dose of 50 mg/m2 is recommended.
+HIGHLIGHTS For cisplatin dosage adjustments, see manufacturers' prescribing information.
+Prostate Cancer Combination therapy with TAXOTERE for hormone-refractory metastatic prostate cancer TAXOTERE should be administered when the neutrophil count is  &#x2030; 1,500 cells/mm3 .
+ HIGHLIGHTS Patients who experience either febrile neutropenia, neutrophils &lt;500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions or moderate neurosensory signs and/or symptoms during TAXOTERE therapy should have the dosage of TAXOTERE reduced from 75 mg/m to 60 mg/m.
+ HIGHLIGHTSIf the patient continues to experience these reactions at 60 mg/m, the treatment should be discontinued.
+ HIGHLIGHTS    HIGHLIGHTSGastric or Head and Neck Cancer TAXOTERE in combination with cisplatin and fluorouracil in gastric cancer or head and neck cancer Patients treated with TAXOTERE in combination with cisplatin and fluorouracil must receive antiemetics and appropriate hydration according to current institutional guidelines.
+ HIGHLIGHTSIn both studies, G-CSF was recommended during the second and/or subsequent cycles in case of febrile neutropenia, or documented infection with neutropenia, or neutropenia lasting more than 7 days.
+ HIGHLIGHTSIf an episode of febrile neutropenia, prolonged neutropenia or neutropenic infection occurs despite G-CSF use, the TAXOTERE dose should be reduced from 75 mg/m2 to 60 mg/m2 .
+ HIGHLIGHTSIf subsequent episodes of complicated neutropenia occur the TAXOTERE dose should be reduced from 60 mg/m2 to 45 mg/m2 .
+ HIGHLIGHTSIn case of grade 4 thrombocytopenia the TAXOTERE dose should be reduced from 75 mg/m2 to 60 mg/m2.
+ HIGHLIGHTSPatients should not be retreated with subsequent cycles of TAXOTERE until neutrophils recover to a level &gt;1,500 cells/mm3 and platelets recover to a level &gt;100,000 cells/mm3 .
+ HIGHLIGHTS Discontinue treatment if these toxicities persist.
+[see Warnings and Precautions (5.3)].
+ HIGHLIGHTS HIGHLIGHTSRecommended dose modifications for toxicities in patients treated with TAXOTERE in combination with cisplatin and fluorouracil are shown in Table 1.
+ HIGHLIGHTSTable 1 - Recommended Dose Modifications for Toxicities in Patients Treated with TAXOTERE in Combination with Cisplatin and Fluorouracil
+HIGHLIGHTS  HIGHLIGHTSToxicity Dosage adjustment Diarrhea grade 3 First episode: reduce fluorouracil dose by 20%.
+ HIGHLIGHTSSecond episode: then reduce TAXOTERE dose by 20%.
+Diarrhea grade 4 First episode: reduce TAXOTERE and fluorouracil doses by 20%.
+ HIGHLIGHTSSecond episode: discontinue treatment.
+Stomatitis/mucositis grade 3
+ HIGHLIGHTSFirst episode: reduce fluorouracil dose by 20%.
+Second episode: stop fluorouracil only, at all subsequent cycles.
+Third episode: reduce TAXOTERE dose by 20%.
+ HIGHLIGHTSStomatitis/mucositis grade 4
+ HIGHLIGHTSFirst episode: stop fluorouracil only, at all subsequent cycles.
+Second episode: reduce TAXOTERE dose by 20%.
+ HIGHLIGHTSLiver dysfunction: In case of AST/ALT &gt;2.5 to  &#x2030; 5 x ULN and AP  &#x2030; 2.5 x ULN, or AST/ALT &gt;1.5 to  &#x2030; 5 x ULN and AP &gt;2.5 to  &#x2030; 5 x ULN, TAXOTERE should be reduced by 20%.
+ HIGHLIGHTSIn case of AST/ALT &gt;5 x ULN and/or AP &gt;5 x ULN TAXOTERE should be stopped.
+ HIGHLIGHTSThe dose modifications for cisplatin and fluorouracil in the gastric cancer study are provided below: Cisplatin dose modifications and delays Peripheral neuropathy: A neurological examination should be performed before entry into the study, and then at least every 2 cycles and at the end of treatment.
+HIGHLIGHTS In the case of neurological signs or symptoms, more frequent examinations should be performed and the following dose modifications can be made according to NCIC-CTC grade:
+HIGHLIGHTSGrade 2: Reduce cisplatin dose by 20%.
+ HIGHLIGHTSGrade 3: Discontinue treatment.
+HIGHLIGHTS Ototoxicity: In the case of grade 3 toxicity, discontinue treatment.
+HIGHLIGHTS  HIGHLIGHTSNephrotoxicity: In the event of a rise in serum creatinine  &#x2030; grade 2 (&gt;1.5 x normal value) despite adequate rehydration, CrCl should be determined before each subsequent cycle and the following dose reductions should be considered (see Table 2).
+ HIGHLIGHTSFor other cisplatin dosage adjustments, also refer to the manufacturers' prescribing information.
+ HIGHLIGHTSTable 2  &#x201a;  &#x20ac;&#x153; Dose Reductions for Evaluation of Creatinine Clearance Creatinine clearance result before next cycle Cisplatin dose next cycle
+ HIGHLIGHTSCrCl  &#x2030; 60 mL/min Full dose of cisplatin was given.
+  HIGHLIGHTSCrCl was to be repeated before each treatment cycle.
+ HIGHLIGHTSCrCl between 40 and 59 mL/min
+ HIGHLIGHTS HIGHLIGHTSDose of cisplatin was reduced by 50% at subsequent cycle.
+ HIGHLIGHTSIf CrCl was &gt;60 mL/min at end of cycle, full cisplatin dose was reinstituted at the next cycle.
+ HIGHLIGHTSIf no recovery was observed, then cisplatin was omitted from the next treatment cycle.
+ HIGHLIGHTSCrCl &lt;40 mL/min
+ HIGHLIGHTS HIGHLIGHTSDose of cisplatin was omitted in that treatment cycle only.
+ HIGHLIGHTSIf CrCl was still &lt;40 mL/min at the end of cycle, cisplatin was discontinued.
+ HIGHLIGHTSIf CrCl was &gt;40 and &lt;60 mL/min at end of cycle, a 50% cisplatin dose was given at the next cycle.
+ HIGHLIGHTSIf CrCl was &gt;60 mL/min at end of cycle, full cisplatin dose was given at next cycle.
+ HIGHLIGHTSCrCl = Creatinine clearance
+ HIGHLIGHTS HIGHLIGHTSFluorouracil dose modifications and treatment delays For diarrhea and stomatitis, see Table 1.
+ HIGHLIGHTSIn the event of grade 2 or greater plantar-palmar toxicity, fluorouracil should be stopped until recovery.
+ HIGHLIGHTSThe fluorouracil dosage should be reduced by 20%.
+ HIGHLIGHTSFor other greater than grade 3 toxicities, except alopecia and anemia, chemotherapy should be delayed (for a maximum of 2 weeks from the planned date of infusion) until resolution to grade  &#x2030; 1 and then recommenced, if medically appropriate.
+ HIGHLIGHTS HIGHLIGHTSFor other fluorouracil dosage adjustments, also refer to the manufacturers' prescribing information.
+ HIGHLIGHTSCombination Therapy with Strong CYP3A4 inhibitors: Avoid using concomitant strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, clarithromycin, atazanavir, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin and voriconazole).
+ HIGHLIGHTS There are no clinical data with a dose adjustment in patients receiving strong CYP3A4 inhibitors.
+ HIGHLIGHTSBased on extrapolation from a pharmacokinetic study with ketoconazole in 7 patients, consider a 50% docetaxel dose reduction if patients require co-administration of a strong CYP3A4 inhibitor.
+ [see Drug Interactions (7), Clinical Pharmacology (12.3)].
+ HIGHLIGHTS HIGHLIGHTS2.8 Administration Precautions
+ HIGHLIGHTSTAXOTERE is a cytotoxic anticancer drug and, as with other potentially toxic compounds, caution should be exercised when handling and preparing TAXOTERE solutions.
+ HIGHLIGHTSThe use of gloves is recommended.
+Please refer to [see How Supplied/ Storage and Handling (16.3)].
+ HIGHLIGHTS HIGHLIGHTSIf TAXOTERE Injection Concentrate, initial diluted solution, or final dilution for infusion should come into contact with the skin, immediately and thoroughly wash with soap and water.
+ HIGHLIGHTSIf TAXOTERE Injection Concentrate, initial diluted solution, or final dilution for infusion should come into contact with mucosa, immediately and thoroughly wash with water.
+ HIGHLIGHTS HIGHLIGHTSContact of the TAXOTERE concentrate with plasticized PVC equipment or devices used to prepare solutions for infusion is not recommended.
+ HIGHLIGHTSIn order to minimize patient exposure to the plasticizer DEHP (di-2-ethylhexyl phthalate), which may be leached from PVC infusion bags or sets, the final TAXOTERE dilution for infusion should be stored in bottles (glass, polypropylene) or plastic bags (polypropylene, polyolefin) and administered through polyethylene-lined administration sets.
+ HIGHLIGHTS HIGHLIGHTSOne-vial TAXOTERE (Injection Concentrate)TAXOTERE Injection Concentrate requires NO prior dilution with a diluent and is ready to add to the infusion solution.
+HIGHLIGHTS Please follow the preparation instructions provided below.
+HIGHLIGHTS HIGHLIGHTS2.9 Preparation and Administration
+ HIGHLIGHTSDO NOT use the two-vial formulation (Injection Concentrate and diluent) with the one-vial formulation.
+ HIGHLIGHTSOne-vial TAXOTERE (Injection Concentrate)TAXOTERE Injection Concentrate (20 mg/mL) requires NO prior dilution with a diluent and is ready to add to the infusion solution.
+ HIGHLIGHTSUse only a 21 gauge needle to withdraw TAXOTERE from the vial because larger bore needles (e.g., 18 and 19 gauge) may result in stopper coring and rubber particulates.
+ HIGHLIGHTS HIGHLIGHTS1.
+TAXOTERE vials should be stored between 2 and 25C (36 and 77F).
+ HIGHLIGHTSIf the vials are stored under refrigeration, allow the appropriate number of vials of TAXOTERE Injection Concentrate vials to stand at room temperature for approximately 5 minutes before use.
+ HIGHLIGHTS HIGHLIGHTS2.
+Using only a 21 gauge needle, aseptically withdraw the required amount of TAXOTERE injection concentrate (20 mg docetaxel/mL) with a calibrated syringe and inject via a single injection (one shot) into a 250 mL infusion bag or bottle of either 0.9% Sodium Chloride solution or 5% Dextrose solution to produce a final concentration of 0.3 mg/mL to 0.74 mg/mL.
+ HIGHLIGHTSIf a dose greater than 200 mg of TAXOTERE is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/mL TAXOTERE is not exceeded.
+ HIGHLIGHTS HIGHLIGHTS3.
+Thoroughly mix the infusion by gentle manual rotation.
+ HIGHLIGHTS HIGHLIGHTS4.As with all parenteral products, TAXOTERE should be inspected visually for particulate
+ HIGHLIGHTSmatter or discoloration prior to administration whenever the solution and container permit.
+ HIGHLIGHTSIf the TAXOTERE dilution for intravenous infusion is not clear or appears to have precipitation, it should be discarded.
+ HIGHLIGHTS HIGHLIGHTS5.
+TAXOTERE infusion solution is supersaturated, therefore may crystallize over time.
+ HIGHLIGHTSIf crystals appear, the solution must no longer be used and shall be discarded.
+ HIGHLIGHTS HIGHLIGHTSThe TAXOTERE dilution for infusion should be administered intravenously as a 1-hour infusion under ambient room temperature (below 25C) and lighting conditions.
+HIGHLIGHTS HIGHLIGHTS2.10 Stability
+ HIGHLIGHTSTAXOTERE final dilution for infusion, if stored between 2C and 25C (36F and 77F) is stable for 6 hours.
+ HIGHLIGHTSTAXOTERE final dilution for infusion (in either 0.9% Sodium Chloride solution or 5% Dextrose solution) should be used within 6 hours (including the 1 hour intravenous administration).
+ HIGHLIGHTSIn addition, physical and chemical in-use stability of the infusion solution prepared as recommended has been demonstrated in non-PVC bags up to 48 hours when stored between 2C and 8C (36 and 46F).
+ HIGHLIGHTS HIGHLIGHTS3.
+DOSAGE FORMS AND STRENGTHS
+ HIGHLIGHTSOne-vial TAXOTERE (Injection Concentrate)
+ HIGHLIGHTSTAXOTERE 20 mg/mL TAXOTERE (docetaxel) Injection Concentrate 20 mg/1 mL: 20 mg docetaxel in 1 mL in 50/50 (v/v) ratio polysorbate 80/dehydrated alcohol.
+ HIGHLIGHTSTAXOTERE 80 mg/4 mL TAXOTERE (docetaxel) Injection Concentrate 80 mg/4 mL: 80 mg docetaxel in 4 mL 50/50 (v/v) ratio polysorbate 80/dehydrated alcohol.
+ HIGHLIGHTS HIGHLIGHTS4.
+CONTRAINDICATIONS
+ HIGHLIGHTSTAXOTERE is contraindicated in patients who have a history of severe hypersensitivity reactions to docetaxel or to other drugs formulated with polysorbate 80.
+  HIGHLIGHTSSevere reactions, including anaphylaxis, have occurred [see Warnings and Precautions (5.4)].
+ HIGHLIGHTSTAXOTERE should not be used in patients with neutrophil counts of &lt;1500 cells/mm3.
+ HIGHLIGHTS HIGHLIGHTS5.
+WARNINGS AND PRECAUTIONS
+ HIGHLIGHTS HIGHLIGHTS5.1 Toxic Deaths
+ HIGHLIGHTSBreast Cancer TAXOTERE administered at 100 mg/m2 was associated with deaths considered possibly or probably related to treatment in 2.0% (19/965) of metastatic breast cancer patients, both previously treated and untreated, with normal baseline liver function and in 11.5% (7/61) of patients with various tumor types who had abnormal baseline liver function (AST and/or ALT &gt;1.5 times ULN together with AP &gt;2.5 times ULN).
+Among patients dosed at 60 mg/m2 , mortality related to treatment occurred in 0.6% (3/481) of patients with normal liver function, and in 3 of 7 patients with abnormal liver function.
+ HIGHLIGHTSApproximately half of these deaths occurred during the first cycle.
+Sepsis accounted for the majority of the deaths.
+ HIGHLIGHTS HIGHLIGHTSNon-Small Cell Lung Cancer TAXOTERE administered at a dose of 100 mg/m2 in patients with locally advanced or metastatic non-small cell lung cancer who had a history of prior platinum-based chemotherapy was associated with increased treatment-related mortality (14% and 5% in two randomized, controlled studies).
+ HIGHLIGHTSThere were 2.8% treatment-related deaths among the 176 patients treated at the 75 mg/m2 dose in the randomized trials.
+ HIGHLIGHTSAmong patients who experienced treatment-related mortality at the 75 mg/m2 dose level, 3 of 5 patients had an ECOG PS of 2 at study entry [see Dosage and Administration (2.2), Clinical Studies (14)].
+ HIGHLIGHTS HIGHLIGHTS5.2 Hepatic Impairment
+ HIGHLIGHTSPatients with combined abnormalities of transaminases and alkaline phosphatase should not be treated with TAXOTERE [see Boxed Warning, Use in Specific Populations (8.6), Clinical studies (14)].
+ HIGHLIGHTS HIGHLIGHTS5.3 Hematologic Effects
+ HIGHLIGHTSPerform frequent peripheral blood cell counts on all patients receiving TAXOTERE.
+  HIGHLIGHTSPatients should not be retreated with subsequent cycles of TAXOTERE until neutrophils recover to a level &gt;1500 cells/mm3 and platelets recover to a level &gt; 100,000 cells/mm3 .
+ HIGHLIGHTSA 25% reduction in the dose of TAXOTERE is recommended during subsequent cycles following severe neutropenia (&lt;500 cells/mm3) lasting 7 days or more, febrile neutropenia, or a grade 4 infection in a TAXOTERE cycle [see Dosage and Administration (2.7)].
+ HIGHLIGHTS HIGHLIGHTSNeutropenia (&lt;2000 neutrophils/mm3) occurs in virtually all patients given 60 mg/m2 to 100 mg/m2 of TAXOTERE and grade 4 neutropenia (&lt;500 cells/mm3) occurs in 85% of patients given 100 mg/m2 and 75% of patients given 60 mg/m2.
+Frequent monitoring of blood counts is, therefore, essential so that dose can be adjusted.
+HIGHLIGHTS TAXOTERE should not be administered to patients with neutrophils &lt;1500 cells/mm3 .
+ HIGHLIGHTS HIGHLIGHTSFebrile neutropenia occurred in about 12% of patients given 100 mg/m2 but was very uncommon in patients given 60 mg/m2.
+ HIGHLIGHTSHematologic responses, febrile reactions and infections, and rates of septic death for different regimens are dose related [see Adverse Reactions (6.1), Clinical Studies (14)].
+ HIGHLIGHTS HIGHLIGHTSThree breast cancer patients with severe liver impairment (bilirubin &gt;1.7 times ULN) developed fatal gastrointestinal bleeding associated with severe drug-induced thrombocytopenia.
+  HIGHLIGHTSIn gastric cancer patients treated with docetaxel in combination with cisplatin and fluorouracil (TCF), febrile neutropenia and/or neutropenic infection occurred in 12% of patients receiving G-CSF compared to 28% who did not.
+HIGHLIGHTS Patients receiving TCF should be closely monitored during the first and subsequent cycles for febrile neutropenia and neutropenic infection [see Dosage and Administration (2.7), Adverse Reactions (6)].
+ HIGHLIGHTS HIGHLIGHTS5.4 Hypersensitivity Reactions
+ HIGHLIGHTSPatients should be observed closely for hypersensitivity reactions, especially during the first and second infusions.
+HIGHLIGHTS Severe hypersensitivity reactions characterized by generalized rash/erythema, hypotension and/or bronchospasm, or very rarely fatal anaphylaxis, have been reported in patients premedicated with 3 days of corticosteroids.
+HIGHLIGHTS Severe hypersensitivity reactions require immediate discontinuation of the TAXOTERE infusion and aggressive therapy.
+ HIGHLIGHTSPatients with a history of severe hypersensitivity reactions should not be rechallenged with TAXOTERE.
+ HIGHLIGHTS HIGHLIGHTSHypersensitivity reactions may occur within a few minutes following initiation of a TAXOTERE infusion.
+HIGHLIGHTS If minor reactions such as flushing or localized skin reactions occur, interruption of therapy is not required.
+ HIGHLIGHTSAll patients should be premedicated with an oral corticosteroid prior to the initiation of the infusion of TAXOTERE [see Dosage and Administration (2.6)].
+ HIGHLIGHTS HIGHLIGHTS5.5 Fluid Retention
+ HIGHLIGHTSSevere fluid retention has been reported following TAXOTERE therapy.
+ HIGHLIGHTSPatients should be premedicated with oral corticosteroids prior to each TAXOTERE administration to reduce the incidence and severity of fluid retention [see Dosage and Administration (2.6)].
+ HIGHLIGHTSPatients with pre-existing effusions should be closely monitored from the first dose for the possible exacerbation of the effusions.
+ HIGHLIGHTS HIGHLIGHTSWhen fluid retention occurs, peripheral edema usually starts in the lower extremities and may become generalized with a median weight gain of 2 kg.
+ HIGHLIGHTSAmong 92 breast cancer patients premedicated with 3-day corticosteroids, moderate fluid retention occurred in 27.2% and severe fluid retention in 6.5%.
+The median cumulative dose to onset of moderate or severe fluid retention was 819 mg/m2.
+HIGHLIGHTS Nine of 92 patients (9.8%) of patients discontinued treatment due to fluid retention: 4 patients discontinued with severe fluid retention; the remaining 5 had mild or moderate fluid retention.
+ HIGHLIGHTSThe median cumulative dose to treatment discontinuation due to fluid retention was 1021 mg/m2.
+Fluid retention was completely, but sometimes slowly, reversible with a median of 16 weeks from the last infusion of TAXOTERE to resolution (range: 0 to 42+ weeks).
+HIGHLIGHTS Patients developing peripheral edema may be treated with standard measures, e.g., salt restriction, oral diuretic(s).
+ HIGHLIGHTS HIGHLIGHTS5.6 Acute Myeloid Leukemia
+ HIGHLIGHTSTreatment-related acute myeloid leukemia (AML) or myelodysplasia has occurred in patients given anthracyclines and/or cyclophosphamide, including use in adjuvant therapy for breast cancer.
+HIGHLIGHTS In the adjuvant breast cancer trial (TAX316) AML occurred in 3 of 744 patients who received TAXOTERE, doxorubicin and cyclophosphamide (TAC) and in 1 of 736 patients who received fluorouracil, doxorubicin and cyclophosphamide [see Clinical Studies (14.2)].
+In TAC-treated patients, the risk of delayed myelodysplasia or myeloid leukemia requires hematological follow-up.
+ HIGHLIGHTS HIGHLIGHTS5.7 Cutaneous Reactions
+ HIGHLIGHTSLocalized erythema of the extremities with edema followed by desquamation has been observed.
+HIGHLIGHTSIn case of severe skin toxicity, an adjustment in dosage is recommended [see Dosage and Administration (2.7)].
+ HIGHLIGHTSThe discontinuation rate due to skin toxicity was 1.6% (15/965) for metastatic breast cancer patients.
+ HIGHLIGHTSAmong 92 breast cancer patients premedicated with 3-day corticosteroids, there were no cases of severe skin toxicity reported and no patient discontinued TAXOTERE due to skin toxicity.
+ HIGHLIGHTS HIGHLIGHTS5.8 Neurologic Reactions
+ HIGHLIGHTSSevere neurosensory symptoms (e.g. paresthesia, dysesthesia, pain) were observed in 5.5% (53/965) of metastatic breast cancer patients, and resulted in treatment discontinuation in 6.1%.
+When these symptoms occur, dosage must be adjusted.
+ HIGHLIGHTSIf symptoms persist, treatment should be discontinued [see Dosage and Administration (2.7)].
+ HIGHLIGHTSPatients who experienced neurotoxicity in clinical trials and for whom follow-up information on the complete resolution of the event was available had spontaneous reversal of symptoms with a median of 9 weeks from onset (range: 0 to 106 weeks).
+ HIGHLIGHTSSevere peripheral motor neuropathy mainly manifested as distal extremity weakness occurred in 4.4% (42/965).
+ HIGHLIGHTS HIGHLIGHTS5.9 Eye Disorders
+ HIGHLIGHTSCystoid macular edema (CME) has been reported in patients treated with TAXOTERE.
+ HIGHLIGHTSPatients with impaired vision should undergo a prompt and comprehensive ophthalmologic examination.
+ HIGHLIGHTSIf CME is diagnosed, TAXOTERE treatment should be discontinued and appropriate treatment initiated.
+ HIGHLIGHTSAlternative non-taxane cancer treatment should be considered.
+ HIGHLIGHTS HIGHLIGHTS5.10 Asthenia
+ HIGHLIGHTSSevere asthenia has been reported in 14.9% (144/965) of metastatic breast cancer patients but has led to treatment discontinuation in only 1.8%.
+ HIGHLIGHTSSymptoms of fatigue and weakness may last a few days up to several weeks and may be associated with deterioration of performance status in patients with progressive disease.
+ HIGHLIGHTS HIGHLIGHTS5.11 Alcohol Content
+ HIGHLIGHTSCases of intoxication have been reported with some formulations of docetaxel due to the alcohol content.
+ HIGHLIGHTSThe alcohol content in a dose of TAXOTERE Injection may affect the central nervous system and should be taken into account for patients in whom alcohol intake should be avoided or minimized.
+HIGHLIGHTS Consideration should be given to the alcohol content in TAXOTERE Injection on the ability to drive or use machines immediately after the infusion.
+HIGHLIGHTSEach administration of TAXOTERE Injection at 100 mg/m2 delivers 2.0 g/m2 of ethanol.
+For a patient with a BSA of 2.0 m2, this would deliver 4.0 grams of ethanol [see Description (11)].
+ HIGHLIGHTSOther docetaxel products may have a different amount of alcohol.
+ HIGHLIGHTS HIGHLIGHTS5.12 Use in Pregnancy
+ HIGHLIGHTSTAXOTERE can cause fetal harm when administered to a pregnant woman.
+ HIGHLIGHTSDocetaxel caused embryofetal toxicities including intrauterine mortality when administered to pregnant rats and rabbits during the period of organogenesis.
+ HIGHLIGHTSEmbryofetal effects in animals occurred at doses as low as 1/50 and 1/300 the recommended human dose on a body surface area basis.
+ HIGHLIGHTS HIGHLIGHTSThere are no adequate and well-controlled studies in pregnant women using TAXOTERE.
+ HIGHLIGHTSIf TAXOTERE is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
+ HIGHLIGHTSWomen of childbearing potential should be advised to avoid becoming pregnant during therapy with TAXOTERE [see Use in Specific Populations (8.1)].
+ HIGHLIGHTS HIGHLIGHTS6.
+ADVERSE REACTIONS
+ HIGHLIGHTSThe most serious adverse reactions from TAXOTERE are:
+ HIGHLIGHTSToxic Deaths [see Boxed Warning, Warning and Precautions (5.1)]
+ HIGHLIGHTSHepatotoxicity [see Boxed Warning, Warnings and Precautions (5.2)]
+ HIGHLIGHTSNeutropenia [see Boxed Warning, Warnings and Precautions (5.3)]
+ HIGHLIGHTS Hypersensitivity [see Boxed Warning, Warnings and Precautions (5.4)]
+ HIGHLIGHTSFluid Retention [see Boxed Warning, Warnings and Precautions (5.5)]
+ HIGHLIGHTS HIGHLIGHTSThe most common adverse reactions across all TAXOTERE indications are infections, neutropenia, anemia, febrile neutropenia, hypersensitivity, thrombocytopenia, neuropathy, dysgeusia, dyspnea, constipation, anorexia, nail disorders, fluid retention, asthenia, pain, nausea, diarrhea, vomiting, mucositis, alopecia, skin reactions, and myalgia.
+  HIGHLIGHTSIncidence varies depending on the indication.
+ HIGHLIGHTS HIGHLIGHTSAdverse reactions are described according to indication.
+ HIGHLIGHTSBecause clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+ HIGHLIGHTSResponding patients may not experience an improvement in performance status on therapy and may experience worsening.
+ HIGHLIGHTSThe relationship between changes in performance status, response to therapy, and treatment-related side effects has not been established.
+ HIGHLIGHTS HIGHLIGHTS6.1 Clinical Trial Experience
+ HIGHLIGHTSBreast Cancer Monotherapy with TAXOTERE for locally advanced or metastatic breast cancer after failure of prior chemotherapy TAXOTERE 100 mg/m2:
+ HIGHLIGHTSAdverse drug reactions occurring in at least 5% of patients are compared for three populations who received TAXOTERE administered at 100 mg/m2 as a 1-hour infusion every 3 weeks:
+ HIGHLIGHTS2045 patients with various tumor types and normal baseline liver function tests; the subset of 965 patients with locally advanced or metastatic breast cancer, both previously treated and untreated with chemotherapy, who had normal baseline liver function tests; and an additional 61 patients with various tumor types who had abnormal liver function tests at baseline.
+ HIGHLIGHTSThese reactions were described using COSTART terms and were considered possibly or probably related to TAXOTERE.
+ HIGHLIGHTSAt least 95% of these patients did not receive hematopoietic support.
+ HIGHLIGHTSThe safety profile is generally similar in patients receiving TAXOTERE for the treatment of breast cancer and in patients with other tumor types (See Table 3).
+ HIGHLIGHTSTable 3 - Summary of Adverse Reactions in Patients Receiving TAXOTERE at 100 mg/m2
+ HIGHLIGHTSAll Tumor Types Normal LFTs*
+ HIGHLIGHTSAll Tumor Types Elevated LFTs**
+ HIGHLIGHTSBreast Cancer Normal LFTs*
+ HIGHLIGHTSAdverse Reaction n=2045 n=61 n=965 % % %
+ HIGHLIGHTSHematologic Neutropenia
+ HIGHLIGHTS HIGHLIGHTSAdverse Reaction
+ HIGHLIGHTSAll Tumor Types Normal LFTs*
+ HIGHLIGHTSn=2045 %
+ HIGHLIGHTSAll Tumor Types Elevated LFTs**
+ HIGHLIGHTSn=61 %
+ HIGHLIGHTSBreast Cancer Normal LFTs*
+ HIGHLIGHTSn=965 %
+ HIGHLIGHTS&lt;2000 cells/mm3 96 96 99 &lt;500 cells/mm3
+ HIGHLIGHTSLeukopenia 75 88 86
+ HIGHLIGHTS&lt;4000 cells/mm3 96 98 99 &lt;1000 cells/mm3
+ HIGHLIGHTSThrombocytopenia 32 47 44
+ HIGHLIGHTS&lt;100,000 cells/mm3
+ HIGHLIGHTSAnemia 8 25 9
+ HIGHLIGHTS&lt;11 g/dL 90 92 94 &lt;8 g/dL 9 31 8
+ HIGHLIGHTSFebrile Neutropenia*** 11 26 12 Septic Death Non-Septic Death
+ HIGHLIGHTS2 1
+ HIGHLIGHTS5 7
+ HIGHLIGHTS1 1
+ HIGHLIGHTSInfections Any Severe
+ HIGHLIGHTS22 6
+ HIGHLIGHTS33 16
+ HIGHLIGHTS22 6
+ HIGHLIGHTSFever in Absence of Infection Any 31 41 35 Severe 2 8 2
+ HIGHLIGHTSHypersensitivity Reactions Regardless of Premedication Any 21 20 18 Severe 4 10 3
+ HIGHLIGHTSWith 3-day Premedication n=92 n=3 n=92 Any 15 33 15 Severe 2 0 2
+ HIGHLIGHTSFluid Retention Regardless of Premedication Any 47 39 60 Severe 7 8 9
+ HIGHLIGHTSWith 3-day Premedication n=92 n=3 n=92 Any 64 67 64 Severe 7 33 7
+ HIGHLIGHTSNeurosensory Any 49 34 58
+ HIGHLIGHTS HIGHLIGHTSAdverse Reaction
+ HIGHLIGHTSAll Tumor Types Normal LFTs*
+ HIGHLIGHTSn=2045 %
+ HIGHLIGHTSAll Tumor Types Elevated LFTs**
+ HIGHLIGHTSn=61 %
+ HIGHLIGHTSBreast Cancer Normal LFTs*
+ HIGHLIGHTSn=965 %
+ HIGHLIGHTSSevere 4 0 6 Cutaneous Any Severe
+ HIGHLIGHTS48 5
+ HIGHLIGHTS54 10
+ HIGHLIGHTS47 5
+ HIGHLIGHTSNail Changes Any Severe
+ HIGHLIGHTS31 3
+ HIGHLIGHTS23 5
+ HIGHLIGHTS41 4
+ HIGHLIGHTSGastrointestinal Nausea Vomiting Diarrhea
+ HIGHLIGHTSSevere
+ HIGHLIGHTS39 22 39 5
+ HIGHLIGHTS38 23 33 5
+ HIGHLIGHTS42 23 43 6
+ HIGHLIGHTSStomatitis Any Severe
+ HIGHLIGHTS42 6
+ HIGHLIGHTS49 13
+ HIGHLIGHTS52 7
+ HIGHLIGHTSAlopecia 76 62 74 Asthenia Any Severe
+ HIGHLIGHTS62 13
+ HIGHLIGHTS53 25
+ HIGHLIGHTS66 15
+ HIGHLIGHTSMyalgia Any Severe
+ HIGHLIGHTS19 2
+ HIGHLIGHTS16 2
+ HIGHLIGHTS21 2
+ HIGHLIGHTSArthralgia 9 7 8 Infusion Site Reactions 4 3 4 *Normal Baseline LFTs: Transaminases  &#x2030; 1.5 times ULN or alkaline phosphatase  &#x2030; 2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN **Elevated Baseline LFTs: AST and/or ALT &gt;1.5 times ULN concurrent with alkaline phosphatase &gt;2.5 times ULN ***Febrile Neutropenia: ANC grade 4 with fever &gt;38oC with intravenous antibiotics and/or hospitalization
+ HIGHLIGHTS HIGHLIGHTSHematologic Reactions Reversible marrow suppression was the major dose-limiting toxicity of TAXOTERE [see Warnings and Precautions (5.3)].
+The median time to nadir was 7 days, while the median duration of severe neutropenia (&lt;500 cells/mm3) was 7 days.
+ HIGHLIGHTSAmong 2045 patients with solid tumors and normal baseline LFTs, severe neutropenia occurred in 75.4% and lasted for more than 7 days in 2.9% of cycles.
+ HIGHLIGHTSFebrile neutropenia (&lt;500 cells/mm3 with fever &gt;38oC with intravenous antibiotics and/or hospitalization) occurred in 11% of patients with solid tumors, in 12.3% of patients with metastatic breast cancer, and in 9.8% of 92 breast cancer patients premedicated with 3-day corticosteroids.
+ HIGHLIGHTSSevere infectious episodes occurred in 6.1% of patients with solid tumors, in 6.4% of patients with metastatic breast cancer, and in 5.4% of 92 breast cancer patients premedicated with 3-day corticosteroids.
+ HIGHLIGHTS HIGHLIGHTSThrombocytopenia (&lt;100,000 cells/mm3) associated with fatal gastrointestinal hemorrhage has been reported.
+ HIGHLIGHTSHypersensitivity Reactions Severe hypersensitivity reactions have been reported [see Boxed Warning, Warnings and Precautions (5.4)].
+ HIGHLIGHTSMinor events, including flushing, rash with or without pruritus, chest tightness, back pain, dyspnea, drug fever, or chills, have been reported and resolved after discontinuing the infusion and instituting appropriate therapy.
+ HIGHLIGHTS HIGHLIGHTSFluid Retention.
+Fluid retention can occur with the use of TAXOTERE [see Boxed Warning, Dosage and Administration (2.6), Warnings and Precautions (5.5)].
+ HIGHLIGHTSCutaneous Reactions Severe skin toxicity is discussed elsewhere in the label [see Warnings and Precautions (5.7)].
+ HIGHLIGHTSReversible cutaneous reactions characterized by a rash including localized eruptions, mainly on the feet and/or hands, but also on the arms, face, or thorax, usually associated with pruritus, have been observed.
+ HIGHLIGHTSEruptions generally occurred within 1 week after TAXOTERE infusion, recovered before the next infusion, and were not disabling.
+ HIGHLIGHTSSevere nail disorders were characterized by hypo- or hyperpigmentation, and occasionally by onycholysis (in 0.8% of patients with solid tumors) and pain.
+ HIGHLIGHTSNeurologic Reactions Neurologic reactions are discussed elsewhere in the label [see Warnings and Precautions (5.8)]
+ HIGHLIGHTS HIGHLIGHTSGastrointestinal Reactions Nausea, vomiting, and diarrhea were generally mild to moderate.
+ HIGHLIGHTSSevere reactions occurred in 3.5% of patients with solid tumors and to a similar extent among metastatic breast cancer patients.
+ HIGHLIGHTSThe incidence of severe reactions was 1% or less for the 92 breast cancer patients premedicated with 3-day corticosteroids.
+ HIGHLIGHTS HIGHLIGHTSSevere stomatitis occurred in 5.5% of patients with solid tumors, in 7.4% of patients with metastatic breast cancer, and in 1.1% of the 92 breast cancer patients premedicated with 3-day corticosteroids.
+ HIGHLIGHTSCardiovascular Reactions Hypotension occurred in 2.8% of patients with solid tumors; 1.2% required treatment.
+ HIGHLIGHTSClinically meaningful events such as heart failure, sinus tachycardia, atrial flutter, dysrhythmia, unstable angina, pulmonary edema, and hypertension occurred rarely.
+ HIGHLIGHTSSeven of 86 (8.1%) of metastatic breast cancer patients receiving TAXOTERE 100 mg/m2 in a randomized trial and who had serial left ventricular ejection fractions assessed developed deterioration of LVEF by  &#x2030; 10% associated with a drop below the institutional lower limit of normal.
+ HIGHLIGHTS HIGHLIGHTSInfusion Site Reactions Infusion site reactions were generally mild and consisted of hyperpigmentation, inflammation, redness or dryness of the skin, phlebitis, extravasation, or swelling of the vein.
+ HIGHLIGHTS HIGHLIGHTSHepatic Reactions In patients with normal LFTs at baseline, bilirubin values greater than the ULN occurred in 8.9% of patients.
+ HIGHLIGHTSIncreases in AST or ALT &gt;1.5 times the ULN, or alkaline phosphatase &gt;2.5 times ULN, were observed in 18.9% and 7.3% of patients, respectively.
+ HIGHLIGHTSWhile on TAXOTERE, increases in AST and/or ALT &gt;1.5 times ULN concomitant with alkaline phosphatase &gt;2.5 times ULN occurred in 4.3% of patients with normal LFTs at baseline.
+HIGHLIGHTS Whether these changes were related to the drug or underlying disease has not been established.
+ HIGHLIGHTS HIGHLIGHTSHematologic and Other Toxicity: Relation to dose and baseline liver chemistry abnormalities Hematologic and other toxicity is increased at higher doses and in patients with elevated baseline liver function tests (LFTs).
+HIGHLIGHTS In the following tables, adverse drug reactions are compared for three populations: 730 patients with normal LFTs given TAXOTERE at 100 mg/m2 in the randomized and single arm studies of metastatic breast cancer after failure of previous chemotherapy; 18 patients in these studies who had abnormal baseline LFTs (defined as AST and/or ALT &gt;1.5 times ULN concurrent with alkaline phosphatase &gt;2.5 times ULN); and 174 patients in Japanese studies given TAXOTERE at 60 mg/m2 who had normal LFTs (see Tables 4 and 5).
+ HIGHLIGHTS HIGHLIGHTSTable 4 - Hematologic Adverse Reactions in Breast Cancer Patients Previously Treated with Chemotherapy Treated at TAXOTERE 100 mg/m2 with Normal or Elevated Liver Function Tests or 60 mg/m2 with Normal Liver Function Tests
+ HIGHLIGHTSAdverse Reaction
+ HIGHLIGHTSTAXOTERE 100 mg/m2
+ HIGHLIGHTSTAXOTERE 60 mg/m2
+ HIGHLIGHTSNormal LFTs* n=730
+ HIGHLIGHTS%
+ HIGHLIGHTSElevated LFTs**
+ HIGHLIGHTSn=18 %
+ HIGHLIGHTSNormal LFTs* n=174
+ HIGHLIGHTS% Neutropenia
+ HIGHLIGHTSAny &lt;2000 cells/mm3
+ HIGHLIGHTSGrade 4    &lt;500 cells/mm3 98 84
+ HIGHLIGHTS100 94
+ HIGHLIGHTS95 75
+ HIGHLIGHTSThrombocytopenia Any &lt;100,000 cells/mm3
+ HIGHLIGHTSGrade 4   &lt;20,000 cells/mm3 11 1
+ HIGHLIGHTS44 17
+ HIGHLIGHTS14 1
+ HIGHLIGHTSAnemia &lt;11 g/dL 95 94 65
+ HIGHLIGHTS   HIGHLIGHTSAdverse Reaction
+ HIGHLIGHTSTAXOTERE 100 mg/m2
+ HIGHLIGHTSTAXOTERE 60 mg/m2
+ HIGHLIGHTSNormal LFTs* n=730
+ HIGHLIGHTS%
+ HIGHLIGHTSElevated LFTs**
+ HIGHLIGHTSn=18 %
+ HIGHLIGHTSNormal LFTs* n=174
+ HIGHLIGHTS% Infection***
+ HIGHLIGHTSAny Grade 3 and 4
+ HIGHLIGHTS23 7
+ HIGHLIGHTS39 33
+ HIGHLIGHTS1 0
+ HIGHLIGHTSFebrile Neutropenia**** By Patient By Course
+ HIGHLIGHTS12 2
+ HIGHLIGHTS33 9
+ HIGHLIGHTS0 0
+ HIGHLIGHTS HIGHLIGHTSSeptic Death 2 6 1 Non-Septic Death 1 11 0 *Normal Baseline LFTs: Transaminases  &#x2030; 1.5 times ULN or alkaline phosphatase  &#x2030; 2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN **Elevated Baseline LFTs: AST and/or ALT &gt;1.5 times ULN concurrent with alkaline phosphatase &gt;2.5 times ULN ***Incidence of infection requiring hospitalization and/or intravenous antibiotics was 8.5% (n=62) among the 730 patients with normal LFTs at baseline; 7 patients had concurrent grade 3 neutropenia, and 46 patients had grade 4 neutropenia.
+ HIGHLIGHTS****Febrile Neutropenia: For 100 mg/m2, ANC grade 4 and fever &gt;38C with intravenous antibiotics and/or hospitalization; for 60 mg/m2, ANC grade 3/4 and fever &gt;38.1C
+ HIGHLIGHTSTable 5 - Non-Hematologic Adverse Reactions in Breast Cancer Patients Previously
+HIGHLIGHTS Treated with Chemotherapy Treated at TAXOTERE 100 mg/m2 with Normal or Elevated
+HIGHLIGHTS  HIGHLIGHTSLiver Function Tests or 60 mg/m2 with Normal Liver Function Tests
+HIGHLIGHTS  HIGHLIGHTSAdverse Reaction
+ HIGHLIGHTSTAXOTERE 100 mg/m2
+ HIGHLIGHTSTAXOTERE 60 mg/m2
+ HIGHLIGHTSNormal LFTs* n=730
+ HIGHLIGHTS%
+ HIGHLIGHTSElevated LFTs**
+ HIGHLIGHTSn=18 %
+ HIGHLIGHTSNormal LFTs* n=174
+ HIGHLIGHTS% Acute Hypersensitivity
+ HIGHLIGHTSReaction Regardless of Premedication
+ HIGHLIGHTSAny Severe
+ HIGHLIGHTS13 1
+ HIGHLIGHTS6 0
+ HIGHLIGHTS1 0
+ HIGHLIGHTSFluid Retention*** Regardless of Premedication
+ HIGHLIGHTSAny Severe
+ HIGHLIGHTS56 8
+ HIGHLIGHTS61 17
+ HIGHLIGHTS13 0
+ HIGHLIGHTSNeurosensory
+ HIGHLIGHTS HIGHLIGHTSAdverse Reaction
+ HIGHLIGHTSTAXOTERE 100 mg/m2
+ HIGHLIGHTSTAXOTERE 60 mg/m2
+ HIGHLIGHTSNormal LFTs* n=730
+ HIGHLIGHTS%
+ HIGHLIGHTSElevated LFTs**
+ HIGHLIGHTSn=18 %
+ HIGHLIGHTSNormal LFTs* n=174
+ HIGHLIGHTS% Any Severe
+ HIGHLIGHTS57 6
+ HIGHLIGHTS50 0
+ HIGHLIGHTS20 0
+ HIGHLIGHTSMyalgia 23 33 3 Cutaneous
+ HIGHLIGHTSAny Severe
+ HIGHLIGHTS45 5
+ HIGHLIGHTS61 17
+ HIGHLIGHTS31 0
+ HIGHLIGHTSAsthenia Any Severe
+ HIGHLIGHTS65 17
+ HIGHLIGHTS44 22
+ HIGHLIGHTS66 0
+ HIGHLIGHTSDiarrhea Any Severe
+ HIGHLIGHTS42 6
+ HIGHLIGHTS28 11
+ HIGHLIGHTSNA
+ HIGHLIGHTSStomatitis Any Severe
+ HIGHLIGHTS53 8
+ HIGHLIGHTS67 39
+ HIGHLIGHTS19 1
+ HIGHLIGHTS HIGHLIGHTS*Normal Baseline LFTs: Transaminases  &#x2030; 1.5 times ULN or alkaline phosphatase  &#x2030; 2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN
+ HIGHLIGHTS** Elevated Baseline Liver Function: AST and/or ALT &gt;1.5 times ULN concurrent with alkaline phosphatase &gt;2.5 times ULN ***Fluid Retention includes (by COSTART): edema (peripheral, localized, generalized, lymphedema, pulmonary edema, and edema otherwise not specified) and effusion (pleural, pericardial, and ascites); no premedication given with the 60 mg/m2 dose NA = not available
+ HIGHLIGHTS HIGHLIGHTSIn the three-arm monotherapy trial, TAX313, which compared TAXOTERE 60 mg/m2 , 75 mg/m2 and 100 mg/m2 in advanced breast cancer, grade 3/4 or severe adverse reactions occurred in 49.0% of patients treated with TAXOTERE 60 mg/m2 compared to 55.3% and 65.9% treated with 75 mg/m2 and 100 mg/m2 respectively.
+HIGHLIGHTS Discontinuation due to adverse reactions was reported in 5.3% of patients treated with 60 mg/m2 vs. 6.9% and 16.5% for patients treated at 75 and 100 mg/m2 respectively.
+ HIGHLIGHTSDeaths within 30 days of last treatment occurred in 4.0% of patients treated with 60 mg/m2 compared to 5.3% and 1.6% for patients treated at 75 mg/m2 and 100 mg/m2 respectively.
+ HIGHLIGHTSThe following adverse reactions were associated with increasing docetaxel doses: fluid retention (26%, 38%, and 46% at 60 mg/m2, 75 mg/m2, and 100 mg/m2 respectively), thrombocytopenia (7%, 11% and 12% respectively), neutropenia (92%, 94%, and 97% respectively), febrile neutropenia (5%, 7%, and 14% respectively), treatment-related grade 3/4 infection (2%, 3%, and 7% respectively) and anemia (87%, 94%, and 97% respectively).
+ HIGHLIGHTS HIGHLIGHTSCombination therapy with TAXOTERE in the adjuvant treatment of breast cancer
+ HIGHLIGHTSThe following table presents treatment emergent adverse reactions observed in 744 patients, who were treated with TAXOTERE 75 mg/m every 3 weeks in combination with doxorubicin and cyclophosphamide (see Table 6).
+ HIGHLIGHTSTable 6- Clinically Important Treatment Emergent Adverse Reactions Regardless of Causal Relationship in Patients Receiving TAXOTERE in Combination with Doxorubicin and Cyclophosphamide (TAX316).
+TAXOTERE 75 mg/m2+ Doxorubicin 50 mg/m2+ Cyclophosphamide 500
+ HIGHLIGHTSmg/m2 (TAC) n=744
+ HIGHLIGHTS%
+ HIGHLIGHTSFluorouracil 500 mg/m2+ Doxorubicin 50 mg/m2+ Cyclophosphamide 500
+ HIGHLIGHTSmg/m2 (FAC) n=736
+ HIGHLIGHTS%
+ HIGHLIGHTS HIGHLIGHTSAdverse Reaction Any Grade 3/4 Any Grade 3/4 Anemia 92 4 72 2 Neutropenia 71 66 82 49 Fever in absence of infection 47 1 17 0 Infection 39 4 36 2 Thrombocytopenia 39 2 28 1 Febrile neutropenia 25 N/A 3 N/A Neutropenic infection 12 N/A 6 N/A Hypersensitivity reactions 13 1 4 0 Lymphedema 4 0 1 0 Fluid Retention* Peripheral edema Weight gain
+ HIGHLIGHTS35 27 13
+ HIGHLIGHTS1 0 0
+ HIGHLIGHTS15 7 9
+ HIGHLIGHTS0 0 0
+ HIGHLIGHTSNeuropathy sensory 26 0 10 0 Neuro-cortical 5 1 6 1 Neuropathy motor 4 0 2 0 Neuro-cerebellar 2 0 2 0 Syncope 2 1 1 0 Alopecia 98 N/A 97 N/A Skin toxicity 27 1 18 0 Nail disorders 19 0 14 0 Nausea 81 5 88 10 Stomatitis 69 7 53 2 Vomiting 45 4 59 7 Diarrhea 35 4 28 2 Constipation 34 1 32 1 Taste perversion 28 1 15 0
+ HIGHLIGHTS HIGHLIGHTSTAXOTERE 75 mg/m2+ Doxorubicin 50 mg/m2+ Cyclophosphamide 500
+ HIGHLIGHTSmg/m2 (TAC) n=744
+ HIGHLIGHTS%
+ HIGHLIGHTSFluorouracil 500 mg/m2+ Doxorubicin 50 mg/m2+ Cyclophosphamide 500
+ HIGHLIGHTSmg/m2 (FAC) n=736
+ HIGHLIGHTS%
+ HIGHLIGHTSAdverse Reaction Any Grade 3/4 Any Grade 3/4 Anorexia 22 2 18 1 Abdominal Pain 11 1 5 0 Amenorrhea 62 N/A 52 N/A Cough 14 0 10 0 Cardiac dysrhythmias 8 0 6 0 Vasodilatation 27 1 21 1 Hypotension 2 0 1 0 Phlebitis 1 0 1 0 Asthenia 81 11 71 6 Myalgia 27 1 10 0 Arthralgia 19 1 9 0 Lacrimation disorder 11 0 7 0 Conjunctivitis 5 0 7 0 * COSTART term and grading system for events related to treatment.
+ HIGHLIGHTSOf the 744 patients treated with TAC, 36.3% experienced severe treatment emergent adverse reactions compared to 26.6% of the 736 patients treated with FAC.
+  HIGHLIGHTSDose reductions due to hematologic toxicity occurred in 1% of cycles in the TAC arm versus 0.1% of cycles in the FAC arm.
+ HIGHLIGHTSSix percent of patients treated with TAC discontinued treatment due to adverse reactions, compared to 1.1% treated with FAC; fever in the absence of infection and allergy being the most common reasons for withdrawal among TAC-treated patients.
+ HIGHLIGHTSTwo patients died in each arm within 30 days of their last study treatment; 1 death per arm was attributed to study drugs.
+ HIGHLIGHTSFever and Infection Fever in the absence of infection was seen in 46.5% of TAC-treated patients and in 17.1% of FAC-treated patients.
+ HIGHLIGHTSGrade 3/4 fever in the absence of infection was seen in 1.3% and 0% of TAC- and FAC-treated patients respectively.
+ HIGHLIGHTSInfection was seen in 39.4% of TAC-treated patients compared to 36.3% of FAC-treated patients.
+HIGHLIGHTS Grade 3/4 infection was seen in 3.9% and 2.2% of TAC-treated and FAC-treated patients respectively.
+ HIGHLIGHTSThere were no septic deaths in either treatment arm.
+ HIGHLIGHTSGastrointestinal Reactions In addition to gastrointestinal reactions reflected in the table above, 7 patients in the TAC arm were reported to have colitis/enteritis/large intestine perforation vs. one patient in the FAC arm.
+Five of the 7 TAC-treated patients required treatment discontinuation; no deaths due to these events occurred.
+ HIGHLIGHTS HIGHLIGHTSCardiovascular Reactions More cardiovascular reactions were reported in the TAC arm vs. the FAC arm; dysrhythmias, all grades (7.9% vs. 6.0%), hypotension, all grades (2.6% vs. 1.1%) and CHF (2.3% vs. 0.9%, at 70 months median follow-up).
+ HIGHLIGHTSOne patient in each arm died due to heart failure.
+ HIGHLIGHTS HIGHLIGHTSAcute Myeloid Leukemia (AML) Treatment-related acute myeloid leukemia or myelodysplasia is known to occur in patients treated with anthracyclines and/or cyclophosphamide, including use in adjuvant therapy for breast cancer.
+  HIGHLIGHTSAML occurs at a higher frequency when these agents are given in combination with radiation therapy.
+ HIGHLIGHTSAML occurred in the adjuvant breast cancer trial (TAX316).
+The cumulative risk of developing treatment-related AML at 5 years in TAX316 was 0.4% for TAC-treated patients and 0.1% for FAC-treated patients.
+ HIGHLIGHTSThis risk of AML is comparable to the risk observed for other anthracyclines/cyclophosphamide containing adjuvant breast chemotherapy regimens.
+ HIGHLIGHTS HIGHLIGHTSLung Cancer Monotherapy with TAXOTERE for unresectable, locally advanced or metastatic NSCLC previously treated with platinum-based chemotherapy TAXOTERE 75 mg/m2: Treatment emergent adverse drug reactions are shown in Table 7.
+ HIGHLIGHTSIncluded in this table are safety data for a total of 176 patients with non-small cell lung carcinoma and a history of prior treatment with platinum-based chemotherapy who were treated in two randomized, controlled trials.
+ HIGHLIGHTSThese reactions were described using NCI Common Toxicity Criteria regardless of relationship to study treatment, except for the hematologic toxicities or where otherwise noted.
+ HIGHLIGHTS HIGHLIGHTSTable 7 - Treatment Emergent Adverse Reactions Regardless of Relationship to Treatment in Patients Receiving TAXOTERE as Monotherapy for Non-Small Cell Lung Cancer
+ HIGHLIGHTSPreviously Treated with Platinum-Based Chemotherapy*
+ HIGHLIGHTSAdverse Reaction
+ HIGHLIGHTSTAXOTERE 75 mg/m2
+ HIGHLIGHTSn=176 %
+ HIGHLIGHTSBest Supportive Care n=49
+ HIGHLIGHTS%
+ HIGHLIGHTSVinorelbine/ Ifosfamide
+ HIGHLIGHTSn=119 %
+ HIGHLIGHTSNeutropenia Any Grade 3/4
+ HIGHLIGHTS84 65
+ HIGHLIGHTS14 12
+ HIGHLIGHTS83 57
+ HIGHLIGHTSLeukopenia Any Grade 3/4
+ HIGHLIGHTS84 49
+ HIGHLIGHTS6 0
+ HIGHLIGHTS89 43
+ HIGHLIGHTSThrombocytopenia Any Grade 3/4
+ HIGHLIGHTS8 3
+ HIGHLIGHTS0 0
+ HIGHLIGHTS8 2
+ HIGHLIGHTSAnemia Any Grade 3/4
+ HIGHLIGHTS91 9
+ HIGHLIGHTS55 12
+ HIGHLIGHTS91 14
+ HIGHLIGHTS     HIGHLIGHTSAdverse Reaction
+ HIGHLIGHTSTAXOTERE 75 mg/m2
+ HIGHLIGHTSn=176 %
+ HIGHLIGHTSBest Supportive Care n=49
+ HIGHLIGHTS%
+ HIGHLIGHTSVinorelbine/ Ifosfamide
+ HIGHLIGHTSn=119 %
+ HIGHLIGHTSFebrile Neutropenia** 6  &#x201a;  1 Infection Any Grade 3/4
+ HIGHLIGHTS34 10
+ HIGHLIGHTS29 6
+ HIGHLIGHTS30 9
+ HIGHLIGHTSTreatment Related Mortality 3  &#x201a; 3 Hypersensitivity Reactions Any Grade 3/4
+ HIGHLIGHTS6 3
+ HIGHLIGHTS0 0
+ HIGHLIGHTS1 0
+ HIGHLIGHTSFluid Retention Any Severe
+ HIGHLIGHTS34 3
+ HIGHLIGHTS &#x201a;  &#x201a;  23 3
+ HIGHLIGHTSNeurosensory Any Grade 3/4
+ HIGHLIGHTS23 2
+ HIGHLIGHTS14 6
+ HIGHLIGHTS29 5
+ HIGHLIGHTSNeuromotor Any Grade 3/4
+ HIGHLIGHTS16 5
+ HIGHLIGHTS8 6
+ HIGHLIGHTS10 3
+ HIGHLIGHTSSkin Any Grade 3/4
+ HIGHLIGHTS20 1
+ HIGHLIGHTS6 2
+ HIGHLIGHTS17 1
+ HIGHLIGHTSGastrointestinal Nausea Any Grade 3/4 Vomiting Any Grade 3/4 Diarrhea Any Grade 3/4
+ HIGHLIGHTS34 5
+ HIGHLIGHTS22 3
+ HIGHLIGHTS23 3
+ HIGHLIGHTS31 4
+ HIGHLIGHTS27 2
+ HIGHLIGHTS6 0
+ HIGHLIGHTS31 8
+ HIGHLIGHTS22 6
+ HIGHLIGHTS12 4
+ HIGHLIGHTSAlopecia 56 35 50 Asthenia Any Severe***
+ HIGHLIGHTS53 18
+ HIGHLIGHTS57 39
+ HIGHLIGHTS54 23
+ HIGHLIGHTSStomatitis
+ HIGHLIGHTS HIGHLIGHTSAdverse Reaction
+ HIGHLIGHTSTAXOTERE 75 mg/m2
+ HIGHLIGHTSn=176 %
+ HIGHLIGHTSBest Supportive Care n=49
+ HIGHLIGHTS%
+ HIGHLIGHTSVinorelbine/ Ifosfamide
+ HIGHLIGHTSn=119 %
+ HIGHLIGHTSAny 26 6 8 Grade 3/4 2 0 1
+ HIGHLIGHTSPulmonary Any 41 49 45 Grade 3/4 21 29 19
+ HIGHLIGHTSNail Disorder Any 11 0 2 Severe*** 1 0 0
+ HIGHLIGHTSMyalgia Any 6 0 3 Severe*** 0 0 0
+ HIGHLIGHTSArthralgia Any 3 2 2 Severe*** 0 0 1
+ HIGHLIGHTSTaste Perversion Any 6 0 0 Severe*** 1 0 0
+ HIGHLIGHTS*Normal Baseline LFTs: Transaminases  &#x2030; 1.5 times ULN or alkaline phosphatase  &#x2030; 2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN **Febrile Neutropenia: ANC grade 4 with fever &gt;38C with intravenous antibiotics and/or hospitalization ***COSTART term and grading system  &#x201a; Not Applicable  &#x201a;  &#x201a;  Not Done
+ HIGHLIGHTS HIGHLIGHTSCombination therapy with TAXOTERE in chemotherapy-naive advanced unresectable or metastatic NSCLC Table 8 presents safety data from two arms of an open label, randomized controlled trial (TAX326) that enrolled patients with unresectable stage IIIB or IV non-small cell lung cancer and no history of prior chemotherapy.
+ HIGHLIGHTSAdverse reactions were described using the NCI Common Toxicity Criteria except where otherwise noted.
+ HIGHLIGHTS HIGHLIGHTSTable 8 - Adverse Reactions Regardless of Relationship to Treatment in Chemotherapy-Naive Advanced Non-Small Cell Lung Cancer Patients Receiving TAXOTERE in Combination with Cisplatin
+HIGHLIGHTS  HIGHLIGHTSAdverse Reaction
+ HIGHLIGHTSTAXOTERE 75 mg/m2 + Cisplatin 75 mg/m2
+ HIGHLIGHTSn=406 %
+ HIGHLIGHTSVinorelbine 25 mg/m2 + Cisplatin 100 mg/m2
+ HIGHLIGHTSn=396 %
+ HIGHLIGHTSNeutropenia Any Grade 3/4
+ HIGHLIGHTS91 74
+ HIGHLIGHTS90 78
+ HIGHLIGHTSFebrile Neutropenia 5 5 Thrombocytopenia Any Grade 3/4
+ HIGHLIGHTS15 3
+ HIGHLIGHTS15 4
+ HIGHLIGHTSAnemia Any Grade 3/4
+ HIGHLIGHTS89 7
+ HIGHLIGHTS94 25
+ HIGHLIGHTSInfection Any Grade 3/4
+ HIGHLIGHTS35 8
+ HIGHLIGHTS37 8
+ HIGHLIGHTSFever in absence of infection Any Grade 3/4
+ HIGHLIGHTS33 &lt; 1
+ HIGHLIGHTS29 1
+ HIGHLIGHTSHypersensitivity Reaction* Any Grade 3/4
+ HIGHLIGHTS12 3
+ HIGHLIGHTS4 &lt; 1
+ HIGHLIGHTSFluid Retention** Any 54 42 All severe or life-threatening events
+ HIGHLIGHTSPleural effusion 2 2
+ HIGHLIGHTSAny 23 22 All severe or life-threatening events
+ HIGHLIGHTSPeripheral edema 2 2
+ HIGHLIGHTSAny 34 18 All severe or life-threatening events
+ HIGHLIGHTSWeight gain &lt;1 &lt;1
+ HIGHLIGHTSAny 15 9 All severe or life-threatening events &lt;1 &lt;1
+ HIGHLIGHTSNeurosensory Any Grade 3/4
+ HIGHLIGHTS47 4
+ HIGHLIGHTS42 4
+ HIGHLIGHTS HIGHLIGHTSAdverse Reaction
+ HIGHLIGHTSTAXOTERE 75 mg/m2 + Cisplatin 75 mg/m2
+ HIGHLIGHTSn=406 %
+ HIGHLIGHTSVinorelbine 25 mg/m2 + Cisplatin 100 mg/m2
+ HIGHLIGHTSn=396 %
+ HIGHLIGHTSNeuromotor Any Grade 3/4
+ HIGHLIGHTS19 3
+ HIGHLIGHTS17 6
+ HIGHLIGHTSSkin Any Grade 3/4
+ HIGHLIGHTS16 &lt;1
+ HIGHLIGHTS14 1
+ HIGHLIGHTSNausea Any Grade 3/4
+ HIGHLIGHTS72 10
+ HIGHLIGHTS76 17
+ HIGHLIGHTSVomiting Any Grade 3/4
+ HIGHLIGHTS55 8
+ HIGHLIGHTS61 16
+ HIGHLIGHTSDiarrhea Any Grade 3/4
+ HIGHLIGHTS47 7
+ HIGHLIGHTS25 3
+ HIGHLIGHTSAnorexia** Any All severe or life-threatening events
+ HIGHLIGHTS42 5
+ HIGHLIGHTS40 5
+ HIGHLIGHTSStomatitis Any Grade 3/4
+ HIGHLIGHTS24 2
+ HIGHLIGHTS21 1
+ HIGHLIGHTSAlopecia Any Grade 3
+ HIGHLIGHTS75 &lt;1
+ HIGHLIGHTS42 0
+ HIGHLIGHTSAsthenia** Any All severe or life-threatening events
+ HIGHLIGHTS74 12
+ HIGHLIGHTS75 14
+ HIGHLIGHTSNail Disorder** Any All severe events
+ HIGHLIGHTS14 &lt;1
+ HIGHLIGHTS&lt;1 0
+ HIGHLIGHTSMyalgia** Any All severe events
+ HIGHLIGHTS18 &lt;1
+ HIGHLIGHTS12 &lt;1
+ HIGHLIGHTS HIGHLIGHTS* Replaces NCI term "Allergy" ** COSTART term and grading system
+ HIGHLIGHTSDeaths within 30 days of last study treatment occurred in 31 patients (7.6%) in the docetaxel+cisplatin arm and 37 patients (9.3%) in the vinorelbine+cisplatin arm.
+ HIGHLIGHTSDeaths within 30 days of last study treatment attributed to study drug occurred in 9 patients (2.2%) in the docetaxel+cisplatin arm and 8 patients (2.0%) in the vinorelbine+cisplatin arm.
+ HIGHLIGHTS HIGHLIGHTSThe second comparison in the study, vinorelbine+cisplatin versus TAXOTERE+carboplatin (which did not demonstrate a superior survival associated with TAXOTERE, [see Clinical Studies (14.3)] )
+HIGHLIGHTS demonstrated a higher incidence of thrombocytopenia, diarrhea, fluid retention, hypersensitivity reactions, skin toxicity, alopecia and nail changes on the TAXOTERE+carboplatin arm, while a higher incidence of anemia, neurosensory toxicity, nausea, vomiting, anorexia and asthenia was observed on the vinorelbine+cisplatin arm.
+ HIGHLIGHTS HIGHLIGHTSProstate Cancer Combination therapy with TAXOTERE in patients with prostate cancer
+ HIGHLIGHTSThe following data are based on the experience of 332 patients, who were treated with TAXOTERE 75 mg/m every 3 weeks in combination with prednisone 5 mg orally twice daily (see Table 9).
+ HIGHLIGHTS HIGHLIGHTSTable 9 - Clinically Important Treatment Emergent Adverse Reactions (Regardless of Relationship) in Patients with Prostate Cancer who Received TAXOTERE in Combination with Prednisone (TAX327) TAXOTERE 75 mg/m2
+ HIGHLIGHTSevery 3 weeks + prednisone 5 mg twice daily n=332 %
+ HIGHLIGHTSMitoxantrone 12 mg/m2 every 3 weeks + prednisone 5 mg twice daily
+ HIGHLIGHTSn=335 %
+ HIGHLIGHTSAdverse Reaction Any Grade 3/4 Any Grade 3/4
+ HIGHLIGHTSAnemia 67 5 58 2 Neutropenia 41 32 48 22 Thrombocytopenia 3 1 8 1 Febrile neutropenia 3 N/A 2 N/A Infection 32 6 20 4 Epistaxis 6 0 2 0 Allergic Reactions 8 1 1 0 Fluid Retention* Weight Gain* Peripheral Edema*
+ HIGHLIGHTS24 8 18
+ HIGHLIGHTS1 0 0
+ HIGHLIGHTS5 3 2
+ HIGHLIGHTS0 0 0
+ HIGHLIGHTSNeuropathy Sensory 30 2 7 0 Neuropathy Motor 7 2 3 1 Rash/Desquamation 6 0 3 1 Alopecia 65 N/A 13 N/A Nail Changes 30 0 8 0 Nausea 41 3 36 2 Diarrhea 32 2 10 1 Stomatitis/Pharyngitis 20 1 8 0
+ HIGHLIGHTS HIGHLIGHTSTAXOTERE 75 mg/m2 every 3 weeks + prednisone 5 mg twice daily n=332 %
+ HIGHLIGHTSMitoxantrone 12 mg/m2 every 3 weeks + prednisone 5 mg twice daily n=335 %
+ HIGHLIGHTS HIGHLIGHTSAdverse Reaction Any Grade 3/4 Any Grade 3/4
+ HIGHLIGHTSTaste Disturbance 18 0 7 0 Vomiting 17 2 14 2 Anorexia 17 1 14 0 Cough 12 0 8 0 Dyspnea 15 3 9 1 Cardiac left ventricular function 10 0 22 1
+ HIGHLIGHTSFatigue 53 5 35 5 Myalgia 15 0 13 1 Tearing 10 1 2 0 Arthralgia 8 1 5 1 *Related to treatment
+ HIGHLIGHTS HIGHLIGHTSGastric Cancer Combination therapy with TAXOTERE in gastric adenocarcinoma Data in the following table are based on the experience of 221 patients with advanced gastric adenocarcinoma and no history of prior chemotherapy for advanced disease, who were treated with TAXOTERE 75 mg/m2 in combination with cisplatin and fluorouracil (see Table 10).
+ HIGHLIGHTS HIGHLIGHTSTable 10 - Clinically Important Treatment Emergent Adverse Reactions Regardless of
+HIGHLIGHTS Relationship to Treatment in the Gastric Cancer Study
+HIGHLIGHTS  HIGHLIGHTSTAXOTERE 75 mg/m2 + cisplatin 75 mg/m2 +
+ HIGHLIGHTSfluorouracil 750 mg/m2 n=221
+ HIGHLIGHTSCisplatin 100 mg/m2 + fluorouracil 1000 mg/m2
+ HIGHLIGHTSn=224
+ HIGHLIGHTSAdverse Reaction Any %
+ HIGHLIGHTSGrade 3/4 %
+ HIGHLIGHTSAny %
+ HIGHLIGHTSGrade 3/4 %
+ HIGHLIGHTSAnemia 97 18 93 26 Neutropenia 96 82 83 57 Fever in the absence of infection
+ HIGHLIGHTS36 2 23 1
+ HIGHLIGHTSThrombocytopenia 26 8 39 14 Infection 29 16 23 10 Febrile neutropenia 16 N/A 5 N/A
+ HIGHLIGHTS HIGHLIGHTSTAXOTERE 75 mg/m2 + cisplatin 75 mg/m2 +
+ HIGHLIGHTSfluorouracil 750 mg/m2 n=221
+ HIGHLIGHTSCisplatin 100 mg/m2 + fluorouracil 1000 mg/m2
+ HIGHLIGHTSn=224
+ HIGHLIGHTSAdverse Reaction Any %
+ HIGHLIGHTSGrade 3/4 %
+ HIGHLIGHTSAny %
+ HIGHLIGHTSGrade 3/4 %
+ HIGHLIGHTSNeutropenic infection 16 N/A 10 N/A Allergic reactions 10 2 6 0 Fluid retention* 15 0 4 0 Edema* 13 0 3 0 Lethargy 63 21 58 18 Neurosensory 38 8 25 3 Neuromotor 9 3 8 3 Dizziness 16 5 8 2 Alopecia 67 5 41 1 Rash/itch 12 1 9 0 Nail changes 8 0 0 0 Skin desquamation 2 0 0 0 Nausea 73 16 76 19 Vomiting 67 15 73 19 Anorexia 51 13 54 12 Stomatitis 59 21 61 27 Diarrhea 78 20 50 8 Constipation 25 2 34 3 Esophagitis/dysphagia/ odynophagia
+ HIGHLIGHTS16 2 14 5
+ HIGHLIGHTSGastrointestinal pain/cramping
+ HIGHLIGHTS11 2 7 3
+ HIGHLIGHTSCardiac dysrhythmias 5 2 2 1 Myocardial ischemia 1 0 3 2 Tearing 8 0 2 0 Altered hearing 6 0 13 2 Clinically important treatment emergent adverse reactions were determined based upon frequency, severity, and clinical impact of the adverse reaction.
+HIGHLIGHTS *Related to treatment
+HIGHLIGHTS  HIGHLIGHTSHead and Neck Cancer Combination therapy with TAXOTERE in head and neck cancer Table 11 summarizes the safety data obtained from patients that received induction chemotherapy with TAXOTERE 75 mg/m2 in combination with cisplatin and fluorouracil followed by radiotherapy (TAX323; 174 patients) or chemoradiotherapy (TAX324; 251 patients).
+ HIGHLIGHTSThe treatment regimens are described in Section 14.6.
+ HIGHLIGHTS HIGHLIGHTSTable 11  &#x201a;  &#x20ac;&#x153; Clinically Important Treatment Emergent Adverse Reactions (Regardless of Relationship) in Patients with SCCHN Receiving Induction Chemotherapy with TAXOTERE in Combination with cisplatin and fluorouracil followed by radiotherapy (TAX323) or chemoradiotherapy (TAX324)
+ HIGHLIGHTSTAX323 (n=355)
+ HIGHLIGHTSTAX324 (n=494)
+ HIGHLIGHTSTAXOTERE arm (n=174)
+ HIGHLIGHTSComparator arm (n=181)
+ HIGHLIGHTSTAXOTERE arm (n=251)
+ HIGHLIGHTSComparator arm (n=243)
+ HIGHLIGHTSAdverse Reaction (by Body System)
+ HIGHLIGHTSAny %
+ HIGHLIGHTSGrade 3/4 %
+ HIGHLIGHTSAny %
+ HIGHLIGHTSGrade 3/4 %
+ HIGHLIGHTSAny %
+ HIGHLIGHTSGrade 3/4 %
+ HIGHLIGHTSAny %
+ HIGHLIGHTSGrade 3/4 %
+ HIGHLIGHTSNeutropenia 93 76 87 53 95 84 84 56 Anemia 89 9 88 14 90 12 86 10 Thrombocytopenia 24 5 47 18 28 4 31 11 Infection 27 9 26 8 23 6 28 5 Febrile neutropenia* 5 N/A 2 N/A 12 N/A 7 N/A Neutropenic infection 14 N/A 8 N/A 12 N/A 8 N/A Cancer pain 21 5 16 3 17 9 20 11 Lethargy 41 3 38 3 61 5 56 10 Fever in the absence of infection 32 1 37 0 30 4 28 3
+ HIGHLIGHTSMyalgia 10 1 7 0 7 0 7 2 Weight loss 21 1 27 1 14 2 14 2 Allergy 6 0 3 0 2 0 0 0 Fluid retention** Edema only Weight gain only
+ HIGHLIGHTS20 13 6
+ HIGHLIGHTS0 0 0
+ HIGHLIGHTS14 7 6
+ HIGHLIGHTS1 0 0
+ HIGHLIGHTS13 12 0
+ HIGHLIGHTS1 1 0
+ HIGHLIGHTS7 6 1
+ HIGHLIGHTS2 1 0
+ HIGHLIGHTSDizziness 2 0 5 1 16 4 15 2 Neurosensory 18 1 11 1 14 1 14 0 Altered hearing 6 0 10 3 13 1 19 3 Neuromotor 2 1 4 1 9 0 10 2 Alopecia 81 11 43 0 68 4 44 1 Rash/itch 12 0 6 0 20 0 16 1 Dry skin 6 0 2 0 5 0 3 0 Desquamation 4 1 6 0 2 0 5 0 Nausea 47 1 51 7 77 14 80 14 Stomatitis 43 4 47 11 66 21 68 27 Vomiting 26 1 39 5 56 8 63 10 Diarrhea 33 3 24 4 48 7 40 3 Constipation 17 1 16 1 27 1 38 1 Anorexia 16 1 25 3 40 12 34 12 Esophagitis/dysphagia/ Odynophagia 13 1 18 3 25 13 26 10
+ HIGHLIGHTS   HIGHLIGHTSTAX323 (n=355)
+ HIGHLIGHTSTAX324 (n=494)
+ HIGHLIGHTSTAXOTERE arm (n=174)
+ HIGHLIGHTSComparator arm (n=181)
+ HIGHLIGHTSTAXOTERE arm (n=251)
+ HIGHLIGHTSComparator arm (n=243)
+ HIGHLIGHTSAdverse Reaction (by Body System)
+ HIGHLIGHTSAny %
+ HIGHLIGHTSGrade 3/4 %
+ HIGHLIGHTSAny %
+ HIGHLIGHTSGrade 3/4 %
+ HIGHLIGHTSAny %
+ HIGHLIGHTSGrade 3/4 %
+ HIGHLIGHTSAny %
+ HIGHLIGHTSGrade 3/4 %
+ HIGHLIGHTSTaste, sense of smell altered 10 0 5 0 20 0 17 1
+ HIGHLIGHTSGastrointestinal pain/cramping 8 1 9 1 15 5 10 2
+ HIGHLIGHTSHeartburn 6 0 6 0 13 2 13 1 Gastrointestinal bleeding 4 2 0 0 5 1 2 1
+ HIGHLIGHTSCardiac dysrhythmia 2 2 2 1 6 3 5 3 Venous*** 3 2 6 2 4 2 5 4 Ischemia myocardial 2 2 1 0 2 1 1 1 Tearing 2 0 1 0 2 0 2 0 Conjunctivitis 1 0 1 0 1 0 0.4 0 Clinically important treatment emergent adverse reactions based upon frequency, severity, and clinical impact.
+HIGHLIGHTS *Febrile neutropenia: grade  &#x2030; 2 fever concomitant with grade 4 neutropenia requiring intravenous antibiotics and/or
+HIGHLIGHTS hospitalization.
+HIGHLIGHTS **Related to treatment.
+HIGHLIGHTS *** Includes superficial and deep vein thrombosis and pulmonary embolism
+HIGHLIGHTS  HIGHLIGHTS6.2 Post-Marketing Experiences
+ HIGHLIGHTS HIGHLIGHTSThe following adverse reactions have been identified from clinical trials and/or post-marketing surveillance.
+ Because they are reported from a population of unknown size, precise estimates of frequency cannot be made.
+ HIGHLIGHTS HIGHLIGHTSBody as a whole: diffuse pain, chest pain, radiation recall phenomenon.
+ HIGHLIGHTSCardiovascular: atrial fibrillation, deep vein thrombosis, ECG abnormalities, thrombophlebitis, pulmonary embolism, syncope, tachycardia, myocardial infarction.
+ HIGHLIGHTSCutaneous: very rare cases of cutaneous lupus erythematosus and rare cases of bullous eruptions such as erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and Scleroderma-like changes usually preceded by peripheral lymphedema.
+ HIGHLIGHTSIn some cases multiple factors may have contributed to the development of these effects.
+Severe hand and foot syndrome has been reported.
+ HIGHLIGHTS HIGHLIGHTSGastrointestinal: abdominal pain, anorexia, constipation, duodenal ulcer, esophagitis, gastrointestinal hemorrhage, gastrointestinal perforation, ischemic colitis, colitis, intestinal obstruction, ileus, neutropenic enterocolitis and dehydration as a consequence to gastrointestinal events have been reported.
+ HIGHLIGHTS HIGHLIGHTSHematologic: bleeding episodes.
+ Disseminated intravascular coagulation (DIC), often in association with sepsis or multiorgan failure, has been reported.
+ Cases of acute myeloid leukemia and myelodysplasic syndrome have been reported in association with TAXOTERE when used in combination with other chemotherapy agents and/or radiotherapy.
+ HIGHLIGHTS HIGHLIGHTSHypersensitivity: rare cases of anaphylactic shock have been reported.
+ HIGHLIGHTSVery rarely these cases resulted in a fatal outcome in patients who received premedication.
+ HIGHLIGHTSHepatic: rare cases of hepatitis, sometimes fatal primarily in patients with pre-existing liver disorders, have been reported.
+ HIGHLIGHTS HIGHLIGHTSNeurologic: confusion, rare cases of seizures or transient loss of consciousness have been observed, sometimes appearing during the infusion of the drug.
+ HIGHLIGHTSOphthalmologic: conjunctivitis, lacrimation or lacrimation with or without conjunctivitis.
+ HIGHLIGHTSExcessive tearing which may be attributable to lacrimal duct obstruction has been reported.
+ HIGHLIGHTS Rare cases of transient visual disturbances (flashes, flashing lights, scotomata) typically occurring during drug infusion and in association with hypersensitivity reactions have been reported.
+ HIGHLIGHTSThese were reversible upon discontinuation of the infusion.
+HIGHLIGHTS Cases of cystoid macular edema (CME) have been reported in patients treated with TAXOTERE.
+ HIGHLIGHTS HIGHLIGHTSHearing: rare cases of ototoxicity, hearing disorders and/or hearing loss have been reported, including cases associated with other ototoxic drugs.
+ HIGHLIGHTSRespiratory: dyspnea, acute pulmonary edema, acute respiratory distress syndrome/pneumonitis, interstitial lung disease, interstitial pneumonia, respiratory failure, and pulmonary fibrosis have rarely been reported and may be associated with fatal outcome.
+ HIGHLIGHTSRare cases of radiation pneumonitis have been reported in patients receiving concomitant radiotherapy.
+ HIGHLIGHTS HIGHLIGHTSRenal: renal insufficiency and renal failure have been reported, the majority of these cases were associated with concomitant nephrotoxic drugs.
+ HIGHLIGHTSMetabolism and nutrition disorders: cases of hyponatremia have been reported.
+ HIGHLIGHTS HIGHLIGHTS7.
+DRUG INTERACTIONS
+ HIGHLIGHTSDocetaxel is a CYP3A4 substrate.
+ HIGHLIGHTSIn vitro studies have shown that the metabolism of docetaxel may be modified by the concomitant administration of compounds that induce, inhibit, or are metabolized by cytochrome P450 3A4.
+ HIGHLIGHTS HIGHLIGHTSIn vivo studies showed that the exposure of docetaxel increased 2.2-fold when it was coadministered with ketoconazole, a potent inhibitor of CYP3A4.
+ Protease inhibitors, particularly ritonavir, may increase the exposure of docetaxel.
+ HIGHLIGHTSConcomitant use of TAXOTERE and drugs that inhibit CYP3A4 may increase exposure to docetaxel and should be avoided.
+ HIGHLIGHTSIn patients receiving treatment with TAXOTERE, close monitoring for toxicity and a TAXOTERE dose reduction could be considered if systemic administration of a potent CYP3A4 inhibitor cannot be avoided [see Dosage and Administration (2.7) and  Clinical Pharmacology (12.3)].
+ HIGHLIGHTS HIGHLIGHTS8.
+USE IN SPECIFIC POPULATIONS
+ HIGHLIGHTS HIGHLIGHTS8.1 Pregnancy
+ HIGHLIGHTSPregnancy Category D [see "Warnings and Precautions" section ] Based on its mechanism of action and findings in animals, TAXOTERE can cause fetal harm when administered to a pregnant woman.
+ HIGHLIGHTSIf TAXOTERE is used during pregnancy, or if the patient becomes pregnant while receiving this drug, the patient should be apprised of the potential hazard to the fetus.
+ HIGHLIGHTSWomen of childbearing potential should be advised to avoid becoming pregnant during therapy with TAXOTERE.
+ HIGHLIGHTS HIGHLIGHTSTAXOTERE can cause fetal harm when administered to a pregnant woman.
+HIGHLIGHTSStudies in both rats and rabbits at doses  &#x2030; 0.3 and 0.03 mg/kg/day, respectively (about 1/50 and 1/300 the daily maximum recommended human dose on a mg/m2 basis), administered during the period of organogenesis, have shown that TAXOTERE is embryotoxic and fetotoxic (characterized by intrauterine mortality, increased resorption, reduced fetal weight, and fetal ossification delay).
+ HIGHLIGHTSThe doses indicated above also caused maternal toxicity.
+ HIGHLIGHTS HIGHLIGHTS8.3 Nursing Mothers
+ HIGHLIGHTSIt is not known whether docetaxel is excreted in human milk.
+ HIGHLIGHTSBecause many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants from TAXOTERE, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+ HIGHLIGHTS HIGHLIGHTS8.4 Pediatric Use
+ HIGHLIGHTSThe alcohol content in TAXOTERE Injection should be taken into account when given to pediatric patients [see Warnings and Precautions (5.11)].
+ HIGHLIGHTSThe efficacy of TAXOTERE in pediatric patients as monotherapy or in combination has not been established.
+HIGHLIGHTS The overall safety profile of TAXOTERE in pediatric patients receiving monotherapy or TCF was consistent with the known safety profile in adults.
+ HIGHLIGHTS HIGHLIGHTSTAXOTERE has been studied in a total of 289 pediatric patients: 239 in 2 trials with monotherapy and 50 in combination treatment with cisplatin and 5-fluoruracil (TCF).
+ HIGHLIGHTS HIGHLIGHTSTAXOTERE Monotherapy TAXOTERE monotherapy was evaluated in a dose-finding phase 1 trial in 61 pediatric patients (median age 12.5 years, range 1-22 years) with a variety of refractory solid tumors.
+HIGHLIGHTSThe recommended dose was 125 mg/m2 as a 1-hour intravenous infusion every 21 days.
+HIGHLIGHTSThe primary dose limiting toxicity was neutropenia.
+ HIGHLIGHTS HIGHLIGHTSThe recommended dose for TAXOTERE monotherapy was evaluated in a phase 2 single-arm trial in 178 pediatric patients (median age 12 years, range 1-26 years) with a variety of recurrent/refractory solid tumors.
+HIGHLIGHTS Efficacy was not established with tumor response rates ranging from one complete response (CR) (0.6%) in a patient with undifferentiated sarcoma to four partial responses (2.2%) seen in one patient each with Ewing Sarcoma, neuroblastoma, osteosarcoma, and squamous cell carcinoma.
+ HIGHLIGHTS HIGHLIGHTSTAXOTERE in Combination TAXOTERE was studied in combination with cisplatin and 5-fluorouracil (TCF) versus cisplatin and 5-fluorouracil (CF) for the induction treatment of nasopharyngeal carcinoma (NPC) in pediatric patients prior to chemoradiation consolidation.
+HIGHLIGHTS Seventy-five patients (median age 16 years, range 9 to 21 years) were randomized (2:1) to TAXOTERE (75 mg/m) in combination with cisplatin (75 mg/m) and 5-fluorouracil (750 mg/m) (TCF) or to cisplatin (80 mg/m) and 5-fluorouracil (1000 mg/m/day) (CF).
+ HIGHLIGHTSThe primary endpoint was the CR rate following induction treatment of NPC.
+One patient out of 50 in the TCF group (2%) had a complete response while none of the 25 patients in the CF group had a complete response.
+ HIGHLIGHTS HIGHLIGHTSPharmacokinetics:
+HIGHLIGHTS Pharmacokinetic parameters for docetaxel were determined in 2 pediatric solid tumor trials.
+HIGHLIGHTS Following docetaxel administration at 55 mg/m2 to 235 mg/m2 in a 1-hour intravenous infusion
+HIGHLIGHTS every 3 weeks in 25 patients aged 1 to 20 years (median 11 years), docetaxel clearance was
+HIGHLIGHTS 17.3 10.9 L/h/m2 .
+HIGHLIGHTS  HIGHLIGHTSDocetaxel was administered in combination with cisplatin and 5-fluorouracil (TCF), at dose levels of 75 mg/m2 in a 1-hour intravenous infusion day 1 in 28 patients aged 10 to 21 years (median 16 years, 17 patients were older than 16).
+HIGHLIGHTS  Docetaxel clearance was 17.9 8.75 L/h/m2 , corresponding to an AUC of 4.20 2.57  g.h/mL.
+ HIGHLIGHTSIn summary, the body surface area adjusted clearance of docetaxel monotherapy and TCF combination in children were comparable to those in adults [see Clinical Pharmacology (12.3)].
+ HIGHLIGHTS HIGHLIGHTS8.5 Geriatric Use
+ HIGHLIGHTSIn general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy in elderly patients.
+ HIGHLIGHTS HIGHLIGHTSNon-Small Cell Lung Cancer In a study conducted in chemotherapy-naive patients with NSCLC (TAX326), 148 patients (36%) in the TAXOTERE+cisplatin group were 65 years of age or greater.
+ HIGHLIGHTSThere were 128 patients (32%) in the vinorelbine+cisplatin group 65 years of age or greater.
+In the TAXOTERE+cisplatin group, patients less than 65 years of age had a median survival of 10.3 months (95% CI: 9.1 months, 11.8 months) and patients 65 years or older had a median survival of 12.1 months (95% CI: 9.3 months, 14 months).
+ HIGHLIGHTSIn patients 65 years of age or greater treated with TAXOTERE+cisplatin, diarrhea (55%), peripheral edema (39%) and stomatitis (28%) were observed more frequently than in the vinorelbine+cisplatin group (diarrhea 24%, peripheral edema 20%, stomatitis 20%).
+HIGHLIGHTS Patients treated with TAXOTERE+cisplatin who were 65 years of age or greater were more likely to experience diarrhea (55%), infections (42%), peripheral edema (39%) and stomatitis (28%) compared to patients less than the age of 65 administered the same treatment (43%, 31%, 31% and 21%, respectively).
+ HIGHLIGHTS HIGHLIGHTSWhen TAXOTERE was combined with carboplatin for the treatment of chemotherapy-naive, advanced non-small cell lung carcinoma, patients 65 years of age or greater (28%) experienced higher frequency of infection compared to similar patients treated with TAXOTERE+cisplatin, and a higher frequency of diarrhea, infection and peripheral edema than elderly patients treated with vinorelbine+cisplatin.
+ HIGHLIGHTS HIGHLIGHTSProstate Cancer Of the 333 patients treated with TAXOTERE every three weeks plus prednisone in the prostate cancer study (TAX327), 209 patients were 65 years of age or greater and 68 patients were older than 75 years.
+ HIGHLIGHTSIn patients treated with TAXOTERE every three weeks, the following treatment emergent adverse reactions occurred at rates  &#x2030; 10% higher in patients 65 years of age or greater compared to younger patients: anemia (71% vs. 59%), infection (37% vs. 24%), nail changes (34% vs. 23%), anorexia (21% vs. 10%), weight loss (15% vs. 5%) respectively.
+ HIGHLIGHTS HIGHLIGHTSBreast Cancer In the adjuvant breast cancer trial (TAX316), TAXOTERE in combination with doxorubicin and cyclophosphamide was administered to 744 patients of whom 48 (6%) were 65 years of age or greater.
+ HIGHLIGHTSThe number of elderly patients who received this regimen was not sufficient to determine whether there were differences in safety and efficacy between elderly and younger patients.
+ HIGHLIGHTS HIGHLIGHTSGastric Cancer Among the 221 patients treated with TAXOTERE in combination with cisplatin and fluorouracil in the gastric cancer study, 54 were 65 years of age or older and 2 patients were older than 75 years.
+HIGHLIGHTSIn this study, the number of patients who were 65 years of age or older was insufficient to determine whether they respond differently from younger patients.
+ However, the incidence of serious adverse reactions was higher in the elderly patients compared to younger patients.
+ HIGHLIGHTSThe incidence of the following adverse reactions (all grades, regardless of relationship): lethargy, stomatitis, diarrhea, dizziness, edema, febrile neutropenia/neutropenic infection occurred at rates  &#x2030; 10% higher in patients who were 65 years of age or older compared to younger patients.
+ Elderly patients treated with TCF should be closely monitored.
+ HIGHLIGHTS HIGHLIGHTSHead and Neck Cancer Among the 174 and 251 patients who received the induction treatment with TAXOTERE in combination with cisplatin and fluorouracil (TPF) for SCCHN in the TAX323 and TAX324 studies, 18 (10%) and 32 (13%) of the patients were 65 years of age or older, respectively.
+ HIGHLIGHTS HIGHLIGHTSThese clinical studies of TAXOTERE in combination with cisplatin and fluorouracil in patients with SCCHN did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
+HIGHLIGHTS Other reported clinical experience with this treatment regimen has not identified differences in responses between elderly and younger patients.
+ HIGHLIGHTS HIGHLIGHTS8.6 Hepatic Impairment
+ HIGHLIGHTSPatients with bilirubin &gt;ULN should not receive TAXOTERE.
+ HIGHLIGHTSAlso, patients with AST and/or ALT &gt;1.5 x ULN concomitant with alkaline phosphatase &gt;2.5 x ULN should not receive TAXOTERE [see Boxed Warning, Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
+ HIGHLIGHTS HIGHLIGHTSThe alcohol content in TAXOTERE Injection should be taken into account when given to patients with hepatic impairment [see Warnings and Precautions (5.11)].
+ HIGHLIGHTS HIGHLIGHTS10.OVERDOSAGE
+ HIGHLIGHTSThere is no known antidote for TAXOTERE overdosage.
+ HIGHLIGHTSIn case of overdosage, the patient should be kept in a specialized unit where vital functions can be closely monitored.
+ HIGHLIGHTSAnticipated complications of overdosage include: bone marrow suppression, peripheral neurotoxicity, and mucositis.
+ HIGHLIGHTSPatients should receive therapeutic G-CSF as soon as possible after discovery of overdose.
+ HIGHLIGHTSOther appropriate symptomatic measures should be taken, as needed.
+ HIGHLIGHTS HIGHLIGHTSIn two reports of overdose, one patient received 150 mg/m2 and the other received 200 mg/m2 as 1-hour infusions.
+ HIGHLIGHTSBoth patients experienced severe neutropenia, mild asthenia, cutaneous reactions, and mild paresthesia, and recovered without incident.
+ HIGHLIGHTS HIGHLIGHTSIn mice, lethality was observed following single intravenous doses that were  &#x2030; 154 mg/kg (about 4.5 times the human dose of 100 mg/m2 on a mg/m2 basis); neurotoxicity associated with paralysis, non-extension of hind limbs, and myelin degeneration was observed in mice at 48 mg/kg (about 1.5 times the human dose of 100 mg/m2 basis).
+ HIGHLIGHTSIn male and female rats, lethality was observed at a dose of 20 mg/kg (comparable to the human dose of 100 mg/m2 on a mg/m2 basis) and was associated with abnormal mitosis and necrosis of multiple organs.
+ HIGHLIGHTS HIGHLIGHTS11.DESCRIPTION
+ HIGHLIGHTSDocetaxel is an antineoplastic agent belonging to the taxoid family.
+ HIGHLIGHTSIt is prepared by semisynthesis beginning with a precursor extracted from the renewable needle biomass of yew plants.
+ HIGHLIGHTSThe chemical name for docetaxel is (2R,3S)-N-carboxy-3-phenylisoserine,N-tert-butyl ester, 13-ester with 5-20epoxy-1,2,4,7,10,13-hexahydroxytax-11-en-9-one 4-acetate 2-benzoate, trihydrate.
+ HIGHLIGHTSDocetaxel has the following structural formula:
+ HIGHLIGHTSDocetaxel is a white to almost-white powder with an empirical formula of C43H53NO14
+HIGHLIGHTS 3H2O, and a molecular weight of 861.9.
+ HIGHLIGHTSIt is highly lipophilic and practically insoluble in water.
+ HIGHLIGHTS HIGHLIGHTSOne-vial TAXOTERE (Injection Concentrate)TAXOTERE (docetaxel) Injection Concentrate is a sterile, non-pyrogenic, pale yellow to brownish-yellow solution at 20 mg/mL concentration.
+HIGHLIGHTS HIGHLIGHTS Each mL contains 20 mg docetaxel (anhydrous) in 0.54 grams polysorbate 80 and 0.395 grams
+HIGHLIGHTS dehydrated alcohol solution.
+ HIGHLIGHTS HIGHLIGHTSTAXOTERE is available in single use vials containing 20 mg (1 mL) or 80 mg (4 mL) docetaxel
+HIGHLIGHTS (anhydrous).
+HIGHLIGHTS HIGHLIGHTS TAXOTERE Injection Concentrate requires NO prior dilution with a diluent and is ready to add to the
+HIGHLIGHTS infusion solution.
+HIGHLIGHTS  HIGHLIGHTS12.CLINICAL PHARMACOLOGY
+ HIGHLIGHTS HIGHLIGHTS12.1 Mechanism of Action
+ HIGHLIGHTSDocetaxel is an antineoplastic agent that acts by disrupting the microtubular network in cells that is essential for mitotic and interphase cellular functions.
+HIGHLIGHTS Docetaxel binds to free tubulin and promotes the assembly of tubulin into stable microtubules while simultaneously inhibiting their disassembly.
+ HIGHLIGHTSThis leads to the production of microtubule bundles without normal function and to the stabilization of microtubules, which results in the inhibition of mitosis in cells.
+HIGHLIGHTS Docetaxel's binding to microtubules does not alter the number of protofilaments in the bound microtubules, a feature which differs from most spindle poisons currently in clinical use.
+ HIGHLIGHTS HIGHLIGHTS12.3 Human Pharmacokinetics
+ HIGHLIGHTSAbsorption: The pharmacokinetics of docetaxel have been evaluated in cancer patients after administration of 20 mg/m2 to 115 mg/m2 in phase 1 studies.
+ HIGHLIGHTSThe area under the curve (AUC) was dose proportional following doses of 70 mg/m2 to 115 mg/m2 with infusion times of 1 to 2 hours.
+Docetaxel's pharmacokinetic profile is consistent with a three-compartment pharmacokinetic model, with half-lives for the , , and  phases of 4 min, 36 min, and 11.1 hr, respectively.
+Mean total body clearance was 21 L/h/m2 .
+ HIGHLIGHTS HIGHLIGHTSDistribution:  The initial rapid decline represents distribution to the peripheral compartments and the late (terminal) phase is due, in part, to a relatively slow efflux of docetaxel from the peripheral compartment.
+HIGHLIGHTS Mean steady state volume of distribution was 113 L.
+ HIGHLIGHTSIn vitro studies showed that docetaxel is about 94% protein bound, mainly to 1-acid glycoprotein, albumin, and lipoproteins.
+HIGHLIGHTS In three cancer patients, the in vitro binding to plasma proteins was found to be approximately 97%.
+HIGHLIGHTS Dexamethasone does not affect the protein binding of docetaxel.
+ HIGHLIGHTS HIGHLIGHTSMetabolism:  In vitro drug interaction studies revealed that docetaxel is metabolized by the CYP3A4 isoenzyme, and its metabolism may be modified by the concomitant administration of compounds that induce, inhibit, or are metabolized by cytochrome P450 3A4 [see Drug Interactions (7)].
+ HIGHLIGHTS HIGHLIGHTSElimination:  A study of 14C-docetaxel was conducted in three cancer patients.
+Docetaxel was eliminated in both the urine and feces following oxidative metabolism of the tert-butyl ester group, but fecal excretion was the main elimination route.
+ HIGHLIGHTSWithin 7 days, urinary and fecal excretion accounted for approximately 6% and 75% of the administered radioactivity, respectively.
+ HIGHLIGHTSAbout 80% of the radioactivity recovered in feces is excreted during the first 48 hours as 1 major and 3 minor metabolites with very small amounts (less than 8%) of unchanged drug.
+ HIGHLIGHTS HIGHLIGHTSEffect of Age:  A population pharmacokinetic analysis was carried out after TAXOTERE treatment of 535 patients dosed at 100 mg/m2.
+Pharmacokinetic parameters estimated by this analysis were very close to those estimated from phase 1 studies.
+ HIGHLIGHTSThe pharmacokinetics of docetaxel were not influenced by age.
+ HIGHLIGHTS HIGHLIGHTSEffect of Gender: The population pharmacokinetics analysis described above also indicated that gender did not influence the pharmacokinetics of docetaxel.
+ HIGHLIGHTSHepatic Impairment: The population pharmacokinetic analysis described above indicated that in patients with clinical chemistry data suggestive of mild to moderate liver impairment (AST and/or ALT &gt;1.5 times ULN concomitant with alkaline phosphatase &gt;2.5 times ULN), total body clearance was lowered by an average of 27%, resulting in a 38% increase in systemic exposure (AUC).
+ HIGHLIGHTSThis average, however, includes a substantial range and there is, at present, no measurement that would allow recommendation for dose adjustment in such patients.
+ HIGHLIGHTSPatients with combined abnormalities of transaminase and alkaline phosphatase should not be treated with TAXOTERE.
+ HIGHLIGHTSPatients with severe hepatic impairment have not been studied.
+[see Warnings and Precautions (5.2) and Use in Specific Populations (8.6)]
+ HIGHLIGHTS HIGHLIGHTSEffect of Race:  Mean total body clearance for Japanese patients dosed at the range of 10 mg/m2 to 90 mg/m2 was similar to that of European/American populations dosed at 100 mg/m2, suggesting no significant difference in the elimination of docetaxel in the two populations.
+ HIGHLIGHTS HIGHLIGHTSEffect of Ketoconazole:  The effect of ketoconazole (a strong CYP3A4 inhibitor) on the pharmacokinetics of docetaxel was investigated in 7 cancer patients.
+HIGHLIGHTS Patients were randomized to receive either docetaxel (100 mg/m intravenous) alone or docetaxel (10 mg/m intravenous) in combination with ketoconazole (200 mg orally once daily for 3 days) in a crossover design with a 3week washout period.
+HIGHLIGHTS The results of this study indicated that the mean dose-normalized AUC of docetaxel was increased 2.2-fold and its clearance was reduced by 49% when docetaxel was coadministration with ketoconazole [see Dosage and Administration (2.7) and Drug-Drug Interactions (7)].
+ HIGHLIGHTS HIGHLIGHTSEffect of Combination Therapies:  &#x20ac;&#x161; Dexamethasone:  Docetaxel total body clearance was not modified by pretreatment with dexamethasone.
+HIGHLIGHTS &#x20ac;&#x161; Cisplatin: Clearance of docetaxel in combination therapy with cisplatin was similar to that previously observed following monotherapy with docetaxel.
+ HIGHLIGHTSThe pharmacokinetic profile of cisplatin in combination therapy with docetaxel was similar to that observed with cisplatin alone.
+ HIGHLIGHTS &#x20ac;&#x161; Cisplatin and Fluorouracil: The combined administration of docetaxel, cisplatin and fluorouracil in 12 patients with solid tumors had no influence on the pharmacokinetics of each individual drug.
+ HIGHLIGHTS &#x20ac;&#x161; Prednisone: A population pharmacokinetic analysis of plasma data from 40 patients with hormone-refractory metastatic prostate cancer indicated that docetaxel systemic clearance in combination with prednisone is similar to that observed following administration of docetaxel alone.
+ HIGHLIGHTS &#x20ac;&#x161; Cyclophosphamide and Doxorubicin:  A study was conducted in 30 patients with advanced breast cancer to determine the potential for drug-drug-interactions between docetaxel (75 mg/m), doxorubicin (50 mg/m), and cyclophosphamide (500 mg/m) when administered in combination.
+ HIGHLIGHTSThe coadministration of docetaxel had no effect on the pharmacokinetics of doxorubicin and cyclophosphamide when the three drugs were given in combination compared to coadministration of doxorubicin and cyclophosphamide only.
+ HIGHLIGHTSIn addition, doxorubicin and cyclophosphamide had no effect on docetaxel plasma clearance when the three drugs were given in combination compared to historical data for docetaxel monotherapy.
+ HIGHLIGHTS HIGHLIGHTS13.NONCLINICAL TOXICOLOGY
+ HIGHLIGHTS13.1 Carcinogenesis, Mutagenesis, Impairment of FertilityCarcinogenicity studies with docetaxel have not been performed.
+ HIGHLIGHTS HIGHLIGHTSDocetaxel was clastogenic in the in vitro chromosome aberration test in CHO-K1 cells and in the in vivo micronucleus test in mice administered doses of 0.39 to 1.56 mg/kg (about 1/60th to 1/15th the recommended human dose on a mg/m2 basis).
+HIGHLIGHTS Docetaxel was not mutagenic in the Ames test or the CHO/HGPRT gene mutation assays.
+ HIGHLIGHTSDocetaxel did not reduce fertility in rats when administered in multiple intravenous doses of up to 0.3 mg/kg (about 1/50th the recommended human dose on a mg/m2 basis), but decreased testicular weights were reported.
+ HIGHLIGHTSThis correlates with findings of a 10-cycle toxicity study (dosing once every 21 days for 6 months) in rats and dogs in which testicular atrophy or degeneration was observed at intravenous doses of 5 mg/kg in rats and 0.375 mg/kg in dogs (about 1/3rd and 1/15th the recommended human dose on a mg/m2 basis, respectively).
+ HIGHLIGHTSAn increased frequency of dosing in rats produced similar effects at lower dose levels.
+ HIGHLIGHTS HIGHLIGHTS14.CLINICAL STUDIES
+ HIGHLIGHTS14.1 Locally Advanced or Metastatic Breast Cancer
+ HIGHLIGHTSThe efficacy and safety of TAXOTERE have been evaluated in locally advanced or metastatic breast cancer after failure of previous chemotherapy (alkylating agent-containing regimens or anthracycline containing regimens).
+ HIGHLIGHTSRandomized Trials In one randomized trial, patients with a history of prior treatment with an anthracycline-containing regimen were assigned to treatment with TAXOTERE (100 mg/m2 every 3 weeks) or the combination of mitomycin (12 mg/m2 every 6 weeks) and vinblastine (6 mg/m2 every 3 weeks).
+ HIGHLIGHTSTwo hundred three patients were randomized to TAXOTERE and 189 to the comparator arm.
+ HIGHLIGHTSMost patients had received prior chemotherapy for metastatic disease; only 27 patients on the TAXOTERE arm and 33 patients on the comparator arm entered the study following relapse after adjuvant therapy.
+ HIGHLIGHTSThree-quarters of patients had measurable, visceral metastases.
+The primary endpoint was time to progression.
+ HIGHLIGHTSThe following table summarizes the study results (See Table 12).
+ HIGHLIGHTSTable 12 - Efficacy of TAXOTERE in the Treatment of Breast Cancer Patients Previously Treated with an Anthracycline-Containing Regimen (Intent-to-Treat Analysis)
+ HIGHLIGHTSEfficacy Parameter Docetaxel
+ HIGHLIGHTS(n=203)
+ HIGHLIGHTSMitomycin/ Vinblastine
+ HIGHLIGHTS(n=189)
+ HIGHLIGHTSp-value
+ HIGHLIGHTSMedian Survival 11.4 months 8.7 months
+ HIGHLIGHTSp=0.01 Log Rank
+ HIGHLIGHTSRisk Ratio*, Mortality (Docetaxel: Control)
+ HIGHLIGHTS95% CI (Risk Ratio)
+ HIGHLIGHTS0.73
+ HIGHLIGHTS0.58-0.93 Median Time to Progression
+ HIGHLIGHTS4.3 months 2.5 months
+ HIGHLIGHTSp=0.01 Log Rank
+ HIGHLIGHTSRisk Ratio*, Progression (Docetaxel: Control)
+ HIGHLIGHTS95% CI (Risk Ratio)
+ HIGHLIGHTS0.75
+ HIGHLIGHTS0.61-0.94 Overall Response Rate Complete Response Rate
+ HIGHLIGHTS28.1% 3.4%
+ HIGHLIGHTS9.5% 1.6%
+ HIGHLIGHTSp&lt;0.0001 Chi Square
+ HIGHLIGHTS*For the risk ratio, a value less than 1.00 favors docetaxel.
+ HIGHLIGHTS HIGHLIGHTSIn a second randomized trial, patients previously treated with an alkylating-containing regimen were assigned to treatment with TAXOTERE (100 mg/m2) or doxorubicin (75 mg/m2) every 3 weeks.
+ HIGHLIGHTSOne hundred sixty-one patients were randomized to TAXOTERE and 165 patients to doxorubicin.
+Approximately one-half of patients had received prior chemotherapy for metastatic disease, and one-half entered the study following relapse after adjuvant therapy.
+ HIGHLIGHTSThree-quarters of patients had measurable, visceral metastases.
+ HIGHLIGHTSThe primary endpoint was time to progression.
+ HIGHLIGHTSThe study results are summarized below (See Table 13).
+ HIGHLIGHTS HIGHLIGHTSTable 13 - Efficacy of TAXOTERE in the Treatment of Breast Cancer Patients Previously Treated with an Alkylating-Containing Regimen (Intent-to-Treat Analysis)
+ HIGHLIGHTSEfficacy Parameter Docetaxel (n=161)
+ HIGHLIGHTSDoxorubicin (n=165)
+ HIGHLIGHTSp-value
+ HIGHLIGHTSMedian Survival 14.7 months 14.3 months
+ HIGHLIGHTSp=0.39 Log Rank
+ HIGHLIGHTSRisk Ratio*, Mortality (Docetaxel: Control)
+ HIGHLIGHTS95% CI (Risk Ratio)
+ HIGHLIGHTS0.89
+ HIGHLIGHTS0.68-1.16 Median Time to Progression 6.5 months 5.3 months
+ HIGHLIGHTSp=0.45 Log Rank
+ HIGHLIGHTSRisk Ratio*, Progression (Docetaxel: Control)
+ HIGHLIGHTS95% CI (Risk Ratio)
+ HIGHLIGHTS0.93
+ HIGHLIGHTS0.71-1.16 Overall Response Rate Complete Response Rate
+ HIGHLIGHTS45.3% 6.8%
+ HIGHLIGHTS29.7% 4.2%
+ HIGHLIGHTSp=0.004 Chi Square
+ HIGHLIGHTS*For the risk ratio, a value less than 1.00 favors docetaxel.
+ HIGHLIGHTS HIGHLIGHTSIn another multicenter open-label, randomized trial (TAX313), in the treatment of patients with advanced breast cancer who progressed or relapsed after one prior chemotherapy regimen, 527 patients were randomized to receive TAXOTERE monotherapy 60 mg/m2 (n=151), 75 mg/m2 (n=188) or 100 mg/m2 (n=188).
+ HIGHLIGHTSIn this trial, 94% of patients had metastatic disease and 79% had received prior anthracycline therapy.
+  HIGHLIGHTSResponse rate was the primary endpoint.
+Response rates increased with TAXOTERE dose: 19.9% for the 60 mg/m2 group compared to 22.3% for the 75 mg/m2 and 29.8% for the 100 mg/m2 group; pair-wise comparison between the 60 mg/m2 and 100 mg/m2 groups was statistically significant (p=0.037).
+ HIGHLIGHTS HIGHLIGHTSSingle Arm Studies TAXOTERE at a dose of 100 mg/m2 was studied in six single arm studies involving a total of 309 patients with metastatic breast cancer in whom previous chemotherapy had failed.
+ HIGHLIGHTSAmong these, 190 patients had anthracycline-resistant breast cancer, defined as progression during an anthracycline containing chemotherapy regimen for metastatic disease, or relapse during an anthracycline-containing adjuvant regimen.
+In anthracycline-resistant patients, the overall response rate was 37.9% (72/190; 95% C.I.: 31.0-44.8) and the complete response rate was 2.1%.
+ HIGHLIGHTS HIGHLIGHTSTAXOTERE was also studied in three single arm Japanese studies at a dose of 60 mg/m2 , in 174 patients who had received prior chemotherapy for locally advanced or metastatic breast cancer.
+HIGHLIGHTS Among 26 patients whose best response to an anthracycline had been progression, the response rate was 34.6% (95% C.I.: 17.2-55.7), similar to the response rate in single arm studies of 100 mg/m2 .
+ HIGHLIGHTS HIGHLIGHTS14.2 Adjuvant Treatment of Breast Cancer
+ HIGHLIGHTSA multicenter, open-label, randomized trial (TAX316) evaluated the efficacy and safety of TAXOTERE for the adjuvant treatment of patients with axillary-node-positive breast cancer and no evidence of distant metastatic disease.
+ HIGHLIGHTSAfter stratification according to the number of positive lymph nodes (1-3, 4+), 1491 patients were randomized to receive either TAXOTERE 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclosphosphamide 500 mg/m2 (FAC arm).
+Both regimens were administered every 3 weeks for 6 cycles.
+ TAXOTERE was administered as a 1-hour infusion; all other drugs were given as intravenous bolus on day 1.
+ HIGHLIGHTSIn both arms, after the last cycle of chemotherapy, patients with positive estrogen and/or progesterone receptors received tamoxifen 20 mg daily for up to 5 years.
+  HIGHLIGHTSAdjuvant radiation therapy was prescribed according to guidelines in place at participating institutions and was given to 69% of patients who received TAC and 72% of patients who received FAC.
+ HIGHLIGHTSResults from a second interim analysis (median follow-up 55 months) are as follows: In study TAX316, the docetaxel-containing combination regimen TAC showed significantly longer disease-free survival (DFS) than FAC (hazard ratio=0.74; 2-sided 95% CI=0.60, 0.92, stratified log rank p=0.0047).
+ HIGHLIGHTSThe primary endpoint, disease-free survival, included local and distant recurrences, contralateral breast cancer and deaths from any cause.
+HIGHLIGHTS The overall reduction in risk of relapse was 25.7% for TAC-treated patients.
+(See Figure 1).
+ HIGHLIGHTS HIGHLIGHTSAt the time of this interim analysis, based on 219 deaths, overall survival was longer for TAC than FAC (hazard ratio=0.69, 2-sided 95% CI=0.53, 0.90).
+ (See Figure 2).
+ HIGHLIGHTS There will be further analysis at the time survival data mature.
+ HIGHLIGHTS HIGHLIGHTSSurvival Probability (%)
+ HIGHLIGHTSDFSProbability (%)
+ HIGHLIGHTSFigure 1 - TAX316 Disease Free Survival K-M curve 100
+ HIGHLIGHTS90
+ HIGHLIGHTS80
+ HIGHLIGHTS70
+ HIGHLIGHTSTAC
+ HIGHLIGHTSFAC
+ HIGHLIGHTS60
+ HIGHLIGHTS50
+ HIGHLIGHTS40
+ HIGHLIGHTS30
+ HIGHLIGHTS20
+ HIGHLIGHTS10
+ HIGHLIGHTS0
+ HIGHLIGHTS0 6 12 18 24 30 36 42 48 54 60 66 Disease-Free Survival Time (months)
+ HIGHLIGHTS HIGHLIGHTSFigure 2 - TAX316 Overall Survival K-M Curve 100
+ HIGHLIGHTS90
+ HIGHLIGHTS80
+ HIGHLIGHTS70
+ HIGHLIGHTS60
+ HIGHLIGHTS50
+ HIGHLIGHTS40
+ HIGHLIGHTS30
+ HIGHLIGHTS20 TAC
+ HIGHLIGHTSFAC
+ HIGHLIGHTS0 6 12 18 24 30 36 42 48 54 60 66
+ HIGHLIGHTS10
+ HIGHLIGHTS0
+ HIGHLIGHTSSurvival Time (months)
+ HIGHLIGHTSThe following table describes the results of subgroup analyses for DFS and OS (See Table 14).
+ HIGHLIGHTS HIGHLIGHTSTable 14 - Subset Analyses-Adjuvant Breast Cancer Study
+ HIGHLIGHTSDisease Free Survival Overall Survival Patient subset Number of
+ HIGHLIGHTSpatients Hazard ratio*
+ HIGHLIGHTS95% CI Hazard ratio*
+ HIGHLIGHTS95% CI
+ HIGHLIGHTSNo.
+of positive nodes
+ HIGHLIGHTSOverall 1-3
+ HIGHLIGHTS744 467
+ HIGHLIGHTS0.74 0.64
+ HIGHLIGHTS(0.60, 0.92) (0.47, 0.87)
+ HIGHLIGHTS0.69 0.45
+ HIGHLIGHTS(0.53, 0.90) (0.29, 0.70)
+ HIGHLIGHTS4+ 277 0.84 (0.63, 1.12) 0.93 (0.66, 1.32) Receptor status
+ HIGHLIGHTSPositive Negative
+ HIGHLIGHTS566 178
+ HIGHLIGHTS0.76 0.68
+ HIGHLIGHTS(0.59, 0.98) (0.48, 0.97)
+ HIGHLIGHTS0.69 0.66
+ HIGHLIGHTS(0.48, 0.99) (0.44, 0.98)
+ HIGHLIGHTS*a hazard ratio of less than 1 indicates that TAC is associated with a longer disease free survival or overall survival compared to FAC.
+ HIGHLIGHTS HIGHLIGHTS14.3 Non-Small Cell Lung Cancer (NSCLC)
+ HIGHLIGHTSThe efficacy and safety of TAXOTERE has been evaluated in patients with unresectable, locally advanced or metastatic non-small cell lung cancer whose disease has failed prior platinum-based chemotherapy or in patients who are chemotherapy-naive.
+ HIGHLIGHTS HIGHLIGHTSMonotherapy with TAXOTERE for NSCLC Previously Treated with Platinum-Based Chemotherapy Two randomized, controlled trials established that a TAXOTERE dose of 75 mg/m2 was tolerable and yielded a favorable outcome in patients previously treated with platinum-based chemotherapy (see below).
+HIGHLIGHTS TAXOTERE at a dose of 100 mg/m2, however, was associated with unacceptable hematologic toxicity, infections, and treatment-related mortality and this dose should not be used [see Boxed Warning, Dosage and Administration (2.7), Warnings and Precautions (5.3)].
+ HIGHLIGHTS HIGHLIGHTSOne trial (TAX317), randomized patients with locally advanced or metastatic non-small cell lung cancer, a history of prior platinum-based chemotherapy, no history of taxane exposure, and an ECOG performance status  &#x2030; 2 to TAXOTERE or best supportive care.
+ HIGHLIGHTSThe primary endpoint of the study was survival.
+HIGHLIGHTS Patients were initially randomized to TAXOTERE 100 mg/m2 or best supportive care, but early toxic deaths at this dose led to a dose reduction to TAXOTERE 75 mg/m2.
+HIGHLIGHTS A total of 104 patients were randomized in this amended study to either TAXOTERE 75 mg/m2 or best supportive care.
+ HIGHLIGHTS HIGHLIGHTSIn a second randomized trial (TAX320), 373 patients with locally advanced or metastatic non-small cell lung cancer, a history of prior platinum-based chemotherapy, and an ECOG performance status  &#x2030; 2 were randomized to TAXOTERE 75 mg/m2 , TAXOTERE 100 mg/m2 and a treatment in which the investigator chose either vinorelbine 30 mg/m2 days 1, 8, and 15 repeated every 3 weeks or ifosfamide 2 g/m2 days 1-3 repeated every 3 weeks.
+ HIGHLIGHTSForty percent of the patients in this study had a history of prior paclitaxel exposure.
+ HIGHLIGHTSThe primary endpoint was survival in both trials.
+ HIGHLIGHTSThe efficacy data for the TAXOTERE 75 mg/m2 arm and the comparator arms are summarized in Table 15 and Figures 3 and 4 showing the survival curves for the two studies.
+ HIGHLIGHTS HIGHLIGHTSTable 15 - Efficacy of TAXOTERE in the Treatment of Non-Small Cell Lung Cancer Patients
+HIGHLIGHTS Previously Treated with a Platinum-Based Chemotherapy Regimen
+HIGHLIGHTS  HIGHLIGHTS(Intent-to-Treat Analysis)
+HIGHLIGHTS TAX317 TAX320
+ HIGHLIGHTSDocetaxel 75 mg/m2
+ HIGHLIGHTSn=55
+ HIGHLIGHTSBest Supportive
+ HIGHLIGHTSCare n=49
+ HIGHLIGHTSDocetaxel 75 mg/m2
+ HIGHLIGHTSn=125
+ HIGHLIGHTSControl (V/I*) n=123
+ HIGHLIGHTSOverall Survival Log-rank Test p=0.01 p=0.13
+ HIGHLIGHTSRisk  &#x201a;  &#x201a; , Mortality (Docetaxel: Control) 95% CI (Risk Ratio)
+ HIGHLIGHTS0.56 (0.35, 0.88)
+ HIGHLIGHTS0.82 (0.63, 1.06)
+ HIGHLIGHTSMedian Survival 95% CI
+ HIGHLIGHTS7.5 months** (5.5, 12.8)
+ HIGHLIGHTS4.6 months (3.7, 6.1)
+ HIGHLIGHTS5.7 months (5.1, 7.1)
+ HIGHLIGHTS5.6 months (4.4, 7.9)
+ HIGHLIGHTS% 1-year Survival 95% CI
+ HIGHLIGHTS37%** &#x201a; 
+HIGHLIGHTS(24, 50) 12%
+ HIGHLIGHTS(2, 23) 30%** &#x201a; 
+ HIGHLIGHTS(22, 39) 20%
+ HIGHLIGHTS(13, 27) Time to Progression 95% CI
+ HIGHLIGHTS12.3 weeks** (9.0, 18.3)
+ HIGHLIGHTS7.0 weeks (6.0, 9.3)
+ HIGHLIGHTS8.3 weeks (7.0, 11.7)
+ HIGHLIGHTS7.6 weeks (6.7, 10.1)
+ HIGHLIGHTSResponse Rate
+ HIGHLIGHTS95% CI
+ HIGHLIGHTS5.5%
+ HIGHLIGHTS(1.1, 15.1)
+ HIGHLIGHTSNot Applicable
+ HIGHLIGHTS5.7%
+ HIGHLIGHTS(2.3, 11.3)
+ HIGHLIGHTS0.8%
+ HIGHLIGHTS(0.0, 4.5) * Vinorelbine/Ifosfamide **  &#x2030; 0.05  &#x201a;  uncorrected for multiple comparisons  &#x201a;  &#x201a;  a value less than 1.00 favors docetaxel Only one of the two trials (TAX317) showed a clear effect on survival, the primary endpoint; that trial also showed an increased rate of survival to one year.
+ HIGHLIGHTSIn the second study (TAX320) the rate of survival at one year favored TAXOTERE 75 mg/m2 .
+ HIGHLIGHTS HIGHLIGHTSFigure 3 - TAX317 Survival K-M Curves - TAXOTERE 75 mg/m2 vs. Best Supportive Care
+ HIGHLIGHTS HIGHLIGHTSFigure 4 - TAX320 Survival K-M Curves - TAXOTERE 75 mg/m2 vs. Vinorelbine or Ifosfamide Control
+ HIGHLIGHTS HIGHLIGHTSPatients treated with TAXOTERE at a dose of 75 mg/m2 experienced no deterioration in performance status and body weight relative to the comparator arms used in these trials.
+ HIGHLIGHTSCombination Therapy with TAXOTERE for Chemotherapy-Naive NSCLC In a randomized controlled trial (TAX326), 1218 patients with unresectable stage IIIB or IV NSCLC and no prior chemotherapy were randomized to receive one of three treatments:
+HIGHLIGHTS TAXOTERE 75 mg/m2 as a 1 hour infusion immediately followed by cisplatin 75 mg/m2 over 30 to 60 minutes every 3 weeks; vinorelbine 25 mg/m2 administered over 6-10 minutes on days 1, 8, 15, 22 followed by cisplatin 100 mg/m2 administered on day 1 of cycles repeated every 4 weeks; or a combination of TAXOTERE and carboplatin.
+ HIGHLIGHTS HIGHLIGHTSThe primary efficacy endpoint was overall survival.
+ HIGHLIGHTSTreatment with TAXOTERE+cisplatin did not result in a statistically significantly superior survival compared to vinorelbine+cisplatin (see table below).
+ HIGHLIGHTSThe 95% confidence interval of the hazard ratio (adjusted for interim analysis and multiple comparisons) shows that the addition of TAXOTERE to cisplatin results in an outcome ranging from a 6% inferior to a 26% superior survival compared to the addition of vinorelbine to cisplatin.
+ HIGHLIGHTSThe results of a further statistical analysis showed that at least (the lower bound of the 95% confidence interval) 62% of the known survival effect of vinorelbine when added to cisplatin (about a 2-month increase in median survival; Wozniak et al. JCO, 1998) was maintained.
+HIGHLIGHTS The efficacy data for the TAXOTERE+cisplatin arm and the comparator arm are summarized in Table 16.
+ HIGHLIGHTS HIGHLIGHTSTable 16 - Survival Analysis of TAXOTERE in Combination Therapy for Chemotherapy-Naive
+ HIGHLIGHTSNSCLC
+HIGHLIGHTS  HIGHLIGHTSComparison Taxotere+Cisplatin n=408
+ HIGHLIGHTSVinorelbine+Cisplatin n=405
+ HIGHLIGHTSKaplan-Meier Estimate of Median Survival 10.9 months 10.0 months
+ HIGHLIGHTSp-valuea 0.122 Estimated Hazard Ratiob 0.88 Adjusted 95% CIc (0.74, 1.06) a From the superiority test (stratified log rank) comparing TAXOTERE+cisplatin to vinorelbine+cisplatin bHazard ratio of TAXOTERE+cisplatin vs. vinorelbine+cisplatin.
+ HIGHLIGHTSA hazard ratio of less than 1 indicates that TAXOTERE+cisplatin is associated with a longer survival.
+HIGHLIGHTS HIGHLIGHTSAdjusted for interim analysis and multiple comparisons.
+HIGHLIGHTS  HIGHLIGHTSThe second comparison in the same three-arm study, vinorelbine+cisplatin versus TAXOTERE+carboplatin, did not demonstrate superior survival associated with the TAXOTERE arm (Kaplan-Meier estimate of median survival was 9.1 months for TAXOTERE+carboplatin compared to 10.0 months on the vinorelbine+cisplatin arm) and the TAXOTERE+carboplatin arm did not demonstrate preservation of at least 50% of the survival effect of vinorelbine added to cisplatin.
+Secondary endpoints evaluated in the trial included objective response and time to progression.
+ HIGHLIGHTSThere was no statistically significant difference between TAXOTERE+cisplatin and vinorelbine+cisplatin with respect to objective response and time to progression (see Table 17).
+ HIGHLIGHTSTable 17 - Response and TTP Analysis of TAXOTERE in Combination Therapy for Chemotherapy-Naive NSCLC
+HIGHLIGHTS  HIGHLIGHTSEndpoint TAXOTERE+Cisplatin Vinorelbine+Cisplatin p-value Objective Response Rate (95% CI)a
+ HIGHLIGHTS31.6% (26.5%, 36.8%)
+ HIGHLIGHTS24.4% (19.8%, 29.2%)
+ HIGHLIGHTSNot Significant
+ HIGHLIGHTSMedian Time to Progressionb
+ HIGHLIGHTS(95% CI)a 21.4 weeks (19.3, 24.6)
+ HIGHLIGHTS22.1 weeks (18.1, 25.6)
+ HIGHLIGHTSNot Significant
+ HIGHLIGHTSaAdjusted for multiple comparisons.
+bKaplan-Meier estimates.
+ HIGHLIGHTS HIGHLIGHTS14.4 Hormone Refractory Prostate Cancer
+ HIGHLIGHTSThe safety and efficacy of TAXOTERE in combination with prednisone in patients with androgen independent (hormone refractory) metastatic prostate cancer were evaluated in a randomized multicenter active control trial.
+ HIGHLIGHTSA total of 1006 patients with Karnofsky Performance Status (KPS)  &#x2030; 60 were randomized to the following treatment groups:
+ HIGHLIGHTSTAXOTERE 75 mg/m2 every 3 weeks for 10 cycles.
+ HIGHLIGHTSTAXOTERE 30 mg/m2 administered weekly for the first 5 weeks in a 6-week cycle for 5 cycles.
+ HIGHLIGHTSMitoxantrone 12 mg/m2 every 3 weeks for 10 cycles.
+HIGHLIGHTS All 3 regimens were administered in combination with prednisone 5 mg twice daily, continuously.
+ HIGHLIGHTSIn the TAXOTERE every three week arm, a statistically significant overall survival advantage was demonstrated compared to mitoxantrone.
+ HIGHLIGHTSIn the TAXOTERE weekly arm, no overall survival advantage was demonstrated compared to the mitoxantrone control arm.
+ HIGHLIGHTSEfficacy results for the TAXOTERE every 3 week arm versus the control arm are summarized in Table 18 and Figure 5.
+ HIGHLIGHTS HIGHLIGHTSTable 18 - Efficacy of TAXOTERE in the Treatment of Patients with Androgen Independent (Hormone Refractory) Metastatic Prostate Cancer (Intent-to-Treat Analysis)
+ HIGHLIGHTSTAXOTERE+ Prednisone every 3 weeks
+ HIGHLIGHTSMitoxantrone+ Prednisone every 3 weeks
+ HIGHLIGHTSNumber of patients Median survival (months) 95% CI Hazard ratio 95% CI p-value*
+ HIGHLIGHTS335 18.9
+ HIGHLIGHTS(17.0-21.2) 0.761
+ HIGHLIGHTS(0.619-0.936) 0.0094
+ HIGHLIGHTS337 16.5
+ HIGHLIGHTS(14.4-18.6)
+HIGHLIGHTS*Stratified log rank test.
+Threshold for statistical significance = 0.0175 because of 3 arms.
+ HIGHLIGHTSFigure 5 - TAX327 Survival K-M Curves
+ HIGHLIGHTSSUR
+HIGHLIGHTSVIVA
+HIGHLIGHTSL PR
+HIGHLIGHTSOBA
+HIGHLIGHTSBILI
+HIGHLIGHTSTY
+ HIGHLIGHTS1.0
+ HIGHLIGHTS0.9
+ HIGHLIGHTS0.8
+ HIGHLIGHTS0.7
+ HIGHLIGHTS0.6
+ HIGHLIGHTS0.5
+ HIGHLIGHTS0.4
+ HIGHLIGHTS0.3
+ HIGHLIGHTS0.2
+ HIGHLIGHTS0.1
+ HIGHLIGHTS0.0
+ HIGHLIGHTST75 q3wM q3w
+ HIGHLIGHTS0 3 6 9 12 15 18 21 24 27 30 SURVIVAL TIME (MONTHS)
+ HIGHLIGHTS HIGHLIGHTS14.5 Gastric Adenocarcinoma
+ HIGHLIGHTSA multicenter, open-label, randomized trial was conducted to evaluate the safety and efficacy of TAXOTERE for the treatment of patients with advanced gastric adenocarcinoma, including adenocarcinoma of the gastroesophageal junction, who had not received prior chemotherapy for advanced disease.
+  HIGHLIGHTSA total of 445 patients with KPS &gt;70 were treated with either TAXOTERE (T) (75 mg/m2 on day 1) in combination with cisplatin (C) (75 mg/m2 on day 1) and fluorouracil (F) (750 mg/m2 per day for 5 days) or cisplatin (100 mg/m2 on day 1) and fluorouracil (1000 mg/m2 per day for 5 days).
+ HIGHLIGHTSThe length of a treatment cycle was 3 weeks for the TCF arm and 4 weeks for the CF arm.
+ HIGHLIGHTSThe demographic characteristics were balanced between the two treatment arms.
+ HIGHLIGHTSThe median age was 55 years, 71% were male, 71% were Caucasian, 24% were 65 years of age or older, 19% had a prior curative surgery and 12% had palliative surgery.
+ HIGHLIGHTSThe median number of cycles administered per patient was 6 (with a range of 1-16) for the TCF arm compared to 4 (with a range of 1-12) for the CF arm.
+Time to progression (TTP) was the primary endpoint and was defined as time from randomization to disease progression or death from any cause within 12 weeks of the last evaluable tumor assessment or within 12 weeks of the first infusion of study drugs for patients with no evaluable tumor assessment after randomization.
+ HIGHLIGHTSThe hazard ratio (HR) for TTP was 1.47 (CF/TCF, 95% CI: 1.19-1.83) with a significantly longer TTP (p=0.0004) in the TCF arm.
+ HIGHLIGHTSApproximately 75% of patients had died at the time of this analysis.
+ HIGHLIGHTSOverall survival was significantly longer (p=0.0201) in the TCF arm with a HR of 1.29 (95% CI: 1.04-1.61).
+Efficacy results are summarized in Table 19 and Figures 6 and 7.
+ HIGHLIGHTS HIGHLIGHTSTable 19 - Efficacy of TAXOTERE in the treatment of patients with gastric adenocarcinoma
+ HIGHLIGHTSEndpoint TCF n=221
+ HIGHLIGHTSCF n=224
+ HIGHLIGHTSMedian TTP (months) (95%CI) Hazard  &#x201a; 
+ HIGHLIGHTS(95%CI) *p-value
+ HIGHLIGHTS5.6 (4.86-5.91)
+ HIGHLIGHTS3.7 (3.45-4.47)
+ HIGHLIGHTS0.68 (0.55-0.84)
+ HIGHLIGHTS0.0004 Median survival (months) (95%CI) Hazard  &#x201a; 
+ HIGHLIGHTS(95%CI) *p-value
+ HIGHLIGHTS9.2 (8.38-10.58)
+ HIGHLIGHTS8.6 (7.16-9.46)
+ HIGHLIGHTS0.77 (0.62-0.96)
+ HIGHLIGHTS0.0201 Overall Response Rate (CR+PR)  (%) 36.7 25.4 p-value 0.0106
+ HIGHLIGHTS*Unstratified log-rank test  &#x201a; For the hazard ratio (TCF/CF), values less than 1.00 favor the TAXOTERE arm.
+ HIGHLIGHTSSubgroup analyses were consistent with the overall results across age, gender and race.
+  HIGHLIGHTSFigure 6 - Gastric Cancer Study (TAX325) Time to Progression K-M Curve
+ HIGHLIGHTSPro
+HIGHLIGHTSbabi
+HIGHLIGHTSlity
+ HIGHLIGHTS(%)
+ HIGHLIGHTS100
+ HIGHLIGHTS90
+ HIGHLIGHTS80
+ HIGHLIGHTS70
+ HIGHLIGHTS60
+ HIGHLIGHTS50
+ HIGHLIGHTS40
+ HIGHLIGHTS30
+ HIGHLIGHTS20
+ HIGHLIGHTS10
+ HIGHLIGHTS0
+ HIGHLIGHTSTCF
+ HIGHLIGHTSCF
+ HIGHLIGHTS0 3 6 9 12 15 18 21 24 Time (months)
+ HIGHLIGHTS HIGHLIGHTSFigure 7 - Gastric Cancer Study (TAX325) Survival K-M Curve
+ HIGHLIGHTSSur
+HIGHLIGHTSviva
+HIGHLIGHTSl Pro
+HIGHLIGHTSbabi
+HIGHLIGHTSlity
+ HIGHLIGHTS(%)
+ HIGHLIGHTS100
+ HIGHLIGHTS90
+ HIGHLIGHTS80
+ HIGHLIGHTS70
+ HIGHLIGHTS60
+ HIGHLIGHTS50
+ HIGHLIGHTS40
+ HIGHLIGHTS30
+ HIGHLIGHTS20
+ HIGHLIGHTS10
+ HIGHLIGHTS0
+ HIGHLIGHTSTCF
+ HIGHLIGHTSCF
+ HIGHLIGHTS0 3 6 9 12 15 18 21 24 27 30 33 36 Survival Time (months)
+ HIGHLIGHTS HIGHLIGHTS14.6 Head and Neck Cancer
+ HIGHLIGHTSInduction chemotherapy followed by radiotherapy (TAX323) The safety and efficacy of TAXOTERE in the induction treatment of patients with squamous cell carcinoma of the head and neck (SCCHN) was evaluated in a multicenter, open-label, randomized trial (TAX323).
+  HIGHLIGHTSIn this study, 358 patients with inoperable locally advanced SCCHN, and WHO performance status 0 or 1, were randomized to one of two treatment arms.
+Patients on the TAXOTERE arm received TAXOTERE (T) 75 mg/m2 followed by cisplatin (P) 75 mg/m2 on Day 1, followed by fluorouracil (F) 750 mg/m2 per day as a continuous infusion on Days 1-5.
+The cycles were repeated every three weeks for 4 cycles.
+  HIGHLIGHTSPatients whose disease did not progress received radiotherapy (RT) according to institutional guidelines (TPF/RT).
+Patients on the comparator arm received cisplatin (P) 100 mg/m2 on Day 1, followed by fluorouracil (F) 1000 mg/m2/day as a continuous infusion on Days 15.
+ HIGHLIGHTSThe cycles were repeated every three weeks for 4 cycles.
+ HIGHLIGHTS Patients whose disease did not progress received RT according to institutional guidelines (PF/RT).
+  HIGHLIGHTSAt the end of chemotherapy, with a minimal interval of 4 weeks and a maximal interval of 7 weeks, patients whose disease did not progress received radiotherapy (RT) according to institutional guidelines.
+  HIGHLIGHTSLocoregional therapy with radiation was delivered either with a conventional fraction regimen (1.8 Gy-2.0 Gy once a day, 5 days per week for a total dose of 66 to 70 Gy) or with an accelerated/hyperfractionated regimen (twice a day, with a minimum interfraction interval of 6 hours, 5 days per week, for a total dose of 70 to 74 Gy, respectively).
+ HIGHLIGHTSSurgical resection was allowed following chemotherapy, before or after radiotherapy.
+ HIGHLIGHTS HIGHLIGHTSThe primary endpoint in this study, progression-free survival (PFS), was significantly longer in the TPF arm compared to the PF arm, p=0.0077 (median PFS: 11.4 vs. 8.3 months respectively) with an overall median follow up time of 33.7 months.
+  HIGHLIGHTSMedian overall survival with a median follow-up of 51.2 months was also significantly longer in favor of the TPF arm compared to the PF arm (median OS: 18.6 vs. 14.2 months respectively).
+  HIGHLIGHTSEfficacy results are presented in Table 20 and Figures 8 and 9.
+ HIGHLIGHTS HIGHLIGHTSTable 20 - Efficacy of TAXOTERE in the induction treatment of patients with inoperable locally advanced SCCHN (Intent-to-Treat Analysis)
+ HIGHLIGHTSENDPOINT TAXOTERE+ Cisplatin+
+ HIGHLIGHTSFluorouracil n=177
+ HIGHLIGHTSCisplatin+ Fluorouracil
+ HIGHLIGHTSn=181 Median progression free survival (months) (95%CI) Adjusted Hazard ratio (95%CI) *p-value
+ HIGHLIGHTS11.4 (10.1-14.0)
+ HIGHLIGHTS8.3 (7.4-9.1)
+ HIGHLIGHTS0.71 (0.56-0.91)
+ HIGHLIGHTS0.0077 Median survival (months) (95%CI) Hazard ratio (95%CI) **p-value
+ HIGHLIGHTS18.6 (15.7-24.0)
+ HIGHLIGHTS14.2 (11.5-18.7)
+ HIGHLIGHTS0.71 (0.56-0.90)
+ HIGHLIGHTS0.0055 Best overall response (CR + PR) to chemotherapy (%) (95%CI) ***p-value
+ HIGHLIGHTS67.8 (60.4-74.6)
+ HIGHLIGHTS53.6 (46.0-61.0)
+ HIGHLIGHTS0.006 Best overall response (CR + PR) to study treatment [chemotherapy +/- radiotherapy] (%) (95%CI) ***p-value
+ HIGHLIGHTS72.3 (65.1-78.8)
+ HIGHLIGHTS58.6 (51.0-65.8)
+ HIGHLIGHTS0.006 A Hazard ratio of less than 1 favors TAXOTERE+Cisplatin+Fluorouracil * Stratified log-rank test based on primary tumor site ** Stratified log-rank test, not adjusted for multiple comparisons *** Chi square test, not adjusted for multiple comparisons
+ HIGHLIGHTSFigure 8 - TAX323 Progression-Free Survival K-M Curve 100
+ HIGHLIGHTS90
+ HIGHLIGHTS80
+ HIGHLIGHTSPFS
+ HIGHLIGHTSProbability (%) 70
+ HIGHLIGHTS60
+ HIGHLIGHTS50
+ HIGHLIGHTS40
+ HIGHLIGHTS30
+ HIGHLIGHTS20 TPF
+ HIGHLIGHTS10 PF
+ HIGHLIGHTS0
+ HIGHLIGHTS0 6 12 18 24 30 36 42 Progression Free Survival Time (months)
+ HIGHLIGHTS HIGHLIGHTSFigure 9 - TAX323 Overall Survival K-M Curve 100
+ HIGHLIGHTS90
+ HIGHLIGHTS80
+ HIGHLIGHTSSur
+HIGHLIGHTSviva
+HIGHLIGHTSl Pro
+HIGHLIGHTSbabi
+HIGHLIGHTSlity
+ HIGHLIGHTS(%)
+HIGHLIGHTS70
+ HIGHLIGHTS60
+ HIGHLIGHTS50
+ HIGHLIGHTS40
+ HIGHLIGHTS30
+ HIGHLIGHTS20
+ HIGHLIGHTS10
+ HIGHLIGHTS0
+ HIGHLIGHTSSurvival Time (months)
+ HIGHLIGHTSTPF
+ HIGHLIGHTSPF
+ HIGHLIGHTS0 6 12 18 24 30 36 42 48 54 60 66 72
+ HIGHLIGHTS HIGHLIGHTSInduction chemotherapy followed by chemoradiotherapy (TAX324) The safety and efficacy of TAXOTERE in the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN was evaluated in a randomized, multicenter open-label trial (TAX324).
+  HIGHLIGHTSIn this study, 501 patients, with locally advanced SCCHN, and a WHO performance status of 0 or 1, were randomized to one of two treatment arms.
+ HIGHLIGHTS Patients on the TAXOTERE arm received TAXOTERE (T) 75 mg/m by intravenous infusion on day 1 followed by cisplatin (P) 100 mg/m administered as a 30-minute to three-hour intravenous infusion, followed by the continuous intravenous infusion of fluorouracil (F) 1000 mg/m/day from day 1 to day 4.
+ HIGHLIGHTSThe cycles were repeated every 3 weeks for 3 cycles.
+ HIGHLIGHTS Patients on the comparator arm received cisplatin (P) 100 mg/m as a 30-minute to three-hour intravenous infusion on day 1 followed by the continuous intravenous infusion of fluorouracil (F) 1000 mg/m/day from day 1 to day 5.
+ HIGHLIGHTSThe cycles were repeated every 3 weeks for 3 cycles.
+ HIGHLIGHTSAll patients in both treatment arms who did not have progressive disease were to receive 7 weeks of chemoradiotherapy (CRT) following induction chemotherapy 3 to 8 weeks after the start of the last cycle.
+ HIGHLIGHTSDuring radiotherapy, carboplatin (AUC 1.5) was given weekly as a one-hour intravenous infusion for a maximum of 7 doses.
+ HIGHLIGHTSRadiation was delivered with megavoltage equipment using once daily fractionation (2 Gy per day, 5 days per week for 7 weeks for a total dose of 70-72 Gy).
+ Surgery on the primary site of disease and/or neck could be considered at anytime following completion of CRT.
+ HIGHLIGHTSThe primary efficacy endpoint, overall survival (OS), was significantly longer (log-rank test, p=0.0058) with the TAXOTERE-containing regimen compared to PF [median OS: 70.6 versus 30.1 months respectively, hazard ratio (HR)=0.70, 95% confidence interval (CI)= 0.54 - 0.90].
+  HIGHLIGHTSOverall survival results are presented in Table 21 and Figure 10.
+ HIGHLIGHTS HIGHLIGHTSTable 21 - Efficacy of TAXOTERE in the induction treatment of patients with locally advanced
+ HIGHLIGHTSSCCHN (Intent-to-Treat Analysis)
+HIGHLIGHTS  HIGHLIGHTSENDPOINT
+ HIGHLIGHTSTAXOTERE+ Cisplatin+ Fluorouracil
+ HIGHLIGHTSn=255
+ HIGHLIGHTSCisplatin+ Fluorouracil
+ HIGHLIGHTSn=246 Median overall survival (months) (95% CI)
+ HIGHLIGHTS70.6 (49.0-NE)
+ HIGHLIGHTS30.1 (20.9-51.5)
+ HIGHLIGHTSHazard ratio: (95% CI) *p-value
+ HIGHLIGHTS0.70 (0.54-0.90)
+ HIGHLIGHTS0.0058 A Hazard ratio of less than 1 favors TAXOTERE+cisplatin+fluorouracil * un-adjusted log-rank test NE - not estimable
+ HIGHLIGHTSFigure 10 - TAX324 Overall Survival K-M Curve
+ HIGHLIGHTS100
+ HIGHLIGHTS90
+ HIGHLIGHTS80
+ HIGHLIGHTSTPF (n=255)
+ HIGHLIGHTSPF  (n=246)
+ HIGHLIGHTS0 6 12 18 24 30 36 42 48 54 60 66 72
+ HIGHLIGHTSSurvival Probability (%)
+ HIGHLIGHTS70
+ HIGHLIGHTS60
+ HIGHLIGHTS50
+ HIGHLIGHTS40
+ HIGHLIGHTS30
+ HIGHLIGHTS20
+ HIGHLIGHTS10
+ HIGHLIGHTS0
+ HIGHLIGHTSSurvival Time (months) Number of patients at risk TPF: 255 234 196 176 163 136 105 72 52 45 37 20 11 PF: 246 223 169 146 130 107 85 57 36 32 28 10 7
+ HIGHLIGHTS HIGHLIGHTS15.
+REFERENCES
+ HIGHLIGHTS1.
+NIOSH Alert: Preventing occupational exposures to antineoplastic and other hazardous drugs in healthcare settings.
+HIGHLIGHTS 2004.
+U.S. Department of Health and Human Services, Public Health Service, Centers for Disease Control and Prevention, National Institute for Occupational Safety and Health, DHHS (NIOSH) Publication No.
+2004-165.
+ HIGHLIGHTS HIGHLIGHTS2.
+OSHA Technical Manual, TED 1-0.15A, Section VI: Chapter 2.
+Controlling Occupational Exposure to Hazardous Drugs.
+OSHA, 1999.
+ HIGHLIGHTS HIGHLIGHTS3.
+American Society of Health-System Pharmacists.
+(2006) ASHP Guidelines on Handling
+HIGHLIGHTS Hazardous Drugs.
+Am J Health-Syst Pharm.
+2006;63:1172-1193
+HIGHLIGHTS   HIGHLIGHTS4.
+Polovich, M., White, J. M., &amp; Kelleher, L.O. (eds.) 2005.
+Chemotherapy and biotherapy guidelines and recommendations for practice (2nd.
+ed.) Pittsburgh, PA: Oncology Nursing Society.
+ HIGHLIGHTS HIGHLIGHTS16.
+HOW SUPPLIED/STORAGE AND HANDLING
+ HIGHLIGHTS16.1 How Supplied
+ HIGHLIGHTSOne-vial TAXOTERE (Injection Concentrate)
+ HIGHLIGHTSTAXOTERE Injection Concentrate is supplied in a single use vial as a sterile, pyrogen-free, non-aqueous solution.
+ HIGHLIGHTSTAXOTERE 20 mg/m (NDC 0075-8003-01) TAXOTERE (docetaxel) Injection Concentrate 20 mg/1 mL: 20 mg docetaxel in 1 mL in 50/50 (v/v)
+ HIGHLIGHTSratio polysorbate 80/dehydrated alcohol.
+HIGHLIGHTSThe vial is in a blister pack in one carton.
+HIGHLIGHTS  HIGHLIGHTSTAXOTERE 80 mg/4 mL (NDC 0075-8004-04) TAXOTERE (docetaxel) Injection Concentrate 80 mg/4 mL: 80 mg docetaxel in 4 mL 50/50 (v/v) ratio
+HIGHLIGHTS polysorbate 80/dehydrated alcohol.
+HIGHLIGHTS The vial is in a blister pack in one carton.
+HIGHLIGHTS  HIGHLIGHTS16.2 Storage
+ HIGHLIGHTSStore between 2C and 25C (36F and 77F).
+Retain in the original package to protect from light.
+HIGHLIGHTS Freezing does not adversely affect the product.
+ HIGHLIGHTS HIGHLIGHTS16.3 Handling and Disposal
+ HIGHLIGHTSProcedures for proper handling and disposal of anticancer drugs should be considered.
+ HIGHLIGHTSSeveral guidelines on this subject have been published [see References (15)].
+ HIGHLIGHTS HIGHLIGHTS17.
+PATIENT COUNSELING INFORMATION See FDA-Approved Patient Labeling
+ HIGHLIGHTSTAXOTERE may cause fetal harm.
+ Advise patients to avoid becoming pregnant while receiving this drug.
+  HIGHLIGHTSWomen of childbearing potential should use effective contraceptives if receiving TAXOTERE [see Warnings and Precautions (5.12) and Use in Specific Populations (8.1)].
+ HIGHLIGHTSObtain detailed allergy and concomitant drug information from the patient prior to TAXOTERE administration.
+ HIGHLIGHTS  HIGHLIGHTSExplain the significance of oral corticosteroids such as dexamethasone administration to the patient to help facilitate compliance.
+ HIGHLIGHTSInstruct patients to report if they were not compliant with oral corticosteroid regimen.
+ HIGHLIGHTSInstruct patients to immediately report signs of a hypersensitivity reaction.
+HIGHLIGHTS  HIGHLIGHTSTell patients to watch for signs of fluid retention such as peripheral edema in the lower extremities, weight gain and dyspnea.
+     HIGHLIGHTS    HIGHLIGHTSExplain the significance of routine blood cell counts.
+HIGHLIGHTS Instruct patients to monitor their temperature frequently and immediately report any occurrence of fever.
+ HIGHLIGHTS HIGHLIGHTS Instruct patients to report myalgia, cutaneous, or neurologic reactions.
+ HIGHLIGHTS HIGHLIGHTSExplain to patients the possible effects of the alcohol content in TAXOTERE Injection, including possible effects on the central nervous system.
+Patients in whom alcohol should be avoided or minimized should consider the alcohol content of TAXOTERE Injection.
+HIGHLIGHTS Alcohol could impair their ability to drive or use machines immediately after infusion.
+ HIGHLIGHTS HIGHLIGHTSExplain to patients that side effects such as nausea, vomiting, diarrhea, constipation, fatigue, excessive tearing, infusion site reactions, and hair loss are associated with docetaxel administration.
+ HIGHLIGHTS HIGHLIGHTSPatient Information
+ HIGHLIGHTSTAXOTERE (TAX-O-TEER) (docetaxel) Injection Concentrate
+ HIGHLIGHTSIntravenous Infusion
+ HIGHLIGHTSRead this Patient Information before you receive your first treatment with TAXOTERE and each time before you are treated.
+ HIGHLIGHTSThere may be new information.
+ HIGHLIGHTSThis information does not take the place of talking with your doctor about your medical condition or your treatment.
+  HIGHLIGHTSWhat is the most important information I should know about TAXOTERE?
+ HIGHLIGHTSTAXOTERE can cause serious side effects, including death.
+ HIGHLIGHTS HIGHLIGHTS1.
+The chance of death in people who receive TAXOTERE is higher if you:
+ HIGHLIGHTShave liver problems
+ HIGHLIGHTSreceive high doses of TAXOTERE
+ HIGHLIGHTShave non-small cell lung cancer and have been treated with chemotherapy
+ HIGHLIGHTSmedicines that contain platinum
+ HIGHLIGHTS HIGHLIGHTS2.TAXOTERE can affect your blood cells.
+Your doctor should do routine blood tests during treatment with TAXOTERE.
+  HIGHLIGHTSThis will include regular checks of your white blood cell counts.
+  HIGHLIGHTSIf your white blood cells are too low, your doctor may not treat you with TAXOTERE until you have enough white blood cells.
+ HIGHLIGHTSPeople with low white blood counts can develop life-threatening infections.
+  HIGHLIGHTSThe earliest sign of infection may be fever.
+  HIGHLIGHTSFollow your doctor's instructions for how often to take your temperature while taking TAXOTERE.
+  HIGHLIGHTSCall your doctor right away if you have a fever.
+  HIGHLIGHTS HIGHLIGHTS3.Serious allergic reactions can happen in people who take TAXOTERE.
+  HIGHLIGHTSSerious allergic reactions are medical emergencies that can lead to death and must be treated right away.
+ HIGHLIGHTSTell your doctor right away if you have any of these signs of a serious allergic reaction:
+ HIGHLIGHTS trouble breathing
+ HIGHLIGHTSsudden swelling of your face, lips, tongue, throat, or trouble swallowing
+ HIGHLIGHTShives (raised bumps), rash, or redness all over your body
+ HIGHLIGHTS HIGHLIGHTS4.
+Your body may hold too much fluid (severe fluid retention) during treatment with TAXOTERE.
+  HIGHLIGHTSThis can be life threatening.
+  HIGHLIGHTSTo decrease the chance of this happening, you must take another medicine, a corticosteroid, before each TAXOTERE treatment.
+  HIGHLIGHTSYou must take the corticosteroid exactly as your doctor tells you.
+  HIGHLIGHTSTell your doctor or nurse before your TAXOTERE treatment if you forget to take the corticosteroid dose or do not take it as your doctor tells you.
+ HIGHLIGHTSWhat is TAXOTERE?
+ HIGHLIGHTSTAXOTERE is a prescription anti-cancer medicine used to treat certain people with:
+ HIGHLIGHTSbreast cancer
+ HIGHLIGHTSnon-small cell lung cancer
+ HIGHLIGHTSprostate cancer
+ HIGHLIGHTS stomach cancer
+ HIGHLIGHTShead and neck cancer
+ HIGHLIGHTSIt is not known if TAXOTERE is effective in children.
+ HIGHLIGHTSWho should not receive TAXOTERE?
+ HIGHLIGHTSDo not receive TAXOTERE if you:
+ HIGHLIGHTS have had a severe allergic reaction to:
+ HIGHLIGHTSodocetaxel, the active ingredient in TAXOTERE, or any other medicines that contain polysorbate 80.
+ HIGHLIGHTS Ask your doctor or pharmacist if you are not sure.
+ HIGHLIGHTS HIGHLIGHTSSee "What is the most important information I should know about TAXOTERE?" for the signs and symptoms of a severe allergic reaction.
+ HIGHLIGHTShave a low white blood cell count.
+ HIGHLIGHTS HIGHLIGHTSWhat should I tell my doctor before receiving TAXOTERE?
+ HIGHLIGHTSBefore you receive TAXOTERE, tell your doctor if you:
+ HIGHLIGHTSare allergic to any medicines.
+ See "Who should not receive TAXOTERE?" Also, see the end of this leaflet for a complete list of the ingredients in TAXOTERE.
+ HIGHLIGHTShave liver problems have any other medical conditions are pregnant or plan to become pregnant.
+ HIGHLIGHTS TAXOTERE can harm your unborn baby.
+ HIGHLIGHTSare breastfeeding or plan to breastfeed.
+  HIGHLIGHTSIt is not known if TAXOTERE passes into your breast milk.
+  HIGHLIGHTSYou and your doctor should decide if you will receive TAXOTERE or breastfeed.
+ HIGHLIGHTS HIGHLIGHTSTell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+TAXOTERE may affect
+ HIGHLIGHTS HIGHLIGHTSthe way other medicines work, and other medicines may affect the way TAXOTERE works.
+ HIGHLIGHTSKnow the medicines you take.
+  HIGHLIGHTSKeep a list of them to show your doctor and pharmacist when you get a new medicine.
+ HIGHLIGHTSHow will I receive TAXOTERE?
+ HIGHLIGHTS TAXOTERE will be given to you as an intravenous (IV) injection into your vein, usually over 1 hour.
+ HIGHLIGHTSTAXOTERE is usually given every 3 weeks.
+ HIGHLIGHTSYour doctor will decide how long you will receive treatment with TAXOTERE.
+ HIGHLIGHTSYour doctor will check your blood cell counts and other blood tests during your treatment with TAXOTERE to check for side effects of TAXOTERE.
+ HIGHLIGHTSYour doctor may stop your treatment, change the timing of your treatment, or change the dose of your treatment if you have certain side effects while receiving TAXOTERE.
+ HIGHLIGHTSWhat are the possible side effects of TAXOTERE?
+ HIGHLIGHTSTAXOTERE may cause serious side effects including death.
+ HIGHLIGHTSSee "What is the most important information I should know about TAXOTERE?"
+ HIGHLIGHTSAcute Myeloid Leukemia (AML), a type of blood cancer, can happen in people who take TAXOTERE along with certain other medicines.
+ HIGHLIGHTSOther Blood Disorders.
+ HIGHLIGHTSChanges in blood counts due to leukemia and other blood disorders may occur years after treatment with TAXOTERE.
+ HIGHLIGHTSSkin Reactions including redness and swelling of your arms and legs with peeling of your skin.
+ HIGHLIGHTSNeurologic Symptoms including numbness, tingling, or burning in your hands and feet.
+ HIGHLIGHTSVision Problems including blurred vision or loss of vision.
+ HIGHLIGHTS TAXOTERE Injection contains alcohol.
+The alcohol content in TAXOTERE Injection may impair your ability to drive or use machinery right after receiving TAXOTERE Injection.
+ HIGHLIGHTSConsider whether you should drive, operate machinery or do other dangerous activities right after you receive TAXOTERE Injection treatment.
+ HIGHLIGHTSThe most common side effects of TAXOTERE include:
+ HIGHLIGHTSchanges in your sense of taste
+ HIGHLIGHTSfeeling short of breath
+ HIGHLIGHTSconstipation
+ HIGHLIGHTSdecreased appetite
+ HIGHLIGHTSchanges in your fingernails or toenails
+ HIGHLIGHTSswelling of your hands, face or feet
+  HIGHLIGHTSfeeling weak or tired
+  HIGHLIGHTSjoint and muscle pain
+ HIGHLIGHTS nausea and vomiting
+ HIGHLIGHTS diarrhea
+ HIGHLIGHTSmouth or lips sores
+HIGHLIGHTS hair loss
+ HIGHLIGHTS rash
+ HIGHLIGHTS redness of the eye, excess tearing
+ HIGHLIGHTS skin reactions at the site of TAXOTERE administration such as increased skin pigmentation, redness, tenderness, swelling, warmth or dryness of the skin.
+HIGHLIGHTS tissue damage if TAXOTERE leaks out of the vein into the tissues
+ HIGHLIGHTSTell your doctor if you have any side effect that bothers you or does not go away.
+ HIGHLIGHTSThese are not all the possible side effects of TAXOTERE.
+ For more information ask your doctor or pharmacist.
+ HIGHLIGHTS HIGHLIGHTSCall your doctor for medical advice about side effects.
+ You may report side effects to FDA at 1-800-FDA-1088.
+ HIGHLIGHTS HIGHLIGHTSGeneral information about TAXOTERE
+ HIGHLIGHTSMedicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+ HIGHLIGHTSThis Patient Information leaflet summarizes the most important information about TAXOTERE.
+ HIGHLIGHTS If you would like more information, talk with your doctor.
+ HIGHLIGHTSYou can ask your pharmacist or doctor for information about TAXOTERE that is written for health professionals.
+ HIGHLIGHTS HIGHLIGHTSFor more information, call 1-800-633-1610.
+ HIGHLIGHTSWhat are the ingredients in TAXOTERE?
+ HIGHLIGHTS HIGHLIGHTSActive ingredient: docetaxel Inactive ingredients include: ethanol and polysorbate 80
+ HIGHLIGHTSEvery three-week injection of TAXOTERE for breast, non-small cell lung and stomach, and head and neck cancers Take your oral corticosteroid medicine as your doctor tells you.
+ HIGHLIGHTSOral corticosteroid dosing:
+ HIGHLIGHTSDay 1 Date:______ Time: ___ AM _____ PM
+ HIGHLIGHTSDay 2 Date:______ Time: ___ AM _____ PM (TAXOTERE Treatment Day)
+ HIGHLIGHTSDay 3 Date:______ Time: ___ AM _____ PM
+ HIGHLIGHTSEvery three-week injection of TAXOTERE for prostate cancer Take your oral corticosteroid medicine as your doctor tells you.
+ HIGHLIGHTS HIGHLIGHTSOral corticosteroid dosing:
+ HIGHLIGHTSDate: _______ Time: ______
+ HIGHLIGHTSDate: _______ Time: ______ (TAXOTERE Treatment Day)
+ HIGHLIGHTSTime: ______
+ HIGHLIGHTSThis Patient Information has been approved by the U.S. Food and Drug Administration.
+ HIGHLIGHTSsanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
+ HIGHLIGHTSRevised: 11/2014
+ HIGHLIGHTS2014 sanofi-aventis U.S. LLC
+ HIGHLIGHTS

@@ -1,0 +1,726 @@
+T1	tradename 114 121	WELCHOL
+T3	tradename 184 192	WELCHOL.
+T5	tradename 194 201	WELCHOL
+T7	activeingredient 203 229	colesevelam hydrochloride)
+T9	fdaapprovaldate 253 257	2000
+T11	tradename 427 434	WELCHOL
+T13	indication 585 607	primary hyperlipidemia
+T15	indication 990 1014	type 2 diabetes mellitus
+T17	tradename 1152 1159	WELCHOL
+T19	tradename 1257 1264	WELCHOL
+T21	tradename 1340 1347	WELCHOL
+T23	tradename 1499 1506	WELCHOL
+T25	frequency 1550 1560	once daily
+T27	frequency 1574 1586	twice daily.
+T29	tradename 1587 1594	WELCHOL
+T31	tradename 1655 1662	WELCHOL
+T33	routeofadministration 1667 1671	Oral
+T35	dose 1712 1721	3.75 gram
+T37	frequency 1729 1739	once daily
+T39	dose 1747 1757	1.875 gram
+T41	frequency 1765 1777	twice daily.
+T43	tradename 1952 1959	WELCHOL
+T45	routeofadministration 1965 1969	Oral
+T47	tradename 2040 2047	WELCHOL
+T49	routeofadministration 2052 2056	Oral
+T51	routeofadministration 2197 2201	Oral
+T53	tradename 2637 2644	WELCHOL
+T55	tradename 2719 2726	WELCHOL
+T57	tradename 3228 3235	WELCHOL
+T59	tradename 3430 3437	WELCHOL
+T61	tradename 3574 3582	WELCHOL.
+T63	tradename 3754 3762	WELCHOL.
+T65	tradename 3843 3850	WELCHOL
+T67	routeofadministration 3855 3859	Oral
+T69	tradename 4160 4167	WELCHOL
+T71	adversereaction 4177 4189	constipation
+T73	adversereaction 4191 4200	dyspepsia
+T75	adversereaction 4206 4213	nausea.
+T77	tradename 4254 4261	WELCHOL
+T79	tradename 4415 4423	WELCHOL.
+T81	tradename 4663 4671	WELCHOL.
+T83	adversereaction 4709 4726	bowel obstruction
+T85	adversereaction 4728 4737	dysphagia
+T87	adversereaction 4739 4761	esophageal obstruction
+T89	adversereaction 4763 4778	fecal impaction
+T91	adversereaction 4780 4800	hypertriglyceridemia
+T93	adversereaction 4802 4814	pancreatitis
+T95	adversereaction 4820 4843	increased transaminases
+T97	company 4913 4927	Daiichi Sankyo
+T99	company 4929 4933	Inc.
+T101	tradename 5103 5110	WELCHOL
+T103	tradename 5287 5294	WELCHOL
+T105	tradename 5501 5508	WELCHOL
+T107	tradename 5580 5587	WELCHOL
+T109	indication 5771 5793	Primary Hyperlipidemia
+T111	indication 5798 5822	Type 2 Diabetes Mellitus
+T113	indication 5893 5915	Primary Hyperlipidemia
+T115	indication 5920 5944	Type 2 Diabetes Mellitus
+T117	indication 6771 6793	Primary Hyperlipidemia
+T119	indication 6799 6823	Type 2 Diabetes Mellitus
+T121	indication 6905 6927	Primary Hyperlipidemia
+T123	indication 6933 6957	Type 2 Diabetes Mellitus
+T125	indication 7133 7155	Primary Hyperlipidemia
+T127	tradename 7157 7164	WELCHOL
+T129	indication 7291 7313	primary hyperlipidemia
+T131	co-administereddrug 7377 7450	hydroxymethyl-glutaryl-coenzyme A (HMG CoA) reductase inhibitor (statin).
+T133	tradename 7452 7459	WELCHOL
+T135	co-administereddrug 7513 7519	statin
+T137	indication 8729 8753	Type 2 Diabetes Mellitus
+T139	tradename 8754 8761	WELCHOL
+T141	indication 8854 8878	type 2 diabetes mellitus
+T143	tradename 9143 9150	WELCHOL
+T145	tradename 9255 9262	WELCHOL
+T147	tradename 9434 9441	WELCHOL
+T149	tradename 9517 9524	WELCHOL
+T151	indication 9667 9689	Primary Hyperlipidemia
+T153	tradename 9715 9722	WELCHOL
+T155	co-administereddrug 9795 9801	statin
+T157	dose 9806 9815	6 tablets
+T159	frequency 9816 9826	once daily
+T161	dose 9830 9839	3 tablets
+T163	frequency 9840 9852	twice daily.
+T165	tradename 9853 9860	WELCHOL
+T167	tradename 9934 9941	WELCHOL
+T169	routeofadministration 9946 9950	Oral
+T171	dose 10016 10025	3.75 gram
+T173	frequency 10033 10043	once daily
+T175	dose 10051 10061	1.875 gram
+T177	frequency 10069 10081	twice daily.
+T179	tradename 10254 10261	WELCHOL
+T181	routeofadministration 10266 10270	Oral
+T183	tradename 10341 10348	WELCHOL
+T185	routeofadministration 10353 10357	Oral
+T187	tradename 10503 10510	WELCHOL
+T189	routeofadministration 10515 10519	Oral
+T191	tradename 10533 10540	WELCHOL
+T193	co-administereddrug 10576 10582	statin
+T195	tradename 10671 10678	WELCHOL
+T197	indication 10740 10764	Type 2 Diabetes Mellitus
+T199	tradename 10790 10797	WELCHOL
+T201	dose 10809 10818	6 tablets
+T203	frequency 10819 10829	once daily
+T205	dose 10833 10842	3 tablets
+T207	frequency 10843 10855	twice daily.
+T209	tradename 10857 10864	WELCHOL
+T211	tradename 10930 10937	WELCHOL
+T213	routeofadministration 10942 10946	Oral
+T215	dose 10965 10974	3.75 gram
+T217	frequency 10982 10992	once daily
+T219	dose 11000 11010	1.875 gram
+T221	frequency 11018 11030	twice daily.
+T223	tradename 11202 11209	WELCHOL
+T225	routeofadministration 11214 11218	Oral
+T227	tradename 11288 11295	WELCHOL
+T229	routeofadministration 11300 11304	Oral
+T231	routeofadministration 11495 11499	Oral
+T233	tradename 11687 11694	WELCHOL
+T235	tradename 12028 12035	WELCHOL
+T237	tradename 12128 12135	WELCHOL
+T239	tradename 12212 12219	WELCHOL
+T241	indication 12318 12340	primary hyperlipidemia
+T243	indication 12437 12452	type 2 diabetes
+T245	tradename 12499 12506	WELCHOL
+T247	tradename 12583 12590	WELCHOL
+T249	indication 13133 13148	type 2 diabetes
+T251	tradename 13164 13171	WELCHOL
+T253	tradename 13209 13218	WELCHOL's
+T255	tradename 13435 13442	WELCHOL
+T257	tradename 13627 13635	WELCHOL.
+T259	tradename 13661 13668	WELCHOL
+T261	tradename 13846 13853	WELCHOL
+T263	tradename 13884 13891	WELCHOL
+T265	tradename 14278 14285	WELCHOL
+T267	activeingredient 14415 14440	colesevelam hydrochloride
+T269	routeofadministration 14568 14572	oral
+T271	tradename 14650 14658	WELCHOL.
+T273	tradename 14932 14939	WELCHOL
+T275	tradename 15172 15179	WELCHOL
+T277	tradename 15349 15356	WELCHOL
+T279	routeofadministration 15361 15365	Oral
+T281	tradename 15426 15433	WELCHOL
+T283	routeofadministration 15438 15442	Oral
+T285	tradename 15542 15549	WELCHOL
+T287	tradename 15699 15707	WELCHOL.
+T289	tradename 15879 15887	WELCHOL.
+T291	tradename 16059 16066	WELCHOL
+T293	routeofadministration 16071 16075	Oral
+T295	tradename 16353 16360	WELCHOL
+T297	indication 16715 16738	Primary Hyperlipidemia:
+T299	indication 16813 16835	primary hyperlipidemia
+T301	tradename 16960 16967	WELCHOL
+T303	dose 16968 16973	1.5 g
+T305	frequency 16973 16977	/day
+T307	dose 16981 16986	4.5 g
+T309	frequency 16986 16990	/day
+T311	tradename 17120 17127	WELCHOL
+T313	tradename 17245 17252	WELCHOL
+T315	indication 17265 17280	Hyperlipidemia:
+T317	tradename 17453 17460	WELCHOL
+T319	adversereaction 17487 17499	Constipation
+T321	adversereaction 17520 17529	Dyspepsia
+T323	adversereaction 17548 17554	Nausea
+T325	adversereaction 17574 17591	Accidental injury
+T327	adversereaction 17610 17618	Asthenia
+T329	adversereaction 17637 17648	Pharyngitis
+T331	adversereaction 17667 17679	Flu syndrome
+T333	adversereaction 17698 17706	Rhinitis
+T335	adversereaction 17725 17732	Myalgia
+T337	tradename 17983 17990	WELCHOL
+T339	dose 18000 18009	1.9-3.8 g
+T341	frequency 18011 18017	daily)
+T343	tradename 18114 18121	WELCHOL
+T345	indication 18134 18148	Hyperlipidemia
+T347	tradename 18346 18353	WELCHOL
+T349	adversereaction 18379 18394	Nasopharyngitis
+T351	adversereaction 18412 18420	Headache
+T353	adversereaction 18438 18445	Fatigue
+T355	adversereaction 18463 18494	Creatine Phosphokinase Increase
+T357	adversereaction 18512 18520	Rhinitis
+T359	adversereaction 18538 18546	Vomiting
+T361	tradename 18659 18666	WELCHOL
+T363	dose 18667 18672	3.8 g
+T365	frequency 18673 18680	per day
+T367	adversereaction 18748 18756	headache
+T369	adversereaction 18765 18780	nasopharyngitis
+T371	adversereaction 18789 18822	upper respiratory tract infection
+T373	adversereaction 18831 18840	influenza
+T375	adversereaction 18853 18859	nausea
+T377	indication 18900 18925	Type 2 Diabetes Mellitus:
+T379	tradename 18941 18948	WELCHOL
+T381	indication 18966 18990	type 2 diabetes mellitus
+T383	tradename 19187 19195	WELCHOL.
+T385	dose 19301 19310	3.8 grams
+T387	tradename 19314 19321	WELCHOL
+T389	frequency 19322 19330	per day.
+T391	tradename 19368 19375	WELCHOL
+T393	indication 19746 19761	type 2 diabetes
+T395	tradename 19789 19796	WELCHOL
+T397	tradename 19932 19939	WELCHOL
+T399	tradename 20065 20072	WELCHOL
+T401	tradename 20143 20151	WELCHOL.
+T403	tradename 20200 20210	WELCHOLfor
+T405	indication 20211 20227	Type 2 Diabetes:
+T407	tradename 20400 20407	WELCHOL
+T409	adversereaction 20436 20448	Constipation
+T411	adversereaction 20468 20480	Hypoglycemia
+T413	adversereaction 20500 20509	Dyspepsia
+T415	adversereaction 20529 20535	Nausea
+T417	adversereaction 20555 20567	Hypertension
+T419	adversereaction 20588 20597	Back Pain
+T421	tradename 20637 20652	WELCHOL-treated
+T423	tradename 21026 21033	WELCHOL
+T425	tradename 21086 21094	WELCHOL.
+T427	tradename 21711 21718	WELCHOL
+T429	tradename 21761 21768	WELCHOL
+T431	tradename 22119 22126	WELCHOL
+T433	tradename 22367 22382	WELCHOL-treated
+T435	tradename 22511 22518	WELCHOL
+T437	tradename 22695 22702	WELCHOL
+T439	tradename 22785 22792	WELCHOL
+T441	indication 22845 22860	type 2 diabetes
+T443	indication 22879 22901	primary hyperlipidemia
+T445	tradename 23131 23138	WELCHOL
+T447	tradename 23408 23415	WELCHOL
+T449	tradename 23756 23764	WELCHOL.
+T451	tradename 24007 24014	WELCHOL
+T453	tradename 24180 24188	WELCHOL.
+T455	tradename 24348 24355	WELCHOL
+T457	tradename 24568 24575	WELCHOL
+T459	adversereaction 24643 24660	Bowel obstruction
+T461	adversereaction 24725 24734	dysphagia
+T463	routeofadministration 24747 24751	oral
+T465	adversereaction 24780 24802	esophageal obstruction
+T467	adversereaction 24850 24865	fecal impaction
+T469	adversereaction 24867 24879	pancreatitis
+T471	adversereaction 24881 24901	abdominal distension
+T473	adversereaction 24903 24930	exacerbation of hemorrhoids
+T475	adversereaction 24936 24960	increased transaminases.
+T477	routeofadministration 25239 25245	Orally
+T479	tradename 25429 25437	WELCHOL.
+T481	co-administereddrug 25729 25742	cyclosporinec
+T483	co-administereddrug 25745 25757	glimepiridea
+T485	co-administereddrug 25759 25769	glipizidea
+T487	co-administereddrug 25772 25782	glyburidea
+T489	co-administereddrug 25785 25799	levothyroxinea
+T491	co-administereddrug 25801 25822	olmesartan medoxomila
+T493	co-administereddrug 25828 25895	oral contraceptives containing ethinyl estradiol and norethindronea
+T495	co-administereddrug 25991 26023	metformin extended release (ER)d
+T497	tradename 26134 26141	WELCHOL
+T499	co-administereddrug 26142 26152	phenytoina
+T501	co-administereddrug 26155 26164	warfarinb
+T503	tradename 26527 26534	WELCHOL
+T505	co-administereddrug 26567 26575	warfarin
+T507	co-administereddrug 26593 26601	warfarin
+T509	tradename 26606 26613	WELCHOL
+T511	co-administereddrug 26674 26682	warfarin
+T513	tradename 26885 26893	WELCHOL.
+T515	co-administereddrug 26927 26939	metformin ER
+T517	tradename 27086 27093	WELCHOL
+T519	co-administereddrug 27098 27106	warfarin
+T521	co-administereddrug 27141 27149	warfarin
+T523	tradename 27204 27211	WELCHOL
+T525	co-administereddrug 27216 27224	warfarin
+T527	tradename 27297 27304	WELCHOL
+T529	co-administereddrug 27309 27317	warfarin
+T531	co-administereddrug 27383 27391	warfarin
+T533	tradename 27447 27454	WELCHOL
+T535	tradename 27490 27497	WELCHOL
+T537	co-administereddrug 27664 27672	warfarin
+T539	activeingredient 28565 28590	Colesevelam hydrochloride
+T541	activeingredient 28644 28669	colesevelam hydrochloride
+T543	tradename 28785 28792	WELCHOL
+T545	tradename 29265 29272	WELCHOL
+T547	routeofadministration 29277 29281	Oral
+T549	tradename 29385 29392	WELCHOL
+T551	tradename 29445 29452	WELCHOL
+T553	indication 29563 29586	Primary Hyperlipidemia:
+T555	indication 29624 29638	hyperlipidemia
+T557	indication 30024 30049	Type 2 Diabetes Mellitus:
+T559	tradename 30187 30194	WELCHOL
+T561	dose 30195 30200	3.8 g
+T563	frequency 30200 30204	/day
+T565	tradename 30538 30545	WELCHOL
+T567	indication 30622 30647	Type 2 Diabetes Mellitus:
+T569	tradename 31411 31418	WELCHOL
+T571	dose 31432 31437	4.5 g
+T573	frequency 31437 31441	/day
+T575	tradename 31472 31479	WELCHOL
+T577	tradename 31564 31571	WELCHOL
+T579	adversereaction 31632 31645	constipation)
+T581	tradename 31688 31695	WELCHOL
+T583	activeingredient 31697 31723	colesevelam hydrochloride)
+T585	routeofadministration 31809 31813	oral
+T587	activeingredient 31832 31857	Colesevelam hydrochloride
+T589	activeingredient 31907 31932	Colesevelam hydrochloride
+T591	nanoparticle 31936 31966	poly(allylamine hydrochloride)
+T593	activeingredient 32110 32135	colesevelam hydrochloride
+T595	activeingredient 32304 32329	colesevelam hydrochloride
+T597	activeingredient 33306 33331	Colesevelam hydrochloride
+T599	tradename 33372 33379	WELCHOL
+T601	activeingredient 33456 33482	colesevelam hydrochloride.
+T603	inactiveingredient 33554 33572	magnesium stearate
+T605	inactiveingredient 33574 33600	microcrystalline cellulose
+T607	inactiveingredient 33602 33617	silicon dioxide
+T609	inactiveingredient 33619 33655	HPMC (hydroxypropyl methylcellulose)
+T611	inactiveingredient 33661 33686	acetylated monoglyceride.
+T613	tradename 33748 33755	WELCHOL
+T615	routeofadministration 33760 33764	Oral
+T617	activeingredient 33927 33953	colesevelam hydrochloride.
+T619	inactiveingredient 34026 34038	lemon flavor
+T621	inactiveingredient 34040 34053	orange flavor
+T623	inactiveingredient 34055 34080	propylene glycol alginate
+T625	inactiveingredient 34082 34093	simethicone
+T627	inactiveingredient 34095 34104	aspartame
+T629	inactiveingredient 34106 34117	citric acid
+T631	inactiveingredient 34119 34145	medium chain triglycerides
+T633	inactiveingredient 34151 34173	magnesium trisilicate.
+T635	tradename 34195 34202	WELCHOL
+T637	routeofadministration 34207 34211	Oral
+T639	dose 34258 34268	1.875 gram
+T641	dose 34302 34311	3.75 gram
+T643	indication 34377 34400	Primary Hyperlipidemia:
+T645	activeingredient 34401 34427	Colesevelam hydrochloride
+T647	tradename 34470 34477	WELCHOL
+T649	indication 35189 35214	Type 2 Diabetes Mellitus:
+T651	tradename 35238 35245	WELCHOL
+T653	tradename 35373 35380	WELCHOL
+T655	tradename 35515 35522	WELCHOL
+T657	activeingredient 35741 35766	Colesevelam hydrochloride
+T659	activeingredient 35889 35914	Colesevelam hydrochloride
+T661	activeingredient 36020 36045	Colesevelam hydrochloride
+T663	activeingredient 36281 36306	colesevelam hydrochloride
+T665	activeingredient 36610 36636	colesevelam hydrochloride.
+T667	tradename 36691 36698	WELCHOL
+T669	tradename 36729 36736	WELCHOL
+T671	tradename 37030 37037	WELCHOL
+T673	tradename 37151 37158	WELCHOL
+T675	dose 37160 37167	3.75 g)
+T677	tradename 37225 37240	WELCHOL WELCHOL
+T679	co-administereddrug 37273 37285	Cyclosporine
+T681	tradename 37840 37847	WELCHOL
+T683	dose 37852 37857	4.5 g
+T685	tradename 37909 37916	WELCHOL
+T687	co-administereddrug 37979 37991	metformin ER
+T689	co-administereddrug 38204 38216	cyclosporine
+T691	tradename 38266 38273	WELCHOL
+T693	routeofadministration 38306 38310	Oral
+T695	activeingredient 38535 38560	colesevelam hydrochloride
+T697	routeofadministration 38592 38596	oral
+T699	dose 38617 38623	3 g/kg
+T701	frequency 38623 38628	/day.
+T703	dose 38705 38710	4.5 g
+T705	frequency 38710 38714	/day
+T707	activeingredient 38866 38891	colesevelam hydrochloride
+T709	dose 39046 39054	1.2 g/kg
+T711	frequency 39054 39058	/day
+T713	dose 39246 39254	2.4 g/kg
+T715	frequency 39254 39258	/day
+T717	activeingredient 39353 39378	Colesevelam hydrochloride
+T719	activeingredient 40403 40428	Colesevelam hydrochloride
+T721	dose 40477 40483	3 g/kg
+T723	frequency 40483 40487	/day
+T725	dose 40719 40725	3 g/kg
+T727	frequency 40725 40729	/day
+T729	dose 40734 40740	1 g/kg
+T731	frequency 40740 40744	/day
+T733	activeingredient 40901 40927	colesevelam hydrochloride.
+T735	indication 40954 40976	Primary Hyperlipidemia
+T737	tradename 40978 40985	WELCHOL
+T739	co-administereddrug 41094 41100	statin
+T741	indication 41118 41141	primary hyperlipidemia.
+T743	tradename 41451 41458	WELCHOL
+T745	tradename 41630 41637	WELCHOL
+T747	dose 41786 41791	3.8 g
+T749	dose 41796 41801	4.5 g
+T751	tradename 41923 41930	WELCHOL
+T753	tradename 42016 42023	WELCHOL
+T755	tradename 42115 42122	WELCHOL
+T757	tradename 42646 42653	WELCHOL
+T759	dose 42654 42659	3.8 g
+T761	tradename 43015 43022	WELCHOL
+T763	co-administereddrug 43029 43035	statin
+T765	co-administereddrug 43037 43049	atorvastatin
+T767	co-administereddrug 43051 43061	lovastatin
+T769	co-administereddrug 43066 43078	simvastatin)
+T771	co-administereddrug 43192 43204	atorvastatin
+T773	co-administereddrug 43251 43261	lovastatin
+T775	co-administereddrug 43312 43323	simvastatin
+T777	tradename 43383 43390	WELCHOL
+T779	dose 43400 43405	2.3 g
+T781	dose 43409 43414	3.8 g
+T783	co-administereddrug 43495 43501	statin
+T785	tradename 43530 43537	WELCHOL
+T787	co-administereddrug 43558 43570	Atorvastatin
+T789	co-administereddrug 43572 43583	Simvastatin
+T791	co-administereddrug 43588 43598	Lovastatin
+T793	co-administereddrug 43683 43695	Atorvastatin
+T795	tradename 43787 43794	WELCHOL
+T797	dose 43795 43801	3.8 g/
+T799	co-administereddrug 43867 43879	Atorvastatin
+T801	dose 43880 43885	10 mg
+T803	co-administereddrug 43887 43899	Atorvastatin
+T805	dose 43900 43905	80 mg
+T807	co-administereddrug 43961 43972	Simvastatin
+T809	co-administereddrug 44054 44065	Simvastatin
+T811	dose 44066 44071	10 mg
+T813	tradename 44131 44138	WELCHOL
+T815	dose 44139 44145	3.8 g/
+T817	co-administereddrug 44207 44218	Simvastatin
+T819	dose 44219 44224	10 mg
+T821	co-administereddrug 44226 44237	Simvastatin
+T823	dose 44238 44243	20 mg
+T825	tradename 44311 44318	WELCHOL
+T827	dose 44319 44325	2.3 g/
+T829	co-administereddrug 44393 44404	Simvastatin
+T831	dose 44405 44410	20 mg
+T833	co-administereddrug 44412 44422	Lovastatin
+T835	co-administereddrug 44465 44475	Lovastatin
+T837	dose 44476 44481	10 mg
+T839	tradename 44538 44545	WELCHOL
+T841	dose 44546 44552	2.3 g/
+T843	co-administereddrug 44553 44563	Lovastatin
+T845	dose 44564 44569	10 mg
+T847	tradename 44645 44652	WELCHOL
+T849	dose 44653 44659	2.3 g/
+T851	co-administereddrug 44660 44670	Lovastatin
+T853	dose 44671 44676	10 mg
+T855	tradename 44939 44946	WELCHOL
+T857	co-administereddrug 44969 44975	statin
+T859	tradename 45033 45040	WELCHOL
+T861	co-administereddrug 45061 45067	statin
+T863	co-administereddrug 45101 45113	atorvastatin
+T865	dose 45114 45119	80 mg
+T867	tradename 45190 45197	WELCHOL
+T869	dose 45198 45203	3.8 g
+T871	co-administereddrug 45208 45220	atorvastatin
+T873	dose 45221 45227	10 mg.
+T875	tradename 45243 45250	WELCHOL
+T877	co-administereddrug 45265 45276	fenofibrate
+T879	indication 45317 45331	hyperlipidemia
+T881	dose 45464 45470	160 mg
+T883	co-administereddrug 45474 45485	fenofibrate
+T885	co-administereddrug 45566 45577	fenofibrate
+T887	dose 45578 45584	160 mg
+T889	tradename 45597 45604	WELCHOL
+T891	dose 45605 45610	3.8 g
+T893	tradename 45812 45819	WELCHOL
+T895	co-administereddrug 45829 45840	Fenofibrate
+T897	indication 45864 45878	Hyperlipidemia
+T899	co-administereddrug 45988 45999	Fenofibrate
+T901	dose 46000 46006	160 mg
+T903	tradename 46024 46031	WELCHOL
+T905	co-administereddrug 46034 46045	Fenofibrate
+T907	dose 46046 46052	160 mg
+T909	co-administereddrug 46226 46237	fenofibrate
+T911	dose 46238 46245	160 mg.
+T913	tradename 46294 46301	WELCHOL
+T915	co-administereddrug 46640 46646	statin
+T917	tradename 47199 47206	WELCHOL
+T919	dose 47207 47212	3.8 g
+T921	frequency 47212 47216	/day
+T923	tradename 47225 47232	WELCHOL
+T925	dose 47233 47238	1.9 g
+T927	frequency 47238 47242	/day
+T929	tradename 47368 47375	WELCHOL
+T931	dose 47376 47382	3.8 g/
+T933	frequency 47382 47385	day
+T935	tradename 47614 47621	WELCHOL
+T937	dose 47622 47627	3.8 g
+T939	tradename 47871 47878	WELCHOL
+T941	dose 47879 47884	3.8 g
+T943	tradename 48399 48406	WELCHOL
+T945	dose 48407 48412	3.8 g
+T947	frequency 48412 48417	/day.
+T949	tradename 48572 48579	WELCHOL
+T951	tradename 48708 48715	WELCHOL
+T953	dose 48756 48765	3 tablets
+T955	frequency 48766 48777	twice daily
+T957	dose 48806 48815	6 tablets
+T959	tradename 48865 48872	WELCHOL
+T961	dose 48873 48878	3.8 g
+T963	frequency 48878 48882	/day
+T965	tradename 49009 49016	WELCHOL
+T967	tradename 49218 49233	WELCHOL-treated
+T969	tradename 49285 49292	WELCHOL
+T971	tradename 49457 49464	WELCHOL
+T973	tradename 49532 49539	WELCHOL
+T975	tradename 49653 49660	WELCHOL
+T977	tradename 50267 50274	WELCHOL
+T979	tradename 50326 50333	WELCHOL
+T981	tradename 50433 50440	WELCHOL
+T983	indication 50470 50485	Type 2 Diabetes
+T985	tradename 50533 50540	WELCHOL
+T987	tradename 51198 51205	WELCHOL
+T989	dose 51206 51212	3.8 g/
+T991	frequency 51212 51215	day
+T993	indication 51233 51257	type 2 diabetes mellitus
+T995	tradename 51550 51565	WELCHOL-treated
+T997	co-administereddrug 51657 51666	metformin
+T999	co-administereddrug 51668 51680	sulfonylurea
+T1001	co-administereddrug 51685 51693	insulin)
+T1003	tradename 51710 51717	WELCHOL
+T1005	tradename 51883 51890	WELCHOL
+T1007	co-administereddrug 51911 51920	metformin
+T1009	co-administereddrug 51922 51934	sulfonylurea
+T1011	co-administereddrug 51939 51946	insulin
+T1013	co-administereddrug 52035 52047	pioglitazone
+T1015	tradename 52070 52077	WELCHOL
+T1017	co-administereddrug 52184 52196	pioglitazone
+T1019	co-administereddrug 52202 52214	sulfonylurea
+T1021	tradename 52238 52245	WELCHOL
+T1023	tradename 52381 52388	WELCHOL
+T1025	tradename 52494 52503	WELCHOL's
+T1027	dose 52566 52575	3 tablets
+T1029	dose 52606 52615	6 tablets
+T1031	co-administereddrug 52682 52691	metformin
+T1033	co-administereddrug 52737 52749	pioglitazone
+T1035	co-administereddrug 52795 52807	sulfonylurea
+T1037	co-administereddrug 52853 52860	insulin
+T1039	tradename 52907 52914	WELCHOL
+T1041	indication 53081 53104	primary hyperlipidemia.
+T1043	tradename 53106 53113	WELCHOL
+T1045	co-administereddrug 53223 53230	insulin
+T1047	co-administereddrug 53246 53258	sulfonylurea
+T1049	co-administereddrug 53276 53288	pioglitazone
+T1051	co-administereddrug 53325 53335	metformin.
+T1053	tradename 53394 53401	WELCHOL
+T1055	tradename 53713 53720	WELCHOL
+T1057	co-administereddrug 53837 53847	Metformin:
+T1059	tradename 53849 53856	WELCHOL
+T1061	dose 53857 53862	3.8 g
+T1063	frequency 53862 53866	/day
+T1065	co-administereddrug 53992 54001	metformin
+T1067	co-administereddrug 54019 54028	metformin
+T1069	routeofadministration 54055 54059	oral
+T1071	dose 54135 54136	1
+T1073	dose 54137 54143	500 mg
+T1075	frequency 54143 54147	/day
+T1077	co-administereddrug 54151 54161	metformin.
+T1079	tradename 54194 54201	WELCHOL
+T1081	tradename 54405 54412	WELCHOL
+T1083	co-administereddrug 54448 54454	statin
+T1085	co-administereddrug 54465 54471	statin
+T1087	tradename 54533 54540	WELCHOL
+T1089	co-administereddrug 54575 54581	statin
+T1091	co-administereddrug 54602 54608	statin
+T1093	tradename 54668 54675	WELCHOL
+T1095	tradename 54775 54782	WELCHOL
+T1097	co-administereddrug 54804 54813	Metformin
+T1099	indication 54831 54846	Type 2 Diabetes
+T1101	co-administereddrug 54861 54870	Metformin
+T1103	co-administereddrug 54878 54887	Metformin
+T1105	routeofadministration 54929 54933	Oral
+T1107	tradename 54959 54966	WELCHOL
+T1109	tradename 54975 54982	WELCHOL
+T1111	tradename 54991 54998	WELCHOL
+T1113	tradename 55635 55642	WELCHOL
+T1115	co-administereddrug 55663 55672	Metformin
+T1117	indication 55690 55705	Type 2 Diabetes
+T1119	tradename 55781 55788	WELCHOL
+T1121	tradename 55862 55869	WELCHOL
+T1123	routeofadministration 55958 55962	Oral
+T1125	tradename 55985 55992	WELCHOL
+T1127	co-administereddrug 56609 56622	pioglitazone:
+T1129	tradename 56624 56631	WELCHOL
+T1131	co-administereddrug 56767 56779	pioglitazone
+T1133	co-administereddrug 56796 56808	pioglitazone
+T1135	co-administereddrug 56898 56907	metformin
+T1137	co-administereddrug 56939 56948	metformin
+T1139	co-administereddrug 56955 56967	sulfonylurea
+T1141	co-administereddrug 56998 57016	pioglitazone-based
+T1143	tradename 57026 57033	WELCHOL
+T1145	tradename 57131 57138	WELCHOL
+T1147	tradename 57266 57273	WELCHOL
+T1149	tradename 57369 57376	WELCHOL
+T1151	co-administereddrug 57397 57409	Pioglitazone
+T1153	indication 57441 57456	Type 2 Diabetes
+T1155	tradename 57459 57466	WELCHOL
+T1157	dose 57475 57480	3.8 g
+T1159	frequency 57480 57484	/day
+T1161	tradename 57950 57957	WELCHOL
+T1163	co-administereddrug 57978 57990	Pioglitazone
+T1165	indication 58022 58037	Type 2 Diabetes
+T1167	tradename 58107 58114	WELCHOL
+T1169	dose 58115 58120	3.8 g
+T1171	co-administereddrug 58400 58413	Sulfonylurea:
+T1173	tradename 58414 58421	WELCHOL
+T1175	dose 58422 58427	3.8 g
+T1177	frequency 58427 58431	/day
+T1179	co-administereddrug 58545 58557	sulfonylurea
+T1181	co-administereddrug 58575 58587	sulfonylurea
+T1183	co-administereddrug 58714 58726	sulfonylurea
+T1185	tradename 58773 58780	WELCHOL
+T1187	tradename 58876 58883	WELCHOL
+T1189	tradename 59017 59024	WELCHOL
+T1191	co-administereddrug 59060 59066	statin
+T1193	co-administereddrug 59088 59094	statin
+T1195	tradename 59151 59158	WELCHOL
+T1197	co-administereddrug 59193 59199	statin
+T1199	co-administereddrug 59219 59225	statin
+T1201	tradename 59284 59291	WELCHOL
+T1203	tradename 59392 59399	WELCHOL
+T1205	co-administereddrug 59420 59432	Sulfonylurea
+T1207	indication 59451 59466	Type 2 Diabetes
+T1209	co-administereddrug 59481 59493	Sulfonylurea
+T1211	co-administereddrug 59501 59513	Sulfonylurea
+T1213	routeofadministration 59553 59557	Oral
+T1215	tradename 59592 59599	WELCHOL
+T1217	tradename 59608 59615	WELCHOL
+T1219	tradename 59624 59631	WELCHOL
+T1221	dose 59640 59645	3.8 g
+T1223	frequency 59645 59649	/day
+T1225	dose 59650 59655	3.8 g
+T1227	frequency 59655 59659	/day
+T1229	dose 59660 59665	3.8 g
+T1231	frequency 59665 59669	/day
+T1233	tradename 60288 60295	WELCHOL
+T1235	co-administereddrug 60316 60328	Sulfonylurea
+T1237	indication 60346 60361	Type 2 Diabetes
+T1239	tradename 60436 60443	WELCHOL
+T1241	dose 60444 60449	3.8 g
+T1243	co-administereddrug 60503 60515	Sulfonylurea
+T1245	tradename 60522 60529	WELCHOL
+T1247	dose 60530 60535	3.8 g
+T1249	co-administereddrug 60585 60597	Sulfonylurea
+T1251	tradename 60650 60657	WELCHOL
+T1253	dose 60658 60663	3.8 g
+T1255	co-administereddrug 61278 61286	Insulin:
+T1257	tradename 61288 61295	WELCHOL
+T1259	dose 61296 61302	3.8 g/
+T1261	frequency 61302 61305	day
+T1263	co-administereddrug 61419 61426	insulin
+T1265	co-administereddrug 61444 61451	insulin
+T1267	routeofadministration 61472 61476	oral
+T1269	co-administereddrug 61523 61530	insulin
+T1271	dose 61540 61548	70 units
+T1273	tradename 61556 61563	WELCHOL
+T1275	dose 61574 61582	65 units
+T1277	co-administereddrug 61626 61633	insulin
+T1279	tradename 61635 61642	WELCHOL
+T1281	tradename 61730 61737	WELCHOL
+T1283	tradename 61855 61862	WELCHOL
+T1285	co-administereddrug 61898 61904	statin
+T1287	co-administereddrug 61915 61921	statin
+T1289	tradename 61985 61992	WELCHOL
+T1291	co-administereddrug 62027 62033	statin
+T1293	co-administereddrug 62054 62060	statin
+T1295	tradename 62118 62125	WELCHOL
+T1297	tradename 62223 62230	WELCHOL
+T1299	co-administereddrug 62251 62258	Insulin
+T1301	indication 62276 62291	Type 2 Diabetes
+T1303	co-administereddrug 62307 62314	Insulin
+T1305	co-administereddrug 62322 62329	Insulin
+T1307	routeofadministration 62363 62367	Oral
+T1309	tradename 62392 62399	WELCHOL
+T1311	tradename 62408 62415	WELCHOL
+T1313	tradename 62424 62431	WELCHOL
+T1315	tradename 63076 63083	WELCHOL
+T1317	co-administereddrug 63104 63111	Insulin
+T1319	indication 63129 63144	Type 2 Diabetes
+T1321	tradename 63216 63223	WELCHOL
+T1323	co-administereddrug 63281 63288	Insulin
+T1325	tradename 63295 63302	WELCHOL
+T1327	dose 63303 63308	3.8 g
+T1329	co-administereddrug 63355 63362	Insulin
+T1331	routeofadministration 63383 63387	Oral
+T1333	tradename 63409 63416	WELCHOL
+T1335	dose 63417 63422	3.8 g
+T1337	tradename 64043 64050	WELCHOL
+T1339	activeingredient 64052 64078	colesevelam hydrochloride)
+T1341	tradename 64196 64203	WELCHOL
+T1343	tradename 64494 64501	WELCHOL
+T1345	activeingredient 64503 64529	colesevelam hydrochloride)
+T1347	routeofadministration 64534 64538	Oral
+T1349	tradename 64611 64618	WELCHOL
+T1351	routeofadministration 64623 64627	Oral
+T1353	tradename 65036 65043	WELCHOL
+T1355	tradename 65077 65084	WELCHOL
+T1357	dose 65101 65110	6 tablets
+T1359	frequency 65111 65121	once daily
+T1361	dose 65125 65134	3 tablets
+T1363	frequency 65135 65147	twice daily.
+T1365	tradename 65183 65190	WELCHOL
+T1367	dose 65218 65227	3.75 gram
+T1369	frequency 65235 65245	once daily
+T1371	dose 65253 65263	1.875 gram
+T1373	frequency 65271 65283	twice daily.
+T1375	tradename 65457 65464	WELCHOL
+T1377	routeofadministration 65469 65473	Oral
+T1379	tradename 65544 65551	WELCHOL
+T1381	routeofadministration 65556 65560	Oral
+T1383	tradename 65621 65628	WELCHOL
+T1385	routeofadministration 65633 65637	Oral
+T1387	co-administereddrug 65823 65835	cyclosporine
+T1389	co-administereddrug 65837 65848	glimepiride
+T1391	co-administereddrug 65850 65859	glipizide
+T1393	co-administereddrug 65861 65870	glyburide
+T1395	co-administereddrug 65872 65885	levothyroxine
+T1397	co-administereddrug 65887 65907	olmesartan medoxomil
+T1399	co-administereddrug 65909 65929	oral contraceptives)
+T1401	tradename 65979 65987	WELCHOL.
+T1403	tradename 66277 66285	WELCHOL.
+T1405	tradename 66457 66465	WELCHOL.
+T1407	co-administereddrug 66583 66595	metformin ER
+T1409	tradename 66749 66756	WELCHOL
+T1411	tradename 66782 66789	WELCHOL
+T1413	tradename 66859 66866	WELCHOL
+T1415	tradename 67205 67212	WELCHOL
+T1417	adversereaction 67275 67287	constipation
+T1419	tradename 67325 67332	WELCHOL
+T1421	adversereaction 67351 67360	dysphagia
+T1423	adversereaction 67364 67386	esophageal obstruction
+T1425	adversereaction 67436 67445	dysphagia
+T1427	tradename 67502 67509	WELCHOL
+T1429	routeofadministration 67514 67518	Oral
+T1431	tradename 67579 67586	WELCHOL
+T1433	routeofadministration 67591 67595	Oral
+T1435	adversereaction 67708 67728	Hypertriglyceridemia
+T1437	adversereaction 67733 67746	pancreatitis:
+T1439	tradename 67793 67800	WELCHOL
+T1441	adversereaction 67863 67881	acute pancreatitis
+T1443	indication 67999 68022	Primary Hyperlipidemia:
+T1445	indication 68141 68166	Type 2 Diabetes Mellitus:
+T1447	tradename 68409 68416	WELCHOL
+T1449	company 68624 68638	Daiichi Sankyo
+T1451	company 68640 68644	Inc.

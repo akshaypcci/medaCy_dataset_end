@@ -1,0 +1,671 @@
+T1	tradename 93 98	DOXIL
+T3	tradename 160 165	DOXIL
+T5	tradename 167 172	DOXIL
+T7	activeingredient 174 199	doxorubicin hydrochloride
+T9	nanoparticle 200 208	liposome
+T11	routeofadministration 225 236	intravenous
+T13	activeingredient 481 496	doxorubicin HCl
+T15	dose 508 518	550 mg/m2.
+T17	chemoclass 1137 1177	anthracycline topoisomerase II inhibitor
+T19	indication 1193 1207	Ovarian cancer
+T21	indication 1260 1289	AIDS-related Kaposi's Sarcoma
+T23	indication 1373 1389	Multiple Myeloma
+T25	co-administereddrug 1416 1426	bortezomib
+T27	co-administereddrug 1472 1482	bortezomib
+T29	tradename 1566 1571	DOXIL
+T31	indication 1817 1832	Ovarian cancer:
+T33	dose 1833 1841	50 mg/m2
+T35	routeofadministration 1842 1844	IV
+T37	frequency 1845 1858	every 4 weeks
+T39	indication 1865 1895	AIDS-related Kaposi's Sarcoma:
+T41	dose 1896 1904	20 mg/m2
+T43	routeofadministration 1905 1907	IV
+T45	frequency 1908 1921	every 3 weeks
+T47	indication 1928 1945	Multiple Myeloma:
+T49	dose 1946 1954	30 mg/m2
+T51	routeofadministration 1955 1957	IV
+T53	co-administereddrug 1977 1987	bortezomib
+T55	activeingredient 2033 2047	 hydrochloride
+T57	nanoparticle 2054 2063	liposomal
+T59	activeingredient 2188 2203	doxorubicin HCl
+T61	tradename 2225 2230	DOXIL
+T63	adversereaction 2281 2299	Hand-Foot Syndrome
+T65	adversereaction 2373 2395	Embryo fetal Toxicity:
+T67	adversereaction 2578 2586	asthenia
+T69	adversereaction 2588 2595	fatigue
+T71	adversereaction 2597 2602	fever
+T73	adversereaction 2604 2612	anorexia
+T75	adversereaction 2614 2620	nausea
+T77	adversereaction 2622 2630	vomiting
+T79	adversereaction 2632 2642	stomatitis
+T81	adversereaction 2644 2652	diarrhea
+T83	adversereaction 2654 2666	constipation
+T85	adversereaction 2668 2686	hand-foot syndrome
+T87	adversereaction 2688 2692	rash
+T89	adversereaction 2694 2705	neutropenia
+T91	adversereaction 2707 2723	thrombocytopenia
+T93	adversereaction 2729 2735	anemia
+T95	company 2788 2804	Janssen Products
+T97	company 2806 2808	LP
+T99	indication 3138 3152	Ovarian Cancer
+T101	indication 3157 3186	AIDS-Related Kaposi's Sarcoma
+T103	indication 3191 3207	Multiple Myeloma
+T105	indication 3272 3286	Ovarian Cancer
+T107	indication 3291 3320	AIDS-Related Kaposi's Sarcoma
+T109	indication 3325 3341	Multiple Myeloma
+T111	adversereaction 3555 3569	Cardiomyopathy
+T113	adversereaction 3574 3600	Infusion-Related Reactions
+T115	adversereaction 3605 3629	Hand-Foot Syndrome (HFS)
+T117	adversereaction 3634 3658	Secondary Oral Neoplasms
+T119	adversereaction 3663 3684	Embryo fetal Toxicity
+T121	indication 4171 4185	Ovarian Cancer
+T123	indication 4191 4220	AIDS-Related Kaposi's Sarcoma
+T125	indication 4226 4242	Multiple Myeloma
+T127	tradename 4508 4513	DOXIL
+T129	activeingredient 4515 4530	doxorubicin HCl
+T131	nanoparticle 4531 4539	liposome
+T133	adversereaction 4561 4578	myocardial damage
+T135	adversereaction 4590 4614	congestive heart failure
+T137	activeingredient 4648 4663	doxorubicin HCl
+T139	dose 4675 4685	550 mg/m2.
+T141	tradename 4765 4770	DOXIL
+T143	adversereaction 4784 4798	cardiotoxicity
+T145	dose 4858 4871	450-550 mg/m2
+T147	adversereaction 5215 5223	flushing
+T149	adversereaction 5225 5244	shortness of breath
+T151	adversereaction 5246 5261	facial swelling
+T153	adversereaction 5263 5271	headache
+T155	adversereaction 5273 5279	chills
+T157	adversereaction 5281 5290	back pain
+T159	adversereaction 5292 5324	tightness in the chest or throat
+T161	adversereaction 5333 5344	hypotension
+T163	tradename 5404 5410	DOXIL.
+T165	indication 5583 5597	Ovarian Cancer
+T167	tradename 5599 5604	DOXIL
+T169	indication 5653 5667	ovarian cancer
+T171	indication 5748 5777	AIDS-Related Kaposi's Sarcoma
+T173	tradename 5778 5783	DOXIL
+T175	indication 5818 5847	AIDS-related Kaposi's sarcoma
+T177	indication 5941 5957	Multiple Myeloma
+T179	tradename 5958 5963	DOXIL
+T181	co-administereddrug 5985 5995	bortezomib
+T183	indication 6045 6061	multiple myeloma
+T185	co-administereddrug 6095 6105	bortezomib
+T187	tradename 6218 6223	DOXIL
+T189	activeingredient 6228 6243	doxorubicin HCl
+T191	routeofadministration 6310 6321	intravenous
+T193	indication 6372 6386	Ovarian Cancer
+T195	tradename 6411 6416	DOXIL
+T197	dose 6420 6428	50 mg/m2
+T199	routeofadministration 6429 6442	intravenously
+T201	frequency 6459 6472	every 28 days
+T203	indication 6531 6552	AIDS-Related Kaposi's
+T205	indication 6554 6557	The
+T207	tradename 6578 6583	DOXIL
+T209	dose 6587 6595	20 mg/m2
+T211	routeofadministration 6596 6609	intravenously
+T213	frequency 6626 6639	every 21 days
+T215	indication 6698 6714	Multiple Myeloma
+T217	tradename 6739 6744	DOXIL
+T219	dose 6748 6756	30 mg/m2
+T221	routeofadministration 6757 6770	intravenously
+T223	frequency 6787 6816	on day 4 of each 21-day cycle
+T225	duration 6821 6833	eight cycles
+T227	tradename 6900 6905	DOXIL
+T229	co-administereddrug 6912 6922	bortezomib
+T231	tradename 7031 7036	DOXIL
+T233	adversereaction 7120 7138	Hand-Foot Syndrome
+T235	adversereaction 7140 7150	Stomatitis
+T237	adversereaction 7203 7227	Hand-Foot Syndrome (HFS)
+T239	tradename 7694 7699	DOXIL
+T241	tradename 8089 8094	DOXIL
+T243	tradename 8378 8383	DOXIL
+T245	adversereaction 8418 8428	Stomatitis
+T247	tradename 8754 8759	DOXIL
+T249	tradename 9212 9218	DOXIL.
+T251	tradename 9440 9446	DOXIL.
+T253	adversereaction 9463 9479	Thrombocytopenia
+T255	tradename 9887 9892	DOXIL
+T257	co-administereddrug 9944 9954	Bortezomib
+T259	tradename 9965 9970	DOXIL
+T261	adversereaction 10515 10531	neuropathic pain
+T263	adversereaction 10535 10556	peripheral neuropathy
+T265	tradename 10597 10603	DOXIL.
+T267	co-administereddrug 10613 10623	bortezomib
+T269	tradename 10704 10709	DOXIL
+T271	inactiveingredient 10744 10752	Dextrose
+T273	inactiveingredient 10838 10846	Dextrose
+T275	tradename 10907 10912	DOXIL
+T277	tradename 11251 11256	DOXIL
+T279	tradename 11516 11521	DOXIL
+T281	tradename 11577 11582	DOXIL
+T283	tradename 12084 12089	DOXIL
+T285	tradename 12177 12182	DOXIL
+T287	tradename 12303 12309	DOXIL:
+T289	activeingredient 12310 12325	doxorubicin HCl
+T291	nanoparticle 12326 12335	liposomal
+T293	dose 12372 12382	20mg/10 mL
+T295	dose 12387 12396	50mg/25mL
+T297	activeingredient 12397 12412	doxorubicin HCl
+T299	nanoparticle 12435 12444	liposomal
+T301	tradename 12479 12484	DOXIL
+T303	activeingredient 12600 12615	doxorubicin HCl
+T305	adversereaction 12677 12691	Cardiomyopathy
+T307	activeingredient 12693 12708	Doxorubicin HCl
+T309	adversereaction 12723 12740	myocardial damage
+T311	adversereaction 12752 12783	acute left ventricular failure.
+T313	adversereaction 12796 12810	cardiomyopathy
+T315	activeingredient 12816 12831	doxorubicin HCl
+T317	tradename 12922 12927	DOXIL
+T319	adversereaction 12949 12965	cardiac toxicity
+T321	tradename 13071 13076	DOXIL
+T323	adversereaction 13090 13104	cardiotoxicity
+T325	dose 13164 13177	450-550 mg/m2
+T327	adversereaction 13180 13194	Cardiotoxicity
+T329	adversereaction 13500 13524	congestive heart failure
+T331	adversereaction 13556 13571	cardiotoxicity.
+T333	tradename 13667 13672	DOXIL
+T335	tradename 13781 13786	DOXIL
+T337	tradename 14065 14071	DOXIL:
+T339	adversereaction 14072 14080	flushing
+T341	adversereaction 14082 14101	shortness of breath
+T343	adversereaction 14103 14118	facial swelling
+T345	adversereaction 14120 14128	headache
+T347	adversereaction 14130 14136	chills
+T349	adversereaction 14138 14148	chest pain
+T351	adversereaction 14150 14159	back pain
+T353	adversereaction 14161 14194	tightness in the chest and throat
+T355	adversereaction 14196 14201	fever
+T357	adversereaction 14203 14214	tachycardia
+T359	adversereaction 14216 14224	pruritus
+T361	adversereaction 14226 14230	rash
+T363	adversereaction 14232 14240	cyanosis
+T365	adversereaction 14242 14249	syncope
+T367	adversereaction 14251 14263	bronchospasm
+T369	adversereaction 14265 14271	asthma
+T371	adversereaction 14273 14278	apnea
+T373	adversereaction 14284 14296	hypotension.
+T375	indication 14394 14408	ovarian cancer
+T377	tradename 14422 14427	DOXIL
+T379	tradename 14622 14627	DOXIL
+T381	tradename 14930 14936	DOXIL.
+T383	tradename 14946 14951	DOXIL
+T385	tradename 15195 15200	DOXIL
+T387	adversereaction 15276 15300	Hand-Foot Syndrome (HFS)
+T389	tradename 15361 15366	DOXIL
+T391	tradename 15457 15470	DOXIL-treated
+T393	tradename 15593 15598	DOXIL
+T395	tradename 15710 15715	DOXIL
+T397	tradename 15815 15820	DOXIL
+T399	adversereaction 15860 15884	Secondary Oral Neoplasms
+T401	adversereaction 15885 15907	Secondary oral cancers
+T403	adversereaction 15919 15942	squamous cell carcinoma
+T405	tradename 16054 16060	DOXIL.
+T407	tradename 16122 16127	DOXIL
+T409	adversereaction 16295 16317	secondary oral cancer.
+T411	nanoparticle 16388 16397	liposomal
+T413	activeingredient 16398 16409	doxorubicin
+T415	adversereaction 16439 16452	skin toxicity
+T417	adversereaction 16457 16466	mucositis
+T419	adversereaction 16534 16561	oral secondary malignancies
+T421	adversereaction 16605 16625	Embryofetal Toxicity
+T423	tradename 16648 16653	DOXIL
+T425	tradename 16779 16784	DOXIL
+T427	tradename 17014 17019	DOXIL
+T429	adversereaction 17179 17193	Cardiomyopathy
+T431	adversereaction 17232 17258	Infusion-Related Reactions
+T433	adversereaction 17297 17315	Hand-Foot Syndrome
+T435	adversereaction 17354 17378	Secondary Oral Neoplasms
+T437	tradename 17474 17479	DOXIL
+T439	adversereaction 17484 17492	asthenia
+T441	adversereaction 17494 17501	fatigue
+T443	adversereaction 17503 17508	fever
+T445	adversereaction 17510 17516	nausea
+T447	adversereaction 17518 17528	stomatitis
+T449	adversereaction 17530 17538	vomiting
+T451	adversereaction 17540 17548	diarrhea
+T453	adversereaction 17550 17562	constipation
+T455	adversereaction 17564 17572	anorexia
+T457	adversereaction 17574 17592	hand-foot syndrome
+T459	adversereaction 17594 17598	rash
+T461	adversereaction 17603 17614	neutropenia
+T463	adversereaction 17616 17632	thrombocytopenia
+T465	adversereaction 17637 17643	anemia
+T467	tradename 17947 17952	DOXIL
+T469	indication 17999 18013	ovarian cancer
+T471	indication 18033 18062	AIDS-related Kaposi's sarcoma
+T473	indication 18086 18103	multiple myeloma.
+T475	tradename 18189 18194	DOXIL
+T477	indication 18198 18212	ovarian cancer
+T479	indication 18217 18247	AIDS-Related Kaposi's sarcoma.
+T481	indication 18264 18278	Ovarian Cancer
+T483	indication 18362 18376	ovarian cancer
+T485	tradename 18390 18395	DOXIL
+T487	tradename 18535 18540	DOXIL
+T489	tradename 18839 18844	DOXIL
+T491	adversereaction 18890 18901	Neutropenia
+T493	adversereaction 18950 18956	Anemia
+T495	adversereaction 19007 19023	Thrombocytopenia
+T497	tradename 19219 19224	DOXIL
+T499	adversereaction 19370 19378	Asthenia
+T501	adversereaction 19389 19394	Fever
+T503	adversereaction 19407 19431	Mucous Membrane Disorder
+T505	adversereaction 19445 19454	Back Pain
+T507	adversereaction 19469 19478	Infection
+T509	adversereaction 19492 19500	Headache
+T511	adversereaction 19526 19532	Nausea
+T513	adversereaction 19543 19553	Stomatitis
+T515	adversereaction 19566 19574	Vomiting
+T517	adversereaction 19586 19594	Diarrhea
+T519	adversereaction 19609 19617	Anorexia
+T521	adversereaction 19632 19641	Dyspepsia
+T523	adversereaction 19666 19675	Dizziness
+T525	adversereaction 19700 19711	Pharyngitis
+T527	adversereaction 19724 19731	Dyspnea
+T529	adversereaction 19746 19761	Cough increased
+T531	adversereaction 19795 19813	Hand-foot syndrome
+T533	adversereaction 19826 19830	Rash
+T535	adversereaction 19845 19853	Alopecia
+T537	indication 19942 19956	ovarian cancer
+T539	frequency 19981 19997	every four weeks
+T541	adversereaction 20046 20058	vasodilation
+T543	adversereaction 20060 20071	tachycardia
+T545	adversereaction 20073 20093	deep vein thrombosis
+T547	adversereaction 20095 20106	hypotension
+T549	adversereaction 20108 20123	cardiac arrest.
+T551	adversereaction 20136 20151	oral moniliasis
+T553	adversereaction 20153 20169	mouth ulceration
+T555	adversereaction 20171 20182	esophagitis
+T557	adversereaction 20184 20193	dysphagia
+T559	adversereaction 20195 20210	rectal bleeding
+T561	adversereaction 20212 20218	ileus.
+T563	adversereaction 20247 20258	ecchymosis.
+T565	adversereaction 20287 20298	dehydration
+T567	adversereaction 20300 20311	weight loss
+T569	adversereaction 20313 20331	hyperbilirubinemia
+T571	adversereaction 20333 20344	hypokalemia
+T573	adversereaction 20346 20359	hypercalcemia
+T575	adversereaction 20361 20374	hyponatremia.
+T577	adversereaction 20385 20395	somnolence
+T579	adversereaction 20397 20406	dizziness
+T581	adversereaction 20408 20419	depression.
+T583	adversereaction 20434 20442	rhinitis
+T585	adversereaction 20444 20453	pneumonia
+T587	adversereaction 20455 20464	sinusitis
+T589	adversereaction 20466 20476	epistaxis.
+T591	adversereaction 20499 20507	pruritus
+T593	adversereaction 20509 20527	skin discoloration
+T595	adversereaction 20529 20549	vesiculobullous rash
+T597	adversereaction 20551 20569	maculopapular rash
+T599	adversereaction 20571 20593	exfoliative dermatitis
+T601	adversereaction 20595 20608	herpes zoster
+T603	adversereaction 20610 20618	dry skin
+T605	adversereaction 20620 20634	herpes simplex
+T607	adversereaction 20636 20653	fungal dermatitis
+T609	adversereaction 20655 20667	furunculosis
+T611	adversereaction 20669 20674	acne.
+T613	adversereaction 20692 20706	conjunctivitis
+T615	adversereaction 20708 20724	taste perversion
+T617	adversereaction 20726 20735	dry eyes.
+T619	adversereaction 20746 20769	urinary tract infection
+T621	adversereaction 20771 20780	hematuria
+T623	adversereaction 20782 20801	vaginal moniliasis.
+T625	indication 20818 20847	AIDS-Related Kaposi's Sarcoma
+T627	indication 20931 20960	AIDS-related Kaposi's sarcoma
+T629	tradename 21018 21023	DOXIL
+T631	dose 21059 21073	10 to 40 mg/m2
+T633	frequency 21074 21093	every 2 to 3 weeks.
+T635	dose 21287 21295	20 mg/m2
+T637	tradename 21299 21304	DOXIL
+T639	frequency 21305 21323	every 2 to 3 weeks
+T641	duration 21350 21360	4.2 months
+T643	duration 21368 21389	1 day to 26.6 months)
+T645	dose 21422 21431	120 mg/m2
+T647	dose 21439 21458	3.3 to 798.6 mg/m2)
+T649	dose 21505 21514	450 mg/m2
+T651	indication 22433 22462	AIDS-related Kaposi's sarcoma
+T653	adversereaction 22476 22492	myelosuppression
+T655	adversereaction 22494 22519	cardiac adverse reactions
+T657	adversereaction 22521 22547	infusion-related reactions
+T659	adversereaction 22549 22562	toxoplasmosis
+T661	adversereaction 22564 22567	HFS
+T663	adversereaction 22569 22578	pneumonia
+T665	adversereaction 22580 22593	cough/dyspnea
+T667	adversereaction 22595 22602	fatigue
+T669	adversereaction 22604 22618	optic neuritis
+T671	adversereaction 22620 22649	progression of a non-KS tumor
+T673	adversereaction 22651 22672	allergy to penicillin
+T675	tradename 22776 22781	DOXIL
+T677	indication 22786 22815	AIDS-related Kaposi's sarcoma
+T679	indication 22922 22951	AIDS-Related Kaposi's Sarcoma
+T681	indication 23024 23062	AIDS-Related Kaposi's Kaposi's Sarcoma
+T683	adversereaction 23090 23101	Neutropenia
+T685	adversereaction 23146 23152	Anemia
+T687	adversereaction 23195 23211	Thrombocytopenia
+T689	indication 23748 23785	AIDS-Related Kaposi's Sarcoma Adverse
+T691	indication 23855 23897	AIDS-Related AIDS-Related Kaposi's Sarcoma
+T693	adversereaction 23934 23940	Nausea
+T695	adversereaction 23949 23957	Asthenia
+T697	adversereaction 23965 23970	Fever
+T699	adversereaction 23977 23985	Alopecia
+T701	adversereaction 23992 24021	Alkaline Phosphatase Increase
+T703	adversereaction 24030 24038	Vomiting
+T705	adversereaction 24045 24053	Diarrhea
+T707	adversereaction 24060 24070	Stomatitis
+T709	adversereaction 24077 24092	Oral Moniliasis
+T711	indication 24599 24629	AIDS-related Kaposi's sarcoma.
+T713	adversereaction 24668 24676	headache
+T715	adversereaction 24678 24687	back pain
+T717	adversereaction 24689 24698	infection
+T719	adversereaction 24700 24717	allergic reaction
+T721	adversereaction 24719 24726	chills.
+T723	adversereaction 24745 24755	chest pain
+T725	adversereaction 24757 24768	hypotension
+T727	adversereaction 24770 24782	tachycardia.
+T729	adversereaction 24796 24810	herpes simplex
+T731	adversereaction 24812 24816	rash
+T733	adversereaction 24818 24826	itching.
+T735	adversereaction 24840 24856	mouth ulceration
+T737	adversereaction 24858 24866	anorexia
+T739	adversereaction 24868 24878	dysphagia.
+T741	adversereaction 24908 24921	SGPT increase
+T743	adversereaction 24923 24934	weight loss
+T745	adversereaction 24936 24955	hyperbilirubinemia.
+T747	adversereaction 24965 24972	dyspnea
+T749	adversereaction 24974 24983	pneumonia
+T751	adversereaction 24985 24994	dizziness
+T753	adversereaction 24996 25007	somnolence.
+T755	adversereaction 25050 25056	sepsis
+T757	adversereaction 25058 25068	moniliasis
+T759	adversereaction 25070 25085	cryptococcosis.
+T761	adversereaction 25104 25120	thrombophlebitis
+T763	adversereaction 25122 25136	cardiomyopathy
+T765	adversereaction 25138 25149	palpitation
+T767	adversereaction 25151 25170	bundle branch block
+T769	adversereaction 25172 25196	congestive heart failure
+T771	adversereaction 25198 25210	heart arrest
+T773	adversereaction 25212 25222	thrombosis
+T775	adversereaction 25224 25247	ventricular arrhythmia.
+T777	adversereaction 25261 25271	hepatitis.
+T779	adversereaction 25311 25322	dehydration
+T781	adversereaction 25338 25352	cough increase
+T783	adversereaction 25354 25366	pharyngitis.
+T785	adversereaction 25390 25408	maculopapular rash
+T787	adversereaction 25410 25424	herpes zoster.
+T789	adversereaction 25443 25459	taste perversion
+T791	adversereaction 25461 25476	conjunctivitis.
+T793	tradename 25564 25569	DOXIL
+T795	dose 25571 25580	30 mg/m2)
+T797	co-administereddrug 25613 25623	bortezomib
+T799	dose 25625 25634	1.3 mg/m2
+T801	routeofadministration 25635 25639	i.v.
+T803	frequency 25671 25684	every 3 weeks
+T805	tradename 25775 25780	DOXIL
+T807	co-administereddrug 25783 25793	bortezomib
+T809	duration 25848 25858	4.5 months
+T811	duration 25866 25889	21 days to 13.5 months)
+T813	tradename 26089 26094	DOXIL
+T815	co-administereddrug 26115 26125	bortezomib
+T817	indication 26130 26147	multiple myeloma.
+T819	indication 26247 26263	Multiple Myeloma
+T821	tradename 26269 26274	DOXIL
+T823	co-administereddrug 26295 26305	Bortezomib
+T825	tradename 26323 26328	DOXIL
+T827	co-administereddrug 26331 26352	bortezomib Bortezomib
+T829	adversereaction 26446 26457	Neutropenia
+T831	adversereaction 26470 26486	Thrombocytopenia
+T833	adversereaction 26499 26505	Anemia
+T835	adversereaction 26571 26578	Fatigue
+T837	adversereaction 26589 26596	Pyrexia
+T839	adversereaction 26607 26615	Asthenia
+T841	adversereaction 26655 26661	Nausea
+T843	adversereaction 26672 26680	Diarrhea
+T845	adversereaction 26691 26699	Vomiting
+T847	adversereaction 26710 26722	Constipation
+T849	adversereaction 26733 26753	Mucositis/Stomatitis
+T851	adversereaction 26767 26781	Abdominal pain
+T853	adversereaction 26821 26834	Herpes zoster
+T855	adversereaction 26844 26858	Herpes simplex
+T857	adversereaction 26883 26899	Weight decreased
+T859	adversereaction 26948 26956	Anorexia
+T861	adversereaction 26996 27018	Peripheral Neuropathy1
+T863	adversereaction 27030 27039	Neuralgia
+T865	adversereaction 27050 27073	Paresthesia/dysesthesia
+T867	adversereaction 27138 27143	Cough
+T869	adversereaction 27195 27200	Rash2
+T871	adversereaction 27211 27229	Hand-foot syndrome
+T873	adversereaction 27310 27339	peripheral sensory neuropathy
+T875	adversereaction 27341 27362	neuropathy peripheral
+T877	adversereaction 27364 27378	polyneuropathy
+T879	adversereaction 27380 27407	peripheral motor neuropathy
+T881	adversereaction 27413 27423	neuropathy
+T883	adversereaction 27478 27482	rash
+T885	adversereaction 27484 27501	rash erythematous
+T887	adversereaction 27503 27515	rash macular
+T889	adversereaction 27517 27536	rash maculo-papular
+T891	adversereaction 27538 27551	rash pruritic
+T893	adversereaction 27553 27569	exfoliative rash
+T895	adversereaction 27575 27591	rash generalized
+T897	tradename 27704 27710	DOXIL.
+T899	adversereaction 27964 27977	muscle spasms
+T901	adversereaction 28029 28047	pulmonary embolism
+T903	adversereaction 28095 28131	Secondary acute myelogenous leukemia
+T905	adversereaction 28174 28193	erythema multiforme
+T907	adversereaction 28195 28219	Stevens-Johnson syndrome
+T909	adversereaction 28221 28247	toxic epidermal necrolysis
+T911	adversereaction 28249 28274	Secondary oral neoplasms:
+T913	tradename 28381 28386	DOXIL
+T915	tradename 28455 28460	DOXIL
+T917	tradename 28553 28558	DOXIL
+T919	routeofadministration 28622 28633	intravenous
+T921	tradename 29146 29151	DOXIL
+T923	dose 29180 29187	1 mg/kg
+T925	frequency 29187 29191	/day
+T927	dose 29241 29251	0.5 mg/kg/
+T929	frequency 29251 29254	day
+T931	dose 29323 29331	50 mg/m2
+T933	tradename 29494 29499	DOXIL
+T935	tradename 29682 29687	DOXIL
+T937	tradename 29737 29743	DOXIL.
+T939	tradename 29818 29823	DOXIL
+T941	tradename 30041 30047	DOXIL.
+T943	tradename 30055 30060	DOXIL
+T945	tradename 30298 30303	DOXIL
+T947	tradename 30391 30396	DOXIL
+T949	activeingredient 30480 30496	doxorubicin HCl.
+T951	tradename 30569 30574	DOXIL
+T953	tradename 30861 30866	DOXIL
+T955	tradename 30951 30956	DOXIL
+T957	indication 31002 31016	ovarian cancer
+T959	indication 31035 31064	AIDS-related Kaposi's sarcoma
+T961	tradename 31250 31255	DOXIL
+T963	tradename 31524 31529	DOXIL
+T965	tradename 31662 31667	DOXIL
+T967	activeingredient 31738 31753	doxorubicin HCl
+T969	adversereaction 31779 31795	severe mucositis
+T971	adversereaction 31797 31807	leukopenia
+T973	adversereaction 31813 31829	thrombocytopenia
+T975	tradename 31846 31851	DOXIL
+T977	activeingredient 31853 31868	doxorubicin HCl
+T979	nanoparticle 31869 31877	liposome
+T981	activeingredient 31892 31917	doxorubicin hydrochloride
+T983	chemoclass 31928 31968	anthracycline topoisomerase II inhibitor
+T985	nanoparticle 31994 32011	STEALTH liposomes
+T987	routeofadministration 32016 32027	intravenous
+T989	activeingredient 32055 32070	doxorubicin HCl
+T991	molecularweight 32292 32299	579.99.
+T993	tradename 32330 32335	DOXIL
+T995	nanoparticle 32367 32376	liposomal
+T997	activeingredient 32465 32480	doxorubicin HCl
+T999	nanoparticle 32532 32548	STEALTH liposome
+T1001	corecomposition 32574 32585	cholesterol
+T1003	corecomposition 32605 32648	hydrogenated soy phosphatidylcholine (HSPC)
+T1005	surfacecoating 32666 32712	N-(carbonyl-methoxypolyethylene glycol 2000)-1
+T1007	surfacecoating 32713 32777	2-distearoyl-sn-glycero3-phosphoethanolamine sodium (MPEG-DSPE)
+T1009	inactiveingredient 32813 32829	ammonium sulfate
+T1011	inactiveingredient 32851 32860	histidine
+T1013	inactiveingredient 32874 32891	hydrochloric acid
+T1015	inactiveingredient 32899 32915	sodium hydroxide
+T1017	inactiveingredient 32936 32943	sucrose
+T1019	nanoparticle 33021 33039	STEALTH liposomes.
+T1021	surfacecoating 33041 33050	MPEG-DSPE
+T1023	nanoparticle 33111 33128	STEALTH liposome:
+T1025	tradename 33196 33201	DOXIL
+T1027	activeingredient 33205 33221	doxorubicin HCl.
+T1029	activeingredient 33249 33264	doxorubicin HCl
+T1031	activeingredient 33622 33633	doxorubicin
+T1033	tradename 33661 33666	DOXIL
+T1035	activeingredient 33763 33774	Doxorubicin
+T1037	tradename 33780 33785	DOXIL
+T1039	indication 33803 33832	AIDS-Related Kaposi's Sarcoma
+T1041	dose 33857 33874	10 mg/m2 20 mg/m2
+T1043	cmax 33934 33945	4.12 0.215
+T1045	clearance 33946 33957	0.056 0.01
+T1047	cmax 33959 33969	8.34 0.49
+T1049	clearance 33970 33982	0.041 0.004
+T1051	volumeofdistribution 34016 34046	(L/m2) 2.83 0.145 2.72 0.120
+T1053	auc 34051 34079	(g/mL h) 277 32.9 590 58.7
+T1055	plasmahalflife 34106 34127	(h) 4.7 1.1 5.2 1.4
+T1057	plasmahalflife 34155 34178	(h) 52.3 5.6 55.0 4.8
+T1059	tradename 34201 34206	DOXIL
+T1061	dose 34259 34274	10 to 20 mg/m2.
+T1063	tradename 34287 34292	DOXIL
+T1065	dose 34311 34319	20 mg/m2
+T1067	activeingredient 34351 34362	doxorubicin
+T1069	dose 34375 34383	50 mg/m2
+T1071	tradename 34384 34389	DOXIL
+T1073	tradename 34453 34458	DOXIL
+T1075	dose 34507 34515	20 mg/m2
+T1077	nanoparticle 34559 34568	liposomal
+T1079	activeingredient 34569 34580	doxorubicin
+T1081	activeingredient 34670 34682	doxorubicin)
+T1083	nanoparticle 34691 34712	liposome-encapsulated
+T1085	activeingredient 34749 34760	doxorubicin
+T1087	volumeofdistribution 34815 34832	700 to 1100 L/m2)
+T1089	nanoparticle 34883 34892	liposomal
+T1091	activeingredient 34893 34904	doxorubicin
+T1093	tradename 34919 34924	DOXIL
+T1095	activeingredient 34964 34975	Doxorubicin
+T1097	nanoparticle 35004 35013	liposomes
+T1099	tradename 35058 35063	DOXIL
+T1101	activeingredient 35119 35130	doxorubicin
+T1103	activeingredient 35205 35216	doxorubicin
+T1105	dose 35309 35323	10 or 20 mg/m2
+T1107	tradename 35324 35330	DOXIL.
+T1109	activeingredient 35375 35386	doxorubicin
+T1111	tradename 35392 35397	DOXIL
+T1113	clearance 35402 35414	0.041 L/h/m2
+T1115	dose 35428 35436	20 mg/m2
+T1117	activeingredient 35467 35482	doxorubicin HCl
+T1119	activeingredient 35508 35519	doxorubicin
+T1121	clearance 35523 35538	24 to 35 L/h/m2
+T1123	tradename 35693 35698	DOXIL
+T1125	activeingredient 35708 35719	doxorubicin
+T1127	tradename 36013 36018	DOXIL
+T1129	dose 36128 36136	36 mg/kg
+T1131	dose 36156 36164	50 mg/m2
+T1133	dose 36281 36291	0.25 mg/kg
+T1135	frequency 36291 36295	/day
+T1137	dose 36318 36326	50 mg/m2
+T1139	dose 36495 36502	1 mg/kg
+T1141	frequency 36502 36506	/day
+T1143	dose 36528 36536	50 mg/m2
+T1145	indication 36586 36600	Ovarian Cancer
+T1147	tradename 36602 36607	DOXIL
+T1149	indication 36691 36716	metastatic ovarian cancer
+T1151	tradename 36978 36983	DOXIL
+T1153	dose 36987 36995	50 mg/m2
+T1155	frequency 36996 37014	every 3 or 4 weeks
+T1157	duration 37019 37030	3-6+ cycles
+T1159	indication 37768 37782	Ovarian Cancer
+T1161	indication 37799 37813	Ovarian Cancer
+T1163	indication 38356 38370	ovarian cancer
+T1165	tradename 38449 38454	DOXIL
+T1167	dose 38455 38463	50 mg/m2
+T1169	frequency 38464 38477	every 4 weeks
+T1171	dose 38499 38508	1.5 mg/m2
+T1173	frequency 38509 38514	daily
+T1175	frequency 38538 38551	every 3 weeks
+T1177	tradename 39300 39305	DOXIL
+T1179	tradename 40031 40037	DOXIL.
+T1181	indication 40092 40121	AIDS-Related Kaposi's Sarcoma
+T1183	tradename 40122 40127	DOXIL
+T1185	dose 40201 40209	20 mg/m2
+T1187	frequency 40210 40223	every 3 weeks
+T1189	activeingredient 40663 40679	doxorubicin HCl.
+T1191	duration 40710 40720	5.1 months
+T1193	duration 40728 40747	1 day to 15 months)
+T1195	tradename 40779 40784	DOXIL
+T1197	dose 40789 40798	154 mg/m2
+T1199	dose 40806 40822	20 to 620 mg/m2)
+T1201	indication 42227 42256	AIDS-Related Kaposi's Sarcoma
+T1203	tradename 43144 43149	DOXIL
+T1205	indication 43517 43533	Multiple Myeloma
+T1207	tradename 43550 43555	DOXIL
+T1209	co-administereddrug 43576 43586	bortezomib
+T1211	co-administereddrug 43720 43730	bortezomib
+T1213	tradename 43853 43858	DOXIL
+T1215	dose 43860 43869	30 mg/m2)
+T1217	routeofadministration 43883 43885	IV
+T1219	co-administereddrug 43905 43915	bortezomib
+T1221	dose 43917 43926	1.3 mg/m2
+T1223	routeofadministration 43927 43929	IV
+T1225	frequency 43975 43988	every 3 weeks
+T1227	duration 43993 44007	up to 8 cycles
+T1229	indication 44288 44304	multiple myeloma
+T1231	tradename 44420 44425	DOXIL
+T1233	co-administereddrug 44428 44438	bortezomib
+T1235	indication 45026 45042	Multiple Myeloma
+T1237	tradename 45602 45607	DOXIL
+T1239	co-administereddrug 45610 45620	bortezomib
+T1241	tradename 45822 45827	DOXIL
+T1243	co-administereddrug 45848 45858	Bortezomib
+T1245	indication 45893 45909	Multiple Myeloma
+T1247	tradename 45920 45925	DOXIL
+T1249	co-administereddrug 45928 45938	bortezomib
+T1251	tradename 46522 46528	DOXIL+
+T1253	co-administereddrug 46528 46539	bortezomib.
+T1255	tradename 46841 46846	DOXIL
+T1257	nanoparticle 46878 46887	liposomal
+T1259	activeingredient 46975 46990	doxorubicin HCl
+T1261	activeingredient 47055 47070	doxorubicin HCl
+T1263	tradename 47316 47321	DOXIL
+T1265	tradename 47379 47384	DOXIL
+T1267	adversereaction 47493 47499	Advise
+T1269	adversereaction 47574 47587	heart failure
+T1271	adversereaction 47626 47642	Infusion-Related
+T1273	adversereaction 47644 47650	Advise
+T1275	adversereaction 47682 47708	infusion related reactions
+T1277	adversereaction 47826 47832	Advise
+T1279	adversereaction 47895 47900	fever
+T1281	adversereaction 47916 47925	infection
+T1283	adversereaction 47927 47945	Hand-Foot Syndrome
+T1285	adversereaction 48017 48025	tingling
+T1287	adversereaction 48029 48036	burning
+T1289	adversereaction 48038 48045	redness
+T1291	adversereaction 48047 48054	flaking
+T1293	adversereaction 48056 48075	bothersome swelling
+T1295	adversereaction 48077 48091	small blisters
+T1297	adversereaction 48096 48158	small sores on the palms of their hands or soles of their feet
+T1299	adversereaction 48172 48191	Hand-Foot Syndrome)
+T1301	adversereaction 48230 48240	Stomatitis
+T1303	adversereaction 48317 48324	redness
+T1305	adversereaction 48326 48334	swelling
+T1307	adversereaction 48339 48357	sores in the mouth
+T1309	adversereaction 48371 48382	stomatitis)
+T1311	adversereaction 48386 48406	Embryofetal Toxicity
+T1313	tradename 48764 48769	DOXIL
+T1315	tradename 48867 48872	DOXIL
+T1317	adversereaction 48921 48932	Infertility
+T1319	tradename 48989 48994	DOXIL
+T1321	adversereaction 49028 49039	infertility
+T1323	adversereaction 49081 49119	Discoloration of Urine and Body Fluids
+T1325	tradename 49151 49156	DOXIL
+T1327	company 49383 49399	ALZA Corporation
+T1329	company 49416 49436	TTY Biopharm Company
+T1331	company 49522 49538	Janssen Products
+T1333	company 49540 49542	LP
+T1335	company 49563 49579	Janssen Products
+T1337	company 49581 49583	LP
+T1339	tradename 49641 49646	DOXIL
+T1341	company 49676 49693	ALZA Corporation.

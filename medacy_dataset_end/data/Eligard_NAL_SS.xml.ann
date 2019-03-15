@@ -1,0 +1,438 @@
+T1	tradename 104 111	ELIGARD
+T3	tradename 184 191	ELIGARD
+T5	activeingredient 193 212	leuprolide acetate)
+T7	routeofadministration 228 240	subcutaneous
+T9	fdaapprovaldate 274 278	2002
+T11	tradename 508 515	ELIGARD
+T13	indication 609 633	advanced prostate cancer
+T15	dose 709 715	7.5 mg
+T17	routeofadministration 716 730	subcutaneously
+T19	frequency 731 742	every month
+T21	dose 747 754	22.5 mg
+T23	routeofadministration 755 769	subcutaneously
+T25	frequency 770 784	every 3 months
+T27	dose 789 794	30 mg
+T29	routeofadministration 795 809	subcutaneously
+T31	frequency 810 824	every 4 months
+T33	dose 829 834	45 mg
+T35	routeofadministration 835 849	subcutaneously
+T37	frequency 850 864	every 6 months
+T39	dose 962 968	7.5 mg
+T41	dose 996 1003	22.5 mg
+T43	dose 1031 1036	30 mg
+T45	dose 1064 1069	45 mg
+T47	tradename 1234 1241	ELIGARD
+T49	adversereaction 1336 1347	Tumor Flare
+T51	adversereaction 1723 1736	Hyperglycemia
+T53	adversereaction 1741 1764	diabetes: Hyperglycemia
+T55	adversereaction 1801 1809	diabetes
+T57	adversereaction 1990 2011	myocardial infarction
+T59	adversereaction 2013 2033	sudden cardiac death
+T61	adversereaction 2038 2044	stroke
+T63	adversereaction 2440 2447	Malaise
+T65	adversereaction 2449 2456	fatigue
+T67	adversereaction 2458 2476	hot flashes/sweats
+T69	adversereaction 2482 2501	testicular atrophy.
+T71	adversereaction 2571 2593	decreased bone density
+T73	adversereaction 2612 2630	pituitary apoplexy
+T75	company 2709 2731	TOLMAR Pharmaceuticals
+T77	company 2733 2737	Inc.
+T79	tradename 2892 2899	ELIGARD
+T81	adversereaction 3340 3351	Tumor Flare
+T83	adversereaction 3352 3353	5
+T85	adversereaction 3377 3390	Hyperglycemia
+T87	adversereaction 3395 3403	Diabetes
+T89	adversereaction 3404 3405	5
+T91	tradename 4182 4189	ELIGARD
+T93	indication 4238 4263	advanced prostate cancer.
+T95	tradename 4393 4400	ELIGARD
+T97	activeingredient 4467 4485	leuprolide acetate
+T99	activeingredient 4591 4609	leuprolide acetate
+T101	tradename 4659 4666	ELIGARD
+T103	tradename 4855 4862	ELIGARD
+T105	tradename 5599 5606	ELIGARD
+T107	tradename 5633 5640	ELIGARD
+T109	activeingredient 5815 5833	leuprolide acetate
+T111	activeingredient 6583 6602	leuprolide acetate.
+T113	tradename 6843 6850	ELIGARD
+T115	tradename 6888 6895	ELIGARD
+T117	tradename 7481 7488	ELIGARD
+T119	tradename 7961 7968	ELIGARD
+T121	tradename 9587 9594	ELIGARD
+T123	tradename 10143 10150	ELIGARD
+T125	activeingredient 10182 10200	leuprolide acetate
+T127	activeingredient 10570 10589	leuprolide acetate.
+T129	tradename 10609 10616	ELIGARD
+T131	tradename 10661 10668	ELIGARD
+T133	tradename 10691 10698	ELIGARD
+T135	adversereaction 10972 10988	Hypersensitivity
+T137	tradename 10989 10996	ELIGARD
+T139	adversereaction 11033 11049	hypersensitivity
+T141	tradename 11108 11116	ELIGARD.
+T143	adversereaction 11119 11141	Anaphylactic reactions
+T145	tradename 11238 11245	ELIGARD
+T147	tradename 11349 11356	ELIGARD
+T149	tradename 11500 11507	ELIGARD
+T151	adversereaction 11770 11781	Tumor Flare
+T153	tradename 11782 11789	ELIGARD
+T155	dose 11790 11810	7.5 mg 22.5 mg 30 mg
+T157	tradename 11943 11950	ELIGARD
+T159	dose 11951 11956	45 mg
+T161	adversereaction 12200 12209	bone pain
+T163	adversereaction 12211 12221	neuropathy
+T165	adversereaction 12223 12232	hematuria
+T167	adversereaction 12237 12264	bladder outlet obstruction.
+T169	adversereaction 12277 12297	ureteral obstruction
+T171	adversereaction 12305 12328	spinal cord compression
+T173	indication 12451 12475	advanced prostate cancer
+T175	adversereaction 12648 12671	spinal cord compression
+T177	adversereaction 12675 12695	ureteral obstruction
+T179	tradename 12804 12811	ELIGARD
+T181	tradename 13265 13272	ELIGARD
+T183	dose 13273 13280	7.5 mg.
+T185	tradename 13435 13442	ELIGARD
+T187	dose 13443 13451	22.5 mg.
+T189	tradename 13493 13500	ELIGARD
+T191	dose 13501 13506	30 mg
+T193	tradename 13613 13620	ELIGARD
+T195	dose 13621 13626	45 mg
+T197	activeingredient 13983 14001	leuprolide acetate
+T199	adversereaction 14204 14217	Hyperglycemia
+T201	adversereaction 14222 14230	Diabetes
+T203	adversereaction 14231 14244	Hyperglycemia
+T205	adversereaction 14281 14289	diabetes
+T207	adversereaction 14342 14355	Hyperglycemia
+T209	adversereaction 14385 14402	diabetes mellitus
+T211	adversereaction 14624 14637	hyperglycemia
+T213	adversereaction 14641 14650	diabetes.
+T215	adversereaction 14656 14679	Cardiovascular Diseases
+T217	adversereaction 14680 14689	Increased
+T219	adversereaction 14709 14730	myocardial infarction
+T221	adversereaction 14732 14752	sudden cardiac death
+T223	adversereaction 14757 14763	stroke
+T225	adversereaction 15132 15154	cardiovascular disease
+T227	tradename 15771 15778	ELIGARD
+T229	indication 15849 15874	advanced prostate cancer.
+T231	tradename 15904 15911	ELIGARD
+T233	dose 15912 15918	7.5 mg
+T235	tradename 15978 15985	ELIGARD
+T237	dose 16720 16746	7.5 mg 22.5 mg 30 mg 45 mg
+T239	frequency 16849 16860	every month
+T241	duration 16861 16875	up to 6 months
+T243	frequency 16888 16902	every 3 months
+T245	duration 16903 16917	up to 6 months
+T247	frequency 16930 16944	every 4 months
+T249	duration 16945 16959	up to 8 months
+T251	frequency 16972 16986	every 6 months
+T253	duration 16987 17002	up to 12 months
+T255	adversereaction 17579 17587	Bruising
+T257	tradename 17943 17950	ELIGARD
+T259	dose 17951 17959	22.5 mg.
+T261	tradename 18342 18349	ELIGARD
+T263	dose 18350 18356	30 mg.
+T265	tradename 18383 18390	ELIGARD
+T267	dose 18391 18396	30 mg
+T269	tradename 18621 18628	ELIGARD
+T271	dose 18629 18635	45 mg.
+T273	tradename 18778 18785	ELIGARD
+T275	dose 18786 18792	45 mg.
+T277	tradename 19033 19040	ELIGARD
+T279	indication 19156 19183	metastatic prostate cancer.
+T281	tradename 19356 19363	ELIGARD
+T283	dose 19368 19401	7.5 mg 7.5 mg 22.5 mg 30 mg 45 mg
+T285	dose 19402 19407	Study
+T287	frequency 19513 19524	every month
+T289	duration 19525 19539	up to 6 months
+T291	frequency 19596 19610	every 3 months
+T293	duration 19611 19625	up to 6 months
+T295	frequency 19638 19652	every 4 months
+T297	duration 19653 19667	up to 8 months
+T299	frequency 19680 19694	every 6 months
+T301	duration 19695 19710	up to 12 months
+T303	adversereaction 19771 19778	Malaise
+T305	adversereaction 19783 19790	Fatigue
+T307	adversereaction 19834 19842	Weakness
+T309	adversereaction 19868 19877	Dizziness
+T311	adversereaction 19905 19923	Hot flashes/sweats
+T313	adversereaction 19998 20015	Urinary frequency
+T315	adversereaction 20034 20042	Nocturia
+T317	adversereaction 20070 20076	Nausea
+T319	adversereaction 20095 20118	Gastroenteritis/colitis
+T321	adversereaction 20134 20142	Pruritis
+T323	adversereaction 20152 20162	Clamminess
+T325	adversereaction 20173 20185	Night sweats
+T327	adversereaction 20206 20214	Alopecia
+T329	adversereaction 20240 20250	Arthralgia
+T331	adversereaction 20260 20267	Myalgia
+T333	adversereaction 20286 20298	Pain in limb
+T335	adversereaction 20322 20340	Testicular atrophy
+T337	adversereaction 20370 20382	Gynecomastia
+T339	adversereaction 20403 20418	Testicular pain
+T341	adversereaction 20440 20456	Decreased libido
+T343	tradename 20576 20583	ELIGARD
+T345	dose 20584 20590	7.5 mg
+T347	adversereaction 20606 20624	hot flashes/sweats
+T349	tradename 20790 20797	ELIGARD
+T351	dose 20798 20805	22.5 mg
+T353	adversereaction 20821 20839	hot flashes/sweats
+T355	tradename 21004 21011	ELIGARD
+T357	dose 21012 21017	30 mg
+T359	adversereaction 21033 21042	hot flash
+T361	tradename 21209 21216	ELIGARD
+T363	dose 21217 21222	45 mg
+T365	adversereaction 21238 21247	hot flash
+T367	tradename 21508 21515	ELIGARD
+T369	adversereaction 21582 21590	Sweating
+T371	adversereaction 21592 21600	insomnia
+T373	adversereaction 21602 21609	syncope
+T375	adversereaction 21611 21617	rigors
+T377	adversereaction 21619 21627	weakness
+T379	adversereaction 21629 21637	lethargy
+T381	adversereaction 21655 21665	Flatulence
+T383	adversereaction 21667 21679	constipation
+T385	adversereaction 21681 21690	dyspepsia
+T387	adversereaction 21691 21733	Hematologic Decreased red blood cell count
+T389	adversereaction 21735 21760	hematocrit and hemoglobin
+T391	adversereaction 21761 21782	Metabolic Weight gain
+T393	adversereaction 21783 21805	Musculoskeletal Tremor
+T395	adversereaction 21807 21815	backache
+T397	adversereaction 21817 21827	joint pain
+T399	adversereaction 21829 21843	muscle atrophy
+T401	adversereaction 21845 21854	limb pain
+T403	adversereaction 21855 21893	Nervous Disturbance of smell and taste
+T405	adversereaction 21895 21905	depression
+T407	adversereaction 21907 21914	vertigo
+T409	adversereaction 21915 21935	Psychiatric Insomnia
+T411	adversereaction 21937 21947	depression
+T413	adversereaction 21949 21964	loss of libido*
+T415	adversereaction 21979 22006	Difficulties with urination
+T417	adversereaction 22008 22025	pain on urination
+T419	adversereaction 22027 22043	scanty urination
+T421	adversereaction 22045 22058	bladder spasm
+T423	adversereaction 22060 22074	blood in urine
+T425	adversereaction 22076 22093	urinary retention
+T427	adversereaction 22095 22110	urinary urgency
+T429	adversereaction 22112 22124	incontinence
+T431	adversereaction 22126 22134	nocturia
+T433	adversereaction 22136 22155	nocturia aggravated
+T435	adversereaction 22182 22206	Testicular soreness/pain
+T437	adversereaction 22208 22218	impotence*
+T439	adversereaction 22239 22252	gynecomastia*
+T441	adversereaction 22254 22281	breast soreness/tenderness*
+T443	adversereaction 22283 22302	testicular atrophy*
+T445	adversereaction 22304 22324	erectile dysfunction
+T447	adversereaction 22326 22342	penile disorder*
+T449	adversereaction 22344 22362	reduced penis size
+T451	adversereaction 22369 22377	Alopecia
+T453	adversereaction 22379 22389	clamminess
+T455	adversereaction 22391 22404	night sweats*
+T457	adversereaction 22406 22425	sweating increased*
+T459	adversereaction 22436 22448	Hypertension
+T461	adversereaction 22450 22461	hypotension
+T463	adversereaction 22533 22557	Changes in Bone Density:
+T465	adversereaction 22897 22915	pituitary apoplexy
+T467	adversereaction 23106 23123	pituitary adenoma
+T469	adversereaction 23157 23175	pituitary apoplexy
+T471	adversereaction 23275 23293	pituitary apoplexy
+T473	adversereaction 23311 23326	sudden headache
+T475	adversereaction 23328 23336	vomiting
+T477	adversereaction 23338 23352	visual changes
+T479	adversereaction 23354 23369	ophthalmoplegia
+T481	adversereaction 23371 23392	altered mental status
+T483	adversereaction 23408 23432	cardiovascular collapse.
+T485	adversereaction 23482 23493	Convulsions
+T487	tradename 23640 23647	ELIGARD
+T489	tradename 23754 23761	ELIGARD
+T491	tradename 23890 23897	ELIGARD
+T493	activeingredient 24257 24275	leuprolide acetate
+T495	tradename 24593 24603	ELIGARD is
+T497	tradename 24860 24867	Eligard
+T499	tradename 25067 25074	ELIGARD
+T501	frequency 25290 25295	daily
+T503	routeofadministration 25296 25308	subcutaneous
+T505	activeingredient 25323 25341	leuprolide acetate
+T507	indication 25359 25374	prostate cancer
+T509	dose 25393 25398	20 mg
+T511	frequency 25398 25402	/day
+T513	duration 25413 25422	two years
+T515	dose 25488 25492	1 mg
+T517	frequency 25492 25496	/day
+T519	tradename 25520 25527	ELIGARD
+T521	nanoparticle 25541 25557	polymeric matrix
+T523	activeingredient 25573 25591	leuprolide acetate
+T525	routeofadministration 25613 25625	subcutaneous
+T527	activeingredient 25664 25682	leuprolide acetate
+T529	activeingredient 25766 25784	Leuprolide acetate
+T531	tradename 26256 26263	ELIGARD
+T533	tradename 26477 26484	ELIGARD
+T535	routeofadministration 26501 26515	subcutaneously
+T537	activeingredient 26636 26655	leuprolide acetate.
+T539	corecomposition 26751 26795	poly (DL-lactide-co-glycolide) (PLGH or PLG)
+T541	inactiveingredient 26854 26883	N-methyl-2-pyrrolidone (NMP).
+T543	tradename 26983 26990	ELIGARD
+T545	tradename 27019 27026	ELIGARD
+T547	tradename 27091 27098	ELIGARD
+T549	dose 27102 27108	7.5 mg
+T551	tradename 27109 27116	ELIGARD
+T553	dose 27120 27127	22.5 mg
+T555	tradename 27128 27135	ELIGARD
+T557	dose 27136 27141	30 mg
+T559	tradename 27142 27149	ELIGARD
+T561	dose 27150 27155	45 mg
+T563	activeingredient 27544 27562	Leuprolide acetate
+T565	activeingredient 27859 27877	Leuprolide acetate
+T567	activeingredient 28124 28142	leuprolide acetate
+T569	activeingredient 28305 28323	leuprolide acetate
+T571	activeingredient 28652 28670	leuprolide acetate
+T573	activeingredient 28938 28956	leuprolide acetate
+T575	tradename 29080 29087	ELIGARD
+T577	tradename 29232 29239	ELIGARD
+T579	frequency 29267 29274	monthly
+T581	tradename 29290 29297	ELIGARD
+T583	dose 29298 29304	7.5 mg
+T585	tradename 29599 29606	ELIGARD
+T587	dose 29607 29614	22.5 mg
+T589	tradename 30220 30227	ELIGARD
+T591	dose 30228 30233	30 mg
+T593	tradename 30717 30724	ELIGARD
+T595	dose 30725 30730	45 mg
+T597	activeingredient 31150 31168	Leuprolide acetate
+T599	routeofadministration 31194 31201	orally.
+T601	tradename 31236 31243	ELIGARD
+T603	dose 31244 31250	7.5 mg
+T605	cmax 31482 31492	25.3 ng/mL
+T607	tmax 31517 31524	5 hours
+T609	tradename 31730 31737	ELIGARD
+T611	dose 31738 31744	7.5 mg
+T613	tradename 31917 31924	ELIGARD
+T615	dose 31925 31931	7.5 mg
+T617	tradename 31946 31953	ELIGARD
+T619	dose 31954 31961	22.5 mg
+T621	dose 31962 31965	The
+T623	tradename 32051 32058	ELIGARD
+T625	dose 32059 32067	22.5 mg)
+T627	tradename 32476 32483	ELIGARD
+T629	dose 32484 32491	22.5 mg
+T631	tradename 32533 32540	ELIGARD
+T633	dose 32541 32546	30 mg
+T635	tradename 32655 32662	ELIGARD
+T637	dose 32663 32668	30 mg
+T639	indication 32691 32715	advanced prostate cancer
+T641	cmax 32826 32835	150 ng/mL
+T643	tmax 32860 32869	3.3 hours
+T645	tradename 33078 33085	ELIGARD
+T647	dose 33086 33091	30 mg
+T649	tradename 33133 33140	ELIGARD
+T651	dose 33141 33146	45 mg
+T653	dose 33147 33150	The
+T655	tradename 33254 33261	ELIGARD
+T657	dose 33262 33268	45 mg)
+T659	cmax 33384 33406	82 ng/mL and 102 ng/mL
+T661	tmax 33431 33440	4.5 hours
+T663	tradename 33691 33698	ELIGARD
+T665	dose 33699 33704	45 mg
+T667	tradename 33912 33919	ELIGARD
+T669	routeofadministration 34080 34091	intravenous
+T671	volumeofdistribution 34144 34149	27 L.
+T673	dose 34261 34265	1-mg
+T675	clearance 34359 34367	8.34 L/h
+T677	plasmahalflife 34424 34431	3 hours
+T679	tradename 34511 34519	ELIGARD.
+T681	activeingredient 34557 34575	leuprolide acetate
+T683	activeingredient 34614 34632	leuprolide acetate
+T685	tradename 34724 34731	ELIGARD
+T687	tradename 35006 35013	ELIGARD
+T689	dose 35014 35020	7.5 mg
+T691	tradename 35021 35028	ELIGARD
+T693	dose 35029 35036	22.5 mg
+T695	tradename 35037 35044	ELIGARD
+T697	dose 35045 35050	30 mg
+T699	tradename 35051 35058	ELIGARD
+T701	dose 35062 35067	45 mg
+T703	tradename 35176 35183	ELIGARD
+T705	activeingredient 35398 35416	leuprolide acetate
+T707	dose 35620 35635	0.6 to 4 mg/kg)
+T709	activeingredient 35849 35875	leuprolide acetate-induced
+T711	dose 35945 35953	60 mg/kg
+T713	duration 35958 35968	two years.
+T715	activeingredient 36002 36020	leuprolide acetate
+T717	duration 36025 36042	up to three years
+T719	dose 36065 36070	10 mg
+T721	frequency 36070 36074	/day
+T723	duration 36083 36092	two years
+T725	dose 36115 36120	20 mg
+T727	frequency 36120 36124	/day
+T729	tradename 36224 36232	ELIGARD.
+T731	activeingredient 36280 36298	leuprolide acetate
+T733	tradename 36346 36353	ELIGARD
+T735	dose 36354 36360	7.5 mg
+T737	tradename 36526 36533	ELIGARD
+T739	dose 36547 36553	7.5 mg
+T741	dose 36555 36562	22.5 mg
+T743	dose 36564 36569	30 mg
+T745	dose 36575 36581	45 mg)
+T747	tradename 36892 36899	ELIGARD
+T749	dose 36900 36906	7.5 mg
+T751	tradename 37083 37090	ELIGARD
+T753	dose 37091 37098	22.5 mg
+T755	tradename 37345 37352	ELIGARD
+T757	dose 37353 37358	30 mg
+T759	tradename 38532 38539	ELIGARD
+T761	dose 38540 38545	45 mg
+T763	tradename 38859 38866	ELIGARD
+T765	dose 38884 38910	7.5 mg 22.5 mg 30 mg 45 mg
+T767	frequency 39284 39302	every three months
+T769	frequency 39337 39354	every four months
+T771	frequency 39388 39404	every six months
+T773	duration 39441 39477	6 months 6 months 8 months 12 months
+T775	tradename 40818 40825	ELIGARD
+T777	dose 40826 40832	7.5 mg
+T779	tradename 40892 40899	ELIGARD
+T781	dose 40900 40907	22.5 mg
+T783	tradename 40967 40974	ELIGARD
+T785	dose 40975 40980	30 mg
+T787	tradename 41039 41046	ELIGARD
+T789	dose 41047 41052	45 mg
+T791	tradename 41268 41275	ELIGARD
+T793	tradename 41326 41333	ELIGARD
+T795	tradename 41362 41369	ELIGARD
+T797	dose 41370 41396	7.5 mg 22.5 mg 30 mg 45 mg
+T799	tradename 41805 41812	ELIGARD
+T801	dose 41813 41819	7.5 mg
+T803	tradename 41820 41827	ELIGARD
+T805	dose 41828 41835	22.5 mg
+T807	tradename 41836 41843	ELIGARD
+T809	dose 41844 41849	30 mg
+T811	tradename 41850 41857	ELIGARD
+T813	dose 41858 41863	45 mg
+T815	tradename 43250 43257	ELIGARD
+T817	tradename 43373 43380	ELIGARD
+T819	dose 43381 43387	7.5 mg
+T821	tradename 43406 43413	ELIGARD
+T823	dose 43414 43421	22.5 mg
+T825	tradename 43440 43447	ELIGARD
+T827	dose 43448 43453	30 mg
+T829	tradename 43472 43479	ELIGARD
+T831	dose 43480 43485	45 mg
+T833	tradename 43506 43513	ELIGARD
+T835	tradename 43636 43643	ELIGARD
+T837	dose 43644 43650	7.5 mg
+T839	tradename 43669 43676	ELIGARD
+T841	dose 43677 43684	22.5 mg
+T843	tradename 43703 43710	ELIGARD
+T845	dose 43711 43716	30 mg
+T847	tradename 43735 43742	ELIGARD
+T849	dose 43743 43748	45 mg
+T851	adversereaction 43906 43918	hot flashes.
+T853	adversereaction 44000 44009	bone pain
+T855	adversereaction 44021 44044	difficulty in urinating
+T857	adversereaction 44078 44086	weakness
+T859	adversereaction 44090 44100	paralysis.
+T861	tradename 44195 44202	ELIGARD
+T863	company 44620 44631	TOLMAR Inc.
+T865	company 44660 44679	TOLMAR Therapeutics
+T867	company 44681 44685	Inc.
+T869	company 44727 44749	TOLMAR Pharmaceuticals
+T871	company 44751 44755	Inc.
+T873	company 44786 44808	TOLMAR Pharmaceuticals
+T875	company 44810 44814	Inc.
