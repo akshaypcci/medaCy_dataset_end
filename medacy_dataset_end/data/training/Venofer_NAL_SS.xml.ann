@@ -1,0 +1,345 @@
+T1	tradename 116 123	VENOFER
+T3	tradename 185 202	VENOFER. Venofer
+T5	activeingredient 204 216	iron sucrose
+T7	fdaapprovaldate 257 261	2000
+T9	tradename 580 587	Venofer
+T11	indication 650 719	iron deficiency anemia in patients with chronic kidney disease (CKD).
+T13	dose 946 952	100 mg
+T15	routeofadministration 958 969	intravenous
+T17	dose 1076 1082	200 mg
+T19	routeofadministration 1088 1099	intravenous
+T21	dose 1213 1219	300 mg
+T23	dose 1223 1229	400 mg
+T25	routeofadministration 1230 1241	intravenous
+T27	dose 1333 1342	0.5 mg/kg
+T29	routeofadministration 1348 1359	intravenous
+T31	tradename 1910 1917	Venofer
+T33	adversereaction 2031 2058	Hypersensitivity Reactions:
+T35	tradename 2127 2134	Venofer
+T37	tradename 2274 2281	Venofer
+T39	adversereaction 2366 2393	hypersensitivity reactions.
+T41	adversereaction 2412 2424	Hypotension:
+T43	tradename 2425 2432	Venofer
+T45	adversereaction 2443 2455	hypotension.
+T47	adversereaction 2490 2501	hypotension
+T49	tradename 2546 2554	Venofer.
+T51	adversereaction 2574 2588	Iron Overload:
+T53	tradename 2636 2643	Venofer
+T55	tradename 2672 2679	Venofer
+T57	tradename 2915 2922	Venofer
+T59	adversereaction 2927 2935	diarrhea
+T61	adversereaction 2937 2943	nausea
+T63	adversereaction 2945 2953	vomiting
+T65	adversereaction 2955 2963	headache
+T67	adversereaction 2965 2974	dizziness
+T69	adversereaction 2976 2987	hypotension
+T71	adversereaction 2989 2997	pruritus
+T73	adversereaction 2999 3016	pain in extremity
+T75	adversereaction 3018 3028	arthralgia
+T77	adversereaction 3030 3039	back pain
+T79	adversereaction 3041 3053	muscle cramp
+T81	adversereaction 3055 3079	injection site reactions
+T83	adversereaction 3081 3091	chest pain
+T85	adversereaction 3097 3114	peripheral edema.
+T87	company 3191 3206	American Regent
+T89	company 3208 3212	Inc.
+T91	adversereaction 4202 4228	Hypersensitivity Reactions
+T93	adversereaction 4244 4255	Hypotension
+T95	adversereaction 4271 4284	Iron Overload
+T97	tradename 5989 5996	Venofer
+T99	indication 6031 6100	iron deficiency anemia in patients with chronic kidney disease (CKD).
+T101	tradename 6163 6170	Venofer
+T103	routeofadministration 6197 6210	intravenously
+T105	tradename 6278 6285	Venofer
+T107	tradename 6493 6500	Venofer
+T109	dose 6501 6507	100 mg
+T111	routeofadministration 6528 6539	intravenous
+T113	dose 6592 6598	100 mg
+T115	tradename 6730 6737	Venofer
+T117	tradename 6843 6850	Venofer
+T119	dose 6854 6862	1000 mg.
+T121	tradename 6874 6881	Venofer
+T123	tradename 7052 7059	Venofer
+T125	dose 7060 7066	200 mg
+T127	routeofadministration 7087 7098	intravenous
+T129	dose 7150 7156	200 mg
+T131	dose 7359 7365	500 mg
+T133	tradename 7369 7376	Venofer
+T135	tradename 7486 7493	Venofer
+T137	tradename 7671 7678	Venofer
+T139	routeofadministration 7713 7724	intravenous
+T141	dose 7779 7785	300 mg
+T143	dose 7831 7837	400 mg
+T145	tradename 7895 7902	Venofer
+T147	tradename 7951 7958	Venofer
+T149	tradename 8290 8297	Venofer
+T151	dose 8311 8320	0.5 mg/kg
+T153	dose 8336 8342	100 mg
+T155	frequency 8353 8368	every two weeks
+T157	routeofadministration 8406 8417	intravenous
+T159	tradename 8527 8534	Venofer
+T161	tradename 8918 8925	Venofer
+T163	dose 8939 8948	0.5 mg/kg
+T165	dose 8964 8970	100 mg
+T167	frequency 8981 8997	every four weeks
+T169	routeofadministration 9035 9046	intravenous
+T171	tradename 9156 9163	Venofer
+T173	tradename 9610 9617	Venofer
+T175	adversereaction 9684 9710	Hypersensitivity Reactions
+T177	adversereaction 9719 9745	hypersensitivity reactions
+T179	adversereaction 9757 9784	anaphylactic-type reactions
+T181	tradename 9879 9887	Venofer.
+T183	adversereaction 9914 9919	shock
+T185	adversereaction 9944 9955	hypotension
+T187	adversereaction 9957 9978	loss of consciousness
+T189	adversereaction 9987 9996	collapse.
+T191	adversereaction 10011 10037	hypersensitivity reactions
+T193	tradename 10096 10103	Venofer
+T195	adversereaction 10171 10187	hypersensitivity
+T197	tradename 10205 10212	Venofer
+T199	tradename 10346 10353	Venofer
+T201	adversereaction 10438 10465	hypersensitivity reactions.
+T203	routeofadministration 10509 10520	intravenous
+T205	adversereaction 10665 10676	Hypotension
+T207	tradename 10677 10684	Venofer
+T209	adversereaction 10718 10730	hypotension.
+T211	adversereaction 10777 10788	hypotension
+T213	tradename 10822 10830	Venofer.
+T215	tradename 10883 10890	Venofer
+T217	adversereaction 11082 11095	Iron Overload
+T219	adversereaction 11194 11219	iatrogenic hemosiderosis.
+T221	tradename 11275 11282	Venofer
+T223	tradename 11444 11451	Venofer
+T225	routeofadministration 11568 11579	intravenous
+T227	activeingredient 11598 11610	iron sucrose
+T229	routeofadministration 11679 11690	intravenous
+T231	tradename 11866 11873	Venofer
+T233	tradename 12324 12331	Venofer
+T235	tradename 12613 12620	Venofer
+T237	dose 12722 12728	100 mg
+T239	dose 12798 12805	1000 mg
+T241	dose 12885 12891	200 mg
+T243	dose 12919 12925	500 mg
+T245	dose 13000 13006	300 mg
+T247	dose 13029 13035	400 mg
+T249	tradename 13219 13226	Venofer
+T251	tradename 13341 13348	Venofer
+T253	tradename 13381 13388	Venofer
+T255	tradename 13463 13470	Venofer
+T257	adversereaction 13623 13631	Ear Pain
+T259	adversereaction 13733 13747	Conjunctivitis
+T261	adversereaction 13863 13926	Abdominal pain Diarrhea Dysgeusia Nausea Vomiting
+T263	adversereaction 14185 14260	Asthenia Chest pain Feeling abnormal Infusion site pain or burning
+T265	adversereaction 14272 14320	Injection site extravasation Peripheral edema
+T267	adversereaction 14335 14342	Pyrexia
+T269	adversereaction 14659 14674	Nasopharyngitis
+T271	adversereaction 14676 14685	Sinusitis
+T273	tradename 14786 14793	Venofer
+T275	tradename 14826 14833	Venofer
+T277	tradename 14908 14915	Venofer
+T279	adversereaction 14977 15005	respiratory tract infections
+T281	adversereaction 15007 15018	Pharyngitis
+T283	adversereaction 15101 15119	Graft complication
+T285	adversereaction 15281 15337	Fluid overload Gout Hyperglycemia Hypoglycemia
+T287	adversereaction 15569 15640	Arthralgia Back pain Muscle cramp Myalgia Pain in extremity
+T289	adversereaction 15901 15921	Dizziness Headache
+T291	adversereaction 16083 16120	Cough Dyspnea Nasal congestion
+T293	adversereaction 16348 16356	Pruritus
+T295	adversereaction 16517 16545	Hypertension Hypotension
+T297	routeofadministration 16846 16857	intravenous
+T299	tradename 17013 17020	Venofer
+T301	tradename 17098 17105	Venofer
+T303	tradename 17312 17319	Venofer
+T305	tradename 17521 17528	Venofer
+T307	dose 17529 17538	0.5 mg/kg
+T309	tradename 17578 17585	Venofer
+T311	dose 17586 17595	1.0 mg/kg
+T313	tradename 17639 17646	Venofer
+T315	dose 17647 17657	2.0 mg/kg.
+T317	tradename 17717 17724	Venofer
+T319	dose 17725 17734	0.5 mg/kg
+T321	tradename 17767 17774	Venofer
+T323	dose 17775 17784	1.0 mg/kg
+T325	tradename 17821 17828	Venofer
+T327	dose 17829 17838	2.0 mg/kg
+T329	adversereaction 18019 18027	headache
+T331	adversereaction 18034 18067	respiratory tract viral infection
+T333	adversereaction 18074 18085	peritonitis
+T335	adversereaction 18092 18100	vomiting
+T337	adversereaction 18107 18114	pyrexia
+T339	adversereaction 18121 18130	dizziness
+T341	adversereaction 18137 18142	cough
+T343	adversereaction 18149 18165	renal transplant
+T345	adversereaction 18172 18178	nausea
+T347	adversereaction 18185 18217	arteriovenous fistula thrombosis
+T349	adversereaction 18224 18235	hypotension
+T351	adversereaction 18246 18258	hypertension
+T353	adversereaction 18682 18708	cardiac failure congestive
+T355	adversereaction 18710 18716	sepsis
+T357	adversereaction 18721 18731	dysgeusia.
+T359	tradename 18825 18833	Venofer.
+T361	adversereaction 19048 19075	Anaphylactic-type reactions
+T363	adversereaction 19077 19082	shock
+T365	adversereaction 19084 19105	loss of consciousness
+T367	adversereaction 19107 19115	collapse
+T369	adversereaction 19117 19129	bronchospasm
+T371	adversereaction 19131 19138	dyspnea
+T373	adversereaction 19140 19151	convulsions
+T375	adversereaction 19153 19169	light-headedness
+T377	adversereaction 19171 19180	confusion
+T379	adversereaction 19182 19192	angioedema
+T381	adversereaction 19194 19216	swelling of the joints
+T383	adversereaction 19218 19231	hyperhidrosis
+T385	adversereaction 19233 19242	back pain
+T387	adversereaction 19244 19255	bradycardia
+T389	adversereaction 19261 19273	chromaturia.
+T391	tradename 19301 19308	Venofer
+T393	adversereaction 19355 19366	hypotension
+T395	adversereaction 19368 19375	dyspnea
+T397	adversereaction 19377 19385	headache
+T399	adversereaction 19387 19395	vomiting
+T401	adversereaction 19397 19403	nausea
+T403	adversereaction 19405 19414	dizziness
+T405	adversereaction 19416 19427	joint aches
+T407	adversereaction 19429 19440	paresthesia
+T409	adversereaction 19442 19467	abdominal and muscle pain
+T411	adversereaction 19469 19474	edema
+T413	adversereaction 19480 19504	cardiovascular collapse.
+T415	tradename 19600 19607	Venofer
+T417	tradename 19692 19700	Venofer.
+T419	routeofadministration 19726 19737	intravenous
+T421	routeofadministration 19945 19956	intravenous
+T423	tradename 20061 20068	Venofer
+T425	tradename 20112 20119	Venofer
+T427	activeingredient 20426 20438	iron sucrose
+T429	routeofadministration 20456 20469	intravenously
+T431	dose 20540 20548	13 mg/kg
+T433	frequency 20548 20552	/day
+T435	activeingredient 20724 20737	iron sucrose.
+T437	tradename 20831 20838	Venofer
+T439	activeingredient 20962 20974	iron sucrose
+T441	activeingredient 21014 21026	Iron sucrose
+T443	tradename 21164 21171	Venofer
+T445	tradename 21279 21286	Venofer
+T447	tradename 21461 21468	Venofer
+T449	tradename 21659 21666	Venofer
+T451	dose 21679 21688	0.5 mg/kg
+T453	dose 21690 21699	1.0 mg/kg
+T455	dose 21705 21714	2.0 mg/kg
+T457	tradename 21941 21948	Venofer
+T459	tradename 22042 22049	Venofer
+T461	tradename 22261 22268	Venofer
+T463	tradename 22452 22459	Venofer
+T465	tradename 22553 22560	Venofer
+T467	tradename 22775 22782	Venofer
+T469	tradename 23428 23435	Venofer
+T471	tradename 23479 23486	Venofer
+T473	tradename 23605 23612	Venofer
+T475	routeofadministration 23741 23752	intravenous
+T477	activeingredient 23753 23765	iron sucrose
+T479	tradename 24010 24017	Venofer
+T481	activeingredient 24019 24031	iron sucrose
+T483	nanoparticle 24119 24151	polynuclear iron (III)-hydroxide
+T485	routeofadministration 24167 24178	intravenous
+T487	activeingredient 24196 24208	Iron sucrose
+T489	molecularweight 24259 24261	34
+T491	molecularweight 24262 24271	000 to 60
+T493	molecularweight 24272 24283	000 daltons
+T495	activeingredient 24590 24602	iron sucrose
+T497	tradename 24638 24645	Venofer
+T499	tradename 25209 25216	Venofer
+T501	nanoparticle 25242 25275	poly-nuclear iron (III)-hydroxide
+T503	routeofadministration 25310 25321	intravenous
+T505	tradename 25338 25345	Venofer
+T507	routeofadministration 25667 25678	intravenous
+T509	tradename 25695 25702	Venofer
+T511	activeingredient 25876 25888	iron sucrose
+T513	dose 25900 25906	100 mg
+T515	activeingredient 26107 26119	iron sucrose
+T517	routeofadministration 26208 26219	intravenous
+T519	tradename 26229 26236	Venofer
+T521	plasmahalflife 26321 26324	6 h
+T523	clearance 26345 26352	1.2 L/h
+T525	volumeofdistribution 26406 26412	7.9 L.
+T527	tradename 26555 26562	Venofer
+T529	dose 26574 26580	100 mg
+T531	routeofadministration 26848 26859	intravenous
+T533	tradename 26878 26885	Venofer
+T535	activeingredient 26888 26900	iron sucrose
+T537	routeofadministration 27046 27057	intravenous
+T539	tradename 27066 27073	Venofer
+T541	dose 27109 27115	100 mg
+T543	routeofadministration 27490 27501	intravenous
+T545	activeingredient 27510 27522	iron sucrose
+T547	dose 27534 27555	500 to 700 mg of iron
+T549	tradename 27800 27807	Venofer
+T551	tradename 27934 27941	Venofer
+T553	routeofadministration 27995 28006	intravenous
+T555	tradename 28022 28029	Venofer
+T557	dose 28033 28040	7 mg/kg
+T559	dose 28050 28057	200 mg)
+T561	tradename 28120 28127	Venofer
+T563	plasmahalflife 28167 28175	8 hours.
+T565	cmax 28222 28231	8545 g/dL
+T567	auc 28236 28249	31305 hr g/dL
+T569	tradename 28361 28368	Venofer
+T571	activeingredient 28521 28533	iron sucrose
+T573	activeingredient 28819 28832	iron sucrose.
+T575	activeingredient 28858 28870	Iron sucrose
+T577	activeingredient 28991 29003	Iron sucrose
+T579	activeingredient 29148 29160	Iron sucrose
+T581	routeofadministration 29164 29175	intravenous
+T583	dose 29188 29196	15 mg/kg
+T585	frequency 29196 29200	/day
+T587	tradename 29583 29591	Venofer.
+T589	tradename 29802 29809	Venofer
+T591	tradename 29914 29921	Venofer
+T593	tradename 30302 30309	Venofer
+T595	dose 30310 30316	100 mg
+T597	tradename 30539 30546	Venofer
+T599	routeofadministration 30561 30572	intravenous
+T601	tradename 31006 31013	Venofer
+T603	tradename 31325 31332	Venofer
+T605	tradename 31387 31394	Venofer
+T607	tradename 31450 31457	Venofer
+T609	tradename 31926 31941	Venofer-treated
+T611	tradename 32130 32145	Venofer-treated
+T613	tradename 32371 32378	Venofer
+T615	tradename 33838 33845	Venofer
+T617	dose 33875 33881	100 mg
+T619	dose 34004 34009	50 mg
+T621	tradename 34860 34867	Venofer
+T623	tradename 35256 35263	Venofer
+T625	tradename 35461 35468	Venofer
+T627	tradename 35659 35666	Venofer
+T629	routeofadministration 36044 36055	intravenous
+T631	tradename 36352 36359	Venofer
+T633	tradename 36536 36543	Venofer
+T635	tradename 36724 36731	Venofer
+T637	tradename 37004 37011	Venofer
+T639	tradename 37595 37602	Venofer
+T641	tradename 38082 38089	Venofer
+T643	tradename 38179 38186	Venofer
+T645	tradename 38451 38458	Venofer
+T647	tradename 38681 38688	Venofer
+T649	tradename 39962 39969	Venofer
+T651	routeofadministration 40293 40304	Intravenous
+T653	tradename 40326 40333	Venofer
+T655	routeofadministration 40349 40360	intravenous
+T657	tradename 40684 40691	Venofer
+T659	routeofadministration 40760 40771	intravenous
+T661	tradename 40989 40996	Venofer
+T663	tradename 41169 41176	Venofer
+T665	adversereaction 41231 41247	hypersensitivity
+T667	tradename 41297 41304	Venofer
+T669	adversereaction 41329 41333	rash
+T671	adversereaction 41335 41342	itching
+T673	adversereaction 41344 41353	dizziness
+T675	adversereaction 41355 41371	light-headedness
+T677	adversereaction 41373 41381	swelling
+T679	adversereaction 41387 41405	breathing problems
+T681	company 41470 41492	Fresenius Medical Care
+T683	tradename 41558 41565	Venofer
+T685	company 41601 41616	American Regent
+T687	company 41618 41622	Inc.
+T689	company 41641 41667	Vifor (International) Inc.

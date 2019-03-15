@@ -5,9 +5,11 @@ import sys
 
 packages = find_packages()
 
+
 def readme():
     with open('README.md') as f:
         return f.read()
+
 
 class PyTest(TestCommand):
     """
@@ -36,10 +38,10 @@ setup(
     packages=packages,
     url='https://github.com/NanoNLP/medaCy_dataset_end',
     author=__authors__,
-    author_email='contact@andriymulyar.com',
+    author_email="swfarnsworth@gmail.com",
     keywords='natural-language-processing medical-natural-language-processing machine-learning nlp-library metamap clinical-text-processing',
     classifiers=[
-        '( Status :: 4 - Beta',
+        'Status :: 4 - Beta',
         'License :: OSI Approved :: GNU General Public License (GPL)',
         'Programming Language :: Python :: 3.5',
         'Natural Language :: English',
@@ -53,5 +55,4 @@ setup(
     cmdclass={"pytest": PyTest},
     include_package_data=True,
     zip_safe=False
-
 )

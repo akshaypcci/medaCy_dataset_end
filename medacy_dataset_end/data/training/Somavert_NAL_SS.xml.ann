@@ -1,0 +1,471 @@
+T1	tradename 107 115	SOMAVERT
+T3	tradename 178 187	SOMAVERT.
+T5	tradename 189 197	SOMAVERT
+T7	nanoparticle 199 211	pegvisomant)
+T9	routeofadministration 231 243	subcutaneous
+T11	fdaapprovaldate 271 275	2003
+T13	tradename 489 497	SOMAVERT
+T15	indication 569 579	acromegaly
+T17	dose 881 886	40 mg
+T19	routeofadministration 900 914	subcutaneously
+T21	frequency 1043 1048	daily
+T23	routeofadministration 1049 1061	subcutaneous
+T25	dose 1076 1081	10 mg
+T27	indication 1301 1311	acromegaly
+T29	dose 1335 1346	10 to 30 mg
+T31	frequency 1347 1357	once daily
+T33	tradename 1480 1488	SOMAVERT
+T35	tradename 2001 2009	SOMAVERT
+T37	adversereaction 2149 2158	infection
+T39	adversereaction 2160 2164	pain
+T41	adversereaction 2166 2172	nausea
+T43	adversereaction 2174 2182	diarrhea
+T45	adversereaction 2184 2204	abnormal liver tests
+T47	adversereaction 2206 2218	flu syndrome
+T49	adversereaction 2220 2243	injection site reaction
+T51	company 2296 2302	Pfizer
+T53	indication 2541 2551	acromegaly
+T55	tradename 2731 2739	SOMAVERT
+T57	tradename 4052 4060	SOMAVERT
+T59	indication 4095 4105	acromegaly
+T61	tradename 4412 4420	SOMAVERT
+T63	dose 4424 4429	40 mg
+T65	routeofadministration 4436 4450	subcutaneously
+T67	routeofadministration 4518 4530	subcutaneous
+T69	frequency 4603 4613	once daily
+T71	routeofadministration 4614 4626	subcutaneous
+T73	frequency 4731 4736	daily
+T75	routeofadministration 4737 4749	subcutaneous
+T77	dose 4764 4769	10 mg
+T79	tradename 4773 4782	SOMAVERT.
+T81	indication 5013 5024	acromegaly.
+T83	tradename 5158 5166	SOMAVERT
+T85	dose 5419 5430	10 to 30 mg
+T87	routeofadministration 5437 5451	subcutaneously
+T89	frequency 5452 5462	once daily
+T91	dose 5495 5500	30 mg
+T93	routeofadministration 5507 5521	subcutaneously
+T95	frequency 5522 5533	once daily.
+T97	tradename 5582 5590	SOMAVERT
+T99	tradename 5614 5622	SOMAVERT
+T101	tradename 5874 5882	SOMAVERT
+T103	tradename 5972 5980	SOMAVERT
+T105	dose 6163 6168	40 mg
+T107	tradename 6267 6275	SOMAVERT
+T109	dose 6287 6292	20 mg
+T111	nanoparticle 6296 6307	pegvisomant
+T113	dose 6410 6415	40 mg
+T115	tradename 6499 6507	SOMAVERT
+T117	tradename 6728 6736	SOMAVERT
+T119	dose 6748 6753	20 mg
+T121	nanoparticle 6757 6768	pegvisomant
+T123	tradename 7032 7041	SOMAVERT.
+T125	nanoparticle 7183 7194	pegvisomant
+T127	tradename 7333 7341	SOMAVERT
+T129	tradename 7471 7479	SOMAVERT
+T131	dose 7690 7695	20 mg
+T133	nanoparticle 7699 7710	pegvisomant
+T135	tradename 7770 7778	SOMAVERT
+T137	tradename 7895 7903	SOMAVERT
+T139	routeofadministration 7924 7938	subcutaneously
+T141	tradename 8085 8093	Somavert
+T143	dose 8102 8107	20mg.
+T145	tradename 8155 8163	SOMAVERT
+T147	routeofadministration 8184 8198	subcutaneously
+T149	frequency 8452 8457	daily
+T151	dose 8465 8477	10 to 30 mg)
+T153	tradename 8607 8615	SOMAVERT
+T155	dose 8627 8629	10
+T157	dose 8631 8642	15 or 20 mg
+T159	nanoparticle 8646 8657	pegvisomant
+T161	tradename 8926 8935	SOMAVERT.
+T163	nanoparticle 9074 9085	pegvisomant
+T165	tradename 9224 9232	SOMAVERT
+T167	tradename 9364 9372	SOMAVERT
+T169	dose 9583 9585	10
+T171	dose 9587 9598	15 or 20 mg
+T173	nanoparticle 9602 9613	pegvisomant
+T175	tradename 9672 9680	SOMAVERT
+T177	tradename 9790 9798	SOMAVERT
+T179	routeofadministration 9808 9822	subcutaneously
+T181	frequency 9920 9925	daily
+T183	dose 9936 9947	25 or 30 mg
+T185	tradename 10005 10013	Somavert
+T187	dose 10046 10058	25 or 30 mg.
+T189	frequency 10077 10082	daily
+T191	dose 10093 10104	25 or 30 mg
+T193	tradename 10138 10146	SOMAVERT
+T195	routeofadministration 10156 10170	subcutaneously
+T197	tradename 10795 10804	SOMAVERT.
+T199	tradename 11187 11196	SOMAVERT.
+T201	tradename 11267 11275	SOMAVERT
+T203	tradename 11653 11661	SOMAVERT
+T205	tradename 11783 11791	Somavert
+T207	tradename 11850 11858	SOMAVERT
+T209	tradename 11919 11927	SOMAVERT
+T211	tradename 11997 12006	SOMAVERT.
+T213	tradename 12216 12224	SOMAVERT
+T215	tradename 12391 12399	SOMAVERT
+T217	tradename 12693 12702	SOMAVERT.
+T219	tradename 12899 12907	SOMAVERT
+T221	tradename 13041 13049	SOMAVERT
+T223	tradename 13271 13280	SOMAVERT.
+T225	tradename 13666 13674	SOMAVERT
+T227	tradename 13959 13967	SOMAVERT
+T229	tradename 14353 14361	SOMAVERT
+T231	tradename 14556 14564	SOMAVERT
+T233	indication 14666 14676	acromegaly
+T235	adversereaction 14763 14778	Lipohypertrophy
+T237	adversereaction 14805 14820	lipohypertrophy
+T239	tradename 14846 14855	SOMAVERT.
+T241	adversereaction 14939 14969	injection site lipohypertrophy
+T243	dose 15002 15007	10 mg
+T245	frequency 15007 15012	/day.
+T247	dose 15157 15162	10 mg
+T249	frequency 15162 15166	/day
+T251	adversereaction 15182 15198	lipohypertrophy.
+T253	adversereaction 15352 15367	lipohypertrophy
+T255	adversereaction 15416 15441	Systemic Hypersensitivity
+T257	adversereaction 15460 15495	systemic hypersensitivity reactions
+T259	tradename 15565 15573	Somavert
+T261	adversereaction 15974 15989	Lipohypertrophy
+T263	adversereaction 16028 16053	Systemic hypersensitivity
+T265	tradename 16222 16230	SOMAVERT
+T267	tradename 16300 16308	SOMAVERT
+T269	tradename 16954 16962	SOMAVERT
+T271	tradename 17507 17515	SOMAVERT
+T273	indication 17533 17543	acromegaly
+T275	tradename 17599 17607	SOMAVERT
+T277	frequency 17608 17618	once daily
+T279	tradename 17688 17697	Somavert)
+T281	indication 17770 17780	acromegaly
+T283	adversereaction 17895 17918	transaminase elevations
+T285	adversereaction 17937 17975	lipohypertrophy at the injection sites
+T287	adversereaction 17998 18022	substantial weight gain.
+T289	tradename 18184 18192	SOMAVERT
+T291	indication 18366 18377	Acromegaly*
+T293	tradename 18394 18402	SOMAVERT
+T295	dose 18403 18408	10 mg
+T297	frequency 18408 18412	/day
+T299	dose 18419 18424	15 mg
+T301	frequency 18424 18428	/day
+T303	dose 18435 18440	20 mg
+T305	frequency 18440 18444	/day
+T307	adversereaction 18451 18462	Infection 2
+T309	adversereaction 18480 18484	Pain
+T311	adversereaction 18514 18520	Nausea
+T313	adversereaction 18545 18553	Diarrhea
+T315	adversereaction 18578 18607	Abnormal liver function tests
+T317	adversereaction 18637 18649	Flu syndrome
+T319	adversereaction 18674 18697	Injection site reaction
+T321	adversereaction 18722 18731	Dizziness
+T323	adversereaction 18760 18777	Accidental injury
+T325	adversereaction 18801 18810	Back pain
+T327	adversereaction 18834 18843	Sinusitis
+T329	adversereaction 18867 18877	Chest pain
+T331	adversereaction 18896 18912	Peripheral edema
+T333	adversereaction 18931 18943	Hypertension
+T335	adversereaction 18957 18968	Paresthesia
+T337	tradename 19115 19123	SOMAVERT
+T339	tradename 19224 19232	SOMAVERT
+T341	dose 19233 19238	10 mg
+T343	adversereaction 19256 19269	cold symptoms
+T345	adversereaction 19275 19302	upper respiratory infection
+T347	adversereaction 19308 19315	blister
+T349	adversereaction 19325 19338	ear infection
+T351	adversereaction 19395 19408	cold symptoms
+T353	adversereaction 19417 19432	chest infection
+T355	tradename 19520 19536	SOMAVERT-treated
+T357	tradename 19688 19696	SOMAVERT
+T359	tradename 19859 19868	SOMAVERT.
+T361	tradename 19983 19992	SOMAVERT.
+T363	tradename 20379 20387	SOMAVERT
+T365	tradename 20571 20580	SOMAVERT.
+T367	adversereaction 20785 20820	Systemic hypersensitivity reactions
+T369	adversereaction 20831 20853	anaphylactic reactions
+T371	adversereaction 20855 20867	laryngospasm
+T373	adversereaction 20869 20879	angioedema
+T375	adversereaction 20909 20913	rash
+T377	adversereaction 20915 20923	erythema
+T379	adversereaction 20925 20933	pruritus
+T381	adversereaction 20935 20945	urticaria)
+T383	indication 21156 21166	Acromegaly
+T385	tradename 21180 21188	SOMAVERT
+T387	indication 21295 21305	acromegaly
+T389	tradename 21319 21327	SOMAVERT
+T391	tradename 21818 21826	SOMAVERT
+T393	tradename 21858 21866	SOMAVERT
+T395	indication 21883 21894	acromegaly.
+T397	adversereaction 22054 22069	Lipohypertrophy
+T399	tradename 22873 22881	SOMAVERT
+T401	indication 22897 22907	acromegaly
+T403	tradename 23172 23180	SOMAVERT
+T405	nanoparticle 23548 23559	pegvisomant
+T407	routeofadministration 23563 23575	subcutaneous
+T409	dose 23585 23586	1
+T411	dose 23588 23589	3
+T413	dose 23591 23603	and 10 mg/kg
+T415	frequency 23603 23608	/day.
+T417	nanoparticle 23670 23681	pegvisomant
+T419	dose 23722 23730	10mg/kg/
+T421	frequency 23730 23733	day
+T423	tradename 23983 23991	SOMAVERT
+T425	nanoparticle 24095 24106	pegvisomant
+T427	tradename 24209 24217	SOMAVERT
+T429	tradename 24307 24315	SOMAVERT
+T431	tradename 24406 24414	SOMAVERT
+T433	tradename 24829 24837	SOMAVERT
+T435	tradename 25016 25024	SOMAVERT
+T437	dose 25092 25097	80 mg
+T439	frequency 25097 25101	/day
+T441	tradename 25361 25369	SOMAVERT
+T443	tradename 25490 25498	SOMAVERT
+T445	nanoparticle 25508 25519	pegvisomant
+T447	nanoparticle 25632 25643	Pegvisomant
+T449	activeingredient 25649 25717	protein of recombinant DNA origin containing 191 amino acid residues
+T451	surfacecoating 25735 25760	polyethylene glycol (PEG)
+T453	surfacecoating 25813 25817	PEG/
+T455	nanoparticle 25876 25887	pegvisomant
+T457	molecularweight 25891 25893	21
+T459	molecularweight 25894 25906	998 Daltons.
+T461	surfacecoating 25936 25939	PEG
+T463	nanoparticle 25951 25962	pegvisomant
+T465	molecularweight 25980 25993	5000 Daltons.
+T467	nanoparticle 26032 26043	pegvisomant
+T469	molecularweight 26067 26069	42
+T471	molecularweight 26070 26073	000
+T473	molecularweight 26075 26077	47
+T475	molecularweight 26078 26081	000
+T477	molecularweight 26083 26089	and 52
+T479	molecularweight 26090 26102	000 Daltons.
+T481	nanoparticle 26155 26166	pegvisomant
+T483	surfacecoating 26176 26188	PEG polymers
+T485	nanoparticle 26251 26262	Pegvisomant
+T487	tradename 26523 26531	Somavert
+T489	surfacecoating 26742 26745	PEG
+T491	nanoparticle 26891 26902	pegvisomant
+T493	nanoparticle 26935 26946	Pegvisomant
+T495	tradename 27101 27109	SOMAVERT
+T497	routeofadministration 27188 27200	subcutaneous
+T499	tradename 27275 27283	SOMAVERT
+T501	nanoparticle 27357 27368	pegvisomant
+T503	inactiveingredient 27470 27477	glycine
+T505	inactiveingredient 27490 27498	mannitol
+T507	inactiveingredient 27511 27545	sodium phosphate dibasic anhydrous
+T509	inactiveingredient 27562 27601	sodium phosphate monobasic monohydrate.
+T511	tradename 27604 27612	SOMAVERT
+T513	nanoparticle 27964 27975	Pegvisomant
+T515	nanoparticle 28408 28419	Pegvisomant
+T517	nanoparticle 28545 28556	Pegvisomant
+T519	routeofadministration 28722 28734	subcutaneous
+T521	nanoparticle 28762 28773	pegvisomant
+T523	tmax 28822 28836	33 to 77 hours
+T525	dose 28895 28900	20-mg
+T527	routeofadministration 28901 28913	subcutaneous
+T529	dose 28942 28947	10-mg
+T531	routeofadministration 28948 28959	intravenous
+T533	nanoparticle 29025 29036	pegvisomant
+T535	volumeofdistribution 29040 29043	7 L
+T537	nanoparticle 29092 29103	pegvisomant
+T539	routeofadministration 29166 29178	subcutaneous
+T541	nanoparticle 29221 29232	pegvisomant
+T543	nanoparticle 29301 29312	pegvisomant
+T545	frequency 29359 29364	daily
+T547	dose 29374 29376	10
+T549	dose 29378 29380	15
+T551	dose 29382 29391	and 20 mg
+T553	cmax 29397 29407	6600 1330
+T555	cmax 29409 29411	16
+T557	cmax 29412 29421	000 2200
+T559	cmax 29423 29429	and 27
+T561	cmax 29430 29444	000 3100 ng/mL
+T563	nanoparticle 29494 29505	pegvisomant
+T565	surfacecoating 29541 29560	polyethylene glycol
+T567	nanoparticle 29623 29634	pegvisomant
+T569	nanoparticle 29747 29758	pegvisomant
+T571	clearance 29814 29827	36 to 28 mL/h
+T573	routeofadministration 29832 29844	subcutaneous
+T575	dose 29864 29875	10 to 20 mg
+T577	frequency 29875 29879	/day
+T579	nanoparticle 29909 29920	pegvisomant
+T581	nanoparticle 29962 29973	Pegvisomant
+T583	plasmahalflife 30038 30052	74 - 172 hours
+T585	nanoparticle 30198 30209	pegvisomant
+T587	nanoparticle 30336 30347	pegvisomant
+T589	nanoparticle 30760 30771	pegvisomant
+T591	nanoparticle 30839 30850	pegvisomant
+T593	nanoparticle 31006 31017	Pegvisomant
+T595	routeofadministration 31035 31049	subcutaneously
+T597	frequency 31058 31063	daily
+T599	dose 31088 31089	2
+T601	dose 31091 31105	8 and 20 mg/kg
+T603	dose 31140 31145	20 mg
+T605	nanoparticle 31205 31216	pegvisomant
+T607	dose 31220 31234	8 and 20 mg/kg
+T609	routeofadministration 31524 31536	subcutaneous
+T611	nanoparticle 31563 31574	Pegvisomant
+T613	nanoparticle 31720 31731	Pegvisomant
+T615	routeofadministration 31822 31834	subcutaneous
+T617	dose 31847 31856	10 mg/kg/
+T619	frequency 31856 31859	day
+T621	indication 32015 32025	acromegaly
+T623	tradename 32120 32129	SOMAVERT.
+T625	indication 32189 32199	acromegaly
+T627	dose 32927 32932	10 mg
+T629	frequency 32932 32936	/day
+T631	dose 32945 32950	15 mg
+T633	frequency 32950 32954	/day
+T635	dose 32967 32972	20 mg
+T637	frequency 32972 32976	/day
+T639	tradename 32987 32995	SOMAVERT
+T641	routeofadministration 32996 33015	subcutaneouslyIGF-I
+T643	tradename 33154 33162	SOMAVERT
+T645	tradename 33400 33408	SOMAVERT
+T647	dose 33409 33414	10 mg
+T649	frequency 33414 33418	/day
+T651	dose 33425 33430	15 mg
+T653	frequency 33430 33434	/day
+T655	dose 33441 33446	20 mg
+T657	frequency 33446 33450	/day
+T659	tradename 33620 33628	SOMAVERT
+T661	tradename 33950 33958	SOMAVERT
+T663	tradename 34218 34226	SOMAVERT
+T665	indication 34347 34358	acromegaly.
+T667	indication 34407 34417	acromegaly
+T669	indication 34633 34643	acromegaly
+T671	indication 34980 34990	Acromegaly
+T673	tradename 35001 35009	SOMAVERT
+T675	dose 35016 35022	10 mg/
+T677	frequency 35022 35025	day
+T679	dose 35031 35037	15 mg/
+T681	frequency 35037 35040	day
+T683	dose 35050 35056	20 mg/
+T685	frequency 35056 35059	day
+T687	indication 35161 35171	acromegaly
+T689	nanoparticle 35615 35626	pegvisomant
+T691	tradename 35678 35687	SOMAVERT.
+T693	tradename 35773 35781	SOMAVERT
+T695	dose 35782 35788	20 mg/
+T697	frequency 35788 35792	day.
+T699	indication 35936 35946	acromegaly
+T701	tradename 35976 35984	SOMAVERT
+T703	tradename 36181 36189	SOMAVERT
+T705	adversereaction 36569 36578	headaches
+T707	adversereaction 36580 36609	elevated liver function tests
+T709	adversereaction 36611 36628	pancreatic cancer
+T711	adversereaction 36634 36646	weight gain)
+T713	tradename 36823 36831	SOMAVERT
+T715	nanoparticle 36833 36845	pegvisomant)
+T717	tradename 36914 36922	SOMAVERT
+T719	nanoparticle 36924 36936	pegvisomant)
+T721	tradename 37200 37208	SOMAVERT
+T723	tradename 37528 37537	SOMAVERT:
+T725	tradename 37550 37558	SOMAVERT
+T727	tradename 37583 37591	SOMAVERT
+T729	tradename 37712 37720	SOMAVERT
+T731	tradename 37742 37750	SOMAVERT
+T733	tradename 37803 37811	SOMAVERT
+T735	tradename 37980 37988	SOMAVERT
+T737	tradename 38402 38411	SOMAVERT.
+T739	indication 38568 38578	acromegaly
+T741	tradename 38938 38947	SOMAVERT.
+T743	tradename 38992 39000	SOMAVERT
+T745	tradename 39072 39080	SOMAVERT
+T747	tradename 39612 39620	SOMAVERT
+T749	tradename 39740 39748	SOMAVERT
+T751	nanoparticle 39763 39774	pegvisomant
+T753	tradename 39798 39807	SOMAVERT?
+T755	tradename 39809 39817	SOMAVERT
+T757	indication 39900 39911	acromegaly)
+T759	tradename 39914 39922	SOMAVERT
+T761	tradename 40055 40063	SOMAVERT
+T763	tradename 40155 40164	SOMAVERT?
+T765	tradename 40181 40189	SOMAVERT
+T767	nanoparticle 40246 40257	pegvisomant
+T769	tradename 40287 40296	SOMAVERT.
+T771	tradename 40310 40318	SOMAVERT
+T773	nanoparticle 40342 40353	pegvisomant
+T775	tradename 40383 40392	SOMAVERT.
+T777	tradename 40460 40469	SOMAVERT.
+T779	tradename 40578 40586	SOMAVERT
+T781	tradename 40681 40690	SOMAVERT.
+T783	tradename 40753 40761	SOMAVERT
+T785	tradename 40858 40866	SOMAVERT
+T787	tradename 41039 41047	SOMAVERT
+T789	tradename 41124 41132	SOMAVERT
+T791	tradename 41327 41335	SOMAVERT
+T793	tradename 41627 41636	SOMAVERT?
+T795	tradename 41750 41759	SOMAVERT.
+T797	tradename 41911 41920	SOMAVERT.
+T799	tradename 41978 41987	SOMAVERT.
+T801	tradename 41989 41997	SOMAVERT
+T803	frequency 42007 42022	1 time each day
+T805	routeofadministration 42056 42069	subcutaneous)
+T807	tradename 42253 42261	SOMAVERT
+T809	tradename 42377 42386	SOMAVERT.
+T811	tradename 42409 42417	SOMAVERT
+T813	tradename 42486 42494	SOMAVERT
+T815	tradename 42688 42697	SOMAVERT?
+T817	tradename 42699 42707	SOMAVERT
+T819	tradename 42870 42879	SOMAVERT.
+T821	tradename 42914 42922	SOMAVERT
+T823	tradename 43637 43645	SOMAVERT
+T825	tradename 43895 43904	SOMAVERT.
+T827	tradename 44206 44215	SOMAVERT?
+T829	tradename 44236 44244	SOMAVERT
+T831	tradename 44275 44283	SOMAVERT
+T833	tradename 44349 44358	SOMAVERT.
+T835	tradename 44378 44386	SOMAVERT
+T837	tradename 44422 44430	SOMAVERT
+T839	tradename 44494 44502	SOMAVERT
+T841	tradename 44591 44599	SOMAVERT
+T843	tradename 44665 44673	SOMAVERT
+T845	tradename 44700 44708	SOMAVERT
+T847	tradename 44721 44729	SOMAVERT
+T849	tradename 44835 44844	SOMAVERT.
+T851	tradename 44964 44972	SOMAVERT
+T853	tradename 45035 45043	SOMAVERT
+T855	tradename 45206 45215	SOMAVERT.
+T857	tradename 45365 45373	SOMAVERT
+T859	tradename 45516 45525	SOMAVERT?
+T861	nanoparticle 45546 45557	pegvisomant
+T863	surfacecoating 45569 45588	polyethylene glycol
+T865	inactiveingredient 45612 45619	glycine
+T867	inactiveingredient 45621 45629	mannitol
+T869	inactiveingredient 45631 45665	sodium phosphate dibasic anhydrous
+T871	inactiveingredient 45671 45709	sodium phosphate monobasic monohydrate
+T873	tradename 45733 45741	SOMAVERT
+T875	nanoparticle 45757 45768	pegvisomant
+T877	tradename 45792 45800	SOMAVERT
+T879	routeofadministration 45833 45846	subcutaneous)
+T881	tradename 45867 45875	SOMAVERT
+T883	tradename 46026 46035	SOMAVERT.
+T885	tradename 46064 46072	SOMAVERT
+T887	tradename 46108 46116	SOMAVERT
+T889	tradename 46270 46278	SOMAVERT
+T891	tradename 46342 46350	SOMAVERT
+T893	tradename 46939 46947	SOMAVERT
+T895	tradename 46962 46970	SOMAVERT
+T897	tradename 47018 47026	SOMAVERT
+T899	tradename 47099 47107	SOMAVERT
+T901	tradename 47217 47225	SOMAVERT
+T903	tradename 47255 47263	SOMAVERT
+T905	tradename 47334 47342	SOMAVERT
+T907	tradename 47411 47419	SOMAVERT
+T909	tradename 47440 47448	SOMAVERT
+T911	tradename 49540 49549	SOMAVERT.
+T913	tradename 49668 49676	SOMAVERT
+T915	tradename 50186 50194	SOMAVERT
+T917	tradename 50749 50757	SOMAVERT
+T919	tradename 50919 50928	SOMAVERT.
+T921	tradename 51000 51008	SOMAVERT
+T923	tradename 51079 51087	SOMAVERT
+T925	tradename 52418 52426	SOMAVERT
+T927	tradename 52688 52696	SOMAVERT
+T929	tradename 52812 52820	SOMAVERT
+T931	tradename 53111 53119	SOMAVERT
+T933	tradename 53146 53154	SOMAVERT
+T935	routeofadministration 53183 53196	subcutaneous)
+T937	tradename 53567 53576	SOMAVERT.
+T939	tradename 53726 53734	SOMAVERT
+T941	tradename 53800 53808	SOMAVERT

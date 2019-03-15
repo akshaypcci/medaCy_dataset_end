@@ -1,0 +1,1371 @@
+T1	tradename 112 119	PEGASYS
+T3	tradename 181 189	PEGASYS.
+T5	tradename 192 199	PEGASYS
+T7	nanoparticle 201 223	peginterferon alfa-2a)
+T9	routeofadministration 239 251	subcutaneous
+T11	fdaapprovaldate 279 283	2002
+T13	adversereaction 458 474	neuropsychiatric
+T15	adversereaction 476 486	autoimmune
+T17	adversereaction 488 496	ischemic
+T19	adversereaction 502 523	infectious disorders.
+T21	co-administereddrug 835 844	Ribavirin
+T23	tradename 935 942	PEGASYS
+T25	indication 987 1012	Chronic Hepatitis C (CHC)
+T27	tradename 1172 1179	PEGASYS
+T29	indication 1210 1213	CHC
+T31	indication 1350 1403	HBeAg positive and HBeAg negative chronic hepatitis B
+T33	tradename 1539 1546	PEGASYS
+T35	routeofadministration 1566 1578	subcutaneous
+T37	indication 1617 1620	CHC
+T39	indication 1624 1649	chronic hepatitis B (CHB)
+T41	tradename 1651 1658	PEGASYS
+T43	dose 1671 1678	180 mcg
+T45	frequency 1679 1687	per week
+T47	indication 1853 1856	CHC
+T49	tradename 1858 1865	PEGASYS
+T51	dose 1878 1893	180 mcg/1.73 m2
+T53	frequency 1900 1908	per week
+T55	co-administereddrug 1930 1939	ribavirin
+T57	tradename 2819 2826	Pegasys
+T59	co-administereddrug 2852 2861	Ribavirin
+T61	co-administereddrug 2988 2997	Ribavirin
+T63	tradename 3174 3181	PEGASYS
+T65	adversereaction 3364 3390	Neuropsychiatric reactions
+T67	adversereaction 3398 3422	Cardiovascular disorders
+T69	adversereaction 3430 3453	Bone marrow suppression
+T71	adversereaction 3461 3495	Autoimmune and endocrine disorders
+T73	adversereaction 3526 3540	hyperglycemia)
+T75	adversereaction 3553 3577	Ophthalmologic disorders
+T77	adversereaction 3585 3610	Cerebrovascular disorders
+T79	adversereaction 3618 3663	Hepatic decompensation in cirrhotic patients.
+T81	adversereaction 3677 3719	 of hepatitis during hepatitis B treatment
+T83	adversereaction 3727 3746	Pulmonary disorders
+T85	adversereaction 3755 3776	Infections (bacterial
+T87	adversereaction 3778 3783	viral
+T89	adversereaction 3785 3792	fungal)
+T91	adversereaction 3801 3808	Colitis
+T93	adversereaction 3813 3825	pancreatitis
+T95	adversereaction 3840 3856	Hypersensitivity
+T97	adversereaction 3861 3883	serious skin reactions
+T99	adversereaction 3894 3918	Stevens-Johnson syndrome
+T101	adversereaction 3927 3944	Growth impairment
+T103	adversereaction 4000 4021	Peripheral neuropathy
+T105	co-administereddrug 4052 4063	telbivudine
+T107	adversereaction 4159 4175	fatigue/asthenia
+T109	adversereaction 4177 4184	pyrexia
+T111	adversereaction 4186 4193	myalgia
+T113	adversereaction 4199 4208	headache.
+T115	company 4364 4373	Genentech
+T117	co-administereddrug 4576 4586	Methadone:
+T119	co-administereddrug 4621 4630	methadone
+T121	tradename 4736 4743	PEGASYS
+T123	co-administereddrug 4747 4756	ribavirin
+T125	co-administereddrug 4798 4809	Zidovudine:
+T127	tradename 4863 4870	PEGASYS
+T129	co-administereddrug 4878 4888	ribavirin(
+T131	adversereaction 5060 5076	Neuropsychiatric
+T133	adversereaction 5078 5085	cardiac
+T135	adversereaction 5091 5128	systemic (flu-like) adverse reactions
+T137	tradename 5368 5375	PEGASYS
+T139	indication 5470 5490	Chronic Hepatitis B:
+T141	indication 5782 5801	Chronic Hepatitis C
+T143	indication 5806 5825	Chronic Hepatitis B
+T145	indication 5901 5904	CHC
+T147	indication 5934 5937	CHC
+T149	indication 5943 5962	Chronic Hepatitis B
+T151	co-administereddrug 6127 6136	Ribavirin
+T153	adversereaction 6142 6158	Neuropsychiatric
+T155	adversereaction 6164 6188	Cardiovascular Disorders
+T157	adversereaction 6194 6217	Bone Marrow Suppression
+T159	adversereaction 6223 6243	Autoimmune Disorders
+T161	adversereaction 6249 6268	Endocrine Disorders
+T163	adversereaction 6274 6298	Ophthalmologic Disorders
+T165	adversereaction 6304 6329	Cerebrovascular Disorders
+T167	adversereaction 6335 6350	Hepatic Failure
+T169	adversereaction 6355 6378	Hepatitis Exacerbations
+T171	adversereaction 6385 6404	Pulmonary Disorders
+T173	adversereaction 6411 6421	Infections
+T175	adversereaction 6428 6435	Colitis
+T177	adversereaction 6442 6454	Pancreatitis
+T179	adversereaction 6461 6477	Hypersensitivity
+T181	adversereaction 6484 6500	Impact on Growth
+T183	adversereaction 6529 6550	Peripheral Neuropathy
+T185	co-administereddrug 6745 6757	Theophylline
+T187	co-administereddrug 6763 6772	Methadone
+T189	indication 6988 7007	Chronic Hepatitis B
+T191	indication 7270 7289	Chronic Hepatitis C
+T193	tradename 7311 7319	PEGASYS/
+T195	co-administereddrug 7319 7326	COPEGUS
+T197	indication 7352 7371	Chronic Hepatitis C
+T199	indication 7398 7402	CHC/
+T201	tradename 7418 7425	PEGASYS
+T203	tradename 7442 7450	PEGASYS/
+T205	co-administereddrug 7450 7457	COPEGUS
+T207	indication 7486 7505	Chronic Hepatitis C
+T209	tradename 7526 7533	PEGASYS
+T211	indication 7551 7570	Chronic Hepatitis B
+T213	tradename 7588 7595	PEGASYS
+T215	tradename 7923 7930	PEGASYS
+T217	nanoparticle 7932 7954	peginterferon alfa-2a)
+T219	adversereaction 8005 8021	neuropsychiatric
+T221	adversereaction 8023 8033	autoimmune
+T223	adversereaction 8035 8043	ischemic
+T225	adversereaction 8049 8070	infectious disorders.
+T227	tradename 8343 8350	PEGASYS
+T229	indication 8514 8533	Chronic Hepatitis C
+T231	tradename 8534 8541	PEGASYS
+T233	indication 8674 8699	chronic hepatitis C (CHC)
+T235	tradename 8841 8848	PEGASYS
+T237	tradename 8890 8897	PEGASYS
+T239	co-administereddrug 8918 8927	ribavirin
+T241	indication 9007 9010	CHC
+T243	tradename 9042 9049	PEGASYS
+T245	indication 9115 9118	CHC
+T247	tradename 9260 9267	PEGASYS
+T249	co-administereddrug 9297 9306	ribavirin
+T251	indication 9396 9399	CHC
+T253	tradename 9456 9463	PEGASYS
+T255	indication 9514 9517	CHC
+T257	indication 9606 9631	Chronic Hepatitis B (CHB)
+T259	tradename 9632 9639	PEGASYS
+T261	indication 9694 9747	HBeAg-positive and HBeAg-negative chronic hepatitis B
+T263	tradename 9912 9919	PEGASYS
+T265	routeofadministration 9923 9935	subcutaneous
+T267	frequency 9946 9957	once weekly
+T269	indication 10025 10050	chronic hepatitis C (CHC)
+T271	indication 10151 10154	CHC
+T273	indication 10219 10244	chronic hepatitis B (CHB)
+T275	indication 10302 10305	CHC
+T277	tradename 10311 10318	PEGASYS
+T279	tradename 10537 10544	PEGASYS
+T281	indication 10595 10598	CHC
+T283	indication 10733 10736	CHC
+T285	indication 10740 10744	CHB:
+T287	tradename 11106 11113	PEGASYS
+T289	indication 11246 11265	Chronic Hepatitis C
+T291	indication 11288 11291	CHC
+T293	tradename 11372 11379	PEGASYS
+T295	indication 11425 11428	CHC
+T297	tradename 11516 11523	PEGASYS
+T299	co-administereddrug 11544 11553	ribavirin
+T301	tradename 11913 11920	PEGASYS
+T303	tradename 12012 12019	PEGASYS
+T305	tradename 12136 12143	PEGASYS
+T307	indication 12148 12151	CHC
+T309	tradename 12191 12198	PEGASYS
+T311	tradename 12206 12213	PEGASYS
+T313	dose 12240 12247	180 mcg
+T315	routeofadministration 12248 12260	subcutaneous
+T317	frequency 12291 12302	once weekly
+T319	tradename 12456 12463	PEGASYS
+T321	indication 12518 12521	CHC
+T323	tradename 12704 12711	PEGASYS
+T325	co-administereddrug 12716 12725	ribavirin
+T327	tradename 12824 12831	PEGASYS
+T329	co-administereddrug 12836 12845	ribavirin
+T331	tradename 12942 12949	PEGASYS
+T333	indication 12987 12990	CHC
+T335	tradename 13008 13015	PEGASYS
+T337	dose 13026 13033	180 mcg
+T339	routeofadministration 13038 13050	subcutaneous
+T341	frequency 13081 13106	once weekly for 48 weeks.
+T343	indication 13130 13133	CHC
+T345	tradename 13171 13178	PEGASYS
+T347	indication 13201 13204	CHC
+T349	dose 13228 13235	180 mcg
+T351	routeofadministration 13236 13250	subcutaneously
+T353	tradename 13291 13298	PEGASYS
+T355	tradename 13536 13544	PEGASYS)
+T357	tradename 13549 13556	PEGASYS
+T359	indication 13723 13726	CHC
+T361	tradename 13728 13735	PEGASYS
+T363	dose 13755 13770	180 mcg/1.73 m2
+T365	routeofadministration 13777 13791	subcutaneously
+T367	frequency 13792 13803	once weekly
+T369	dose 13826 13833	180 mcg
+T371	co-administereddrug 14230 14239	ribavirin
+T373	indication 14298 14323	Chronic Hepatitis B (CHB)
+T375	tradename 14341 14348	PEGASYS
+T377	indication 14371 14374	CHB
+T379	dose 14378 14385	180 mcg
+T381	routeofadministration 14386 14400	subcutaneously
+T383	frequency 14401 14412	once weekly
+T385	tradename 14601 14608	PEGASYS
+T387	tradename 14939 14946	PEGASYS
+T389	tradename 15067 15074	PEGASYS
+T391	dose 15127 15134	135 mcg
+T393	routeofadministration 15135 15149	subcutaneously
+T395	frequency 15150 15161	once weekly
+T397	dose 15276 15282	90 mcg
+T399	routeofadministration 15283 15297	subcutaneously
+T401	frequency 15298 15309	once weekly
+T403	dose 15386 15392	90 mcg
+T405	routeofadministration 15393 15407	subcutaneously
+T407	frequency 15408 15419	once weekly
+T409	indication 15741 15744	CHC
+T411	tradename 15822 15829	PEGASYS
+T413	dose 15851 15858	135 mcg
+T415	tradename 15933 15940	PEGASYS
+T417	tradename 16233 16240	PEGASYS
+T419	dose 16244 16251	135 mcg
+T421	tradename 16298 16305	PEGASYS
+T423	tradename 16648 16655	PEGASYS
+T425	tradename 16882 16889	PEGASYS
+T427	tradename 17387 17394	PEGASYS
+T429	dose 17415 17422	135 mcg
+T431	dose 17424 17439	135 mcg/1.73 m2
+T433	dose 17473 17479	90 mcg
+T435	frequency 17480 17491	once weekly
+T437	dose 17493 17507	90 mcg/1.73 m2
+T439	tradename 17558 17565	PEGASYS
+T441	dose 17576 17583	135 mcg
+T443	dose 17585 17600	135 mcg/1.73 m2
+T445	dose 17634 17640	90 mcg
+T447	dose 17642 17656	90 mcg/1.73 m2
+T449	frequency 17687 17698	once weekly
+T451	tradename 18011 18018	PEGASYS
+T453	tradename 18052 18059	PEGASYS
+T455	tradename 18276 18283	PEGASYS
+T457	indication 18415 18419	CHC.
+T459	tradename 18442 18449	PEGASYS
+T461	tradename 18581 18588	PEGASYS
+T463	dose 18680 18695	135 mcg/1.73 m2
+T465	dose 18833 18848	135 mcg/1.73 m2
+T467	dose 18945 18960	135 mcg/1.73 m2
+T469	dose 19067 19081	90 mcg/1.73 m2
+T471	dose 19168 19183	135 mcg/1.73 m2
+T473	dose 19329 19343	90 mcg/1.73 m2
+T475	tradename 19760 19767	PEGASYS
+T477	tradename 20323 20330	PEGASYS
+T479	tradename 20418 20425	PEGASYS
+T481	dose 20453 20460	180 mcg
+T483	frequency 20461 20472	once weekly
+T485	dose 20532 20539	135 mcg
+T487	frequency 20540 20551	once weekly
+T489	dose 20612 20619	135 mcg
+T491	frequency 20620 20631	once weekly
+T493	tradename 20700 20707	PEGASYS
+T495	dose 20731 20737	90 mcg
+T497	frequency 20738 20749	once weekly
+T499	tradename 20830 20837	PEGASYS
+T501	routeofadministration 20924 20936	subcutaneous
+T503	routeofadministration 20962 20976	subcutaneously
+T505	tradename 20994 21001	PEGASYS
+T507	tradename 21107 21114	PEGASYS
+T509	tradename 21294 21301	PEGASYS
+T511	dose 21446 21449	180
+T513	dose 21451 21454	135
+T515	dose 21456 21465	or 90 mcg
+T517	frequency 21466 21478	once weekly)
+T519	tradename 21511 21518	PEGASYS
+T521	tradename 21671 21678	PEGASYS
+T523	tradename 21700 21707	PEGASYS
+T525	tradename 21716 21723	PEGASYS
+T527	tradename 22268 22275	PEGASYS
+T529	tradename 22472 22479	PEGASYS
+T531	tradename 22779 22786	PEGASYS
+T533	tradename 23019 23026	PEGASYS
+T535	tradename 23172 23179	PEGASYS
+T537	co-administereddrug 23207 23216	ribavirin
+T539	co-administereddrug 23462 23471	ribavirin
+T541	co-administereddrug 23696 23715	Ribavirin Ribavirin
+T543	tradename 23873 23880	PEGASYS
+T545	co-administereddrug 23885 23894	ribavirin
+T547	co-administereddrug 23916 23925	Ribavirin
+T549	co-administereddrug 24357 24366	ribavirin
+T551	adversereaction 24383 24409	Neuropsychiatric Reactions
+T553	adversereaction 24437 24463	neuropsychiatric reactions
+T555	tradename 24516 24523	PEGASYS
+T557	adversereaction 24536 24543	suicide
+T559	adversereaction 24545 24562	suicidal ideation
+T561	adversereaction 24564 24582	homicidal ideation
+T563	adversereaction 24584 24594	depression
+T565	adversereaction 24596 24621	relapse of drug addiction
+T567	adversereaction 24627 24641	drug overdose.
+T569	tradename 24728 24735	PEGASYS
+T571	adversereaction 24824 24855	Neuropsychiatric adverse events
+T573	adversereaction 24905 24924	aggressive behavior
+T575	adversereaction 24926 24935	psychoses
+T577	adversereaction 24937 24951	hallucinations
+T579	adversereaction 24953 24970	bipolar disorders
+T581	adversereaction 24976 24982	mania.
+T583	adversereaction 25388 25425	Cardiovascular Disorders Hypertension
+T585	adversereaction 25427 25455	supraventricular arrhythmias
+T587	adversereaction 25457 25467	chest pain
+T589	adversereaction 25473 25494	myocardial infarction
+T591	tradename 25539 25547	PEGASYS.
+T593	tradename 25548 25555	PEGASYS
+T595	tradename 25794 25802	PEGASYS/
+T597	co-administereddrug 25802 25811	ribavirin
+T599	co-administereddrug 25817 25826	ribavirin
+T601	adversereaction 25858 25881	Bone Marrow Suppression
+T603	tradename 25882 25889	PEGASYS
+T605	adversereaction 25947 25958	cytopenias.
+T607	co-administereddrug 25959 25968	Ribavirin
+T609	tradename 26055 26063	PEGASYS.
+T611	adversereaction 26119 26135	aplastic anemia.
+T613	co-administereddrug 26253 26262	ribavirin
+T615	tradename 26290 26298	PEGASYS/
+T617	co-administereddrug 26298 26307	ribavirin
+T619	tradename 26506 26513	PEGASYS
+T621	adversereaction 26686 26704	Severe neutropenia
+T623	adversereaction 26709 26725	thrombocytopenia
+T625	adversereaction 26829 26847	serious infections
+T627	adversereaction 26851 26859	bleeding
+T629	adversereaction 26892 26904	Pancytopenia
+T631	adversereaction 26963 26986	bone marrow suppression
+T633	nanoparticle 27093 27114	pegylated interferon/
+T635	co-administereddrug 27114 27123	ribavirin
+T637	co-administereddrug 27128 27141	azathioprine.
+T639	adversereaction 27184 27197	myelotoxicity
+T641	co-administereddrug 27295 27307	azathioprine
+T643	tradename 27373 27380	PEGASYS
+T645	co-administereddrug 27382 27391	ribavirin
+T647	co-administereddrug 27397 27409	azathioprine
+T649	adversereaction 27437 27449	pancytopenia
+T651	nanoparticle 27455 27476	pegylated interferon/
+T653	co-administereddrug 27476 27485	ribavirin
+T655	adversereaction 27550 27570	Autoimmune Disorders
+T657	adversereaction 27603 27623	autoimmune disorders
+T659	adversereaction 27634 27642	myositis
+T661	adversereaction 27644 27653	hepatitis
+T663	adversereaction 27655 27690	thrombotic thrombocytopenic purpura
+T665	adversereaction 27692 27727	idiopathic thrombocytopenic purpura
+T667	adversereaction 27729 27738	psoriasis
+T669	adversereaction 27740 27760	rheumatoid arthritis
+T671	adversereaction 27762 27784	interstitial nephritis
+T673	adversereaction 27786 27797	thyroiditis
+T675	adversereaction 27803 27831	systemic lupus erythematosus
+T677	tradename 27891 27898	PEGASYS
+T679	adversereaction 27991 28010	Endocrine Disorders
+T681	tradename 28012 28019	PEGASYS
+T683	adversereaction 28041 28055	hypothyroidism
+T685	adversereaction 28060 28090	hyperthyroidism. Hyperglycemia
+T687	adversereaction 28092 28104	hypoglycemia
+T689	adversereaction 28110 28127	diabetes mellitus
+T691	tradename 28183 28191	PEGASYS.
+T693	tradename 28300 28307	PEGASYS
+T695	tradename 28444 28451	PEGASYS
+T697	adversereaction 28466 28490	Ophthalmologic Disorders
+T699	adversereaction 28492 28518	Decrease or loss of vision
+T701	adversereaction 28520 28531	retinopathy
+T703	adversereaction 28542 28555	macular edema
+T705	adversereaction 28557 28590	retinal artery or vein thrombosis
+T707	adversereaction 28592 28611	retinal hemorrhages
+T709	adversereaction 28616 28633	cotton wool spots
+T711	adversereaction 28635 28649	optic neuritis
+T713	adversereaction 28651 28662	papilledema
+T715	adversereaction 28667 28692	serous retinal detachment
+T717	tradename 28737 28744	PEGASYS
+T719	tradename 29105 29112	PEGASYS
+T721	adversereaction 29218 29243	Cerebrovascular Disorders
+T723	adversereaction 29245 29292	Ischemic and hemorrhagic cerebrovascular events
+T725	activeingredient 29337 29358	interferon alfa-based
+T727	tradename 29380 29388	PEGASYS.
+T729	activeingredient 29623 29644	interferon alfa-based
+T731	adversereaction 29724 29739	Hepatic Failure
+T733	adversereaction 29744 29767	Hepatitis Exacerbations
+T735	indication 29768 29793	Chronic hepatitis C (CHC)
+T737	adversereaction 29836 29858	hepatic decompensation
+T739	adversereaction 29863 29868	death
+T741	tradename 29916 29924	PEGASYS.
+T743	indication 29935 29938	CHC
+T745	activeingredient 30027 30045	interferon alfa-2a
+T747	co-administereddrug 30062 30071	ribavirin
+T749	indication 30243 30247	CHC/
+T751	tradename 30705 30713	PEGASYS/
+T753	co-administereddrug 30713 30722	ribavirin
+T755	adversereaction 30838 30864	Exacerbations of hepatitis
+T757	indication 30872 30883	hepatitis B
+T759	indication 30991 31010	Chronic hepatitis B
+T761	adversereaction 31042 31085	acute exacerbations (flares) of hepatitis B
+T763	tradename 31168 31175	PEGASYS
+T765	tradename 31329 31336	PEGASYS
+T767	adversereaction 31376 31401	liver test abnormalities.
+T769	tradename 31494 31501	PEGASYS
+T771	tradename 31638 31645	PEGASYS
+T773	tradename 31732 31739	PEGASYS
+T775	adversereaction 31848 31867	Pulmonary Disorders
+T777	adversereaction 31869 31876	Dyspnea
+T779	adversereaction 31878 31899	pulmonary infiltrates
+T781	adversereaction 31901 31910	pneumonia
+T783	adversereaction 31912 31936	bronchiolitis obliterans
+T785	adversereaction 31938 31962	interstitial pneumonitis
+T787	adversereaction 31964 31986	pulmonary hypertension
+T789	adversereaction 31991 32002	sarcoidosis
+T791	adversereaction 32022 32041	respiratory failure
+T793	adversereaction 32057 32063	deaths
+T795	tradename 32097 32104	PEGASYS
+T797	adversereaction 32148 32167	respiratory failure
+T799	tradename 32215 32222	PEGASYS
+T801	adversereaction 32289 32310	pulmonary infiltrates
+T803	adversereaction 32314 32344	pulmonary function impairment.
+T805	adversereaction 32422 32432	Infections
+T807	adversereaction 32439 32444	fever
+T809	adversereaction 32570 32575	fever
+T811	adversereaction 32651 32679	severe infections (bacterial
+T813	adversereaction 32681 32686	viral
+T815	adversereaction 32688 32698	or fungal)
+T817	tradename 32781 32789	PEGASYS.
+T819	adversereaction 32934 32941	Colitis
+T821	adversereaction 32943 32986	Ulcerative and hemorrhagic/ischemic colitis
+T823	adversereaction 33080 33094	Abdominal pain
+T825	adversereaction 33096 33111	bloody diarrhea
+T827	adversereaction 33117 33122	fever
+T829	adversereaction 33157 33165	colitis.
+T831	tradename 33166 33173	PEGASYS
+T833	adversereaction 33240 33247	colitis
+T835	adversereaction 33331 33343	Pancreatitis
+T837	adversereaction 33345 33357	Pancreatitis
+T839	co-administereddrug 33417 33426	ribavirin
+T841	tradename 33438 33446	PEGASYS/
+T843	co-administereddrug 33446 33455	ribavirin
+T845	adversereaction 33511 33523	pancreatitis
+T847	tradename 33538 33546	PEGASYS/
+T849	co-administereddrug 33546 33555	ribavirin
+T851	adversereaction 33606 33619	pancreatitis.
+T853	adversereaction 33626 33642	Hypersensitivity
+T855	adversereaction 33657 33683	hypersensitivity reactions
+T857	adversereaction 33691 33700	urticaria
+T859	adversereaction 33702 33712	angioedema
+T861	adversereaction 33714 33733	bronchoconstriction
+T863	adversereaction 33739 33751	anaphylaxis)
+T865	co-administereddrug 33799 33808	ribavirin
+T867	tradename 33856 33864	PEGASYS/
+T869	co-administereddrug 33864 33873	ribavirin
+T871	adversereaction 33953 33975	Serious skin reactions
+T873	adversereaction 33986 34011	vesiculobullous eruptions
+T875	adversereaction 34042 34066	Stevens-Johnson Syndrome
+T877	adversereaction 34068 34094	erythema multiforme major)
+T879	adversereaction 34152 34174	exfoliative dermatitis
+T881	adversereaction 34176 34189	erythroderma)
+T883	tradename 34231 34238	PEGASYS
+T885	co-administereddrug 34256 34266	ribavirin.
+T887	adversereaction 34309 34330	severe skin reactions
+T889	adversereaction 34393 34409	Impact on Growth
+T891	tradename 34483 34490	PEGASYS
+T893	co-administereddrug 34496 34505	ribavirin
+T895	adversereaction 35113 35134	Peripheral Neuropathy
+T897	adversereaction 35136 35157	Peripheral neuropathy
+T899	co-administereddrug 35230 35242	telbivudine.
+T901	adversereaction 35300 35321	peripheral neuropathy
+T903	co-administereddrug 35363 35374	telbivudine
+T905	tradename 35379 35386	PEGASYS
+T907	co-administereddrug 35402 35413	telbivudine
+T909	co-administereddrug 35449 35460	telbivudine
+T911	indication 35514 35533	chronic hepatitis B
+T913	tradename 35604 35611	PEGASYS
+T915	tradename 35615 35622	PEGASYS
+T917	tradename 35928 35936	PEGASYS/
+T919	co-administereddrug 35936 35946	ribavirin.
+T921	tradename 36807 36814	PEGASYS
+T923	indication 37060 37063	CHC
+T925	indication 37611 37614	CHC
+T927	indication 37754 37757	CHC
+T929	tradename 37898 37905	PEGASYS
+T931	dose 37918 37925	180 mcg
+T933	co-administereddrug 37969 37977	COPEGUS[
+T935	tradename 38105 38112	PEGASYS
+T937	co-administereddrug 38117 38124	COPEGUS
+T939	adversereaction 38133 38143	depression
+T941	adversereaction 38145 38152	suicide
+T943	adversereaction 38154 38184	relapse of drug abuse/overdose
+T945	adversereaction 38190 38210	bacterial infections
+T947	adversereaction 38259 38290	Hepatic decompensation occurred
+T949	indication 38309 38313	CHC/
+T951	indication 38705 38716	hepatitis C
+T953	indication 38783 38786	CHC
+T955	indication 38823 38827	CHC/
+T957	tradename 38850 38857	PEGASYS
+T959	co-administereddrug 38887 38895	COPEGUS.
+T961	indication 38946 38949	CHC
+T963	indication 38960 38964	CHC/
+T965	adversereaction 38973 38992	bacterial infection
+T967	adversereaction 39000 39006	sepsis
+T969	adversereaction 39008 39021	osteomyelitis
+T971	adversereaction 39023 39035	endocarditis
+T973	adversereaction 39037 39051	pyelonephritis
+T975	adversereaction 39053 39063	pneumonia)
+T977	adversereaction 39130 39137	suicide
+T979	adversereaction 39139 39156	suicidal ideation
+T981	adversereaction 39170 39177	anxiety
+T983	adversereaction 39179 39189	drug abuse
+T985	adversereaction 39194 39207	drug overdose
+T987	adversereaction 39209 39215	angina
+T989	adversereaction 39217 39236	hepatic dysfunction
+T991	adversereaction 39238 39249	fatty liver
+T993	adversereaction 39251 39262	cholangitis
+T995	adversereaction 39264 39274	arrhythmia
+T997	adversereaction 39276 39293	diabetes mellitus
+T999	adversereaction 39295 39315	autoimmune phenomena
+T1001	adversereaction 39323 39338	hyperthyroidism
+T1003	adversereaction 39340 39354	hypothyroidism
+T1005	adversereaction 39356 39367	sarcoidosis
+T1007	adversereaction 39369 39397	systemic lupus erythematosus
+T1009	adversereaction 39399 39420	rheumatoid arthritis)
+T1011	adversereaction 39433 39443	neuropathy
+T1013	adversereaction 39445 39460	aplastic anemia
+T1015	adversereaction 39462 39474	peptic ulcer
+T1017	adversereaction 39476 39501	gastrointestinal bleeding
+T1019	adversereaction 39503 39515	pancreatitis
+T1021	adversereaction 39517 39524	colitis
+T1023	adversereaction 39526 39539	corneal ulcer
+T1025	adversereaction 39541 39559	pulmonary embolism
+T1027	adversereaction 39561 39565	coma
+T1029	adversereaction 39567 39575	myositis
+T1031	adversereaction 39577 39596	cerebral hemorrhage
+T1033	adversereaction 39598 39633	thrombotic thrombocytopenic purpura
+T1035	adversereaction 39635 39653	psychotic disorder
+T1037	adversereaction 39659 39673	hallucination.
+T1039	adversereaction 39843 39864	psychiatric reactions
+T1041	adversereaction 39876 39886	depression
+T1043	adversereaction 39888 39896	insomnia
+T1045	adversereaction 39898 39910	irritability
+T1047	adversereaction 39912 39919	anxiety
+T1049	adversereaction 39925 39942	flu-like symptoms
+T1051	adversereaction 39951 39958	fatigue
+T1053	adversereaction 39960 39967	pyrexia
+T1055	adversereaction 39969 39976	myalgia
+T1057	adversereaction 39978 39986	headache
+T1059	adversereaction 39992 39999	rigors.
+T1061	adversereaction 40029 40037	anorexia
+T1063	adversereaction 40039 40045	nausea
+T1065	adversereaction 40050 40058	vomiting
+T1067	adversereaction 40060 40068	diarrhea
+T1069	adversereaction 40070 40081	arthralgias
+T1071	adversereaction 40083 40107	injection site reactions
+T1073	adversereaction 40109 40117	alopecia
+T1075	adversereaction 40123 40132	pruritus.
+T1077	tradename 40233 40240	PEGASYS
+T1079	tradename 40257 40265	PEGASYS/
+T1081	co-administereddrug 40265 40284	COPEGUS combination
+T1083	indication 40326 40329	CHC
+T1085	tradename 40387 40394	PEGASYS
+T1087	co-administereddrug 40431 40438	COPEGUS
+T1089	indication 40468 40472	CHC/
+T1091	adversereaction 40579 40590	psychiatric
+T1093	adversereaction 40592 40609	flu-like syndrome
+T1095	adversereaction 40617 40625	lethargy
+T1097	adversereaction 40627 40634	fatigue
+T1099	adversereaction 40636 40645	headache)
+T1101	adversereaction 40722 40738	thrombocytopenia
+T1103	adversereaction 40740 40751	neutropenia
+T1105	adversereaction 40757 40764	anemia)
+T1107	indication 40796 40799	CHC
+T1109	indication 40803 40807	CHC/
+T1111	tradename 40836 40843	PEGASYS
+T1113	co-administereddrug 40851 40858	COPEGUS
+T1115	tradename 40917 40924	PEGASYS
+T1117	indication 40928 40931	CHC
+T1119	indication 40936 40940	CHC/
+T1121	adversereaction 40961 40972	neutropenia
+T1123	adversereaction 41005 41021	thrombocytopenia
+T1125	co-administereddrug 41097 41104	COPEGUS
+T1127	indication 41108 41111	CHC
+T1129	indication 41116 41120	CHC/
+T1131	adversereaction 41137 41143	anemia
+T1133	tradename 41173 41180	PEGASYS
+T1135	dose 41227 41234	1000 mg
+T1137	dose 41238 41245	1200 mg
+T1139	co-administereddrug 41246 41253	COPEGUS
+T1141	dose 41299 41305	800 mg
+T1143	co-administereddrug 41306 41313	COPEGUS
+T1145	co-administereddrug 41328 41335	COPEGUS
+T1147	dose 41382 41389	1000 mg
+T1149	dose 41393 41400	1200 mg
+T1151	co-administereddrug 41401 41408	COPEGUS
+T1153	dose 41455 41461	800 mg
+T1155	co-administereddrug 41462 41469	COPEGUS
+T1157	indication 41485 41504	Chronic hepatitis C
+T1159	tradename 41553 41560	PEGASYS
+T1161	dose 41565 41571	800 mg
+T1163	co-administereddrug 41572 41579	COPEGUS
+T1165	tradename 41718 41725	PEGASYS
+T1167	co-administereddrug 41744 41751	COPEGUS
+T1169	tradename 41859 41866	PEGASYS
+T1171	dose 41871 41878	1000 mg
+T1173	dose 41882 41889	1200 mg
+T1175	co-administereddrug 41890 41898	COPEGUS.
+T1177	indication 42078 42097	Chronic Hepatitis C
+T1179	indication 42153 42156	CHC
+T1181	indication 42191 42194	CHC
+T1183	tradename 42238 42245	PEGASYS
+T1185	dose 42246 42253	180 mcg
+T1187	dose 42286 42292	3 MIU*
+T1189	dose 42296 42304	6/3 MIU*
+T1191	tradename 42333 42340	PEGASYS
+T1193	dose 42341 42348	180 mcg
+T1195	dose 42351 42358	1000 mg
+T1197	dose 42362 42369	1200 mg
+T1199	co-administereddrug 42370 42377	COPEGUS
+T1201	dose 42400 42407	1000 mg
+T1203	dose 42411 42418	1200 mg
+T1205	adversereaction 42501 42524	Injection site reaction
+T1207	adversereaction 42538 42557	Endocrine Disorders
+T1209	adversereaction 42559 42573	Hypothyroidism
+T1211	adversereaction 42583 42600	Flu-like Symptoms
+T1213	indication 42617 42620	CHC
+T1215	indication 42655 42658	CHC
+T1217	tradename 42702 42709	PEGASYS
+T1219	dose 42710 42717	180 mcg
+T1221	dose 42749 42755	3 MIU*
+T1223	dose 42759 42767	6/3 MIU*
+T1225	tradename 42795 42802	PEGASYS
+T1227	dose 42803 42810	180 mcg
+T1229	dose 42813 42820	1000 mg
+T1231	dose 42824 42831	1200 mg
+T1233	co-administereddrug 42832 42839	COPEGUS
+T1235	dose 42862 42869	1000 mg
+T1237	dose 42873 42880	1200 mg
+T1239	adversereaction 42935 42951	Fatigue/Asthenia
+T1241	adversereaction 42965 42972	Pyrexia
+T1243	adversereaction 42986 42992	Rigors
+T1245	adversereaction 43006 43010	Pain
+T1247	adversereaction 43040 43055	Nausea/Vomiting
+T1249	adversereaction 43068 43076	Diarrhea
+T1251	adversereaction 43089 43103	Abdominal pain
+T1253	adversereaction 43114 43123	Dry mouth
+T1255	adversereaction 43132 43141	Dyspepsia
+T1257	adversereaction 43166 43177	Lymphopenia
+T1259	adversereaction 43189 43195	Anemia
+T1261	adversereaction 43207 43218	Neutropenia
+T1263	adversereaction 43230 43246	Thrombocytopenia
+T1265	adversereaction 43287 43295	Anorexia
+T1267	adversereaction 43297 43312	Weight decrease
+T1269	adversereaction 43389 43396	Myalgia
+T1271	adversereaction 43410 43420	Arthralgia
+T1273	adversereaction 43434 43443	Back pain
+T1275	adversereaction 43468 43476	Headache
+T1277	adversereaction 43490 43499	Dizziness
+T1279	adversereaction 43533 43550	Memory impairment
+T1281	indication 43612 43615	CHC
+T1283	indication 43650 43653	CHC
+T1285	tradename 43697 43704	PEGASYS
+T1287	dose 43705 43712	180 mcg
+T1289	dose 43744 43750	3 MIU*
+T1291	dose 43754 43762	6/3 MIU*
+T1293	tradename 43790 43797	PEGASYS
+T1295	dose 43798 43805	180 mcg
+T1297	dose 43808 43815	1000 mg
+T1299	dose 43819 43826	1200 mg
+T1301	co-administereddrug 43827 43834	COPEGUS
+T1303	dose 43857 43864	1000 mg
+T1305	dose 43868 43875	1200 mg
+T1307	adversereaction 43942 43975	Irritability/Anxiety/ Nervousness
+T1309	adversereaction 43990 43998	Insomnia
+T1311	adversereaction 44011 44021	Depression
+T1313	adversereaction 44034 44058	Concentration impairment
+T1315	adversereaction 44070 44085	Mood alteration
+T1317	adversereaction 44134 44141	Dyspnea
+T1319	adversereaction 44153 44158	Cough
+T1321	adversereaction 44169 44187	Dyspnea exertional
+T1323	adversereaction 44235 44243	Alopecia
+T1325	adversereaction 44257 44265	Pruritus
+T1327	adversereaction 44278 44288	Dermatitis
+T1329	adversereaction 44300 44308	Dry skin
+T1331	adversereaction 44320 44324	Rash
+T1333	adversereaction 44334 44352	Sweating increased
+T1335	adversereaction 44362 44368	Eczema
+T1337	adversereaction 44396 44410	Vision blurred
+T1339	dose 44441 44476	6 million international units (MIU)
+T1341	frequency 44477 44518	three times a week for the first 12 weeks
+T1343	dose 44531 44560	3 million international units
+T1345	frequency 44561 44592	three times a week for 36 weeks
+T1347	routeofadministration 44599 44614	subcutaneously.
+T1349	tradename 44941 44948	PEGASYS
+T1351	co-administereddrug 44978 44985	COPEGUS
+T1353	tradename 45327 45334	PEGASYS
+T1355	co-administereddrug 45339 45346	COPEGUS
+T1357	adversereaction 45352 45374	influenza-like illness
+T1359	adversereaction 45382 45415	upper respiratory tract infection
+T1361	adversereaction 45423 45431	headache
+T1363	adversereaction 45439 45464	gastrointestinal disorder
+T1365	adversereaction 45472 45485	skin disorder
+T1367	adversereaction 45497 45520	injection-site reaction
+T1369	tradename 45565 45572	PEGASYS
+T1371	co-administereddrug 45577 45584	COPEGUS
+T1373	adversereaction 45649 45659	depression
+T1375	adversereaction 45661 45692	psychiatric evaluation abnormal
+T1377	adversereaction 45694 45713	transient blindness
+T1379	adversereaction 45715 45731	retinal exudates
+T1381	adversereaction 45733 45746	hyperglycemia
+T1383	adversereaction 45748 45772	type 1 diabetes mellitus
+T1385	adversereaction 45778 45785	anemia)
+T1387	tradename 45928 45935	PEGASYS
+T1389	co-administereddrug 45941 45948	COPEGUS
+T1391	adversereaction 45976 45989	hyperglycemia
+T1393	adversereaction 45994 46010	cholecystectomy)
+T1395	tradename 46198 46205	PEGASYS
+T1397	dose 46206 46220	180 mcg/1.73 m
+T1399	co-administereddrug 46229 46236	COPEGUS
+T1401	dose 46237 46245	15 mg/kg
+T1403	tradename 46254 46261	PEGASYS
+T1405	dose 46262 46276	180 mcg/1.73 m
+T1407	adversereaction 46361 46383	Influenza like illness
+T1409	adversereaction 46390 46413	Injection site reaction
+T1411	adversereaction 46420 46427	Fatigue
+T1413	adversereaction 46434 46446	Irritability
+T1415	adversereaction 46481 46506	Gastrointestinal disorder
+T1417	adversereaction 46539 46547	Headache
+T1419	adversereaction 46594 46598	Rash
+T1421	adversereaction 46605 46613	Pruritus
+T1423	adversereaction 46675 46695	Musculoskeletal pain
+T1425	adversereaction 46725 46733	Insomnia
+T1427	adversereaction 46775 46793	Decreased appetite
+T1429	tradename 46977 46984	PEGASYS
+T1431	adversereaction 47605 47622	Growth inhibition
+T1433	tradename 47717 47724	PEGASYS
+T1435	co-administereddrug 47730 47739	ribavirin
+T1437	indication 48997 49000	CHC
+T1439	tradename 49096 49104	PEGASYS/
+T1441	co-administereddrug 49104 49111	COPEGUS
+T1443	adversereaction 49268 49279	neutropenia
+T1445	adversereaction 49287 49293	anemia
+T1447	adversereaction 49301 49317	thrombocytopenia
+T1449	adversereaction 49324 49339	weight decrease
+T1451	adversereaction 49351 49366	mood alteration
+T1453	indication 49374 49393	Chronic Hepatitis B
+T1455	tradename 49476 49483	PEGASYS
+T1457	indication 49487 49506	chronic hepatitis B
+T1459	indication 49535 49538	CHC
+T1461	tradename 49539 49546	PEGASYS
+T1463	adversereaction 49575 49601	exacerbations of hepatitis
+T1465	tradename 49655 49662	PEGASYS
+T1467	indication 49687 49698	hepatitis B
+T1469	indication 49888 49899	hepatitis B
+T1471	adversereaction 49913 49923	infections
+T1473	adversereaction 49925 49931	sepsis
+T1475	adversereaction 49933 49945	appendicitis
+T1477	adversereaction 49947 49959	tuberculosis
+T1479	adversereaction 49961 49971	influenza)
+T1481	adversereaction 49973 49991	hepatitis B flares
+T1483	adversereaction 49997 50033	thrombotic thrombocytopenic purpura.
+T1485	adversereaction 50067 50085	anaphylactic shock
+T1487	tradename 50190 50198	PEGASYS.
+T1489	tradename 50252 50259	PEGASYS
+T1491	adversereaction 50302 50309	pyrexia
+T1493	adversereaction 50324 50332	headache
+T1495	adversereaction 50347 50354	fatigue
+T1497	adversereaction 50370 50377	myalgia
+T1499	adversereaction 50392 50400	alopecia
+T1501	adversereaction 50419 50427	anorexia
+T1503	indication 50457 50468	hepatitis B
+T1505	tradename 50491 50498	PEGASYS
+T1507	tradename 50552 50559	PEGASYS
+T1509	tradename 50633 50640	PEGASYS
+T1511	adversereaction 50692 50703	neutropenia
+T1513	adversereaction 50711 50727	thrombocytopenia
+T1515	adversereaction 50739 50752	ALT elevation
+T1517	indication 50838 50849	hepatitis B
+T1519	tradename 50918 50925	PEGASYS
+T1521	indication 50938 50941	CHC
+T1523	indication 50970 50981	hepatitis C
+T1525	tradename 51084 51091	PEGASYS
+T1527	co-administereddrug 51128 51136	COPEGUS.
+T1529	adversereaction 51173 51184	neutropenia
+T1531	indication 51233 51236	CHC
+T1533	indication 51257 51261	CHC/
+T1535	tradename 51284 51291	PEGASYS
+T1537	co-administereddrug 51328 51336	COPEGUS.
+T1539	tradename 51353 51360	PEGASYS
+T1541	adversereaction 51370 51381	neutropenia
+T1543	tradename 51420 51427	PEGASYS
+T1545	tradename 51470 51478	PEGASYS/
+T1547	co-administereddrug 51478 51485	COPEGUS
+T1549	indication 51515 51519	CHC/
+T1551	adversereaction 51583 51595	neutropenia.
+T1553	indication 51625 51628	CHC
+T1555	indication 51654 51658	CHC/
+T1557	tradename 51695 51702	PEGASYS
+T1559	tradename 51978 51985	PEGASYS
+T1561	co-administereddrug 51991 52010	COPEGUS combination
+T1563	indication 52079 52082	CHC
+T1565	indication 52094 52098	CHC/
+T1567	indication 52145 52148	CHC
+T1569	indication 52170 52174	CHC/
+T1571	indication 52187 52198	hepatitis C
+T1573	adversereaction 52208 52219	lymphopenia
+T1575	tradename 52292 52299	PEGASYS
+T1577	co-administereddrug 52304 52311	COPEGUS
+T1579	adversereaction 52326 52337	lymphopenia
+T1581	tradename 52448 52455	PEGASYS
+T1583	co-administereddrug 52460 52467	COPEGUS
+T1585	indication 52599 52602	CHC
+T1587	tradename 52790 52797	PEGASYS
+T1589	co-administereddrug 52803 52810	COPEGUS
+T1591	indication 53011 53022	hepatitis C
+T1593	indication 53068 53071	CHC
+T1595	indication 53092 53096	CHC/
+T1597	tradename 53122 53129	PEGASYS
+T1599	indication 53211 53214	CHC
+T1601	indication 53235 53239	CHC/
+T1603	co-administereddrug 53287 53294	COPEGUS
+T1605	adversereaction 53354 53370	thrombocytopenia
+T1607	indication 53422 53425	CHC
+T1609	indication 53436 53440	CHC/
+T1611	indication 53567 53578	hepatitis C
+T1613	adversereaction 53781 53787	anemia
+T1615	indication 53894 53897	CHC
+T1617	indication 53917 53921	CHC/
+T1619	tradename 53944 53951	PEGASYS
+T1621	adversereaction 53987 53993	anemia
+T1623	co-administereddrug 53997 54004	COPEGUS
+T1625	indication 54056 54059	CHC
+T1627	indication 54080 54084	CHC/
+T1629	tradename 54327 54334	PEGASYS
+T1631	co-administereddrug 54364 54372	COPEGUS.
+T1633	indication 54453 54456	CHC
+T1635	indication 54546 54549	CHC
+T1637	tradename 54712 54719	PEGASYS
+T1639	co-administereddrug 54749 54757	COPEGUS.
+T1641	indication 54874 54893	Chronic Hepatitis C
+T1643	indication 54925 54936	hepatitis C
+T1645	adversereaction 55131 55149	hyperbilirubinemia
+T1647	adversereaction 55224 55257	Liver function test abnormalities
+T1649	adversereaction 55312 55332	autoimmune hepatitis
+T1651	indication 55430 55449	Chronic Hepatitis B
+T1653	adversereaction 55450 55474	Transient ALT elevations
+T1655	indication 55493 55504	hepatitis B
+T1657	tradename 55518 55526	PEGASYS.
+T1659	tradename 56326 56333	PEGASYS
+T1661	tradename 56360 56367	PEGASYS
+T1663	co-administereddrug 56397 56404	COPEGUS
+T1665	indication 56541 56552	hepatitis C
+T1667	tradename 56678 56685	PEGASYS
+T1669	tradename 56720 56727	PEGASYS
+T1671	co-administereddrug 56732 56739	COPEGUS
+T1673	tradename 56851 56858	PEGASYS
+T1675	tradename 57449 57456	PEGASYS
+T1677	dose 57457 57471	180 mcg/1.73 m
+T1679	co-administereddrug 57480 57487	COPEGUS
+T1681	dose 57488 57496	15 mg/kg
+T1683	tradename 57505 57512	PEGASYS
+T1685	dose 57513 57527	180 mcg/1.73 m
+T1687	tradename 57553 57560	PEGASYS
+T1689	indication 58198 58217	Chronic Hepatitis C
+T1691	tradename 58265 58272	PEGASYS
+T1693	co-administereddrug 58289 58296	COPEGUS
+T1695	activeingredient 58329 58347	interferon alfa-2a
+T1697	tradename 58425 58432	PEGASYS
+T1699	co-administereddrug 58449 58456	COPEGUS
+T1701	indication 58554 58573	Chronic Hepatitis B
+T1703	indication 58606 58617	hepatitis B
+T1705	tradename 58640 58647	PEGASYS
+T1707	activeingredient 58693 58711	interferon alfa-2a
+T1709	tradename 58792 58799	PEGASYS
+T1711	tradename 59524 59531	PEGASYS
+T1713	tradename 59726 59733	PEGASYS
+T1715	adversereaction 59984 60005	pure red cell aplasia
+T1717	adversereaction 60036 60054	hearing impairment
+T1719	adversereaction 60056 60068	hearing loss
+T1721	adversereaction 60098 60117	tongue pigmentation
+T1723	adversereaction 60144 60165	Liver graft rejection
+T1725	adversereaction 60170 60191	renal graft rejection
+T1727	adversereaction 60269 60280	dehydration
+T1729	adversereaction 60322 60344	serious skin reactions
+T1731	adversereaction 60360 60368	seizures
+T1733	tradename 60571 60578	PEGASYS
+T1735	tradename 60743 60750	PEGASYS
+T1737	tradename 61013 61021	PEGASYS.
+T1739	co-administereddrug 61027 61036	Methadone
+T1741	co-administereddrug 61092 61101	methadone
+T1743	tradename 61118 61125	PEGASYS
+T1745	co-administereddrug 61355 61364	methadone
+T1747	co-administereddrug 61430 61439	methadone
+T1749	tradename 61444 61451	PEGASYS
+T1751	tradename 61473 61480	PEGASYS
+T1753	indication 61486 61505	chronic hepatitis C
+T1755	dose 61554 61561	180 mcg
+T1757	tradename 61562 61569	PEGASYS
+T1759	routeofadministration 61570 61584	subcutaneously
+T1761	co-administereddrug 61621 61630	methadone
+T1763	dose 61664 61669	95 mg
+T1765	dose 61677 61693	30 mg to 150 mg)
+T1767	tradename 61713 61721	PEGASYS.
+T1769	co-administereddrug 61727 61736	methadone
+T1771	tradename 61791 61798	PEGASYS
+T1773	co-administereddrug 61834 61843	Methadone
+T1775	tradename 61882 61889	PEGASYS
+T1777	indication 61921 61940	chronic hepatitis C
+T1779	co-administereddrug 61964 61974	methadone.
+T1781	indication 62029 62033	CHC/
+T1783	tradename 62200 62208	PEGASYS/
+T1785	co-administereddrug 62208 62217	ribavirin
+T1787	tradename 62540 62547	PEGASYS
+T1789	co-administereddrug 62549 62558	ribavirin
+T1791	co-administereddrug 62712 62722	Zidovudine
+T1793	co-administereddrug 62766 62776	zidovudine
+T1795	tradename 62797 62805	PEGASYS/
+T1797	co-administereddrug 62805 62812	COPEGUS
+T1799	adversereaction 62830 62841	neutropenia
+T1801	adversereaction 62883 62889	anemia
+T1803	co-administereddrug 62972 62982	zidovudine
+T1805	adversereaction 62984 62995	neutropenia
+T1807	adversereaction 63009 63015	anemia
+T1809	co-administereddrug 63047 63057	zidovudine
+T1811	tradename 63142 63149	PEGASYS
+T1813	co-administereddrug 63151 63160	ribavirin
+T1815	adversereaction 63252 63274	hepatic decompensation
+T1817	tradename 63406 63413	PEGASYS
+T1819	tradename 63529 63536	PEGASYS
+T1821	tradename 63550 63557	PEGASYS
+T1823	activeingredient 63621 63639	interferon alfa-2a
+T1825	tradename 63864 63871	PEGASYS
+T1827	tradename 63976 63983	PEGASYS
+T1829	tradename 64003 64010	PEGASYS
+T1831	tradename 64115 64122	PEGASYS
+T1833	co-administereddrug 64279 64288	Ribavirin
+T1835	co-administereddrug 64424 64434	ribavirin.
+T1837	co-administereddrug 64435 64444	Ribavirin
+T1839	co-administereddrug 64613 64622	ribavirin
+T1841	co-administereddrug 64635 64644	Ribavirin
+T1843	co-administereddrug 64668 64677	Ribavirin
+T1845	co-administereddrug 64839 64848	ribavirin
+T1847	tradename 65378 65386	PEGASYS.
+T1849	tradename 65439 65446	PEGASYS
+T1851	tradename 65513 65520	PEGASYS
+T1853	inactiveingredient 65530 65545	benzyl alcohol.
+T1855	inactiveingredient 65571 65585	benzyl alcohol
+T1857	tradename 65882 65889	PEGASYS
+T1859	co-administereddrug 65919 65926	COPEGUS
+T1861	adversereaction 66115 66118	CNS
+T1863	adversereaction 66120 66127	cardiac
+T1865	adversereaction 66129 66147	and systemic (e.g.
+T1867	adversereaction 66149 66166	flu-like) effects
+T1869	tradename 66247 66254	PEGASYS
+T1871	tradename 66275 66282	PEGASYS
+T1873	tradename 66577 66584	PEGASYS
+T1875	tradename 66696 66703	PEGASYS
+T1877	indication 66882 66907	Chronic hepatitis C (CHC)
+T1879	adversereaction 66950 66972	hepatic decompensation
+T1881	tradename 67030 67038	PEGASYS.
+T1883	tradename 67138 67145	PEGASYS
+T1885	indication 67296 67315	Chronic hepatitis B
+T1887	adversereaction 67337 67390	transient acute exacerbations (flares) of hepatitis B
+T1889	tradename 67473 67480	PEGASYS
+T1891	tradename 67695 67702	PEGASYS
+T1893	tradename 67796 67803	PEGASYS
+T1895	co-administereddrug 67808 67815	COPEGUS
+T1897	indication 67822 67825	CHC
+T1899	tradename 68075 68082	PEGASYS
+T1901	dose 68113 68120	135 mcg
+T1903	frequency 68121 68133	once weekly.
+T1905	tradename 68181 68188	PEGASYS
+T1907	tradename 68197 68212	PEGASYS-related
+T1909	adversereaction 68239 68246	anemia)
+T1911	tradename 68348 68355	PEGASYS
+T1913	tradename 68363 68378	PEGASYS-related
+T1915	tradename 68442 68449	PEGASYS
+T1917	tradename 68537 68544	PEGASYS
+T1919	dose 68545 68552	180 mcg
+T1921	frequency 68553 68565	once weekly.
+T1923	tradename 68566 68573	PEGASYS
+T1925	tradename 68912 68920	PEGASYS.
+T1927	tradename 69480 69487	PEGASYS
+T1929	tradename 69606 69613	PEGASYS
+T1931	tradename 69789 69797	PEGASYS.
+T1933	indication 69803 69822	Chronic Hepatitis B
+T1935	tradename 69850 69857	PEGASYS
+T1937	indication 69890 69901	Hepatitis B
+T1939	indication 69940 69951	Hepatitis C
+T1941	tradename 70186 70193	PEGASYS
+T1943	dose 70195 70202	180 mcg
+T1945	frequency 70202 70218	/day for 7 days)
+T1947	frequency 70279 70285	Weekly
+T1949	dose 70301 70308	630 mcg
+T1951	adversereaction 70387 70394	fatigue
+T1953	adversereaction 70396 70418	elevated liver enzymes
+T1955	adversereaction 70420 70431	neutropenia
+T1957	adversereaction 70437 70454	thrombocytopenia.
+T1959	tradename 70489 70497	PEGASYS.
+T1961	tradename 70571 70578	PEGASYS
+T1963	nanoparticle 70580 70601	peginterferon alfa-2a
+T1965	activeingredient 70630 70660	recombinant alfa-2a interferon
+T1967	molecularweight 70696 70698	20
+T1969	molecularweight 70699 70711	000 daltons)
+T1971	surfacecoating 70735 70776	bis-monomethoxy polyethylene glycol (PEG)
+T1973	molecularweight 70799 70801	40
+T1975	molecularweight 70802 70814	000 daltons)
+T1977	surfacecoating 70820 70823	PEG
+T1979	activeingredient 70865 70880	interferon alfa
+T1981	nanoparticle 70923 70944	Peginterferon alfa-2a
+T1983	molecularweight 70984 70986	60
+T1985	molecularweight 70987 70999	000 daltons.
+T1987	activeingredient 71000 71018	Interferon alfa-2a
+T1989	tradename 71167 71174	PEGASYS
+T1991	routeofadministration 71267 71282	subcutaneously.
+T1993	dose 71297 71305	180 mcg/
+T1995	nanoparticle 71308 71329	peginterferon alfa-2a
+T1997	activeingredient 71358 71377	interferon alfa-2a)
+T1999	inactiveingredient 71392 71403	acetic acid
+T2001	inactiveingredient 71415 71429	benzyl alcohol
+T2003	inactiveingredient 71439 71453	polysorbate 80
+T2005	inactiveingredient 71465 71490	sodium acetate trihydrate
+T2007	inactiveingredient 71506 71521	sodium chloride
+T2009	nanoparticle 71586 71607	peginterferon alfa-2a
+T2011	activeingredient 71636 71655	interferon alfa-2a)
+T2013	inactiveingredient 71670 71681	acetic acid
+T2015	inactiveingredient 71695 71709	benzyl alcohol
+T2017	inactiveingredient 71718 71732	polysorbate 80
+T2019	inactiveingredient 71745 71770	sodium acetate trihydrate
+T2021	inactiveingredient 71788 71803	sodium chloride
+T2023	dose 71855 71863	180 mcg/
+T2025	nanoparticle 71870 71890	peginteferon alfa-2a
+T2027	activeingredient 71919 71938	interferon alfa-2a)
+T2029	inactiveingredient 71954 71965	acetic acid
+T2031	inactiveingredient 71979 71993	benzyl alcohol
+T2033	inactiveingredient 72002 72016	polysorbate 80
+T2035	inactiveingredient 72029 72054	sodium acetate trihydrate
+T2037	inactiveingredient 72072 72087	sodium chloride
+T2039	nanoparticle 72154 72174	peginteferon alfa-2a
+T2041	activeingredient 72203 72222	interferon alfa-2a)
+T2043	inactiveingredient 72238 72249	acetic acid
+T2045	inactiveingredient 72263 72279	benzyl alcohol (
+T2047	inactiveingredient 72286 72300	polysorbate 80
+T2049	inactiveingredient 72313 72338	sodium acetate trihydrate
+T2051	inactiveingredient 72356 72371	sodium chloride
+T2053	dose 72535 72550	180 or 135 mcg)
+T2055	routeofadministration 72711 72723	subcutaneous
+T2057	nanoparticle 72797 72843	Pegylated recombinant human interferon alfa-2a
+T2059	tradename 72949 72956	PEGASYS
+T2061	dose 73206 73219	90 to 270 mcg
+T2063	tradename 73223 73231	PEGASYS.
+T2065	tmax 73282 73296	72 to 96 hours
+T2067	frequency 73551 73562	once weekly
+T2069	tradename 73681 73688	PEGASYS
+T2071	clearance 73693 73700	94 mL/h
+T2073	activeingredient 73754 73772	interferon alfa-2a
+T2075	routeofadministration 73820 73832	subcutaneous
+T2077	indication 73857 73876	chronic hepatitis C
+T2079	plasmahalflife 73881 73890	160 hours
+T2081	plasmahalflife 73898 73914	84 to 353 hours)
+T2083	plasmahalflife 73927 73934	5 hours
+T2085	plasmahalflife 73942 73959	3.7 to 8.5 hours)
+T2087	tradename 74011 74018	PEGASYS
+T2089	auc 74131 74151	1295 to 1663 ng-h/mL
+T2091	dose 74191 74198	180 mcg
+T2093	tradename 74199 74206	PEGASYS
+T2095	cmax 74246 74261	9 vs. 10 ng/mL)
+T2097	indication 74401 74404	CHC
+T2099	tradename 74414 74421	PEGASYS
+T2101	dose 74475 74491	180 mcg/1.73 m2)
+T2103	tradename 74511 74518	PEGASYS
+T2105	dose 74724 74731	180 mcg
+T2107	dose 75058 75065	180 mcg
+T2109	indication 75128 75131	CHC
+T2111	tradename 75392 75399	PEGASYS
+T2113	dose 75400 75407	180 mcg
+T2115	frequency 75408 75419	once weekly
+T2117	nanoparticle 75443 75464	peginterferon alfa-2a
+T2119	tradename 75607 75615	PEGASYS.
+T2121	tradename 75620 75627	PEGASYS
+T2123	nanoparticle 75829 75850	peginterferon alfa-2a
+T2125	dose 75954 75961	135 mcg
+T2127	frequency 75962 75973	once weekly
+T2129	tradename 75974 75981	PEGASYS
+T2131	nanoparticle 76074 76095	peginterferon alfa-2a
+T2133	dose 76322 76328	90 mcg
+T2135	frequency 76329 76340	once weekly
+T2137	tradename 76481 76488	PEGASYS
+T2139	dose 76519 76526	135 mcg
+T2141	frequency 76527 76539	once weekly.
+T2143	nanoparticle 76566 76587	peginterferon alfa-2a
+T2145	nanoparticle 76696 76717	peginterferon alfa-2a
+T2147	dose 76727 76734	135 mcg
+T2149	tradename 76818 76825	PEGASYS
+T2151	dose 76861 76868	135 mcg
+T2153	frequency 76869 76880	once weekly
+T2155	dose 77103 77109	90 mcg
+T2157	frequency 77110 77121	once weekly
+T2159	tradename 77280 77287	PEGASYS
+T2161	activeingredient 77308 77342	recombinant human interferon -2a
+T2163	nanoparticle 77351 77370	Peginterferon -2a
+T2165	activeingredient 77630 77646	interferon -2a
+T2167	nanoparticle 77741 77760	peginterferon -2a
+T2169	nanoparticle 77921 77934	PEG-IFN -2a
+T2171	nanoparticle 78020 78033	PEG-IFN -2a
+T2173	co-administereddrug 78038 78047	ribavirin
+T2175	co-administereddrug 78232 78241	ribavirin
+T2177	co-administereddrug 78406 78415	ribavirin
+T2179	tradename 78540 78547	PEGASYS
+T2181	tradename 78727 78734	PEGASYS
+T2183	tradename 78772 78779	PEGASYS
+T2185	tradename 79120 79127	PEGASYS
+T2187	tradename 79179 79186	PEGASYS
+T2189	routeofadministration 79312 79324	subcutaneous
+T2191	dose 79339 79350	600 mcg/kg/
+T2193	dose 79356 79368	7200 mcg/m2/
+T2195	tradename 79377 79384	PEGASYS
+T2197	frequency 79385 79414	every other day for one month
+T2199	tradename 79680 79687	PEGASYS
+T2201	frequency 79778 79793	Every other day
+T2203	dose 79806 79816	100 mcg/kg
+T2205	dose 79818 79830	1200 mcg/m2)
+T2207	tradename 79831 79838	PEGASYS
+T2209	tradename 79986 79993	PEGASYS
+T2211	activeingredient 80141 80159	interferon alfa-2a
+T2213	dose 80188 80202	25 x 106 IU/kg
+T2215	frequency 80202 80207	/day.
+T2217	tradename 80340 80347	PEGASYS
+T2219	indication 80401 80420	Chronic Hepatitis C
+T2221	tradename 80443 80451	PEGASYS/
+T2223	co-administereddrug 80451 80458	COPEGUS
+T2225	tradename 80526 80533	PEGASYS
+T2227	co-administereddrug 80554 80561	COPEGUS
+T2229	indication 80583 80594	hepatitis C
+T2231	tradename 81066 81073	PEGASYS
+T2233	dose 81074 81081	180 mcg
+T2235	routeofadministration 81082 81094	subcutaneous
+T2237	frequency 81095 81106	once weekly
+T2239	routeofadministration 81115 81119	oral
+T2241	tradename 81129 81136	PEGASYS
+T2243	dose 81137 81144	180 mcg
+T2245	frequency 81145 81156	once weekly
+T2247	co-administereddrug 81162 81169	COPEGUS
+T2249	dose 81170 81177	1000 mg
+T2251	routeofadministration 81178 81186	by mouth
+T2253	dose 81220 81227	1200 mg
+T2255	routeofadministration 81228 81236	by mouth
+T2257	dose 81314 81319	3 MIU
+T2259	routeofadministration 81320 81332	subcutaneous
+T2261	frequency 81333 81351	three times a week
+T2263	co-administereddrug 81357 81366	ribavirin
+T2265	dose 81367 81374	1000 mg
+T2267	dose 81378 81385	1200 mg
+T2269	routeofadministration 81386 81395	by mouth)
+T2271	co-administereddrug 81489 81496	COPEGUS
+T2273	tradename 81657 81664	PEGASYS
+T2275	co-administereddrug 81685 81692	COPEGUS
+T2277	tradename 81730 81737	PEGASYS
+T2279	co-administereddrug 81770 81779	ribavirin
+T2281	co-administereddrug 81993 82002	Ribavirin
+T2283	dose 82003 82010	1000 mg
+T2285	dose 82014 82021	1200 mg
+T2287	tradename 82023 82030	PEGASYS
+T2289	tradename 82042 82049	PEGASYS
+T2291	co-administereddrug 82052 82059	COPEGUS
+T2293	dose 82060 82067	1000 mg
+T2295	dose 82071 82078	1200 mg
+T2297	tradename 82287 82295	PEGASYS/
+T2299	co-administereddrug 82295 82302	COPEGUS
+T2301	co-administereddrug 82349 82359	ribavirin)
+T2303	tradename 82437 82444	PEGASYS
+T2305	dose 82445 82452	180 mcg
+T2307	routeofadministration 82453 82465	subcutaneous
+T2309	frequency 82466 82477	once weekly
+T2311	co-administereddrug 82546 82553	COPEGUS
+T2313	dose 82569 82575	800 mg
+T2315	dose 82579 82594	1000 mg/1200 mg
+T2317	tradename 83049 83056	PEGASYS
+T2319	dose 83061 83068	1000 mg
+T2321	dose 83072 83079	1200 mg
+T2323	co-administereddrug 83083 83090	COPEGUS
+T2325	dose 83254 83260	800 mg
+T2327	co-administereddrug 83261 83269	COPEGUS.
+T2329	tradename 83376 83383	PEGASYS
+T2331	dose 83388 83394	800 mg
+T2333	co-administereddrug 83398 83405	COPEGUS
+T2335	dose 83479 83486	1000 mg
+T2337	dose 83490 83497	1200 mg
+T2339	co-administereddrug 83501 83508	COPEGUS
+T2341	tradename 83730 83737	PEGASYS
+T2343	co-administereddrug 83740 83747	COPEGUS
+T2345	dose 83748 83754	800 mg
+T2347	tradename 83764 83771	PEGASYS
+T2349	co-administereddrug 83774 83781	COPEGUS
+T2351	dose 83782 83789	1000 mg
+T2353	dose 83793 83801	1200 mg*
+T2355	tradename 83811 83818	PEGASYS
+T2357	co-administereddrug 83821 83828	COPEGUS
+T2359	dose 83829 83835	800 mg
+T2361	tradename 83845 83852	PEGASYS
+T2363	co-administereddrug 83855 83862	COPEGUS
+T2365	dose 83863 83870	1000 mg
+T2367	dose 83874 83882	1200 mg*
+T2369	dose 84079 84086	1000 mg
+T2371	dose 84120 84127	1200 mg
+T2373	nanoparticle 84299 84325	pegylated interferon alpha
+T2375	indication 85487 85506	chronic hepatitis C
+T2377	co-administereddrug 85575 85582	COPEGUS
+T2379	dose 85597 85605	15 mg/kg
+T2381	frequency 85605 85609	/day
+T2383	tradename 85615 85622	PEGASYS
+T2385	dose 85623 85638	180 mcg/1.73 m2
+T2387	frequency 85659 85670	once weekly
+T2389	co-administereddrug 85948 85955	COPEGUS
+T2391	tradename 85961 85968	PEGASYS
+T2393	tradename 85972 85979	PEGASYS
+T2395	tradename 86010 86017	PEGASYS
+T2397	co-administereddrug 86076 86083	COPEGUS
+T2399	tradename 86089 86097	PEGASYS.
+T2401	co-administereddrug 86221 86228	COPEGUS
+T2403	tradename 86234 86241	PEGASYS
+T2405	tradename 86258 86265	PEGASYS
+T2407	tradename 86536 86552	PEGASYS PEGASYS
+T2409	dose 86555 86569	180 mcg/1.73 m
+T2411	dose 86580 86594	180 mcg/1.73 m
+T2413	co-administereddrug 86614 86621	COPEGUS
+T2415	dose 86622 86630	15 mg/kg
+T2417	indication 87027 87046	Chronic Hepatitis C
+T2419	tradename 87091 87098	PEGASYS
+T2421	tradename 87115 87123	PEGASYS/
+T2423	co-administereddrug 87123 87130	COPEGUS
+T2425	indication 87177 87181	CHC/
+T2427	tradename 87219 87226	PEGASYS
+T2429	dose 87227 87234	180 mcg
+T2431	routeofadministration 87235 87247	subcutaneous
+T2433	routeofadministration 87268 87272	oral
+T2435	tradename 87282 87289	PEGASYS
+T2437	dose 87290 87297	180 mcg
+T2439	frequency 87298 87309	once weekly
+T2441	co-administereddrug 87315 87322	COPEGUS
+T2443	dose 87323 87329	800 mg
+T2445	routeofadministration 87330 87338	by mouth
+T2447	frequency 87339 87344	daily
+T2449	activeingredient 87359 87378	interferon alfa-2a)
+T2451	dose 87380 87385	3 MIU
+T2453	routeofadministration 87386 87398	subcutaneous
+T2455	frequency 87399 87417	three times a week
+T2457	co-administereddrug 87423 87430	COPEGUS
+T2459	dose 87431 87437	800 mg
+T2461	routeofadministration 87438 87446	by mouth
+T2463	frequency 87447 87453	daily.
+T2465	co-administereddrug 87591 87598	COPEGUS
+T2467	tradename 87650 87657	PEGASYS
+T2469	indication 87788 87807	chronic hepatitis C
+T2471	indication 88231 88250	Chronic Hepatitis C
+T2473	co-administereddrug 88294 88301	COPEGUS
+T2475	dose 88302 88308	800 mg
+T2477	tradename 88318 88325	PEGASYS
+T2479	tradename 88345 88352	PEGASYS
+T2481	co-administereddrug 88355 88362	COPEGUS
+T2483	dose 88363 88369	800 mg
+T2485	indication 88561 88565	CHC/
+T2487	nanoparticle 88695 88721	pegylated interferon alpha
+T2489	tradename 89046 89053	PEGASYS
+T2491	co-administereddrug 89058 89067	ribavirin
+T2493	indication 89120 89123	CHC
+T2495	tradename 89179 89186	PEGASYS
+T2497	co-administereddrug 89216 89225	ribavirin
+T2499	indication 89351 89370	Chronic Hepatitis C
+T2501	tradename 89393 89400	PEGASYS
+T2503	tradename 89445 89452	PEGASYS
+T2505	indication 89474 89485	hepatitis C
+T2507	routeofadministration 89805 89817	subcutaneous
+T2509	activeingredient 90173 90192	interferon alfa-2a)
+T2511	dose 90193 90198	3 MIU
+T2513	frequency 90199 90217	three times a week
+T2515	tradename 90219 90226	PEGASYS
+T2517	dose 90227 90234	135 mcg
+T2519	frequency 90235 90246	once weekly
+T2521	tradename 90250 90257	PEGASYS
+T2523	dose 90258 90265	180 mcg
+T2525	frequency 90266 90278	once weekly.
+T2527	dose 90335 90340	6 MIU
+T2529	frequency 90341 90372	three times a week for 12 weeks
+T2531	dose 90385 90390	3 MIU
+T2533	frequency 90391 90422	three times a week for 36 weeks
+T2535	tradename 90426 90433	PEGASYS
+T2537	dose 90434 90441	180 mcg
+T2539	frequency 90442 90454	once weekly.
+T2541	dose 90504 90509	3 MIU
+T2543	frequency 90510 90528	three times a week
+T2545	tradename 90530 90537	PEGASYS
+T2547	dose 90538 90544	90 mcg
+T2549	frequency 90545 90556	once weekly
+T2551	tradename 90560 90567	PEGASYS
+T2553	dose 90568 90575	180 mcg
+T2555	frequency 90576 90591	once each week.
+T2557	tradename 90630 90637	PEGASYS
+T2559	dose 90638 90645	180 mcg
+T2561	tradename 90937 90944	PEGASYS
+T2563	dose 90945 90952	135 mcg
+T2565	dose 90988 90996	180 mcg.
+T2567	tradename 91021 91028	PEGASYS
+T2569	dose 91029 91035	90 mcg
+T2571	tradename 91061 91068	PEGASYS
+T2573	dose 91069 91076	180 mcg
+T2575	dose 91180 91185	3 MIU
+T2577	tradename 91195 91202	PEGASYS
+T2579	dose 91203 91210	180 mcg
+T2581	dose 91246 91253	6/3 MIU
+T2583	tradename 91273 91280	PEGASYS
+T2585	dose 91281 91288	180 mcg
+T2587	dose 91324 91329	3 MIU
+T2589	tradename 91338 91345	PEGASYS
+T2591	dose 91346 91353	180 mcg
+T2593	tradename 91607 91614	PEGASYS
+T2595	dose 91671 91706	6 million international units (MIU)
+T2597	frequency 91707 91748	three times a week for the first 12 weeks
+T2599	dose 91761 91784	3 million international
+T2601	dose 91786 91791	units
+T2603	frequency 91792 91823	three times a week for 36 weeks
+T2605	routeofadministration 91830 91845	subcutaneously.
+T2607	tradename 92338 92345	PEGASYS
+T2609	dose 92346 92353	180 mcg
+T2611	tradename 92517 92524	PEGASYS
+T2613	indication 92689 92708	Chronic Hepatitis B
+T2615	tradename 92727 92734	PEGASYS
+T2617	tradename 92779 92786	PEGASYS
+T2619	indication 92808 92827	chronic hepatitis B
+T2621	indication 92943 92963	chronic hepatitis B.
+T2623	tradename 92993 93000	PEGASYS
+T2625	dose 93001 93008	180 mcg
+T2627	routeofadministration 93009 93021	subcutaneous
+T2629	frequency 93022 93033	once weekly
+T2631	tradename 93035 93042	PEGASYS
+T2633	dose 93043 93050	180 mcg
+T2635	routeofadministration 93051 93063	subcutaneous
+T2637	frequency 93064 93075	once weekly
+T2639	co-administereddrug 93090 93100	lamivudine
+T2641	dose 93101 93107	100 mg
+T2643	frequency 93108 93118	once daily
+T2645	routeofadministration 93119 93127	by mouth
+T2647	co-administereddrug 93131 93141	lamivudine
+T2649	dose 93142 93148	100 mg
+T2651	frequency 93149 93159	once daily
+T2653	routeofadministration 93160 93169	by mouth.
+T2655	tradename 93303 93310	PEGASYS
+T2657	tradename 93317 93324	PEGASYS
+T2659	indication 93402 93421	chronic hepatitis B
+T2661	tradename 93842 93849	PEGASYS
+T2663	tradename 94080 94087	PEGASYS
+T2665	tradename 94117 94124	PEGASYS
+T2667	tradename 95016 95023	PEGASYS
+T2669	tradename 95113 95120	PEGASYS
+T2671	tradename 95222 95229	PEGASYS
+T2673	tradename 95290 95297	PEGASYS
+T2675	tradename 95578 95585	PEGASYS
+T2677	tradename 95711 95718	PEGASYS
+T2679	tradename 96090 96097	PEGASYS
+T2681	tradename 96178 96185	PEGASYS
+T2683	tradename 96281 96288	PEGASYS
+T2685	tradename 96349 96356	PEGASYS
+T2687	tradename 96456 96463	PEGASYS
+T2689	tradename 96561 96568	PEGASYS
+T2691	tradename 96711 96718	PEGASYS
+T2693	tradename 97578 97585	PEGASYS
+T2695	co-administereddrug 97883 97892	ribavirin
+T2697	co-administereddrug 97983 97992	Ribavirin
+T2699	co-administereddrug 98351 98360	ribavirin
+T2701	co-administereddrug 98895 98904	ribavirin
+T2703	co-administereddrug 99015 99024	Ribavirin
+T2705	tradename 99544 99551	PEGASYS
+T2707	tradename 99724 99731	PEGASYS
+T2709	indication 99936 99947	hepatitis C
+T2711	indication 100052 100063	hepatitis C
+T2713	tradename 100563 100570	PEGASYS
+T2715	tradename 101171 101179	PEGASYS.
+T2717	tradename 101342 101349	PEGASYS
+T2719	tradename 102510 102517	PEGASYS
+T2721	company 102536 102558	Hoffmann-La Roche Inc.
+T2723	company 102577 102594	Hoffmann-La Roche
+T2725	company 102596 102600	Inc.
+T2727	company 102605 102614	Genentech
+T2729	company 102616 102620	Inc.
+T2731	company 102637 102648	Roche Group
+T2733	company 102711 102724	Genentech USA
+T2735	company 102726 102730	Inc.
+T2737	company 102747 102758	Roche Group
+T2739	company 102810 102819	Genentech
+T2741	company 102821 102825	Inc.
