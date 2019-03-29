@@ -1,0 +1,766 @@
+T1	tradename 0 8	ABRAXANE
+T3	activeingredient 37 47	paclitaxel
+T5	tradename 170 178	ABRAXANE
+T7	tradename 242 262	ABRAXANE.  ABRAXANE
+T9	nanoparticle 291 315	paclitaxel protein-bound
+T11	nanoparticle 317 326	particles
+T13	corecomposition 355 368	albumin-bound
+T15	fdaapprovaldate 394 398	2005
+T17	tradename 502 510	ABRAXANE
+T19	activeingredient 787 797	PACLITAXEL
+T21	tradename 1085 1093	ABRAXANE
+T23	chemoclass 1099 1120	microtubule inhibitor
+T25	indication 1154 1178	Metastatic breast cancer
+T27	indication 1414 1459	metastatic non-small cell lung cancer (NSCLC)
+T29	indication 1603 1644	Metastatic adenocarcinoma of the pancreas
+T31	indication 1785 1810	Metastatic Breast Cancer:
+T33	tradename 1833 1841	ABRAXANE
+T35	dose 1845 1854	260 mg/m2
+T37	routeofadministration 1855 1868	intravenously
+T39	indication 1907 1934	Non-Small Cell Lung Cancer:
+T41	tradename 1957 1965	ABRAXANE
+T43	dose 1969 1978	100 mg/m2
+T45	routeofadministration 1979 1992	intravenously
+T47	tradename 2123 2132	ABRAXANE.
+T49	indication 2140 2171	Adenocarcinoma of the Pancreas:
+T51	tradename 2194 2202	ABRAXANE
+T53	dose 2206 2215	125 mg/m2
+T55	routeofadministration 2216 2229	intravenously
+T57	tradename 2373 2382	ABRAXANE.
+T59	tradename 2408 2416	ABRAXANE
+T61	tradename 2500 2508	ABRAXANE
+T63	indication 2526 2567	metastatic adenocarcinoma of the pancreas
+T65	indication 2640 2681	metastatic adenocarcinoma of the pancreas
+T67	activeingredient 3240 3250	paclitaxel
+T69	corecomposition 3265 3278	albumin-bound
+T71	tradename 3508 3517	ABRAXANE.
+T73	tradename 3599 3607	ABRAXANE
+T75	tradename 3874 3882	ABRAXANE
+T77	tradename 3926 3934	ABRAXANE
+T79	tradename 4131 4139	ABRAXANE
+T81	tradename 4212 4220	ABRAXANE
+T83	activeingredient 4387 4397	paclitaxel
+T85	tradename 4494 4502	ABRAXANE
+T87	tradename 4747 4756	ABRAXANE.
+T89	tradename 4806 4815	ABRAXANE.
+T91	indication 4954 4978	metastatic breast cancer
+T93	adversereaction 4983 4991	alopecia
+T95	adversereaction 4993 5004	neutropenia
+T97	adversereaction 5006 5024	sensory neuropathy
+T99	adversereaction 5026 5038	abnormal ECG
+T101	adversereaction 5040 5056	fatigue/asthenia
+T103	adversereaction 5058 5076	myalgia/arthralgia
+T105	adversereaction 5078 5091	AST elevation
+T107	adversereaction 5093 5123	alkaline phosphatase elevation
+T109	adversereaction 5125 5131	anemia
+T111	adversereaction 5133 5139	nausea
+T113	adversereaction 5141 5151	infections
+T115	adversereaction 5157 5166	diarrhea.
+T117	indication 5226 5231	NSCLC
+T119	adversereaction 5236 5242	anemia
+T121	adversereaction 5244 5255	neutropenia
+T123	adversereaction 5257 5273	thrombocytopenia
+T125	adversereaction 5275 5283	alopecia
+T127	adversereaction 5285 5306	peripheral neuropathy
+T129	adversereaction 5308 5314	nausea
+T131	adversereaction 5320 5328	fatigue.
+T133	tradename 5388 5396	ABRAXANE
+T135	indication 5400 5430	adenocarcinoma of the pancreas
+T137	adversereaction 5435 5446	neutropenia
+T139	adversereaction 5448 5455	fatigue
+T141	adversereaction 5457 5478	peripheral neuropathy
+T143	adversereaction 5480 5486	nausea
+T145	adversereaction 5488 5496	alopecia
+T147	adversereaction 5498 5514	peripheral edema
+T149	adversereaction 5516 5524	diarrhea
+T151	adversereaction 5526 5533	pyrexia
+T153	adversereaction 5535 5543	vomiting
+T155	adversereaction 5545 5563	decreased appetite
+T157	adversereaction 5565 5569	rash
+T159	adversereaction 5575 5587	dehydration.
+T161	company 5642 5661	Celgene Corporation
+T163	tradename 5861 5869	ABRAXANE
+T165	indication 6124 6148	Metastatic Breast Cancer
+T167	indication 6155 6181	Non-Small Cell Lung Cancer
+T169	indication 6188 6218	Adenocarcinoma of the Pancreas
+T171	indication 6255 6279	Metastatic Breast Cancer
+T173	indication 6287 6313	Non-Small Cell Lung Cancer
+T175	indication 6320 6350	Adenocarcinoma of the Pancreas
+T177	routeofadministration 6526 6537	Intravenous
+T179	corecomposition 6782 6789	Albumin
+T181	indication 6899 6923	Metastatic Breast Cancer
+T183	indication 6961 6987	Non-Small Cell Lung Cancer
+T185	indication 7024 7054	Adenocarcinoma of the Pancreas
+T187	tradename 7093 7101	ABRAXANE
+T189	activeingredient 7112 7122	Paclitaxel
+T191	indication 7596 7620	Metastatic Breast Cancer
+T193	indication 7629 7655	Non-Small Cell Lung Cancer
+T195	indication 7664 7694	Adenocarcinoma of the Pancreas
+T197	tradename 7969 7977	ABRAXANE
+T199	nanoparticle 8006 8040	paclitaxel protein-bound particles
+T201	corecomposition 8069 8082	albumin-bound
+T203	tradename 8126 8134	ABRAXANE
+T205	tradename 8454 8462	ABRAXANE
+T207	corecomposition 8572 8579	albumin
+T209	activeingredient 8588 8598	paclitaxel
+T211	activeingredient 8730 8740	PACLITAXEL
+T213	indication 8787 8811	Metastatic Breast Cancer
+T215	tradename 8813 8821	ABRAXANE
+T217	indication 9081 9107	Non-Small Cell Lung Cancer
+T219	tradename 9109 9117	ABRAXANE
+T221	indication 9183 9220	metastatic non-small cell lung cancer
+T223	indication 9338 9368	Adenocarcinoma of the Pancreas
+T225	tradename 9370 9378	ABRAXANE
+T227	indication 9438 9479	metastatic adenocarcinoma of the pancreas
+T229	indication 9550 9574	Metastatic Breast Cancer
+T231	indication 9622 9646	metastatic breast cancer
+T233	tradename 9728 9736	ABRAXANE
+T235	dose 9740 9749	260 mg/m2
+T237	routeofadministration 9763 9776	intravenously
+T239	frequency 9793 9807	every 3 weeks.
+T241	indication 9814 9840	Non-Small Cell Lung Cancer
+T243	tradename 9866 9874	ABRAXANE
+T245	dose 9878 9887	100 mg/m2
+T247	routeofadministration 9907 9918	intravenous
+T249	tradename 10060 10068	ABRAXANE
+T251	indication 10106 10136	Adenocarcinoma of the Pancreas
+T253	tradename 10162 10170	ABRAXANE
+T255	dose 10174 10183	125 mg/m2
+T257	routeofadministration 10203 10214	intravenous
+T259	tradename 10328 10336	ABRAXANE
+T261	tradename 10719 10727	ABRAXANE
+T263	indication 10745 10786	metastatic adenocarcinoma of the pancreas
+T265	tradename 10854 10862	ABRAXANE
+T267	tradename 11225 11233	ABRAXANE
+T269	indication 11241 11250	MBC NSCLC
+T271	indication 11626 11629	MBC
+T273	indication 11632 11656	Metastatic Breast Cancer
+T275	indication 11658 11663	NSCLC
+T277	indication 11666 11693	Non-Small Cell Lung Cancer.
+T279	dose 11886 11895	260 mg/m2
+T281	indication 11914 11938	metastatic breast cancer
+T283	dose 11942 11951	100 mg/m2
+T285	indication 11970 11996	non-small cell lung cancer
+T287	indication 12287 12311	Metastatic Breast Cancer
+T289	adversereaction 12337 12355	severe neutropenia
+T291	tradename 12451 12459	ABRAXANE
+T293	dose 12498 12507	220 mg/m2
+T295	tradename 12534 12546	ABRAXANE. 
+T297	adversereaction 12564 12582	severe neutropenia
+T299	adversereaction 12586 12611	severe sensory neuropathy
+T301	dose 12657 12666	180 mg/m2
+T303	adversereaction 12674 12700	Grade 3 sensory neuropathy
+T305	tradename 12809 12817	ABRAXANE
+T307	tradename 12913 12914	 
+T309	indication 12914 12940	Non-Small Cell Lung Cancer
+T311	tradename 12960 12968	ABRAXANE
+T313	tradename 13599 13607	ABRAXANE
+T315	tradename 13664 13672	ABRAXANE
+T317	adversereaction 13677 13709	Grade 3-4 peripheral neuropathy.
+T319	tradename 13718 13726	ABRAXANE
+T321	adversereaction 13779 13800	peripheral neuropathy
+T323	indication 14003 14008	NSCLC
+T325	tradename 14051 14059	ABRAXANE
+T327	tradename 14558 14561	 
+T329	indication 14561 14591	Adenocarcinoma of the Pancreas
+T331	indication 14632 14662	adenocarcinoma of the pancreas
+T333	indication 14773 14803	Adenocarcinoma of the Pancreas
+T335	tradename 14817 14825	ABRAXANE
+T337	indication 15079 15109	adenocarcinoma of the pancreas
+T339	indication 15284 15314	Adenocarcinoma of the Pancreas
+T341	tradename 15370 15378	ABRAXANE
+T343	indication 16078 16108	adenocarcinoma of the pancreas
+T345	indication 16214 16244	Adenocarcinoma of the Pancreas
+T347	tradename 16268 16276	ABRAXANE
+T349	tradename 16844 16852	ABRAXANE
+T351	activeingredient 16910 16920	paclitaxel
+T353	tradename 16972 16983	ABRAXANE. 
+T355	tradename 17020 17028	ABRAXANE
+T357	activeingredient 17189 17199	paclitaxel
+T359	tradename 17254 17262	ABRAXANE
+T361	adversereaction 17372 17385	extravasation
+T363	tradename 17519 17527	ABRAXANE
+T365	adversereaction 17582 17608	infusion-related reactions
+T367	adversereaction 17666 17692	hypersensitivity reactions
+T369	tradename 17748 17757	ABRAXANE.
+T371	tradename 17848 17860	ABRAXANE. 
+T373	tradename 17922 17930	ABRAXANE
+T375	routeofadministration 18034 18045	Intravenous
+T377	tradename 18063 18071	ABRAXANE
+T379	activeingredient 19096 19107	paclitaxel.
+T381	tradename 19611 19619	ABRAXANE
+T383	tradename 19867 19875	ABRAXANE
+T385	tradename 20132 20140	ABRAXANE
+T387	tradename 20416 20424	ABRAXANE
+T389	tradename 21066 21074	ABRAXANE
+T391	activeingredient 21401 21411	paclitaxel
+T393	corecomposition 21426 21439	albumin-bound
+T395	tradename 21512 21521	 ABRAXANE
+T397	tradename 21678 21686	ABRAXANE
+T399	adversereaction 21785 21808	Bone marrow suppression
+T401	adversereaction 21820 21832	neutropenia)
+T403	tradename 21883 21895	ABRAXANE. 
+T405	adversereaction 21916 21937	Grade 3-4 neutropenia
+T407	indication 21971 22001	metastatic breast cancer (MBC)
+T409	indication 22024 22058	non-small cell lung cancer (NSCLC)
+T411	adversereaction 22117 22130	myelotoxicity
+T413	indication 22224 22228	MBC)
+T415	indication 22256 22261	NSCLC
+T417	indication 22270 22288	pancreatic cancer)
+T419	tradename 22310 22318	ABRAXANE
+T421	tradename 22505 22513	ABRAXANE
+T423	tradename 22542 22550	ABRAXANE
+T425	indication 22597 22600	MBC
+T427	indication 22604 22610	NSCLC.
+T429	indication 22629 22632	MBC
+T431	tradename 22679 22687	ABRAXANE
+T433	indication 22813 22818	NSCLC
+T435	tradename 22938 22946	ABRAXANE
+T437	indication 23253 23283	adenocarcinoma of the pancreas
+T439	tradename 23294 23302	ABRAXANE
+T441	adversereaction 23677 23695	Sensory neuropathy
+T443	adversereaction 23788 23819	Grade 1 or 2 sensory neuropathy
+T445	adversereaction 23879 23905	Grade 3 sensory neuropathy
+T447	tradename 23925 23933	ABRAXANE
+T449	indication 23981 24005	metastatic breast cancer
+T451	indication 24050 24055	NSCLC
+T453	tradename 24137 24145	ABRAXANE
+T455	adversereaction 24191 24197	Sepsis
+T457	adversereaction 24199 24205	Sepsis
+T459	adversereaction 24249 24260	neutropenia
+T461	tradename 24274 24282	ABRAXANE
+T463	co-administereddrug 24303 24315	gemcitabine.
+T465	adversereaction 24521 24540	febrile neutropenia
+T467	tradename 24552 24560	ABRAXANE
+T469	co-administereddrug 24565 24576	gemcitabine
+T471	adversereaction 24710 24721	Pneumonitis
+T473	adversereaction 24723 24734	Pneumonitis
+T475	tradename 24811 24819	ABRAXANE
+T477	co-administereddrug 24840 24852	gemcitabine.
+T479	adversereaction 24896 24907	pneumonitis
+T481	tradename 24922 24930	ABRAXANE
+T483	co-administereddrug 24935 24946	gemcitabine
+T485	adversereaction 24978 24990	pneumonitis.
+T487	adversereaction 25061 25072	pneumonitis
+T489	tradename 25113 25121	ABRAXANE
+T491	co-administereddrug 25126 25138	gemcitabine.
+T493	adversereaction 25145 25161	Hypersensitivity
+T495	adversereaction 25190 25216	hypersensitivity reactions
+T497	adversereaction 25228 25250	anaphylactic reactions
+T499	adversereaction 25306 25331	hypersensitivity reaction
+T501	tradename 25335 25343	ABRAXANE
+T503	activeingredient 25451 25461	paclitaxel
+T505	tradename 25522 25530	ABRAXANE
+T507	tradename 25798 25806	ABRAXANE
+T509	tradename 25910 25918	ABRAXANE
+T511	indication 25955 25996	metastatic adenocarcinoma of the pancreas
+T513	corecomposition 26307 26314	Albumin
+T515	tradename 26324 26332	ABRAXANE
+T517	corecomposition 26342 26349	albumin
+T519	corecomposition 26712 26720	albumin.
+T521	tradename 26745 26753	ABRAXANE
+T523	activeingredient 26834 26844	paclitaxel
+T525	corecomposition 26859 26872	albumin-bound
+T527	tradename 27212 27221	ABRAXANE.
+T529	tradename 27487 27495	ABRAXANE
+T531	tradename 27615 27623	ABRAXANE
+T533	tradename 28024 28032	ABRAXANE
+T535	indication 28036 28060	metastatic breast cancer
+T537	adversereaction 28065 28073	alopecia
+T539	adversereaction 28075 28086	neutropenia
+T541	adversereaction 28088 28106	sensory neuropathy
+T543	adversereaction 28108 28120	abnormal ECG
+T545	adversereaction 28122 28138	fatigue/asthenia
+T547	adversereaction 28140 28158	myalgia/arthralgia
+T549	adversereaction 28160 28173	AST elevation
+T551	adversereaction 28175 28205	alkaline phosphatase elevation
+T553	adversereaction 28207 28213	anemia
+T555	adversereaction 28215 28221	nausea
+T557	adversereaction 28223 28233	infections
+T559	adversereaction 28239 28247	diarrhea
+T561	tradename 28332 28340	ABRAXANE
+T563	co-administereddrug 28361 28372	carboplatin
+T565	indication 28377 28403	non-small cell lung cancer
+T567	adversereaction 28408 28414	anemia
+T569	adversereaction 28416 28427	neutropenia
+T571	adversereaction 28429 28445	thrombocytopenia
+T573	adversereaction 28447 28455	alopecia
+T575	adversereaction 28457 28478	peripheral neuropathy
+T577	adversereaction 28480 28486	nausea
+T579	adversereaction 28492 28499	fatigue
+T581	tradename 28576 28584	ABRAXANE
+T583	co-administereddrug 28605 28616	carboplatin
+T585	indication 28621 28647	non-small cell lung cancer
+T587	adversereaction 28652 28658	anemia
+T589	adversereaction 28668 28677	pneumonia
+T591	tradename 28761 28769	ABRAXANE
+T593	adversereaction 28774 28785	neutropenia
+T595	adversereaction 28792 28808	thrombocytopenia
+T597	adversereaction 28819 28840	peripheral neuropathy
+T599	tradename 28913 28921	ABRAXANE
+T601	adversereaction 28926 28937	neutropenia
+T603	adversereaction 28945 28961	thrombocytopenia
+T605	adversereaction 28973 28979	anemia
+T607	tradename 29057 29065	ABRAXANE
+T609	adversereaction 29077 29088	neutropenia
+T611	adversereaction 29096 29112	thrombocytopenia
+T613	adversereaction 29124 29130	anemia
+T615	tradename 29176 29184	ABRAXANE
+T617	co-administereddrug 29205 29216	gemcitabine
+T619	indication 29221 29246	pancreatic adenocarcinoma
+T621	tradename 29377 29385	ABRAXANE
+T623	adversereaction 29390 29401	neutropenia
+T625	adversereaction 29403 29410	fatigue
+T627	adversereaction 29412 29433	peripheral neuropathy
+T629	adversereaction 29435 29441	nausea
+T631	adversereaction 29443 29451	alopecia
+T633	adversereaction 29453 29469	peripheral edema
+T635	adversereaction 29471 29479	diarrhea
+T637	adversereaction 29481 29488	pyrexia
+T639	adversereaction 29490 29498	vomiting
+T641	adversereaction 29500 29518	decreased appetite
+T643	adversereaction 29520 29524	rash
+T645	adversereaction 29530 29542	dehydration.
+T647	tradename 29589 29597	ABRAXANE
+T649	adversereaction 29640 29647	pyrexia
+T651	adversereaction 29654 29665	dehydration
+T653	adversereaction 29672 29681	pneumonia
+T655	adversereaction 29691 29699	vomiting
+T657	tradename 29784 29792	ABRAXANE
+T659	adversereaction 29797 29818	peripheral neuropathy
+T661	adversereaction 29825 29832	fatigue
+T663	adversereaction 29842 29858	thrombocytopenia
+T665	tradename 29932 29940	ABRAXANE
+T667	adversereaction 29945 29956	neutropenia
+T669	adversereaction 29967 29988	peripheral neuropathy
+T671	tradename 30065 30073	ABRAXANE
+T673	adversereaction 30085 30096	neutropenia
+T675	adversereaction 30104 30120	thrombocytopenia
+T677	adversereaction 30128 30135	fatigue
+T679	adversereaction 30142 30163	peripheral neuropathy
+T681	adversereaction 30171 30177	anemia
+T683	adversereaction 30187 30195	diarrhea
+T685	indication 30238 30262	Metastatic Breast Cancer
+T687	tradename 30407 30415	ABRAXANE
+T689	activeingredient 30419 30429	paclitaxel
+T691	indication 30461 30486	metastatic breast cancer.
+T693	tradename 30656 30666	ABRAXANE 
+T695	activeingredient 30697 30707	Paclitaxel
+T697	adversereaction 30760 30771	Neutropenia
+T699	adversereaction 30832 30848	Thrombocytopenia
+T701	adversereaction 30907 30913	Anemia
+T703	adversereaction 30956 30966	Infections
+T705	adversereaction 30975 30994	Febrile Neutropenia
+T707	adversereaction 31001 31019	Neutropenic Sepsis
+T709	adversereaction 31032 31040	Bleeding
+T711	indication 31134 31151	Metastatic Breast
+T713	tradename 31153 31154	 
+T715	indication 31154 31160	Cancer
+T717	tradename 31228 31236	ABRAXANE
+T719	dose 31237 31246	260 mg/m2
+T721	activeingredient 31268 31278	Paclitaxel
+T723	dose 31289 31298	175 mg/m2
+T725	tradename 31318 31319	 
+T727	adversereaction 31319 31335	Hypersensitivity
+T729	adversereaction 31337 31346	Reactionc
+T731	adversereaction 31435 31446	Bradycardia
+T733	adversereaction 31464 31475	Hypotension
+T735	adversereaction 31483 31512	Severe Cardiovascular Eventsd
+T737	adversereaction 31518 31530	Abnormal ECG
+T739	adversereaction 31602 31607	Cough
+T741	adversereaction 31615 31622	Dyspnea
+T743	adversereaction 31630 31648	Sensory Neuropathy
+T745	adversereaction 31694 31701	Myalgia
+T747	adversereaction 31704 31714	Arthralgia
+T749	adversereaction 31759 31767	Asthenia
+T751	adversereaction 31812 31833	Fluid Retention/Edema
+T753	adversereaction 31898 31904	Nausea
+T755	adversereaction 31966 31974	Vomiting
+T757	adversereaction 32028 32036	Diarrhea
+T759	adversereaction 32090 32099	Mucositis
+T761	tradename 32152 32153	 
+T763	adversereaction 32153 32161	Alopecia
+T765	adversereaction 32211 32231	Bilirubin Elevations
+T767	adversereaction 32240 32271	Alkaline Phosphatase Elevations
+T769	adversereaction 32312 32335	Injection Site Reaction
+T771	activeingredient 32445 32455	Paclitaxel
+T773	adversereaction 32547 32563	hypersensitivity
+T775	adversereaction 32571 32579	flushing
+T777	adversereaction 32581 32588	dyspnea
+T779	adversereaction 32590 32600	chest pain
+T781	adversereaction 32602 32614	hypotension)
+T783	adversereaction 32770 32781	Neutropenia
+T785	indication 32839 32863	metastatic breast cancer
+T787	dose 32991 33000	260 mg/m2
+T789	activeingredient 33039 33049	paclitaxel
+T791	dose 33073 33082	175 mg/m2
+T793	adversereaction 33085 33097	Pancytopenia
+T795	tradename 33219 33231	ABRAXANE. 
+T797	tradename 33428 33436	ABRAXANE
+T799	tradename 33563 33571	ABRAXANE
+T801	activeingredient 33626 33636	paclitaxel
+T803	corecomposition 33656 33663	albumin
+T805	tradename 34038 34046	ABRAXANE
+T807	tradename 34989 35000	ABRAXANE. 
+T809	tradename 35130 35138	ABRAXANE
+T811	tradename 35221 35229	ABRAXANE
+T813	tradename 35398 35406	ABRAXANE
+T815	tradename 35811 35819	ABRAXANE
+T817	tradename 36124 36132	ABRAXANE
+T819	tradename 36270 36278	ABRAXANE
+T821	activeingredient 36312 36322	paclitaxel
+T823	indication 36785 36811	Non-Small Cell Lung Cancer
+T825	tradename 36851 36860	ABRAXANE/
+T827	activeingredient 36897 36907	paclitaxel
+T829	indication 37040 37074	non-small cell lung cancer (NSCLC)
+T831	tradename 37125 37133	ABRAXANE
+T833	routeofadministration 37157 37168	intravenous
+T835	dose 37207 37216	100 mg/m2
+T837	activeingredient 37262 37272	Paclitaxel
+T839	routeofadministration 37306 37317	intravenous
+T841	dose 37353 37362	200 mg/m2
+T843	routeofadministration 37481 37494	intravenously
+T845	tradename 37545 37554	ABRAXANE/
+T847	activeingredient 37554 37564	paclitaxel
+T849	activeingredient 37595 37605	paclitaxel
+T851	tradename 38092 38100	ABRAXANE
+T853	activeingredient 38112 38122	paclitaxel
+T855	tradename 38346 38354	ABRAXANE
+T857	tradename 38588 38596	ABRAXANE
+T859	activeingredient 38634 38644	paclitaxel
+T861	tradename 38869 38877	ABRAXANE
+T863	dose 38879 38888	100 mg/m2
+T865	frequency 38889 38896	weekly)
+T867	activeingredient 38915 38925	Paclitaxel
+T869	dose 38937 38946	200 mg/m2
+T871	frequency 38947 38961	every 3 weeks)
+T873	tradename 39149 39158	ABRAXANE/
+T875	activeingredient 39212 39222	paclitaxel
+T877	activeingredient 39288 39298	paclitaxel
+T879	tradename 39544 39552	ABRAXANE
+T881	activeingredient 39631 39641	paclitaxel
+T883	tradename 39876 39884	ABRAXANE
+T885	dose 39886 39895	100 mg/m2
+T887	frequency 39896 39903	weekly)
+T889	activeingredient 39926 39936	Paclitaxel
+T891	dose 39948 39957	200 mg/m2
+T893	frequency 39958 39972	every 3 weeks)
+T895	tradename 40501 40509	ABRAXANE
+T897	tradename 40782 40794	ABRAXANE.  
+T899	indication 40828 40858	Adenocarcinoma of the Pancreas
+T901	tradename 40921 40929	ABRAXANE
+T903	indication 41030 41071	metastatic adenocarcinoma of the pancreas
+T905	tradename 41216 41225	ABRAXANE/
+T907	tradename 41380 41389	ABRAXANE/
+T909	tradename 41481 41489	ABRAXANE
+T911	tradename 41691 41699	ABRAXANE
+T913	tradename 41898 41907	ABRAXANE/
+T915	tradename 41924 41933	ABRAXANE(
+T917	dose 41933 41943	125 mg/m2)
+T919	tradename 42121 42130	ABRAXANE/
+T921	tradename 42238 42247	ABRAXANE/
+T923	tradename 42346 42355	ABRAXANE/
+T925	tradename 42548 42556	ABRAXANE
+T927	tradename 42774 42783	ABRAXANE/
+T929	tradename 42838 42846	ABRAXANE
+T931	dose 42848 42858	125 mg/m2)
+T933	tradename 44432 44441	ABRAXANE/
+T935	tradename 44507 44515	ABRAXANE
+T937	dose 44517 44527	125 mg/m2)
+T939	indication 45096 45126	adenocarcinoma of the pancreas
+T941	tradename 45140 45149	ABRAXANE/
+T943	tradename 45460 45469	ABRAXANE/
+T945	tradename 45670 45678	ABRAXANE
+T947	tradename 45717 45725	ABRAXANE
+T949	tradename 45836 45852	ABRAXANE-treated
+T951	tradename 45910 45918	ABRAXANE
+T953	tradename 45995 46004	ABRAXANE/
+T955	tradename 46288 46297	ABRAXANE/
+T957	tradename 46394 46402	ABRAXANE
+T959	tradename 46468 46476	ABRAXANE
+T961	activeingredient 46487 46497	Paclitaxel
+T963	tradename 46646 46657	ABRAXANE. 
+T965	activeingredient 46908 46918	paclitaxel
+T967	tradename 46959 46970	ABRAXANE. 
+T969	tradename 47075 47087	ABRAXANE. 
+T971	tradename 47098 47106	ABRAXANE
+T973	activeingredient 47161 47171	paclitaxel
+T975	corecomposition 47191 47198	albumin
+T977	tradename 47352 47364	ABRAXANE. 
+T979	tradename 47614 47622	ABRAXANE
+T981	activeingredient 47795 47805	paclitaxel
+T983	tradename 47853 47865	ABRAXANE.  
+T985	activeingredient 48112 48122	paclitaxel
+T987	tradename 48204 48215	ABRAXANE. 
+T989	tradename 48312 48320	ABRAXANE
+T991	activeingredient 48581 48591	paclitaxel
+T993	tradename 48633 48641	ABRAXANE
+T995	tradename 48798 48806	ABRAXANE
+T997	activeingredient 48958 48968	paclitaxel
+T999	tradename 49111 49123	ABRAXANE. 
+T1001	tradename 49202 49210	ABRAXANE
+T1003	activeingredient 49421 49431	paclitaxel
+T1005	activeingredient 49510 49520	paclitaxel
+T1007	activeingredient 49717 49727	paclitaxel
+T1009	tradename 49944 49956	ABRAXANE. 
+T1011	activeingredient 50313 50323	paclitaxel
+T1013	tradename 50399 50407	ABRAXANE
+T1015	activeingredient 50458 50468	paclitaxel
+T1017	activeingredient 50673 50683	paclitaxel
+T1019	tradename 50767 50775	ABRAXANE
+T1021	tradename 51265 51277	ABRAXANE. 
+T1023	tradename 51335 51343	ABRAXANE
+T1025	tradename 51669 51680	ABRAXANE. 
+T1027	activeingredient 51698 51708	paclitaxel
+T1029	corecomposition 51723 51736	albumin-bound
+T1031	dose 51811 51818	6 mg/m2
+T1033	dose 52353 52360	3 mg/m2
+T1035	activeingredient 52487 52497	paclitaxel
+T1037	activeingredient 52525 52535	Paclitaxel
+T1039	tradename 52924 52932	ABRAXANE
+T1041	tradename 53058 53066	ABRAXANE
+T1043	indication 53088 53112	metastatic breast cancer
+T1045	tradename 53261 53272	ABRAXANE. 
+T1047	tradename 53329 53337	ABRAXANE
+T1049	indication 53386 53412	non-small cell lung cancer
+T1051	tradename 53856 53864	ABRAXANE
+T1053	tradename 54304 54312	ABRAXANE
+T1055	activeingredient 54533 54543	paclitaxel
+T1057	tradename 54650 54658	ABRAXANE
+T1059	tradename 54748 54756	ABRAXANE
+T1061	indication 54964 55005	metastatic adenocarcinoma of the pancreas
+T1063	tradename 55156 55164	ABRAXANE
+T1065	tradename 55562 55570	ABRAXANE
+T1067	tradename 55734 55743	 ABRAXANE
+T1069	nanoparticle 55771 55805	paclitaxel protein-bound particles
+T1071	corecomposition 55834 55847	albumin-bound
+T1073	nanoparticle 55852 55904	paclitaxel formulated as albumin-bound nanoparticles
+T1075	particlediameter 55948 55963	130 nanometers.
+T1077	activeingredient 55965 55975	Paclitaxel
+T1079	tradename 56039 56047	ABRAXANE
+T1081	inactiveingredient 56148 56163	Sodium Chloride
+T1083	routeofadministration 56188 56199	intravenous
+T1085	activeingredient 56251 56261	paclitaxel
+T1087	corecomposition 56278 56286	albumin)
+T1089	corecomposition 56321 56328	albumin
+T1091	inactiveingredient 56341 56357	sodium caprylate
+T1093	inactiveingredient 56362 56389	sodium acetyltryptophanate)
+T1095	nanoparticle 56455 56504	paclitaxel formulated as albumin-bound particles.
+T1097	tradename 56505 56513	ABRAXANE
+T1099	tradename 56556 56564	ABRAXANE
+T1101	activeingredient 56568 56578	paclitaxel
+T1103	chemoclass 56582 56604	microtubule inhibitor.
+T1105	activeingredient 56628 56638	paclitaxel
+T1107	activeingredient 56642 56643	5
+T1109	activeingredient 56646 56651	20- 1
+T1111	activeingredient 56652 56653	2
+T1113	activeingredient 56656 56657	4
+T1115	activeingredient 56658 56659	7
+T1117	activeingredient 56662 56664	10
+T1119	activeingredient 56667 56700	13 -hexahydroxytax-11-en-9-one 4
+T1121	activeingredient 56701 56742	10-diacetate 2-benzoate 13-ester with (2R
+T1123	activeingredient 56743 56775	3S)-N-benzoyl-3-phenylisoserine.
+T1125	activeingredient 56777 56787	Paclitaxel
+T1127	activeingredient 56827 56837	Paclitaxel
+T1129	activeingredient 56908 56918	C47H51NO14
+T1131	molecularweight 56945 56952	853.91.
+T1133	tradename 57097 57105	ABRAXANE
+T1135	chemoclass 57111 57132	microtubule inhibitor
+T1137	activeingredient 57435 57445	Paclitaxel
+T1139	activeingredient 57643 57653	paclitaxel
+T1141	tradename 57695 57703	ABRAXANE
+T1143	dose 57722 57737	80 to 375 mg/m2
+T1145	activeingredient 57813 57823	paclitaxel
+T1147	tradename 57827 57838	ABRAXANE. 
+T1149	routeofadministration 57848 57859	intravenous
+T1151	tradename 57878 57886	ABRAXANE
+T1153	activeingredient 57888 57898	paclitaxel
+T1155	dose 58146 58161	80 to 300 mg/m2
+T1157	activeingredient 58190 58200	paclitaxel
+T1159	tradename 58205 58213	ABRAXANE
+T1161	routeofadministration 58250 58261	intravenous
+T1163	dose 58307 58316	260 mg/m2
+T1165	tradename 58317 58325	ABRAXANE
+T1167	dose 58405 58414	175 mg/m2
+T1169	activeingredient 58415 58425	paclitaxel
+T1171	tradename 58540 58548	ABRAXANE
+T1173	activeingredient 58558 58568	paclitaxel
+T1175	tradename 58657 58665	ABRAXANE
+T1177	activeingredient 58712 58722	paclitaxel
+T1179	activeingredient 58882 58892	paclitaxel
+T1181	tradename 58933 58941	ABRAXANE
+T1183	activeingredient 58973 58983	paclitaxel
+T1185	activeingredient 59054 59064	paclitaxel
+T1187	tradename 59070 59078	ABRAXANE
+T1189	activeingredient 59107 59117	paclitaxel
+T1191	activeingredient 59218 59228	paclitaxel
+T1193	activeingredient 59396 59407	paclitaxel.
+T1195	volumeofdistribution 59459 59465	1741 L
+T1197	activeingredient 59572 59583	paclitaxel.
+T1199	activeingredient 59673 59683	paclitaxel
+T1201	activeingredient 59860 59870	paclitaxel
+T1203	activeingredient 60345 60355	paclitaxel
+T1205	dose 60570 60585	80 to 300 mg/m2
+T1207	activeingredient 60615 60625	paclitaxel
+T1209	clearance 60638 60653	13 to 30 L/h/m2
+T1211	plasmahalflife 60699 60714	13 to 27 hours.
+T1213	dose 60746 60755	260 mg/m2
+T1215	tradename 60765 60773	ABRAXANE
+T1217	activeingredient 61224 61234	paclitaxel
+T1219	tradename 61245 61253	ABRAXANE
+T1221	activeingredient 61500 61511	paclitaxel.
+T1223	activeingredient 61748 61758	paclitaxel
+T1225	activeingredient 61798 61808	paclitaxel
+T1227	activeingredient 62013 62023	paclitaxel
+T1229	tradename 62327 62335	ABRAXANE
+T1231	indication 62453 62494	metastatic adenocarcinoma of the pancreas
+T1233	activeingredient 62814 62824	paclitaxel
+T1235	tradename 62835 62843	ABRAXANE
+T1237	activeingredient 63053 63063	paclitaxel
+T1239	tradename 63172 63180	ABRAXANE
+T1241	activeingredient 63446 63457	paclitaxel.
+T1243	tradename 63499 63507	ABRAXANE
+T1245	tradename 63594 63602	ABRAXANE
+T1247	indication 63629 63634	NSCLC
+T1249	activeingredient 63682 63692	paclitaxel
+T1251	activeingredient 63909 63920	paclitaxel.
+T1253	tradename 63961 63969	ABRAXANE
+T1255	tradename 64023 64031	ABRAXANE
+T1257	tradename 64200 64208	ABRAXANE
+T1259	activeingredient 64232 64242	Paclitaxel
+T1261	tradename 64356 64364	ABRAXANE
+T1263	activeingredient 64457 64467	paclitaxel
+T1265	corecomposition 64482 64495	albumin-bound
+T1267	dose 64926 64940	3 and 12 mg/m2
+T1269	frequency 64940 64945	/week
+T1271	activeingredient 65154 65164	paclitaxel
+T1273	corecomposition 65179 65192	albumin-bound
+T1275	dose 65262 65270	54 mg/m2
+T1277	dose 65286 65295	175 mg/m2
+T1279	indication 65334 65358	Metastatic Breast Cancer
+T1281	tradename 65530 65538	ABRAXANE
+T1283	indication 65542 65567	metastatic breast cancer.
+T1285	tradename 65615 65623	ABRAXANE
+T1287	dose 65678 65687	175 mg/m2
+T1289	indication 65708 65733	metastatic breast cancer.
+T1291	dose 65771 65780	300 mg/m2
+T1293	indication 65825 65850	metastatic breast cancer.
+T1295	indication 66042 66067	metastatic breast cancer.
+T1297	tradename 66106 66114	ABRAXANE
+T1299	dose 66128 66137	260 mg/m2
+T1301	activeingredient 66172 66182	paclitaxel
+T1303	dose 66196 66205	175 mg/m2
+T1305	tradename 66811 66819	ABRAXANE
+T1307	activeingredient 67040 67050	paclitaxel
+T1309	indication 67233 67257	Metastatic Breast Cancer
+T1311	tradename 67265 67273	ABRAXANE
+T1313	dose 67274 67283	260 mg/m2
+T1315	activeingredient 67285 67295	Paclitaxel
+T1317	dose 67306 67315	175 mg/m2
+T1319	indication 68282 68308	Non-Small Cell Lung Cancer
+T1321	indication 68415 68441	non-small cell lung cancer
+T1323	tradename 68453 68461	ABRAXANE
+T1325	activeingredient 68497 68507	paclitaxel
+T1327	indication 68600 68627	non-small cell lung cancer.
+T1329	tradename 68629 68637	ABRAXANE
+T1331	routeofadministration 68661 68672	intravenous
+T1333	dose 68711 68720	100 mg/m2
+T1335	activeingredient 68766 68776	Paclitaxel
+T1337	routeofadministration 68810 68821	intravenous
+T1339	dose 68857 68866	200 mg/m2
+T1341	routeofadministration 68985 68998	intravenously
+T1343	tradename 69049 69058	ABRAXANE/
+T1345	activeingredient 69058 69068	paclitaxel
+T1347	tradename 69659 69668	ABRAXANE/
+T1349	activeingredient 69775 69785	paclitaxel
+T1351	indication 69990 70016	Non-Small Cell Lung Cancer
+T1353	tradename 70053 70061	ABRAXANE
+T1355	dose 70063 70072	100 mg/m2
+T1357	frequency 70073 70080	weekly)
+T1359	activeingredient 70105 70115	Paclitaxel
+T1361	dose 70127 70136	200 mg/m2
+T1363	frequency 70137 70151	every 3 weeks)
+T1365	indication 70669 70699	Adenocarcinoma of the Pancreas
+T1367	tradename 70800 70808	ABRAXANE
+T1369	indication 70884 70926	metastatic adenocarcinoma of the pancreas.
+T1371	tradename 71564 71573	ABRAXANE/
+T1373	tradename 71854 71863	ABRAXANE/
+T1375	tradename 71884 71892	ABRAXANE
+T1377	dose 71893 71902	125 mg/m2
+T1379	routeofadministration 71909 71920	intravenous
+T1381	dose 71973 71983	1000 mg/m2
+T1383	routeofadministration 71990 72001	intravenous
+T1385	dose 72119 72129	1000 mg/m2
+T1387	routeofadministration 72136 72147	intravenous
+T1389	dose 72247 72257	1000 mg/m2
+T1391	indication 73269 73299	Adenocarcinoma of the Pancreas
+T1393	tradename 73318 73327	ABRAXANE(
+T1395	dose 73327 73337	125 mg/m2)
+T1397	tradename 73958 73966	ABRAXANE
+T1399	activeingredient 75639 75649	paclitaxel
+T1401	tradename 76240 76248	ABRAXANE
+T1403	tradename 76439 76447	ABRAXANE
+T1405	tradename 76574 76582	ABRAXANE
+T1407	tradename 77054 77062	ABRAXANE
+T1409	tradename 77310 77318	ABRAXANE
+T1411	company 77672 77691	Celgene Corporation
+T1413	tradename 77711 77719	ABRAXANE
+T1415	company 77750 77768	Abraxis BioScience
+T1417	company 77770 77774	LLC.
+T1419	company 77787 77805	Abraxis BioScience
+T1421	company 77807 77811	LLC.
+T1423	company 77835 77853	Abraxis BioScience
+T1425	company 77855 77858	LLC
+T1427	company 77891 77911	Celgene Corporation.
+T1429	tradename 78003 78013	 ABRAXANE
+T1431	activeingredient 78031 78041	paclitaxel
+T1433	corecomposition 78094 78107	albumin-bound
+T1435	tradename 78167 78175	ABRAXANE
+T1437	tradename 78328 78347	ABRAXANE? ABRAXANE
+T1439	indication 78502 78528	non-small cell lung cancer
+T1441	tradename 78771 78779	ABRAXANE
+T1443	tradename 78839 78850	ABRAXANE? 
+T1445	tradename 78865 78873	ABRAXANE
+T1447	tradename 78979 78991	ABRAXANE.  
+T1449	tradename 79037 79046	ABRAXANE?
+T1451	tradename 79066 79074	ABRAXANE
+T1453	tradename 79264 79284	ABRAXANE.  ABRAXANE
+T1455	tradename 79420 79428	ABRAXANE
+T1457	tradename 79503 79512	ABRAXANE.
+T1459	tradename 79672 79683	ABRAXANE. 
+T1461	tradename 79743 79751	ABRAXANE
+T1463	tradename 79836 79844	ABRAXANE
+T1465	tradename 80129 80140	ABRAXANE? 
+T1467	tradename 80171 80179	ABRAXANE
+T1469	tradename 80309 80320	ABRAXANE. 
+T1471	tradename 80388 80399	ABRAXANE. 
+T1473	tradename 80436 80444	ABRAXANE
+T1475	tradename 80472 80480	ABRAXANE
+T1477	routeofadministration 80505 80516	intravenous
+T1479	tradename 80603 80615	ABRAXANE.  
+T1481	tradename 80653 80673	ABRAXANE? ABRAXANE
+T1483	tradename 80755 80763	ABRAXANE
+T1485	tradename 81026 81034	ABRAXANE
+T1487	tradename 81209 81217	ABRAXANE
+T1489	tradename 81458 81466	ABRAXANE
+T1491	tradename 81711 81719	ABRAXANE
+T1493	tradename 81790 81798	ABRAXANE
+T1495	tradename 82460 82471	ABRAXANE. 
+T1497	tradename 82692 82703	ABRAXANE. 
+T1499	tradename 82886 82897	ABRAXANE. 
+T1501	tradename 83014 83022	ABRAXANE
+T1503	tradename 83139 83150	ABRAXANE? 
+T1505	activeingredient 83169 83179	paclitaxel
+T1507	corecomposition 83196 83204	albumin)
+T1509	corecomposition 83232 83239	albumin
+T1511	inactiveingredient 83252 83268	sodium caprylate
+T1513	inactiveingredient 83273 83300	sodium acetyltryptophanate)
+T1515	company 83436 83455	Celgene Corporation
+T1517	tradename 83474 83482	ABRAXANE
+T1519	company 83513 83531	Abraxis BioScience
+T1521	company 83533 83537	LLC.
+T1523	company 83550 83568	Abraxis BioScience
+T1525	company 83570 83574	LLC.
+T1527	company 83598 83616	Abraxis BioScience
+T1529	company 83618 83621	LLC
+T1531	company 83654 83674	Celgene Corporation.
