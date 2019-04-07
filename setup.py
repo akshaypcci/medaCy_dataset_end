@@ -49,7 +49,6 @@ setup(
         'Intended Audience :: Science/Research'
     ],
     install_requires=[
-        'medacy>=0.0.4',
     ],
     tests_require=["pytest"],
     cmdclass={"pytest": PyTest},
