@@ -16,7 +16,25 @@ is given to [Engineered Nanomedicine Database](https://www.ncbi.nlm.nih.gov/pmc/
 
 
 ## Provide entity breakdown
-TODO
+| Entity      | Description  |   |
+|-----------------------|---|---|
+| activeingredient       |   |   |
+| adversereaction       |   |   |
+| auc                   |   |   |
+| chemoclass            |   |   |
+| clearance             |   |   |
+| cmax                  |   |   |
+| co-administereddrug   |   |   |
+| company               |   |   |
+| corecomposition       |   |   |
+| dose                  |   |   |
+| duration              |   |   |
+| eliminationhalflife   |   |   |
+| fdaapprovaldate       |   |   |
+| frequency             |   |   |
+| inactiveingredient    |   |   |
+| indication            |   |   |
+| molecularweight       |   |   |
 
 # Data Source
 FDA Drug labels for FDA approved drugs containing nano-particles.
