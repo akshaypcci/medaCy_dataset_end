@@ -15,7 +15,7 @@ is given to [Engineered Nanomedicine Database](https://www.ncbi.nlm.nih.gov/pmc/
 |Engineered Nanomedicine Database (END)| Nano-particle related FDA Drug Labels| 28 Entities | 41 |
 
 
-## Provide entity breakdown
+## Entity Breakdown
 | Entity      | Description  |   |
 |-----------------------|---|---|
 | activeingredient       |   |   |
